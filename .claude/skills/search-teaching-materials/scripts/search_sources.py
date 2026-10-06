@@ -34,8 +34,8 @@ TIMEOUT = 25
 USER_AGENT = "search-teaching-materials/1.0 (academic teaching research)"
 
 CATEGORIES = [
-    "books", "articles", "reports", "websites", "tutorials",
-    "cases", "examples", "software", "data",
+    "books", "articles", "reports", "websites", "blogs", "tutorials",
+    "cases", "examples", "software", "data", "people",
 ]
 
 

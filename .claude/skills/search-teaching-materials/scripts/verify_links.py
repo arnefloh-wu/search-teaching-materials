@@ -2,10 +2,10 @@
 """Check the Link of every curated row and set the Status label accordingly.
 
 Input/output: a JSON list of rows (see references/output-format.md). Rows whose link
-answers 2xx/3xx become "Link geprüft". Publisher pages that block robots (401, 403,
-429) and network failures keep the status the agent assigned (usually
-"in Suchergebnis bestätigt" or "Link ungeprüft"), and the HTTP result is recorded in
-the row's "link_check" field so the instructor can see why.
+answers 2xx/3xx become "Link geprüft"; a 404/410 downgrades a "geprüft" claim to
+"Link ungeprüft". Publisher pages that block robots (401, 403, 429) and network failures
+keep the status the agent assigned, and the HTTP result is recorded in the row's
+"link_check" field so the instructor can see why.
 
 Usage:
     python verify_links.py rows.json            # rewrite in place
@@ -74,7 +74,9 @@ def verify(rows: list[dict], workers: int = 8) -> list[dict]:
                 row["link_check"] = f"{code}"
             else:
                 row["link_check"] = f"{code or ''} {info}".strip()
-                if VERIFIED in (row.get("status") or ""):
+                # Only a definite "gone" answer overrides the agent's own check; robot
+                # blocks (401/403/429) and network failures prove nothing about the link.
+                if code in (404, 410) and VERIFIED in (row.get("status") or ""):
                     row["status"] = set_status(row.get("status"), "Link ungeprüft")
     return rows
 

@@ -1,0 +1,4 @@
+.claude/skills/search-teaching-materials/.env
+__pycache__/
+*.pyc
+.DS_Store
