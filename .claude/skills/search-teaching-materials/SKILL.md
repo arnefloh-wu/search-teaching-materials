@@ -88,9 +88,11 @@ what the blocks covered, any caveats (version constraints of software, licence g
 
 ## Step 3: Collect, verify, download
 
-1. Concatenate the agents' JSON into `topics/<topic>/rows_raw.json`. Drop exact duplicates
-   (same DOI or same normalised title); when two agents found the same item keep the richer
-   note.
+1. `python scripts/combine_rows.py <agent files> -o topics/<topic>/rows_raw.json`
+   concatenates the agents' JSON and drops duplicates (same DOI or normalised title; the
+   richer note wins; method rows are matched on title only, since they cite papers that
+   also appear as articles). Have agents write their rows to files (one per block) rather
+   than return them in their reply.
 2. `python scripts/verify_links.py topics/<topic>/rows_raw.json -o topics/<topic>/rows.json`
    fetches every link and upgrades or downgrades the status label. Publisher sites that
    answer 403 to robots keep the agent's label; the HTTP result lands in `link_check`.
@@ -157,6 +159,7 @@ software entries because the topic warranted it.
 ## Files
 
 - `scripts/search_sources.py`: 20 API connectors, normalised JSON (`--list` shows key status)
+- `scripts/combine_rows.py`: merge agent files, de-duplicate
 - `scripts/verify_links.py`: HTTP check and status relabelling
 - `scripts/fetch_assets.py`: downloads storable open files into `files/`
 - `scripts/merge_rows.py`: merge previous and new rows for update runs
