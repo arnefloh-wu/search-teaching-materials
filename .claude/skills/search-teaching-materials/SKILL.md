@@ -23,6 +23,10 @@ places: a Notion subpage, a Dropbox subfolder and a folder in the GitHub repo
 Ask one question and nothing else: **"Which topic should I research?"** The answer is free
 text (e.g. "Regression", "Conjoint Analysis", "Marketing Mix Modelling"). Use it *as typed*
 for the Notion page title, the Dropbox subfolder and the GitHub folder `topics/<topic>/`.
+Folder names cannot contain `/`: for Dropbox and GitHub replace each `/` with ` & `
+(e.g. "AB-Testing/Experiments in (Digital) Marketing/Retail" becomes the folder
+"AB-Testing & Experiments in (Digital) Marketing & Retail"); the Notion title keeps the
+original.
 If the user adds context (course, session plan, Python vs. R, student level), keep it for
 the "Verwendung im Kurs" column; without it, write course use generically (reading, lab,
 background, guest talk) rather than inventing session numbers.
