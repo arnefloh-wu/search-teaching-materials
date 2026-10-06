@@ -121,8 +121,12 @@ category count table on top.
 **Notion.** Create (or, in update runs, `replace_content` on) the subpage under
 "Literature Search for Teaching" with the title `<topic>` and the content of `notion.md`.
 Use the Notion MCP `create-pages` with `parent: {type: page_id, page_id:
-3f164d53209a816a8aeed82a2da229d7}`. Pages above ~100 rows may need the content split: create
-the page with the intro and the first tables, then `insert_content` at the end for the rest.
+3f164d53209a816a8aeed82a2da229d7}`. Pages above ~100 rows need the content split: create
+the page with the intro and the first table, then `insert_content` at the end, one call per
+section, splitting a long table into two consecutive tables with the same header (keep each
+call under ~20 KB). Do these inserts yourself, in order; a subagent retyping 200 KB of tables
+is slow and was stopped mid-way by a false-positive safety block in the first real run.
+Afterwards fetch the page and compare rows per `### ` heading with the counts in the headings.
 Read `notion://docs/enhanced-markdown-spec` before writing if it is not already in context.
 
 **Dropbox.** Parent folder: `/Literature Search for Teaching` (shared link
