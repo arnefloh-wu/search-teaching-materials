@@ -56,3 +56,7 @@ existing page: carried-over rows are marked `bestehend`, additions `neu`.
 | Topic | Rows | Notion |
 |---|---|---|
 | [Regression](topics/Regression/) | 137 | [Regression](https://app.notion.com/p/3f064d53209a80528a4be0208e665bbd) |
+| [Positron](topics/Positron/) | 123 | [Positron](https://app.notion.com/p/3f064d53209a80358eedd06fd72def1e) |
+| [Python and Packages](topics/Python%20and%20Packages/) | 129 | [Python and Packages](https://app.notion.com/p/3f064d53209a80fc889ac81e26fe3ba9) |
+| [Marketing Mix Modelling](topics/Marketing%20Mix%20Modelling/) | 276 | [Marketing Mix Modelling](https://app.notion.com/p/3e264d53209a8032a53af9b050325895) |
+| [GEO](topics/GEO/) | 22 | [GEO](https://app.notion.com/p/3e964d53209a80439f4eca2127f9cc13) |

@@ -423,7 +423,7 @@
     "category": "articles",
     "title": "Some heteroskedasticity-consistent covariance matrix estimators with improved finite sample properties",
     "author_source": "James G. MacKinnon and Halbert White, Journal of Econometrics 29(3), 305-325, 1985, article",
-    "link": "https://doi.org/10.1016/0304-4076(8590158-7)",
+    "link": "https://doi.org/10.1016/0304-4076(8590158-7",
     "note": "Source of HC1, HC2 and HC3; shows HC3 performs best in small samples. Explains the cov_type=\"HC3\" option in statsmodels and why it is a sensible default for small weekly datasets.",
     "course_use": "Session 2 (background for robust SEs in the lab).",
     "status": "neu; Link geprüft",

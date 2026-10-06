@@ -1,0 +1,222 @@
+[
+  {
+    "category": "books",
+    "title": "Generative Engine Optimization: Sichtbar in KI-Systemen",
+    "author_source": "Benjamin O’Daniel, Fabian Jaeckert, 2026",
+    "link": "https://link.springer.com/book/10.1007/978-3-658-50746-6",
+    "note": "Entwicklung von SEO zu GEO. Gute, kompakte Eintsiegslektüre.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Answer Engine Optimization",
+    "author_source": "Rodrigo Stockebrand (O’Reilly), 2026",
+    "link": "https://books.google.at/books?id=DU34EQAAQBAJ",
+    "note": "Wie LLMs über Quellen entscheiden. Wie LLMs Quellen abrufen, bewerten und zitieren.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "GEO: Generative Engine Optimization",
+    "author_source": "Aggarwal, Murahari, Rajpurohit, Kalyan, Narasimhan, Deshpande (Princeton/IIT Delhi) – KDD 2024, 2024",
+    "link": "https://katalog.wu.ac.at/primo-explore/fulldisplay?docid=TN_cdi_acm_books_10_1145_3637528_3671900&context=PC&vid=WUW&lang=de_DE",
+    "note": "GEO Grundlagen. GEO-Benchmark, zeigt, dass Statistiken, Zitate und Quellenangaben die Sichtbarkeit in generativen Antworten deutlich erhöhen.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Generative Engine Optimization in AI-mediated Retail Supply Chains: Algorithmic Visibility, Fulfillment Constraints, and Platform Governance",
+    "author_source": "Fan, Shi, Zhang (Shanghai University) – Transportation Research Part E 217, 105220, 2026",
+    "link": "https://katalog.wu.ac.at/primo-explore/fulldisplay?docid=TN_cdi_crossref_primary_10_1016_j_tre_2026_105220&context=PC&vid=WUW&lang=de_DE",
+    "note": "GEO, Ökonomie, Supply Chain, Plattform-Governance. Reines Theoriemodell ohne Daten: Hypothesen, wenn zwei Händler online gegeneinander auftreten und in GEO investieren.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "E-GEO: A Testbed for Generative Engine Optimization in E-Commerce",
+    "author_source": "Bagga, Farias, Korkotashvili, Peng, Wu (MIT / Columbia), 2025/2026",
+    "link": "https://katalog.wu.ac.at/primo-explore/fulldisplay?docid=TN_cdi_arxiv_primary_2511_20867&context=PC&vid=WUW&lang=de_DE",
+    "note": "GEO, E-Commerce, Datensatz, Stat. Methodik. Bisher größte Studie zu GEO im Onlinehandel über 5 Engines.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Counter-GEO-Bench: Evaluating Defenses Against Information-Distorting Generative Engine Optimization",
+    "author_source": "Zheng, Zhao, Yang (Tsinghua University / University of Hong Kong), 2026",
+    "link": "https://katalog.wu.ac.at/primo-explore/fulldisplay?docid=TN_cdi_arxiv_primary_2609_02316&context=PC&vid=WUW&lang=de_DE",
+    "note": "GEO, Manipulation/Sicherheit, Desinformation, Governance. Desinformation und Sicherheit, nicht Messung von Markensichtbarkeit. Benchmark zu Schutzmaßnahmen gegen GEO-optimierte Desinformation.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Optimizing Visibility in Generative Engines: A Critical Survey of Generative Engine Optimization",
+    "author_source": "Martinez, Olivier, 2026",
+    "link": "https://katalog.wu.ac.at/primo-explore/fulldisplay?docid=TN_cdi_arxiv_primary_2607_14035&context=PC&vid=WUW&lang=de_DE",
+    "note": "GEO Survey, Messung & KPIs. Betont: Sichtbarkeit ist eine Verteilung; Auffindbarkeit, Zitation, Prominenz, Absorption und Traffic sind getrennte Variablen.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Generative Engine Optimization at Scale: Measuring Brand Visibility Across AI Search Engines",
+    "author_source": "Pratyush Kumar, 2026",
+    "link": "https://katalog.wu.ac.at/primo-explore/fulldisplay?docid=TN_cdi_arxiv_primary_2606_20065&context=PC&vid=WUW&lang=de_DE",
+    "note": "Messung von Nennungsrate, Position und Sentiment. Großskalige Baseline: Markensichtbarkeit ist messbar, unterscheidet sich nach Plattform und stark nach Markenreife.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Position Auctions in AI-Generated Content",
+    "author_source": "Balseiro, Bhawalkar, Deng, Feng, Mao, Mehta, Mirrokni, Paes Leme, Wang, Zuo (Google Research), 2025/2026",
+    "link": "https://arxiv.org/abs/2506.03309",
+    "note": "GEA, Mechanism Design. Zeigt, wie man Anzeigenplätze direkt im KI-Antworttext versteigern kann. Rein theoretisch, keine Daten.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Conversational AI: The Next Frontier of Digital Platform Monetization",
+    "author_source": "Erik Hermann (Europa-Universität Viadrina), Stefano Puntoni (Wharton), David A. Schweidel (Emory); SSRN, Version Oktober 2025, 2025",
+    "link": "https://www.researchgate.net/publication/396748112_Conversational_AI_The_Next_Frontier_of_Digital_Platform_Monetization",
+    "note": "GEA, Monetarisierung, Kennzeichnung, Regulierung/Ethik. Marketing-Sicht auf Werbung in KI-Chats, Ethik-Rahmen und Forschungsagenda. Noch nicht begutachtet.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Goodbye Clicks, Hello AI: Zero-Click Search Redefines Marketing",
+    "author_source": "Natasha Sommerfeld, Megan McCurry, Doug Harrington (Bain), 2025",
+    "link": "https://www.bain.com/insights/goodbye-clicks-hello-ai-zero-click-search-redefines-marketing/",
+    "note": "\"Zero-click\" problem.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "blogs",
+    "title": "Growth Memo",
+    "author_source": "Kevin Indig, 2026",
+    "link": "https://www.growth-memo.com/",
+    "note": "AI search. Blog zum aktuellsten Stand von AI Search, GEO/GEA.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "ChatGPT führt Werbung ein",
+    "author_source": "OpenAI, 2026",
+    "link": "https://openai.com/de-DE/index/testing-ads-in-chatgpt/",
+    "note": "Entwicklung im OpenAI-Angebot: Werbung statt Abo. Kein fertiger Case, da das Thema so neu ist. Kritische Analyse möglich.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "OtterlyAI – österreichisches GEO-Startup",
+    "author_source": "Thomas Peham, 2024–2026",
+    "link": "https://otterly.ai/",
+    "note": "Gründer als Gastspeaker ansprechbar. Bootstrapped vs. VC-finanzierte Konkurrenz (Peec AI, Profound); Kategorie-Bildung in einem neuen Markt.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "From SEO to GEO",
+    "author_source": "Scott Redgate, 2026",
+    "link": "https://youtu.be/wHSVPiq2f_Q",
+    "note": "Entwicklung von SEO zu GEO. Themen leicht erklärt, gut für den Einstieg und um GEO als Gelegenheit statt als Gefahr zu verstehen.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Kommt nach SEA nun GEA? (Search Camp 455)",
+    "author_source": "Markus Hövener, 2026",
+    "link": "https://searchcamp.libsyn.com/kommt-nach-sea-nun-gea-search-camp-455",
+    "note": "GEA. Podcast-Folge; Host auf LinkedIn: https://www.linkedin.com/in/markushoevener/.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Thomas Peham",
+    "author_source": "CEO & Co-Founder OtterlyAI (Österreich)",
+    "link": "https://www.linkedin.com/in/thomaspeham/",
+    "note": "Guest speaker; Österreich. Wöchentliche Posts auf LinkedIn; Gastspeaker-Möglichkeit.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Aleyda Solis",
+    "author_source": "Founder of Orainti; YouTube channel \"Crawling Mondays\" on SEO and AI search optimization",
+    "link": "https://www.aleydasolis.com/",
+    "note": "International SEO / AI search; Global. Communicator; YouTube and newsletter on AI search optimization.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Edward Malthouse",
+    "author_source": "Northwestern University (Medill/Kellogg)",
+    "link": "https://www.linkedin.com/in/edward-malthouse-b448263/",
+    "note": "Marketing-Wissenschaftler; Global. Aktuelles Framework zur Messung von LLM-Markenempfehlungen.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Erik Hermann",
+    "author_source": "Europa-Universität Viadrina",
+    "link": "https://www.linkedin.com/in/erik-hermann-82501a199/",
+    "note": "GEA, Wissenschaft, DACH; Gastspeaker. Forscht zu Werbung in KI-Chats aus Marketing-Sicht. Deutschsprachig, gut als Gastspeaker für GEA.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Seth Trammell",
+    "author_source": "GEO & AI Search Entity Strategy, Technical SEO",
+    "link": "https://www.linkedin.com/in/seth-trammell-b01b4226/",
+    "note": "Director of SEO; Global. LinkedIn-Content zu GEO/GEA & AI.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Kevin Indig",
+    "author_source": "Author of Growth Memo",
+    "link": "https://www.linkedin.com/in/kevinindig/",
+    "note": "Growth Advisor; Global. Blog on how to implement GEO / AI search for high-growth tech brands.",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  }
+]

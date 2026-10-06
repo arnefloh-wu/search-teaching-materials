@@ -1,0 +1,2762 @@
+[
+  {
+    "category": "books",
+    "title": "Handbooks in Operations Research and Management Science, Vol. 5 (Chapter 15)",
+    "author_source": "Elsevier",
+    "link": "https://www.sciencedirect.com/science/chapter/handbook/pii/S0927050705800386?via%3Dihub",
+    "note": "Kapitel 15, historisch-theoretische Grundlage (Interaktionseffekte im Marketing-Mix, normative vs. deskriptive Modelle).",
+    "course_use": "",
+    "status": "relevant, aber als historisch statt aktuell anzunehmen",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Agiles Marketing Performance Management – 10 Erfolgsfaktoren für eine dynamische Optimierung des Marketing-ROI in der Praxis",
+    "author_source": "Sascha Stürze, Markus Hoyer, Claudio Righetti, Matthias Rasztar",
+    "link": "http://katalog.wu.ac.at/primo-explore/fulldisplay?docid=WUW_alma51118020450003337&context=L&vid=WUW&lang=en_US&search_scope=WU-Bibliothekskatalog&adaptor=Local%20Search%20Engine&tab=wuw_alles&query=any,contains,Agiles%20Marketing%20Performance%20Management%20%E2%80%93%2010%20Erfolgsfaktoren%20f%C3%BCr%20eine%20dynamische%20Optimierung%20des%20Marketing-ROI%20in%20der%20Praxis&offset=0",
+    "note": "Kapitel 5 & 6, praxisorientiert und kompakt",
+    "course_use": "",
+    "status": "relevant",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "MARKETING ANALYTICS AND DATA SCIENCE Tools and Models",
+    "author_source": "Xiaojing Dong",
+    "link": "https://link.springer.com/book/10.1007/978-3-032-11130-2",
+    "note": "Kernlehrbuch, Kapitel 4 (MMM) und Kapitel 9 (Attribution)",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Software review, Which part of my marketing spends really works? — Marketing mix modelling may have an answer",
+    "author_source": "Shaun Doyle (Springer)",
+    "link": "https://link.springer.com/content/pdf/10.1057/palgrave.dbm.3240236.pdf",
+    "note": "sehr praxisnah statt rein aklademisch",
+    "course_use": "",
+    "status": "relevant, aber als historisch statt aktuell anzunehmen",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Marketing Mix Modeling (MMM) - Concepts and Model Interpretation",
+    "author_source": "Pandey, Gupta, Chhajed",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3877291",
+    "note": "",
+    "course_use": "",
+    "status": "hoch relevant & aktuell",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Brand management and the marketing mix model",
+    "author_source": "Peter M. Cain",
+    "link": "https://link.springer.com/article/10.1057/jma.2014.4",
+    "note": "Schwächen von MMM & Praxisanwendung",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "From Multi-Touch Attribution to Marketing Mix Modeling: Leveraging Multi-Information Fusion for Advanced Advertising Analytics",
+    "author_source": "Zhou, Pei, Li",
+    "link": "https://www.researchgate.net/publication/391474746_From_Multi-Touch_Attribution_to_Marketing_Mix_Modeling_Leveraging_Multi-Information_Fusion_for_Advanced_Advertising_Analytics",
+    "note": "Peer-reviewed, MMM & Attribute Modelling,basiert auf echten anonymisierten Firmendaten. Praxisbeispiel",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Marketing Mix Modelling and Big Data",
+    "author_source": "Peter M. Cain",
+    "link": "https://www.market.science/wp-content/uploads/Marketing-mix-modelling-and-Big-Data.pdf",
+    "note": "",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Marketing Mix Modelling: A CMO's Handbook",
+    "author_source": "Think with Google (2023)",
+    "link": "https://www.thinkwithgoogle.com/intl/en-emea/marketing-strategies/data-and-measurement/marketing-measurement-handbook/",
+    "note": "guter Überblick von Google, nicht zu technisch geschrieben, gut zum Reinlesen",
+    "course_use": "",
+    "status": "relevant",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "The Effectiveness Equation",
+    "author_source": "Nielsen / Ipsos MMA (im Auftrag von Google)",
+    "link": "https://ppc.land/content/files/2025/03/google_report_the_effectiveness_equation.pdf",
+    "note": "zeigt an echten Marken (TV, YouTube, Social), wie die Werbewirkung über die Zeit verläuft",
+    "course_use": "",
+    "status": "relevant",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Marketing Mix Madness: Challenges & Realities of MMM, with Henry Innis",
+    "author_source": "Measure Up (Podcast)",
+    "link": "https://open.spotify.com/episode/1B6GjEA6tGMe7QIY43y2KO",
+    "note": "Podcast based in the USA and looking at differences in MMM - USA vs. Australia",
+    "course_use": "",
+    "status": "mittel, auf USA & Australien bezogen",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "The MMM Zeitgeist with Elea Feit & Karen Chisholm",
+    "author_source": "Measure Up (Podcast)",
+    "link": "https://open.spotify.com/episode/3sDAvoXZ5dIgtHtTAhTbF4",
+    "note": "\"What's in store for MMM in the next 3 years\"",
+    "course_use": "",
+    "status": "aktuell",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Reshaping marketing mix modeling in the AI age",
+    "author_source": "Emarketer (Christopher Wood)",
+    "link": "https://www.emarketer.com/content/reshaping-marketing-mix-modeling-ai-age",
+    "note": "MMM und AI",
+    "course_use": "",
+    "status": "aktuell",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "What is MMM (Marketing Mix Modelling)?",
+    "author_source": "Alaytics Playbook",
+    "link": "https://www.linkedin.com/pulse/what-mmm-marketing-mix-modelling-tugrul-ates-p4kee/?trackingId=uEW524FAQX6oC66jGDv0xg%3D%3D",
+    "note": "\"Turning data into decisions\"",
+    "course_use": "",
+    "status": "manuell; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Opening the black box: the science behind Marketing Mix Modelling",
+    "author_source": "Olga Zaitseva",
+    "link": "https://www.wppmedia.com/news/Opening",
+    "note": "nützlich als Gegenstück zu den akademischeren Quellen, weil er drei verbreitete Missverständnisse explizit adressiert (MMM ignoriere Nicht-Media-Faktoren / nehme lineare Zusammenhänge an / überschätze den Marketinganteil)",
+    "course_use": "",
+    "status": "aktuell und praxisnah",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "What is marketing mix modeling? MMM explained in less than 10 minutes",
+    "author_source": "Funnel (Youtube)",
+    "link": "https://youtu.be/LIQbP8Gv6cQ?si=b307SqpsipT4sByG",
+    "note": "",
+    "course_use": "",
+    "status": "nicht akademisch aber aktuell",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Wharton School's Ryan Dew: Why your marketing mix model (MMM) is broken | Coffee Breaks",
+    "author_source": "Recast (Youtube)",
+    "link": "https://youtu.be/W6A0ukpkpNQ?si=a838NUqehsCaXPj2",
+    "note": "Ryan Dew ist dafür bekannt, fortschrittliche Methoden des maschinellen Lernens und der Bayes’schen Statistik zur Lösung von Problemen im Bereich des Marketing-Mix und der Attribution einzusetzen.",
+    "course_use": "",
+    "status": "nicht akademisch aber aktuell",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Robyn MMM Choosing an Initial Model",
+    "author_source": "Karl Nadherny (Youtube)",
+    "link": "https://www.youtube.com/watch?v=Egl8baySmJQ",
+    "note": "",
+    "course_use": "",
+    "status": "nicht akademisch aber aktuell",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Marketing Mix Modeling of Traffic to the Store Under the Covid-19 Crisis",
+    "author_source": "Chornous, Fareniuk",
+    "link": "https://www.researchgate.net/publication/368237281_Marketing_Mix_Modeling_of_Traffic_to_the_Store_Under_the_Covid-19_Crisis",
+    "note": "Echte anonymisierte Firmendaten, konkrete & diskutierbare Zahlen, Diskussionsfragen müssen noch erstellt werden.",
+    "course_use": "",
+    "status": "relevant, aber als historisch statt aktuell anzunehmen",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "How brands use MMM to find and fuel their growth engine: YouTube and Search drive ROI",
+    "author_source": "Think with Google",
+    "link": "https://business.google.com/uk/think/measurement/marketing-mix-modelling-growth-engine/",
+    "note": "kurz & knapp, 2 Unternehmen in Asien (Taiwan & Südkorea), 2 unterschiedliche Branchen",
+    "course_use": "",
+    "status": "relevant, ohne Diskussionsfragen",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "The Next Generation Of The Marketing Mix Model",
+    "author_source": "MediaPost (03/07/2025)",
+    "link": "https://www.mediapost.com/publications/article/403987/the-next-generation-of-the-marketing-mix-model.html?edition=137715",
+    "note": "Startup Arima (Team von Ex-Dentsu/Kantar/Nielsen) macht MMM für KMU zugänglich, nicht nur für Großkonzerne - passt gut zu unserem KMU-Fokus",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Recast Blog – Fallbeispiele & Methodik-Posts",
+    "author_source": "Recast (Blog)",
+    "link": "https://getrecast.com/category/mmm/",
+    "note": "Mehrere Praxisartikel zu Datenqualität, Multikollinearität, Backtests – teils mit anonymisierten Kundendaten.",
+    "course_use": "",
+    "status": "relevant",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "DeepCausalMMM: A Deep Learning Framework for Marketing Mix Modeling with Causal Structure Learning",
+    "author_source": "Aditya Puttaparthi Tirumala",
+    "link": "https://www.researchgate.net/publication/404193561_DeepCausalMMM_A_Deep_Learning_Framework_for_Marketing_Mix_Modeling_with_Causal_Structure_Learning",
+    "note": "Software Vergleich: neues Open-Source-Python-Paket",
+    "course_use": "",
+    "status": "Software-relevant",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Open-Source Media and Marketing Mix Modeling: Practice-Oriented Overview, Challenges, Opportunities",
+    "author_source": "Julian Runge, Koen Pauwels (Springer)",
+    "link": "https://link.springer.com/article/10.1007/s40547-026-00161-4",
+    "note": "Tabelle 1 & 2 als aktuellster Vergleich von drei Paketen (Robyn, Google Meridian, PyMC-Marketing-mmm)",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "LightweightMMM",
+    "author_source": "Google (Open Source, Python)",
+    "link": "https://github.com/google/lightweight_mmm",
+    "note": "bayesianisches MMM-Paket von Google, etwas leichtgewichtiger/einfacher als Robyn",
+    "course_use": "",
+    "status": "relevant",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "PyMC-Marketing (inkl. MMM-Modul)",
+    "author_source": "PyMC Labs (Open Source, Python)",
+    "link": "https://github.com/pymc-labs/pymc-marketing",
+    "note": "bayesianischer Marketing-Toolkasten, macht neben MMM auch Customer Lifetime Value",
+    "course_use": "",
+    "status": "relevant",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Robyn",
+    "author_source": "",
+    "link": "https://github.com/facebookexperimental/Robyn",
+    "note": "Meistgenutztes Open-Source-MMM-Paket; nutzt Ridge Regression + evolutionäre Algorithmen zur Hyperparameter-Optimierung.",
+    "course_use": "",
+    "status": "relevant",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Adstock-Modellierung (Carry-over-Effekte)",
+    "author_source": "Opening the black box: the science behind Marketing Mix Modelling - Olga Zaitseva",
+    "link": "https://www.wppmedia.com/news/Opening",
+    "note": "Bildet ab, dass Werbewirkung über die Zeit nachwirkt und langsam abklingt.",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Diminishing Returns / Sättigungskurven (Hill-Funktion)",
+    "author_source": "Robyn-Doku (Meta Marketing Science)",
+    "link": "https://github.com/facebookexperimental/Robyn",
+    "note": "Nicht-lineare Beziehung zwischen Spend und Wirkung je Kanal (doppelter Spend ≠ doppelte Wirkung).",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Ridge Regression",
+    "author_source": "Robyn-Doku (Meta Marketing Science)",
+    "link": "https://github.com/facebookexperimental/Robyn",
+    "note": "Regularisierte Regression zur Handhabung von Multikollinearität zwischen Mediakanälen.",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Hierarchical Bayes & attributbasierte Modelle",
+    "author_source": "Cain, P. M. - \"Marketing Mix Modelling and Big Data\"",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3877291",
+    "note": "Löst Dimensionalitätsproblem bei granularen Daten durch Pooling über Produkte/Regionen.",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Discrete-Choice-/Attraction-Modelle + Kalman-Filter",
+    "author_source": "Cain, P. M. (2014) - \"Brand management and the marketing mix model\", Journal of Marketing Analytics",
+    "link": "https://doi.org/10.1057/jma.2014.4",
+    "note": "Modelliert Marktanteile im Wettbewerbskontext mit zeitvariablen (dynamischen) Koeffizienten.",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Klassische ökonometrische Modelle (OLS, Interaktionseffekte)",
+    "author_source": "Gatignon, H. (1993) - \"Marketing-Mix Models\", Handbooks in OR & MS Vol. 5",
+    "link": "https://www.sciencedirect.com/science/chapter/handbook/pii/S0927050705800386?via%3Dihub",
+    "note": "Historische Grundlage: Interaktionen zwischen Marketing-Mix-Variablen (Preis, Werbung etc.).",
+    "course_use": "",
+    "status": "sehr relevant",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Out-of-Sample-Validierung / Backtesting",
+    "author_source": "Recast - MMM Academy Blog",
+    "link": "https://getrecast.com/mmm-academy/",
+    "note": "Zurückhalten eines Datenteils zur Prüfung der Prognosegüte statt nur In-Sample-R².",
+    "course_use": "",
+    "status": "vielversprechend",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Prof. Dominique M. Hanssens (UCLA)",
+    "author_source": "UCLA",
+    "link": "https://www.anderson.ucla.edu/faculty-and-research/marketing/faculty/hanssens",
+    "note": "Strong papers on marketing strategies, as well as impressive experience/ background",
+    "course_use": "",
+    "status": "\"historisch\" reklevant",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Recast",
+    "author_source": "Michael Kaminsky",
+    "link": "https://www.linkedin.com/company/recastlabs/home/",
+    "note": "USA",
+    "course_use": "",
+    "status": "aktiv",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Michael Kaminsky",
+    "author_source": "Recast",
+    "link": "https://www.linkedin.com/in/michael-the-data-guy-kaminsky/",
+    "note": "USA, aktuell & neueste Trends",
+    "course_use": "",
+    "status": "aktiv",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Julian Runge",
+    "author_source": "https://link.springer.com/article/10.1007/s40547-026-00161-4",
+    "link": "https://www.linkedin.com/in/julian-runge/",
+    "note": "Author : Open-Source Media and Marketing Mix Modeling: Practice-Oriented Overview, Challenges, Opportunities",
+    "course_use": "",
+    "status": "akademisch",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Koen Pauwels",
+    "author_source": "https://link.springer.com/article/10.1007/s40547-026-00161-4",
+    "link": "https://www.linkedin.com/in/prof-dr-koen-pauwels-0789713/",
+    "note": "Author : Open-Source Media and Marketing Mix Modeling: Practice-Oriented Overview, Challenges, Opportunities",
+    "course_use": "",
+    "status": "akademisch",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Market Response Models: Econometric and Time Series Analysis",
+    "author_source": "Dominique M. Hanssens, Leonard J. Parsons, Randall L. Schultz, 2001, 2nd edition, Kluwer/Springer (International Series in Quantitative Marketing 12), book",
+    "link": "https://books.google.com/books/about/Market_Response_Models.html?id=xZyJamKdpIsC",
+    "note": "Still the reference text for aggregate response modelling: sales response functions, lag structures (Koyck and adstock), elasticities, time-series methods (persistence, VAR) and how response models feed allocation decisions. Dense but exact; most Google and Meta MMM papers cite it.",
+    "course_use": "Session 1 reading (chapters on response model specification and lag structures) and session 3 (decision models and allocation). Paywalled; library copy or e-book, roughly EUR 150 to 200 new.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Modeling Markets: Analyzing Marketing Phenomena and Improving Marketing Decision Making",
+    "author_source": "Peter S. H. Leeflang, Jaap E. Wieringa, Tammo H. A. Bijmolt, Koen H. Pauwels, 2015, Springer (International Series in Quantitative Marketing), book, DOI 10.1007/978-1-4939-2086-0 (verified via chapter link)",
+    "link": "https://link.springer.com/book/10.1007/978-1-4939-2086-0",
+    "note": "The most teachable modern textbook on marketing models: specification, estimation, validation and use, with a full chapter of worked aggregate-demand models (chapter 7, \"Examples of models for aggregate demand\"). European authors, European examples.",
+    "course_use": "Session 1 core reading (chapters on model building and aggregate demand), session 4 for validation chapters. WU library likely has Springer access; otherwise paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Advanced Methods for Modeling Markets",
+    "author_source": "Peter S. H. Leeflang, Jaap E. Wieringa, Tammo H. A. Bijmolt, Koen H. Pauwels (eds), 2017, Springer, edited book, DOI 10.1007/978-3-319-53469-5 (verified)",
+    "link": "https://link.springer.com/book/10.1007/978-3-319-53469-5",
+    "note": "Companion volume with chapters on Bayesian analysis, time-series models, endogeneity, structural models and mixture models, each written by specialists. The Bayesian and endogeneity chapters are the academic bridge to Meridian and PyMC-Marketing.",
+    "course_use": "Background for session 2 (Bayesian chapter) and session 4 (endogeneity, time series). Paywalled; Springer access needed.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Python for Marketing Research and Analytics",
+    "author_source": "Jason S. Schwarz, Chris Chapman, Elea McDonnell Feit, 2020, Springer, textbook with code, DOI 10.1007/978-3-030-49720-0 (verified); code at https://github.com/python-marketing-research/python-marketing-research-1ed (verified)",
+    "link": "https://link.springer.com/book/10.1007/978-3-030-49720-0",
+    "note": "The only mainstream marketing analytics textbook written in Python (pandas, statsmodels, scikit-learn), by two Google researchers and a Penn professor. Covers data handling, linear models, model interpretation and segmentation with marketing data; no MMM chapter, but it sets the coding baseline. The R twin is Chapman and Feit, R for Marketing Research and Analytics, 2nd ed., 2019, Springer, with free slides and exercises at https://r-marketing.r-forge.r-project.org/ (verified).",
+    "course_use": "Pre-course or session 1 lab warm-up (chapters on data wrangling and linear models). Paywalled book; GitHub notebooks are free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Forecasting: Principles and Practice (3rd edition)",
+    "author_source": "Rob J. Hyndman, George Athanasopoulos, 2021, OTexts, open textbook (R; a Python edition is in progress at https://otexts.com/fpppy/ (unverified, site blocked here))",
+    "link": "https://otexts.com/fpp3/",
+    "note": "Free, rigorous and readable; the standard text for the forecasting half of the course (decomposition, ETS, ARIMA, regression with ARIMA errors, hierarchical and grouped forecasting across countries and products).",
+    "course_use": "Session 4 reading (chapters on time series regression, ARIMA and hierarchical forecasting). Free.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Bayesian Modeling and Computation in Python",
+    "author_source": "Osvaldo A. Martin, Ravin Kumar, Junpeng Lao, 2021, Chapman and Hall/CRC, textbook, free online",
+    "link": "https://bayesiancomputationbook.com",
+    "note": "Written by PyMC and ArviZ core developers; covers priors, MCMC diagnostics, hierarchical models and time series in exactly the stack PyMC-Marketing uses. The practical companion for anyone fitting a Bayesian MMM.",
+    "course_use": "Session 2 background (chapters on Bayesian inference, hierarchical models, model comparison). Free online; print edition paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "The Effect: An Introduction to Research Design and Causality",
+    "author_source": "Nick Huntington-Klein, 2022, Chapman and Hall/CRC, textbook, free online with R, Stata and Python code",
+    "link": "https://theeffectbook.net",
+    "note": "The friendliest serious causal-inference text; the chapters on difference-in-differences, synthetic control and event studies are exactly the toolkit behind geo experiments, GeoLift and CausalImpact.",
+    "course_use": "Session 4 reading (difference-in-differences, synthetic control chapters) before the experiment lab. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Causal Inference for the Brave and True",
+    "author_source": "Matheus Facure, 2022 onward, open online book in Python (the author's O'Reilly book Causal Inference in Python, 2023, is the paid version (unverified))",
+    "link": "https://matheusfacure.github.io/python-causality-handbook/",
+    "note": "Python-first, notebook-based treatment of potential outcomes, regression, DiD, synthetic control and uplift, written by a practitioner; students can run every chapter.",
+    "course_use": "Session 4 lab companion (synthetic control and DiD chapters). Free.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Causal Inference: The Mixtape",
+    "author_source": "Scott Cunningham, 2021, Yale University Press, textbook, free online with R, Stata and Python code",
+    "link": "https://mixtape.scunning.com/",
+    "note": "Clear, example-driven treatment of DAGs, matching, DiD and synthetic control; the DAG chapter is the best short preparation for Meridian's causal-graph framing of MMM.",
+    "course_use": "Background for session 4; assign the DAG and synthetic control chapters. Free online.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Effective Advertising: Understanding When, How, and Why Advertising Works",
+    "author_source": "Gerard J. Tellis, 2004, Sage, book",
+    "link": "https://sk.sagepub.com/book/mono/effective-advertising/toc",
+    "note": "Synthesises decades of econometric and experimental evidence on advertising response: elasticities, carryover, wear-in and wear-out, and the comparison of field experiments with econometric estimates. The qualitative counterpart to the elasticity meta-analyses.",
+    "course_use": "Session 1 background (chapters on advertising carryover and market-level effects). Paywalled; a scanned copy is on the Internet Archive lending library.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Empirical Generalizations about Marketing Impact (2nd edition)",
+    "author_source": "Dominique M. Hanssens (ed.), 2015, Marketing Science Institute (Relevant Knowledge Series), book",
+    "link": "https://www.msi.org/events/empirical-generalizations-about-marketing-impact/",
+    "note": "About 120 one-page empirical generalisations (advertising elasticity, price elasticity, carryover, long-term effects, cross-country patterns), each with references. Ideal for setting Bayesian priors and for sanity-checking student MMM output.",
+    "course_use": "Session 2 (prior elicitation exercise) and session 3. Paid MSI publication (about USD 40 as e-book); short extracts are quotable.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "books",
+    "title": "Principles of Marketing Engineering and Analytics (3rd edition)",
+    "author_source": "Gary L. Lilien, Arvind Rangaswamy, Arnaud De Bruyn, 2017, DecisionPro, textbook with Excel tools (unverified)",
+    "link": "https://www.decisionpro.biz",
+    "note": "The classic \"marketing engineering\" treatment of response functions and resource allocation (ADBUDG-style curves, allocation across segments and regions) with managerial cases; useful to show the pre-Bayesian logic of budget optimisation.",
+    "course_use": "Background for session 3. Paywalled, with a student software licence.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Marketing Mix Modeling Best Practices (Nielsen with Google and Meta)",
+    "author_source": "Nielsen, Google and Meta, 2022, report (PDF, about 20 pages)",
+    "link": "https://www.nielsen.com/wp-content/uploads/sites/2/2022/09/Marketing-Mix-Modeling-Best-Practices-EN.pdf",
+    "note": "The most-cited vendor-neutral checklist for model specification: model at the most granular geography available, include non-marketing drivers (a media-only MMM overstated ad ROI by 68 per cent in Nielsen's comparison), handle digital granularity and reach. Companion Nielsen note analyses 19 Japanese models to show regional beats national data.",
+    "course_use": "Session 2 (data and model specification) required reading; pairs with the geo-hierarchy lab. Free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Modernizing MMM: Best Practices for Marketers (IAB)",
+    "author_source": "IAB (US) with MMM vendors, December 2025, report (PDF)",
+    "link": "https://www.iab.com/guidelines/modernizing-mmm-best-practices-for-marketers/",
+    "note": "Newest vendor-neutral industry guide; frames \"timely, auditable, decision-ready\" MMM, covers calibration with experiments, cadence, governance and includes cross-industry case studies.",
+    "course_use": "Session 1 (measurement landscape) and Session 5 (from model to decision); free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Modern Measurement Playbook (Google)",
+    "author_source": "Google / Think with Google, 2023 (updated 2024), report (PDF, 44 pages)",
+    "link": "https://www.thinkwithgoogle.com/_qs/documents/18393/For_pub_on_TwG___External_Playbook_Modern_Measurement.pdfhttps://www.thinkwithgoogle.com/_qs/documents/18393/For_pub_on_TwG___External_Playbook_Modern_Measurement.pdfhttps://www.thinkwithgoogle.com/_qs/documents/18393/For_pub_on_TwG___External_Playbook_Modern_Measurement.pdf",
+    "note": "Sets out the \"measurement tripod\" (attribution, incrementality experiments, MMM) and how to triangulate them; concise and well illustrated, so it works as a framing text for the whole course.",
+    "course_use": "Session 1 pre-reading; Session 5 for the triangulation discussion. Free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "The MMM Handbook: A Guide for Developing Impactful Marketing Mix Models (Google)",
+    "author_source": "Google (Think with Google, EMEA), 2023, report (PDF, \"a CMO's handbook\")",
+    "link": "https://www.thinkwithgoogle.com/_qs/documents/18104/Marketing_Mix_Modelling_-_A_CMOs_handbook.pdfhttps://www.thinkwithgoogle.com/_qs/documents/18104/Marketing_Mix_Modelling_-_A_CMOs_handbook.pdfhttps://www.thinkwithgoogle.com/_qs/documents/18104/Marketing_Mix_Modelling_-_A_CMOs_handbook.pdf",
+    "note": "Short management-level guide: start with the right business questions, pick KPIs, capture all drivers, validate, act. Good contrast to the technical Nielsen document.",
+    "course_use": "Session 1 or background; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Meridian Playbook (Google)",
+    "author_source": "Google, 2025, report (PDF)",
+    "link": "https://www.thinkwithgoogle.com/_qs/documents/18498/Meridian_Playbook_1s4EUSU.pdf",
+    "note": "Step-by-step guidance on running Google's open-source Bayesian MMM (data requirements, geo-level set-up, priors from experiments, budget optimiser). Directly transferable to a Python lab.",
+    "course_use": "Session 3 (Bayesian MMM lab) or Session 4 (budget allocation); free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "ROI Genome (Analytic Partners)",
+    "author_source": "Analytic Partners, ongoing series 2020 to 2025, reports and briefs",
+    "link": "https://analyticpartners.com/roi-genome/report-marketing-through-crisis-and-beyond/",
+    "note": "Meta-analysis across 1,000+ brands and 50 countries of MMM results: brand versus performance messaging, recession spend, CTV, scenario planning (25 to 70 per cent ROI gains). Rare cross-country benchmark material.",
+    "course_use": "Session 4 (cross-country budget allocation) as discussion input; Session 5. Free summaries, full reports gated behind registration.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Marketing Mix Modelling: A How-To Guide for Marketers (WARC and Magic Numbers)",
+    "author_source": "Dr Grace Kite (Magic Numbers) with WARC, 2023, report (PDF, five chapters)",
+    "link": "https://magicworks.training/wp-content/uploads/2024/04/Marketing-Mix-Modelling-A-How-To-Guide-for-Marketers-FINAL.pdf",
+    "note": "Practical and candid on choosing suppliers, embedding MMM in an organisation, reading results and common failure modes; includes UK case studies. Written by an econometrician who runs models for a living.",
+    "course_use": "Session 5 (using MMM in management) reading; free mirror, WARC version paywalled.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Profit Ability 2: The New Business Case for Advertising (Ebiquity and Thinkbox)",
+    "author_source": "Ebiquity for Thinkbox with Gain Theory, EssenceMediacom, Mindshare and Wavemaker, May 2024, report (PDF)",
+    "link": "https://ebiquity.com/news-insights/press/profit-ability-2-the-new-business-case-for-advertising/",
+    "note": "Pooled MMM across GBP 1.8bn of UK media, 141 brands and 10 channels; shows short-term versus sustained profit ROI by channel (TV 5.61, online video 3.86, generic PPC 3.52) and that about 60 per cent of effect lands after 13 weeks. A clean example of what adstock and long-term effects mean commercially.",
+    "course_use": "Session 2 (adstock and carry-over) and Session 4; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Paid Media Effectiveness Handbook (WFA and Ebiquity)",
+    "author_source": "World Federation of Advertisers with Ebiquity, 2026, report",
+    "link": "https://wfanet.org/leadership/marketing/media-effectiveness",
+    "note": "Based on research with advertisers controlling about USD 40bn of paid media; explains how MMM, attribution, experiments and brand metrics fit together and reports that 80 per cent use MMM but only 13 per cent turn data into insight quickly. The EMEA vendor benchmark is useful for a European vendor-selection discussion.",
+    "course_use": "Session 5 and background; WFA members only (summary articles free).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Magic Quadrant for Marketing Mix Modeling Solutions (Gartner)",
+    "author_source": "Gartner, November 2024 (first edition) and 2025 edition, analyst report; preceded by the Market Guide for MMM Solutions (April 2024)",
+    "link": "https://www.gartner.com/en/marketing/topics/marketing-mix-modeling",
+    "note": "The reference map of the commercial MMM vendor landscape (Leaders: Analytic Partners, Ipsos MMA, Ekimetrics, Nielsen and others) with Gartner's 2024 survey finding that 64 per cent of senior marketing leaders have adopted MMM. Useful to show students what \"commercial tool\" means versus open source.",
+    "course_use": "Session 1 or 5, short discussion; paywalled, use vendor reprints.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "The Forrester Wave: Marketing Measurement and Optimization",
+    "author_source": "Forrester, Q3 2023 (solutions) and Q1 2026 (services), analyst reports",
+    "link": "https://cdn.prod.website-files.com/66e2d4967d2fc7095ce820ef/66fd6a0e18d00d2ed1d06c79_The-Forrester-Wave_Marketing-Measurement-And-Optimization_Q3-2023.pdf",
+    "note": "Nine providers scored on 38 criteria including global capabilities, unified measurement and model operations; complements Gartner.",
+    "course_use": "Background for vendor comparison; reprints free, original paywalled.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Six Steps to More Effective Marketing Measurement (BCG)",
+    "author_source": "Boston Consulting Group, 2025, article/report",
+    "link": "https://www.bcg.com/publications/2025/six-steps-to-more-effective-marketing-measurement",
+    "note": "Consultancy view with survey data: 39 per cent of leading marketers run MMM monthly, 40 per cent calibrate with incrementality tests, growing use of brand metrics in MMM. Good for the \"MMM as a management system\" angle.",
+    "course_use": "Session 5 reading; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "MMM adoption study (Kantar and Meta)",
+    "author_source": "Kantar with Meta, 2025, report (PDF)",
+    "link": "https://s3.amazonaws.com/media.mediapost.com/uploads/Kantar___META_Thought_Leadership.pdf",
+    "note": "Global survey of 1,935 measurement professionals at companies spending over USD 1m a year on digital; adoption dynamics, barriers and what \"good\" looks like. Kantar's own MMM pages add the long-term brand-effect angle.",
+    "course_use": "Session 1 background; free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "Market Mix Modelling Landscape Report 2025 (IAB Australia)",
+    "author_source": "IAB Australia Ad Effectiveness Council, September 2025 (updated December 2025), report",
+    "link": "https://www.iabaustralia.com.au/resource/market-mix-modelling-landscape-report-2025/",
+    "note": "Directory of twelve MMM vendors (classical econometrics to Bayesian and ML), a marketer's checklist and plain-language method comparison; a handy template for a vendor-evaluation exercise.",
+    "course_use": "Session 5 exercise (evaluate a vendor pitch); free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "reports",
+    "title": "The Essential Guide to Marketing Mix Modeling and Multi-Touch Attribution (IAB and MMA Global)",
+    "author_source": "IAB with MMA Global, November 2019, guidebook (PDF)",
+    "link": "https://www.iab.com/wp-content/uploads/2019/11/IAB_MMA_MTA-Guidebook_Nov-2019.pdf",
+    "note": "Older but still the clearest side-by-side of MMM and MTA (data, granularity, use cases, limitations). Meta's own note \"Considerations for creating modern marketing mix models\" (https://www.facebook.com/business/news/insights/considerations-for-creating-modern-marketing-mix-models) is a short complement.",
+    "course_use": "Session 5 (attribution versus MMM); free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Aggregate Advertising Models: The State of the Art",
+    "author_source": "John D. C. Little, 1979, Operations Research 27(4), 629 to 667, article",
+    "link": "https://doi.org/10.1287/opre.27.4.629",
+    "note": "The founding statement of what an advertising response model must capture: carryover, diminishing returns, competition, interaction and dynamics. Every adstock-plus-Hill MMM is a descendant.",
+    "course_use": "Session 1 required reading (sections 1 to 4). Paywalled (INFORMS).",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Econometric Measurement of the Duration of Advertising Effect on Sales",
+    "author_source": "Darral G. Clarke, 1976, Journal of Marketing Research 13(4), 345 to 357, article",
+    "link": "https://doi.org/10.2307/3151017",
+    "note": "Shows that implied carryover depends heavily on the data interval (the data-interval bias), which is still the main reason weekly MMMs and annual studies disagree on decay rates.",
+    "course_use": "Session 1 or 2 reading when introducing adstock decay. Paywalled (Sage/JSTOR).",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "The Persistence of Marketing Effects on Sales",
+    "author_source": "Marnik G. Dekimpe, Dominique M. Hanssens, 1995, Marketing Science 14(1), 1 to 21, article",
+    "link": "https://doi.org/10.1287/mksc.14.1.1",
+    "note": "Introduces persistence modelling (unit roots, VAR, impulse responses) to separate short-run from long-run marketing effects; the methodological root of \"long-term effects\" claims in MMM.",
+    "course_use": "Session 1 background; session 4 for time-series thinking. Paywalled.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "How Well Does Advertising Work? Generalizations from Meta-Analysis of Brand Advertising Elasticities",
+    "author_source": "Raj Sethuraman, Gerard J. Tellis, Richard A. Briesch, 2011, Journal of Marketing Research 48(3), 457 to 471, article",
+    "link": "https://doi.org/10.1509/jmkr.48.3.457",
+    "note": "Mean short-term advertising elasticity 0.12, long-term 0.24, with moderators (durables, life-cycle stage, data interval, GRPs versus money, Europe versus US). The best single source of priors for a Bayesian MMM.",
+    "course_use": "Session 2 required reading (use the moderator table to set priors). Paywalled, open PDF available.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "A Meta-Analysis of Marketing Communication Carryover Effects",
+    "author_source": "Christine Köhler, Murali K. Mantrala, Sönke Albers, Vamsi K. Kanuri, 2017, Journal of Marketing Research 54(6), article",
+    "link": "https://doi.org/10.1509/jmr.13.0580",
+    "note": "Meta-analysis of carryover (decay) estimates across media and countries; gives defensible ranges for adstock parameters and shows how data interval and model type bias them.",
+    "course_use": "Session 2 (adstock priors); pairs with Clarke 1976. Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Demonstrating the Value of Marketing",
+    "author_source": "Dominique M. Hanssens, Koen H. Pauwels, 2016, Journal of Marketing 80(6), 173 to 190, article",
+    "link": "https://doi.org/10.1509/jm.15.0417",
+    "note": "Frames marketing accountability as a chain from spend to metrics to financial value and reviews what response models, attribution and experiments can and cannot show. A good opening reading for managers-in-training.",
+    "course_use": "Session 1 reading. Paywalled, open PDF available.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "How T.V. Advertising Works: A Meta-Analysis of 389 Real World Split Cable T.V. Advertising Experiments",
+    "author_source": "Leonard M. Lodish, Magid Abraham, Stuart Kalmenson, Jeanne Livelsberger, Beth Lubetkin, Bruce Richardson, Mary Ellen Stevens, 1995, Journal of Marketing Research 32(2), 125 to 139, article",
+    "link": "https://doi.org/10.1177/002224379503200204",
+    "note": "The classic experimental benchmark: about half of TV weight tests show no significant sales effect, and effects are larger for new products. Sets expectations before students see MMM ROI claims.",
+    "course_use": "Session 4 background (experiments versus models). Paywalled.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Bayesian Methods for Media Mix Modeling with Carryover and Shape Effects",
+    "author_source": "Yuxue Jin, Yueqing Wang, Yunting Sun, David Chan, Jim Koehler, 2017, Google research white paper",
+    "link": "https://research.google/pubs/pub46001/",
+    "note": "The canonical modern MMM specification: geometric or delayed adstock plus a Hill saturation curve, estimated with Bayesian methods, with ROAS and marginal ROAS derived from the posterior. LightweightMMM, PyMC-Marketing and Meridian all implement it.",
+    "course_use": "Session 2 required reading; reproduce its simulated example in the PyMC-Marketing lab. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Geo-level Bayesian Hierarchical Media Mix Modeling",
+    "author_source": "Yunting Sun, Yueqing Wang, Yuxue Jin, David Chan, Jim Koehler, 2017, Google research white paper",
+    "link": "https://research.google/pubs/pub46000/",
+    "note": "Pooling sub-national (geo) data in a hierarchical model gives tighter credible intervals than national data alone. This is the statistical justification for the country-by-region hierarchies in Meridian and for multi-country MMM.",
+    "course_use": "Session 3 required reading (geo hierarchies across countries). Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Challenges and Opportunities in Media Mix Modeling",
+    "author_source": "David Chan, Michael Perry, 2017, Google research white paper",
+    "link": "https://research.google/pubs/pub45998/",
+    "note": "Short, honest list of why MMM is hard: limited variation, collinearity, selection bias (ads follow demand), funnel effects, paid search, and the need for experiments. Excellent framing paper.",
+    "course_use": "Session 1 or 2 reading; discussion piece. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "A Hierarchical Bayesian Approach to Improve Media Mix Models Using Category Data",
+    "author_source": "Yueqing Wang, Yuxue Jin, Yunting Sun, David Chan, Jim Koehler, 2017, Google research white paper",
+    "link": "https://research.google.com/pubs/archive/45999.pdf",
+    "note": "Uses category-level data across brands as a hierarchical prior to stabilise a single brand's MMM; a practical answer to short series, and the same logic applies to pooling across countries.",
+    "course_use": "Session 3 background. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Introduction to the Aggregate Marketing System Simulator",
+    "author_source": "Stephanie Zhang, Jon Vaver, 2017, Google research white paper; R package https://github.com/google/amss (verified, archived 2022)",
+    "link": "https://research.google/pubs/introduction-to-the-aggregate-marketing-system-simulator/",
+    "note": "A simulator that generates realistic aggregate marketing data with known ground-truth ROAS, so MMM methods can be tested. Ideal for teaching: students fit models to data where the true answer is known.",
+    "course_use": "Session 2 or 4 lab (simulate, fit, compare to truth). Free, R.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Bayesian Hierarchical Media Mix Model Incorporating Reach and Frequency Data",
+    "author_source": "Yingxiang Zhang, Mike Wurm, Alexander Wakim, Eddie Li, Ying Liu, 2023, Google research white paper",
+    "link": "https://research.google/pubs/bayesian-hierarchical-media-mix-model-incorporating-reach-and-frequency-data/",
+    "note": "Extends the geo-hierarchical MMM to use reach and frequency instead of impressions, enabling optimal-frequency recommendations; this is the model inside Google Meridian (https://github.com/google/meridian, Apache-2.0, Python, verified).",
+    "course_use": "Session 2 or 3 reading for the Meridian lab. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Packaging Up Media Mix Modeling: An Introduction to Robyn's Open-Source Approach",
+    "author_source": "Julian Runge, Igor Skokan, Gufeng Zhou, Koen Pauwels, 2024, arXiv 2403.14674 (Meta Marketing Science and academia), working paper",
+    "link": "https://arxiv.org/abs/2403.14674",
+    "note": "The authoritative description of Robyn: ridge regression, evolutionary hyperparameter search, Prophet decomposition, calibration with experiments and budget allocation, and the organisational reasons for the design. Good contrast to the Bayesian school.",
+    "course_use": "Session 2 reading (compare with Jin et al. 2017). Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "PyMC-Marketing: Bayesian marketing analytics in Python (JOSS)",
+    "author_source": "PyMC Labs team, 2026 (year inferred from DOI series, unverified), Journal of Open Source Software, software paper",
+    "link": "https://doi.org/10.21105/joss.10805",
+    "note": "The citable reference for the Python library the course will most likely use: adstock and saturation transforms, lift-test calibration, time-varying effects, multidimensional (geo) models and budget optimisation.",
+    "course_use": "Session 2 lab citation. Free, open access.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Bayesian Time Varying Coefficient Model with Applications to Marketing Mix Modeling",
+    "author_source": "Edwin Ng, Zhishi Wang, Athena Dai (Uber), 2021, arXiv 2106.03322, working paper",
+    "link": "https://arxiv.org/abs/2106.03322",
+    "note": "Lets channel effectiveness drift over time via kernel-weighted regression, which matters for multi-year series and for markets in transition; also the basis of Uber's Orbit library.",
+    "course_use": "Session 4 background (time-varying effects). Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Hierarchical Marketing Mix Models with Sign Constraints",
+    "author_source": "Hao Chen, Minguang Zhang, Lanshan Han, Alvin Lim (Google), 2021, Journal of Applied Statistics (DOI 10.1080/02664763.2021.1946020 unverified); preprint arXiv 2008.12802",
+    "link": "https://arxiv.org/abs/2008.12802",
+    "note": "Multi-region hierarchical MMM with sign constraints on media coefficients, estimated with a scalable algorithm; directly relevant to multi-country models where naive regression gives negative media effects.",
+    "course_use": "Session 3 background. Free preprint.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Your MMM is Broken: Identification of Nonlinear and Time-varying Effects in Marketing Mix Models",
+    "author_source": "Ryan Dew, Nicolas Padilla, Anya Shchetkina (authors from memory, unverified), 2024, arXiv 2408.07678, working paper",
+    "link": "https://arxiv.org/abs/2408.07678",
+    "note": "Academic critique showing that standard MMMs cannot separately identify nonlinearity (saturation) from time variation without extra structure; a useful counterweight to vendor enthusiasm.",
+    "course_use": "Session 2 or 4 discussion reading for stronger students. Free.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook",
+    "author_source": "Brett R. Gordon, Florian Zettelmeyer, Neha Bhargava, Dan Chapsky, 2019, Marketing Science 38(2), 193 to 225, article",
+    "link": "https://doi.org/10.1287/mksc.2018.1135",
+    "note": "Fifteen large Facebook experiments show that observational methods (matching, regression, last click) often miss true lift by a wide margin. The paper students should read before trusting any attribution or uncalibrated model.",
+    "course_use": "Session 4 required reading. Paywalled, open PDF available.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Close Enough? A Large-Scale Exploration of Non-Experimental Approaches to Advertising Measurement",
+    "author_source": "Brett R. Gordon, Robert Moakler, Florian Zettelmeyer, 2023, Marketing Science 42(4), 768 to 793, article",
+    "link": "https://doi.org/10.1287/mksc.2022.1413",
+    "note": "Follow-up on 663 experiments: even with rich data, non-experimental estimates are frequently far off, which motivates calibrating MMM with lift tests.",
+    "course_use": "Session 4 reading (pairs with Gordon et al. 2019). Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "TV Advertising Effectiveness and Profitability: Generalizable Results from 288 Brands",
+    "author_source": "Bradley T. Shapiro, Günter J. Hitsch, Anna E. Tuchman, 2021, Econometrica 89(4), 1855 to 1879, article",
+    "link": "https://doi.org/10.3982/ECTA17674",
+    "note": "Panel-based causal estimates of TV elasticities for 288 brands; median elasticity is small and marginal ROI is negative for most brands. A sobering benchmark for MMM ROI outputs and budget recommendations.",
+    "course_use": "Session 3 reading (budget allocation reality check). Paywalled, open PDF available.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Measuring Ad Effectiveness Using Geo Experiments",
+    "author_source": "Jon Vaver, Jim Koehler, 2011, Google research white paper",
+    "link": "https://research.google/pubs/pub38355/",
+    "note": "The original geo-experiment design and geo-based regression (GBR) analysis; the template for every geo-lift test now used to calibrate MMMs.",
+    "course_use": "Session 4 required reading before the geo-experiment lab. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Estimating Ad Effectiveness Using Geo Experiments in a Time-Based Regression Framework",
+    "author_source": "Jouni Kerman, Peng Wang, Jon Vaver, 2017, Google research white paper",
+    "link": "https://research.google/pubs/pub45950/",
+    "note": "Time-based regression (TBR) for geo tests with few regions, estimating the cumulative causal effect from a counterfactual time series; the method behind many European geo tests where countries have few media regions.",
+    "course_use": "Session 4 reading. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Robust Causal Inference for Incremental Return on Ad Spend with Randomized Paired Geo Experiments",
+    "author_source": "Aiyou Chen, Timothy C. Au, 2022, Annals of Applied Statistics 16(1), article; preprint arXiv 1908.02922; Python package https://github.com/google/trimmed_match (verified)",
+    "link": "https://doi.org/10.1214/21-AOAS1493",
+    "note": "Trimmed Match estimator for paired geo experiments that is robust to outlier regions; with the companion design paper (Chen, Longfils, Remy 2021, arXiv 2105.07060, verified) it gives a complete, open workflow for iROAS experiments.",
+    "course_use": "Session 4 lab (trimmed_match on synthetic data). Free preprint; journal version paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Inferring Causal Impact Using Bayesian Structural Time-Series Models",
+    "author_source": "Kay H. Brodersen, Fabian Gallusser, Jim Koehler, Nicolas Remy, Steven L. Scott, 2015, Annals of Applied Statistics 9(1), 247 to 274, article; package https://github.com/google/CausalImpact (verified)",
+    "link": "https://doi.org/10.1214/14-AOAS788",
+    "note": "The CausalImpact method: a Bayesian structural time-series counterfactual for a single treated market, widely used to read campaign launches and quasi-experiments in single countries.",
+    "course_use": "Session 4 lab (tfcausalimpact in Python). Open access.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "The Unfavorable Economics of Measuring the Returns to Advertising",
+    "author_source": "Randall A. Lewis, Justin M. Rao, 2015, Quarterly Journal of Economics 130(4), 1941 to 1973, article",
+    "link": "https://doi.org/10.1093/qje/qjv023",
+    "note": "Shows why even huge experiments are underpowered for advertising ROI: sales variance dwarfs plausible ad effects. Essential for teaching power analysis of geo tests and the limits of calibration.",
+    "course_use": "Session 4 reading. Paywalled; working-paper versions circulate.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Attributing Conversions in a Multichannel Online Marketing Environment: An Empirical Model and a Field Experiment",
+    "author_source": "Hongshuang (Alice) Li, P. K. Kannan, 2014, Journal of Marketing Research 51(1), 40 to 56, article",
+    "link": "https://doi.org/10.1509/jmr.13.0050",
+    "note": "The reference academic multi-touch attribution model (consideration, visit, purchase stages with carryover and spillover), validated with a field experiment; shows how last-click misallocates credit.",
+    "course_use": "Session 5 required reading. Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Beyond the Last Touch: Attribution in Online Advertising",
+    "author_source": "Ron Berman, 2018, Marketing Science 37(5), 771 to 792, article",
+    "link": "https://doi.org/10.1287/mksc.2018.1104",
+    "note": "Game-theoretic analysis of attribution rules showing how last-touch distorts publisher incentives and why Shapley-type rules behave better; the theory behind data-driven attribution products.",
+    "course_use": "Session 5 reading. Paywalled; SSRN version available.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "The Path to Purchase and Attribution Modeling: Introduction to Special Section",
+    "author_source": "P. K. Kannan, Werner Reinartz, Peter C. Verhoef, 2016, International Journal of Research in Marketing 33(3), 449 to 456, editorial article",
+    "link": "https://doi.org/10.1016/j.ijresmar.2016.07.001",
+    "note": "Concise map of attribution research and of the gap between user-level attribution and aggregate MMM; the whole IJRM special section (de Haan, Wiesel, Pauwels; Anderl et al.; Kireyev, Pauwels, Gupta) is worth assigning.",
+    "course_use": "Session 5 overview reading. Paywalled.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "The Effectiveness of Different Forms of Online Advertising for Purchase Conversion in a Multiple-Channel Attribution Framework",
+    "author_source": "Evert de Haan, Thorsten Wiesel, Koen Pauwels, 2016, International Journal of Research in Marketing 33(3), 491 to 507, article",
+    "link": "https://doi.org/10.1016/j.ijresmar.2015.12.001",
+    "note": "Uses a VAR-based, aggregate time-series approach to attribute conversions across online channels, which is in effect an MMM applied to attribution; shows content-integrated ads and search outperform banners.",
+    "course_use": "Session 5 reading (bridge between MMM and attribution). Paywalled.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Mapping the Customer Journey: Lessons Learned from Graph-Based Online Attribution Modeling",
+    "author_source": "Eva Anderl, Ingo Becker, Florian von Wangenheim, Jan Hendrik Schumann, 2016, International Journal of Research in Marketing 33(3), 457 to 474, article",
+    "link": "https://doi.org/10.1016/j.ijresmar.2016.03.001",
+    "note": "Markov-graph attribution (removal effects) on real clickstream data from German firms; the method behind many \"data-driven attribution\" tools, written by authors at ETH Zurich and Passau.",
+    "course_use": "Session 5 lab (Markov attribution in Python). Paywalled.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Data-Driven Multi-Touch Attribution Models",
+    "author_source": "Xuhui Shao, Lexin Li, 2011, Proceedings of KDD 2011, conference paper",
+    "link": "https://doi.org/10.1145/2020408.2020453",
+    "note": "The first widely cited algorithmic MTA (bagged logistic regression and a simple probabilistic model); short and easy to implement in a lab.",
+    "course_use": "Session 5 lab reference. Paywalled (ACM), author copies circulate.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Integrated Marketing Attribution: A Bayesian Framework for Privacy-Safe Granular Measurement Anchored in MMM",
+    "author_source": "authors not captured (unverified), 2026, arXiv 2606.16878, working paper",
+    "link": "https://arxiv.org/abs/2606.16878",
+    "note": "One of the first papers to formalise \"unified measurement\": granular attribution constrained to reconcile with an MMM's channel totals, in a privacy-safe setting after cookie loss. Timely for the MMM-versus-attribution debate.",
+    "course_use": "Session 5 discussion reading. Free.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Dynamic Marketing Budget Allocation Across Countries, Products, and Marketing Activities",
+    "author_source": "Marc Fischer, Sönke Albers, Nils Wagner, Monika Frie, 2011, Marketing Science 30(4), 568 to 585 (INFORMS Practice Prize winner), article",
+    "link": "https://doi.org/10.1287/mksc.1100.0627",
+    "note": "The Bayer case: a decision-support model that allocates marketing budgets across countries, products and activities using response elasticities and dynamics, with a claimed profit improvement of about EUR 500 million. The single best academic match for the course's international allocation theme.",
+    "course_use": "Session 3 required reading and case discussion; rebuild the allocation heuristic in Python. Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Marketing Mix and Brand Sales in Global Markets: Examining the Contingent Role of Country-Market Characteristics",
+    "author_source": "S. Cem Bahadir, Sundar G. Bharadwaj, Rajendra K. Srivastava, 2015, Journal of International Business Studies 46(5), 596 to 619, article",
+    "link": "https://doi.org/10.1057/jibs.2014.69",
+    "note": "Hierarchical linear model across 14 emerging and developed markets: advertising and product innovation matter more in emerging markets, distribution and price differ by country type. Gives students priors for how elasticities shift across countries.",
+    "course_use": "Session 3 reading (international angle). Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "A Global Perspective on the Marketing Mix across Time and Space",
+    "author_source": "Julian Wichmann, Abhinav Uppal, Amalesh Sharma, Marnik G. Dekimpe, 2022, International Journal of Research in Marketing 39(2), 502 to 521, article",
+    "link": "https://doi.org/10.1016/j.ijresmar.2021.09.001",
+    "note": "Reviews cross-country marketing-mix effectiveness research and sets a research agenda on heterogeneity across markets and over time; the most recent academic overview of the international MMM question.",
+    "course_use": "Session 3 background reading. Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Determinants of Advertising Effectiveness: The Development of an International Advertising Elasticity Database and a Meta-Analysis",
+    "author_source": "Sina Henningsen, Rebecca Heuke, Michel Clement, 2011, Business Research 4(2), 193 to 239, article (open access)",
+    "link": "https://doi.org/10.1007/BF03342755",
+    "note": "Meta-analysis of advertising elasticities built on an explicitly international database (mean current-period elasticity 0.09) with country and method moderators; complements Sethuraman et al. 2011 and is free.",
+    "course_use": "Session 2 or 3 (priors by country). Open access.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "The Role of National Culture in Advertising's Sensitivity to Business Cycles: An Investigation Across Continents",
+    "author_source": "Barbara Deleersnyder, Marnik G. Dekimpe, Jan-Benedict E. M. Steenkamp, Peter S. H. Leeflang, 2009, Journal of Marketing Research 46(5), 623 to 636, article",
+    "link": "https://doi.org/10.1509/jmkr.46.5.623",
+    "note": "37 countries over 25 years: advertising is procyclical, and the degree depends on national culture (uncertainty avoidance, long-term orientation). Shows why macro controls and country effects belong in a multi-market MMM.",
+    "course_use": "Session 3 background. Paywalled.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Price and Advertising Effectiveness over the Business Cycle",
+    "author_source": "Harald J. van Heerde, Maarten J. Gijsenberg, Marnik G. Dekimpe, Jan-Benedict E. M. Steenkamp, 2013, Journal of Marketing Research 50(2), 177 to 193, article",
+    "link": "https://doi.org/10.1509/jmr.10.0414",
+    "note": "Time-varying elasticities over 25 years show price sensitivity rises and advertising effectiveness falls in contractions; a concrete reason to model time-varying coefficients and macro conditions.",
+    "course_use": "Session 4 reading (time-varying effects). Paywalled, open PDF available.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Financial Development and Country-Level Advertising Spending: The Moderating Role of Economic Development and National Culture",
+    "author_source": "Berrak Bahadir, S. Cem Bahadir, 2020, Journal of International Marketing 28(4), article",
+    "link": "https://doi.org/10.1177/1069031X20936278",
+    "note": "Country-level panel on what drives advertising intensity across economies; useful context when students compare budgets and media prices across markets.",
+    "course_use": "Session 3 background. Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Optimizable and Implementable Aggregate Response Modeling for Marketing Decision Support",
+    "author_source": "Sönke Albers, 2012, International Journal of Research in Marketing 29(2), 111 to 122, article",
+    "link": "https://doi.org/10.1016/j.ijresmar.2012.03.001",
+    "note": "Argues that response models must be both optimisable (concave, interpretable elasticities) and implementable (simple enough for managers), and shows how to go from elasticities to allocation rules. The academic underpinning of the budget optimisers in Robyn and Meridian.",
+    "course_use": "Session 3 required reading. Paywalled, SSRN copy available.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "The Value of Empirical Generalizations in Marketing",
+    "author_source": "Dominique M. Hanssens, 2018, Journal of the Academy of Marketing Science 46, 6 to 8, editorial",
+    "link": "https://doi.org/10.1007/s11747-017-0567-0",
+    "note": "Three-page argument for using generalisations (elasticity ranges, carryover) as priors and sanity checks; a quick companion to the MSI book above.",
+    "course_use": "Session 2 short reading. Paywalled; open PDF on the UCLA Anderson site (listed in search).",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Marketing's Impact on Firm Value: Generalizations from a Meta-Analysis",
+    "author_source": "Alexander Edeling, Marc Fischer, 2016, Journal of Marketing Research 53(4), 515 to 534, article",
+    "link": "https://doi.org/10.1509/jmr.14.0046",
+    "note": "Meta-analysis linking advertising, brand and other marketing assets to firm value; provides the \"so what\" for MMM results at board level and a Cologne-based author who fits the DACH guest-speaker focus.",
+    "course_use": "Session 1 or 3 background. Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "How Advertising Works: What Do We Really Know?",
+    "author_source": "Demetrios Vakratsas, Tim Ambler, 1999, Journal of Marketing 63(1), 26 to 43, review article",
+    "link": "https://doi.org/10.1177/002224299906300103",
+    "note": "Reviews 250 studies on advertising response and frameworks (hierarchy of effects, carryover, wear-out); the best short literature map before reading MMM papers.",
+    "course_use": "Session 1 background. Paywalled.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "articles",
+    "title": "Marvelous Advertising Returns? A Meta-Analysis of Advertising Elasticities in the Entertainment Industry",
+    "author_source": "authors not captured (unverified), 2022, Journal of the Academy of Marketing Science, article",
+    "link": "https://doi.org/10.1007/s11747-022-00916-0",
+    "note": "Recent, industry-specific meta-analysis of advertising elasticities; a template for how students can derive sector priors for their own MMM.",
+    "course_use": "Session 2 optional reading. Paywalled (check for Springer open access).",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "PyMC Labs blog",
+    "author_source": "PyMC Labs (authors include Thomas Wiecki, Juan Orduz, Carlos Trujillo, Will Dean), 2021 to 2026, blog",
+    "link": "https://www.pymc-labs.com/blog-posts",
+    "note": "The home of PyMC-Marketing thinking: Bayesian MMM, time-varying effectiveness, funnel-aware models, lift-test calibration, the HelloFresh case. Python code throughout.",
+    "course_use": "Sessions 2 to 4 lab readings; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Google Meridian documentation and repository",
+    "author_source": "Google, 2025 to 2026, website and software (Python, Apache 2.0)",
+    "link": "https://developers.google.com/meridian",
+    "note": "Reference docs for a hierarchical geo-level Bayesian MMM with reach and frequency, experiment priors and budget optimiser; Colab tutorial with sample data; superseded LightweightMMM (https://github.com/google/lightweight_mmm, archived, fetched).",
+    "course_use": "Session 3 and 4 labs; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Meta Robyn site and repository",
+    "author_source": "Meta Marketing Science (Gufeng Zhou and others), 2021 to 2026, website and software (R primary, Python beta, MIT)",
+    "link": "https://facebookexperimental.github.io/Robyn/",
+    "note": "Ridge regression plus evolutionary hyperparameter search, calibration with lift tests, simulated weekly demo data; the most used open-source MMM in practice and the natural contrast to the Bayesian tools.",
+    "course_use": "Session 3 comparison (R versus Python), optional lab; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Recast blog and MMM Academy",
+    "author_source": "Recast (Michael Kaminsky, Thomas Vladeck), 2021 to 2026, blog and newsletter",
+    "link": "https://getrecast.com/mmm-academy/building-a-media-mix-model/",
+    "note": "The most opinionated practitioner writing on MMM identification problems, geo-test calibration, long-term brand effects and vendor hype; the \"who is talking about MMM\" page lists public brand examples.",
+    "course_use": "Session 3 (calibration) and Session 5; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Dr Juan Camilo Orduz, personal blog",
+    "author_source": "Juan Camilo Orduz (PyMC Labs, Berlin), 2021 to 2026, blog",
+    "link": "https://juanitorduz.github.io/pymc_mmm/",
+    "note": "Fully reproducible PyMC notebooks on adstock, saturation, time-varying coefficients, Orbit's KTR model and hierarchical MMM; ideal lab scaffolding. Berlin-based, so also a realistic guest-speaker lead for the people part.",
+    "course_use": "Sessions 2 and 3 lab material; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Aryma Labs Substack",
+    "author_source": "Venkat Raman and Ridhima Kumar (Aryma Labs, India), 2023 to 2026, newsletter",
+    "link": "https://arymalabs.substack.com/p/marketing-mix-modeling-mmm-101",
+    "note": "Critical, statistically careful posts (\"is MMM just linear regression?\", \"one true MMM?\", lessons from FMCG econometrics); good for teaching scepticism towards automated tools.",
+    "course_use": "Session 2 discussion reading; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Measured learning centre",
+    "author_source": "Measured (US), 2020 to 2026, website",
+    "link": "https://www.measured.com/resources/",
+    "note": "Decision tree for when to use incrementality tests, attribution or MMM; a \"how to QA an MMM\" checklist; ten named brand examples. Vendor site but unusually instructive.",
+    "course_use": "Session 5; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Haus blog and Incrementality School",
+    "author_source": "Haus (US; founders from Netflix and Google experimentation teams), 2023 to 2026, blog",
+    "link": "https://www.haus.io/blog/why-incrementality-testing-belongs-with-your-mmm-and-where-to-start",
+    "note": "Clear explanations of geo experiments, synthetic control and \"causal MMM\" built on experiments; the experiments-first counterweight to model-first vendors.",
+    "course_use": "Session 3 or the experiments session; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Sellforte blog",
+    "author_source": "Sellforte (Helsinki), 2022 to 2026, blog",
+    "link": "https://sellforte.com/blog/what-is-causal-marketing-mix-modeling-mmm",
+    "note": "European SaaS vendor writing on retail and e-commerce MMM, causal MMM and a procurement/RFP guide that students can use in a vendor-selection exercise.",
+    "course_use": "Session 5 exercise; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Mutinex (Henry Innis) and Madison and Wall interviews",
+    "author_source": "Mutinex (Sydney) and Madison and Wall Substack (Brian Wieser), 2024 to 2026, blog and newsletter",
+    "link": "https://mutinex.co/the-power-of-mmm-to-unlock-true-growth/",
+    "note": "The \"always-on MMM feeding bidding systems\" thesis and a sceptical industry analyst's questioning of it; good for a debate on MMM cadence and over-use of incrementality tests.",
+    "course_use": "Session 5 debate; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Cassandra resources",
+    "author_source": "Cassandra (European MMM SaaS), 2023 to 2026, website",
+    "link": "https://cassandra.app/resources/a-dee-dive-into-the-algorithm-behind-media-mix-modeling-and-optimization",
+    "note": "Readable walk-through of the algorithm behind a commercial MMM and optimiser, written for marketers rather than statisticians.",
+    "course_use": "Session 4 background; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Ebiquity Insights blog",
+    "author_source": "Ebiquity (London), 2022 to 2026, blog",
+    "link": "https://ebiquity.com/news-insights/blog/bayesian-media-mix-modelling/",
+    "note": "The classical econometrics view: \"Bayesian MMM: cure-all or caveat emptor?\", pros and cons of always-on automation, MMM as a management discipline; strong European advertiser perspective.",
+    "course_use": "Session 3 counter-reading; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "MASS Analytics blog and Measure Up podcast",
+    "author_source": "MASS Analytics (Tunis and London), 2020 to 2026, blog and podcast",
+    "link": "https://mass-analytics.com/marketing-mix-modeling-blogs/learn-marketing-mix-modeling/",
+    "note": "Structured \"learn MMM\" curriculum, masterclasses and an interview podcast with practitioners; the geo-experiment explainer is concise.",
+    "course_use": "Background self-study; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Hands-On Data: \"The hard thing about Marketing Mix Models\"",
+    "author_source": "Hands-On Data (independent data scientist), 2024, Substack post",
+    "link": "https://handsondata.substack.com/p/the-hard-thing-about-marketing-mix",
+    "note": "Honest practitioner account of identification, data and organisational problems in MMM; short and quotable.",
+    "course_use": "Session 2 warm-up; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "websites",
+    "title": "Vexpower MMM learning path (Mike Taylor)",
+    "author_source": "Mike Taylor (Vexpower, former Ladder agency), 2022 to 2025, simulator-based courses",
+    "link": "https://www.vexpower.com/paths/marketing-mix-modeling",
+    "note": "Scenario-style exercises (Robyn, LightweightMMM, Orbit) that mimic client briefs; a model for how to write lab assignments.",
+    "course_use": "Inspiration for assignments; paid subscription, some free content.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Thomas Wiecki, \"Bayesian Marketing Science: Solving Marketing's 3 Biggest Problems\" (PyCon DE and PyData Berlin 2023)",
+    "author_source": "PyMC Labs, 2023, video (YouTube, about 30 minutes, free, intermediate).",
+    "link": "https://www.youtube.com/watch?v=RY-M0tvN77s",
+    "note": "Introduces PyMC-Marketing (MMM and CLV) and CausalPy in one talk with code, from the PyMC founder. A good conceptual opener before the lab.",
+    "course_use": "S2 pre-class viewing.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "PyMC Labs, \"Bayesian Marketing Mix Models: State of the Art and their Future\" (online meetup, September 2022)",
+    "author_source": "PyMC Labs with Juan Orduz, Luca Fiaschi and guests, 2022, video (recording linked from PyMC Discourse; about 60 to 90 minutes, free, intermediate).",
+    "link": "https://discourse.pymc.io/t/online-meetup-bayesian-marketing-mix-models-state-of-the-art-and-their-future-sep-21-2022/10432",
+    "note": "Practitioner panel on what works in Bayesian MMM at companies such as HelloFresh and Bolt; useful as a \"voices from industry\" segment.",
+    "course_use": "Background.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "PyData NYC 2024, \"PyMC-Marketing: Customer and Marketing Analytics the Easy Way\" (Christian Luhmann)",
+    "author_source": "PyData, November 2024, talk (40 minutes; recording expected on the PyData YouTube channel, unverified).",
+    "link": "https://pydata.org/nyc2024/schedule/talk/BF3GQ7/",
+    "note": "Most recent conference walk-through of the library's MMM and CLV APIs.",
+    "course_use": "S2 optional viewing.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Google Ads DevCast, episode 6: \"The What and Why on Meridian\" (May 2026)",
+    "author_source": "Google Advertising and Measurement Developers, 2026, video podcast (YouTube playlist, about 30 minutes, free, introductory).",
+    "link": "https://ads-developers.googleblog.com/2026/05/the-what-and-why-on-meridian-ads.html",
+    "note": "Official overview of Meridian and the new surfaces (Google Analytics, Studio, GeoX) from the product team; up to date as of 2026.",
+    "course_use": "S3 pre-class viewing.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Meridian Python tutorials on YouTube",
+    "author_source": "Third-party creators, 2025, videos: \"Meridian Marketing Mix Modeling: Python Tutorial\" and \"Meridian Tutorial: Building a National MMM for eCommerce\" (each roughly 20 to 40 minutes, free, intermediate; channels unverified).",
+    "link": "https://www.youtube.com/watch?v=dWWaY4dZPYQ",
+    "note": "Step-by-step runs of the official Meridian demo notebook, useful for students who get stuck installing TensorFlow Probability.",
+    "course_use": "S3 lab support material. Google's own \"Meridian Self-starter Guide for CMOs\" PDF (Think with Google, search-confirmed) is a non-technical companion.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Recast, \"How to Build a Media Mix Model (MMM)\" series with Tom Vladeck",
+    "author_source": "Recast, 2024 to 2025, YouTube playlist (multi-episode, 15 to 30 minutes each, free, intermediate; episode 2 covers DAGs in MMM) plus \"How to Use Lift Tests to Calibrate Your MMM\".",
+    "link": "https://www.youtube.com/playlist?list=PLICC447esbJliT9rATTVZGU9Ii-hQ_PYa",
+    "note": "Statistician-led, vendor-neutral in tone, explicit about causal assumptions and validation; complements the code-centric talks.",
+    "course_use": "S2 and S5 viewing.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "MASS Analytics free MMM course on YouTube (Dr Ramla Jarrar)",
+    "author_source": "MASS Analytics, 2023 to 2026, YouTube playlists (eleven \"Packs\" A to K following a real project order; dozens of short videos, free, beginner to intermediate).",
+    "link": "https://mass-analytics.com/marketing-mix-modeling-blogs/the-free-marketing-mix-modeling-course/",
+    "note": "The only free end-to-end MMM project curriculum (data splitting, transformations, modelling, optimisation, reporting) from a practising vendor; tool-agnostic in the concepts.",
+    "course_use": "S1 to S3 self-study; assign specific packs.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "MASS Analytics MMM Academy (Fundamentals and End-to-End courses)",
+    "author_source": "MASS Analytics, 2025 to 2026, paid online courses (2 courses, 9 modules, real datasets, certificate, access to MassTer software; price not public, search-confirmed).",
+    "link": "https://mass-analytics.com/mmm-learning-academy/",
+    "note": "Covers Bayesian and hierarchical models and board-level reporting; one of the few MMM certificates. Worth asking about an academic bundle for 30 students.",
+    "course_use": "Optional for ambitious students; vendor contact.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "PyMC Labs, \"Bayesian Marketing Analytics\" live course",
+    "author_source": "PyMC Labs, 2025 to 2026, live online course (four weeks, cohort based, paid; price and next dates not retrievable in this session).",
+    "link": "https://www.pymc-labs.com/courses/bayesian-marketing-analytics",
+    "note": "Taught by the PyMC-Marketing authors; covers MMM, causal inference, CLV, product adoption and budget optimisation, so it mirrors this course almost module by module.",
+    "course_use": "Instructor preparation; possible guest lecture by a PyMC Labs instructor.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Meta Robyn walkthroughs",
+    "author_source": "Gufeng Zhou (Robyn creator) interview \"Robyn's Creation to Controversy, Decomposition Distance and MMM Politics\" (2024, about 60 minutes, free); \"Ep. 1 to Ep. 8 Marketing Mix Modeling with Facebook Robyn\" tutorial series (third party, 2022 to 2023, 10 to 25 minutes each, free, intermediate R).",
+    "link": "https://www.youtube.com/watch?v=QX8ATifkyA4",
+    "note": "The interview explains design choices (DECOMP.RSSD, ridge, Nevergrad) and their critics from the author himself; the episode series is the practical R walkthrough. Meta's own 15-minute demo video is hosted on Google Drive via the Robyn repo (unverified).",
+    "course_use": "S2 optional viewing.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Posit, \"Strategic Budget Optimization through Marketing Mix Modeling\" (February 2026)",
+    "author_source": "Posit Open Source (Isabella Velasquez and Daniel Chen), 2026, video (about 60 minutes, free, intermediate; R and Python).",
+    "link": "https://opensource.posit.co/resources/videos/2026-02-25_strategic-budget-optimization-through-marketing-mix-modeling-mmm/",
+    "note": "Recent, tool-focused session on turning MMM output into a constrained budget plan.",
+    "course_use": "S3 viewing.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Coursera, \"Forecasting Models for Marketing Decisions\" (Emory University)",
+    "author_source": "Emory University on Coursera, 2023, MOOC (4 modules, roughly 10 to 15 hours, beginner to intermediate, free to audit, certificate paid; part of Foundations of Marketing Analytics specialisation).",
+    "link": "https://www.coursera.org/learn/forecasting-models-marketing-decisions",
+    "note": "Regression-based forecasting for marketing mix decisions in a business-school framing; closest MOOC match to S4.",
+    "course_use": "S4 supplementary.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Coursera, \"Data Analytics Methods for Marketing\" (Meta)",
+    "author_source": "Meta on Coursera, 2022, MOOC (about 20 hours, beginner, free to audit; module on marketing mix modelling and attribution).",
+    "link": "https://www.coursera.org/learn/data-analytics-methods-for-marketing",
+    "note": "Platform-side view of MMM, incrementality and attribution; useful for students without a stats background.",
+    "course_use": "Background for weaker students.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "LinkedIn Learning, \"Marketing Attribution and Mix Modeling\" (Michael Taylor) and \"Introduction to Attribution and Mix Modeling\" (Corey Koberg)",
+    "author_source": "LinkedIn Learning, 2023 to 2024, video courses (1 h 38 min and 1 h 41 min, intermediate, subscription or free trial; certificates).",
+    "link": "https://www.linkedin.com/learning/marketing-attribution-and-mix-modeling",
+    "note": "Taylor's course does a simple MMM with diminishing-returns transformations and scenario forecasting in a spreadsheet; Koberg's covers how MTA and MMM fit together. Short enough to assign fully.",
+    "course_use": "S5 (attribution) pre-reading. WU may have LinkedIn Learning access via the library.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Udemy, \"MMM Masterclass: Facebook Robyn Tutorial for Marketing\" and \"Fundamentals of Marketing Mix Modeling: Learn by Doing\" (MASS Analytics)",
+    "author_source": "Udemy, 2022 to 2025, video courses (typically 3 to 6 hours, intermediate; paid, often discounted to under EUR 20; MASS course includes a 2-week MassTer licence).",
+    "link": "https://www.udemy.com/course/mmm-masterclass-facebook-robyn-tutorial-for-marketing/",
+    "note": "Cheapest structured hands-on routes into Robyn (R) and a GUI MMM tool respectively. A Japanese-language \"Excel x Python MMM\" course also exists for complete beginners.",
+    "course_use": "Optional self-study.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "DataCamp, \"Building Response Models in R\"",
+    "author_source": "DataCamp, 2019, interactive course (4 hours, intermediate, subscription; DataCamp Classrooms gives free access to university instructors and their students).",
+    "link": "https://www.datacamp.com/courses/building-response-models-in-r",
+    "note": "Market response modelling with price and promotion effects, the closest DataCamp has to MMM; no Python MMM course exists there, though their \"Decoding Marketing Mix Modeling\" tutorial is a short free read.",
+    "course_use": "S1 supplementary; apply for DataCamp Classrooms if the cohort wants R.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "edX, \"Fundamentals of Digital Marketing\" (University of Maryland)",
+    "author_source": "University of Maryland on edX, 2021 to 2024, MOOC (about 4 weeks, beginner, free to audit).",
+    "link": "https://www.edx.org/learn/digital-marketing/the-university-of-maryland-college-park-fundamentals-of-digital-marketing",
+    "note": "Only edX course found that explicitly covers attribution and MMM; conceptual, not quantitative.",
+    "course_use": "Background only.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "tutorials",
+    "title": "Industry conference content: Meta MMM Summit highlights and JSM 2025 Meridian session",
+    "author_source": "Recast summary of Meta's Marketing Mix Modeling Summit (panels with Nielsen, Accenture, Ekimetrics), 2024; American Statistical Association JSM 2025 session \"Meridian: Google's Open-Source MMM\" (abstract only).",
+    "link": "https://getrecast.com/meta-mmm-summit/",
+    "note": "No dedicated \"MMM conference\" with public video archive exists; these two are the best proxies for what vendors and statisticians are debating (granularity, calibration, reach and frequency).",
+    "course_use": "Background; discussion prompts.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Multiple Regression and Marketing-Mix Models (Darden technical note)",
+    "author_source": "Rajkumar Venkatesan and Shea Gibbs, Darden Business Publishing, 2013, case/technical note; Darden UVA-M-0855, HBP UV6764, Case Centre 118828",
+    "link": "https://store.hbr.org/product/multiple-regression-and-marketing-mix-models/UV6764",
+    "note": "The standard classroom note on regression-based MMM (omitted-variable bias, interpretation of coefficients, elasticities); used in Darden's Big Data in Marketing elective.",
+    "course_use": "Session 2 pre-reading; paid (about USD 5 to 9 per student via HBP or Case Centre).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Note on Marketing Mix Models: Evaluating \"Bang for the Buck\" (Darden)",
+    "author_source": "Paul W. Farris, Darden Business Publishing, 1987, technical note M-0339",
+    "link": "https://store.darden.virginia.edu/note-on-marketing-mix-models-evaluating-bang-for-the-buck",
+    "note": "The classic resource-allocation framing of MMM (marginal returns, response curves) that today's optimisers still implement; short and still assigned.",
+    "course_use": "Session 4 background; paid, low cost.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Digital Marketing at HBS Online (HBS case 521-027)",
+    "author_source": "Sunil Gupta and Rajiv Lal, Harvard Business School, 2020 (revised 2024), case; Case Centre 174588",
+    "link": "https://www.hbs.edu/faculty/Pages/item.aspx?num=58780",
+    "note": "Management must allocate a digital budget across channels and course portfolios using channel performance data; raises attribution versus incrementality and portfolio trade-offs with real numbers.",
+    "course_use": "Session 4 or 5 case discussion; paid (HBP, about USD 9 per student plus teaching note).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Amperity: First-Party Data at a Crossroads (HBS case 524-017)",
+    "author_source": "Elie Ofek, Hema Yoganarasimhan and Alexis Lefort, Harvard Business School, 2024, case",
+    "link": "https://www.hbs.edu/faculty/research/publications/Pages/default.aspx?topic=Digital+Marketing",
+    "note": "Sets the signal-loss and privacy context (cookie deprecation, first-party data) that explains why MMM is back; good opener before the technical sessions.",
+    "course_use": "Session 1 case; paid (HBP).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Cutting-Edge Marketing Analytics: Real World Cases and Data Sets (Darden casebook)",
+    "author_source": "Rajkumar Venkatesan, Paul Farris and Ronald Wilcox, FT Press, 2014, book of cases with datasets; successor \"Marketing Analytics: Essential Tools for Data-Driven Decisions\", UVA Press, 2021",
+    "link": "https://www.amazon.com/Cutting-Edge-Marketing-Analytics-Learning/dp/0133552527",
+    "note": "Each chapter is a real company case with downloadable data (regression-based marketing-mix, resource allocation, experiments, CLV); the cases can be run in Python rather than the book's Excel/R.",
+    "course_use": "Sessions 2 and 4 labs; book purchase or per-case licences.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Advertising measurement at Facebook and eBay (research-based mini-cases, Kellogg and Berkeley)",
+    "author_source": "Brett Gordon, Florian Zettelmeyer, Neha Bhargava and Dan Chapsky, Marketing Science 2019 (SSRN 2017); Thomas Blake, Chris Nosko and Steven Tadelis, Econometrica 2015; Gordon, Moakler and Zettelmeyer, Marketing Science 2023, articles usable as cases",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033144",
+    "note": "No formal Kellogg case on MMM was found, but these are the canonical \"observational methods versus experiments\" teaching materials: eBay paid-search returns were a fraction of non-experimental estimates; Facebook's 15 RCTs show how far attribution and matching stray from lift.",
+    "course_use": "Session 5 (attribution versus incrementality) as a structured discussion; journal access via WU library, slides free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Resident and Robyn (Meta Marketing Science case)",
+    "author_source": "Meta, 2021, published case study (free)",
+    "link": "https://facebookexperimental.github.io/Robyn/docs/case-studies/",
+    "note": "E-commerce company (Nectar, DreamCloud) runs its in-house MMM alongside Robyn, uses DMA-level data and lift-test calibration, reports 20 per cent revenue growth; the same page lists Central Retail Group (Thailand) and Lemonade. A free case with a reproducible open-source tool.",
+    "course_use": "Session 3 case plus Robyn demo data; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Marketing Mix Modeling in Lemonade (arXiv paper as case)",
+    "author_source": "Lemonade data science team, 2025, working paper arXiv 2501.01276",
+    "link": "https://arxiv.org/abs/2501.01276",
+    "note": "Candid account of building a Bayesian MMM for an insurtech, combining it with Robyn and geo tests for calibration; reads like a teaching case with methods detail.",
+    "course_use": "Session 3 reading; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Advertising incrementality using controlled geo-experiments: the Universal App Campaign case (Uber)",
+    "author_source": "Joel Barajas and colleagues (Uber), AdKDD 2020, conference paper",
+    "link": "http://papers.adkdd.org/2020/papers/adkdd20-barajas-advertising.pdf",
+    "note": "A full geo-experiment case: market pairing, Bayesian structural time series counterfactual, a 6.57 per cent conversion drop when Google UAC spend is paused; reusable as a lab on geo tests that feed MMM priors.",
+    "course_use": "Session 3 or experiments session lab; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Structural estimation of MMM parameters from geo-experiments (Zalando researcher)",
+    "author_source": "Niklas Heusch (Zalando), 2026, working paper arXiv 2608.21128",
+    "link": "https://arxiv.org/abs/2608.21128",
+    "note": "Shows a standard MMM reporting 10.61x ROAS for paid search whose experimental truth was 4.20x, and how geo-experiment time series recover the right parameters; a Berlin e-commerce example students will recognise.",
+    "course_use": "Session 3 case; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "cases",
+    "title": "Free datasets usable as cases",
+    "author_source": "various, 2020 to 2026, open data",
+    "link": "https://github.com/pymc-labs/pymc-marketing/tree/main/data",
+    "note": "The multidimensional PyMC-Marketing example and Meridian's simulated data are geo-level, so they support a cross-country or cross-region assignment; the credibility files let students calibrate against lift tests.",
+    "course_use": "Sessions 2 to 4 labs and the group project; all free.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "HelloFresh: Bayesian MMM across 15 markets (PyMC Labs)",
+    "author_source": "PyMC Labs, 2022 to 2025, case study and blog posts",
+    "link": "https://www.pymc-labs.com/case-studies/hellofresh",
+    "note": "Berlin-based meal-kit company replaces black-box attribution with a Bayesian MMM over TV, social, podcasts and partners; reported 60 per cent lower prediction variance, 10x faster inference and about 30 per cent ROAS uplift across 15 markets, with a what-if budget simulator. The best multi-country Python example available.",
+    "course_use": "Session 4 anchor example and guest-talk target; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Heineken: MMM lighthouse markets Spain and Brazil (Meta)",
+    "author_source": "Meta Business, 2021 to 2023, case study; AudienceProject cross-media case 2023",
+    "link": "https://www.facebook.com/business/measurement/case-studies/heineken",
+    "note": "Global brewer uses two lighthouse markets to test measurement questions before rolling out; MMM showed Facebook ROI 2.3x the total media ROI in Spain and 3.5x the average in Brazil, now used as a \"compass\" for ongoing media decisions. Platform-sponsored, so discuss source bias.",
+    "course_use": "Session 4 cross-country example; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Zalando: experiments first, then MMM (engineering blog and research)",
+    "author_source": "Zalando Engineering, 2019, blog; Niklas Heusch, 2026, arXiv paper",
+    "link": "https://engineering.zalando.com/posts/2019/02/effectiveness-online-marketing.html",
+    "note": "Europe's largest fashion platform runs geo-based and audience-based randomised tests across 25 markets to measure incremental revenue, profit and acquisition, and its researchers now publish on reconciling MMM with those tests.",
+    "course_use": "Session 3 and 5; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Uber: Orbit, in-house Bayesian MMM and geo experiments",
+    "author_source": "Uber Marketing Data Science (Edwin Ng, Zhishi Wang, Athena Dai), 2021, paper and open-source library; Barajas et al., AdKDD 2020",
+    "link": "https://arxiv.org/pdf/2106.03322",
+    "note": "Time-varying-coefficient Bayesian MMM built from zero in-house, with lift tests ingested as priors; documents how a global platform company operationalises measurement.",
+    "course_use": "Session 3 (time-varying effects) example; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Bayer: unifying MMM and multi-touch attribution (TransUnion)",
+    "author_source": "TransUnion, 2023, vendor case study",
+    "link": "https://www.transunion.com/case-study/bayer-marketing-unification",
+    "note": "Leverkusen-based pharma and consumer-health group had conflicting MMM and MTA numbers; case describes aligning the two into one measurement programme. Short but a real DACH-headquartered example of the \"unified measurement\" problem.",
+    "course_use": "Session 5 discussion; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Resident, Central Retail Group and Lemonade (Meta Robyn adopters)",
+    "author_source": "Meta Marketing Science, 2021 to 2024, case studies",
+    "link": "https://facebookexperimental.github.io/Robyn/docs/case-studies/",
+    "note": "Three documented open-source MMM deployments: a US DTC group (+20 per cent revenue), a Thai retail conglomerate (budget reallocation worth up to 28 per cent revenue) and an insurtech using geo tests for calibration. Shows what adoption looks like outside the big consultancies.",
+    "course_use": "Session 3; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Kellogg's: faster MMM turnaround (MASS Analytics)",
+    "author_source": "MASS Analytics, 2022, vendor case study",
+    "link": "https://mass-analytics.com/marketing-mix-modeling-use-case/marketing-mix-modeling-use-case-faster-marketing-mix-modeling-kelloggs/",
+    "note": "FMCG example that treats media and trade spend together and focuses on speed of model refresh, which is the practical bottleneck in most MMM programmes.",
+    "course_use": "Session 5; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Akulaku, Suntory Wellness and Finder: Meridian in APAC (Think with Google)",
+    "author_source": "Google / Think with Google APAC, 2025, case articles",
+    "link": "https://business.google.com/us/think/measurement/marketing-mix-modelling-growth-engine/",
+    "note": "Early Meridian deployments in Indonesia, Japan and Australia; Akulaku's optimiser suggested 16 per cent more GMV at constant budget. Emerging-market angle, with the usual caveat that the platform publishes the results.",
+    "course_use": "Session 4 international examples; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Nielsen and TikTok MMM case study",
+    "author_source": "Nielsen, 2022, case study (PDF)",
+    "link": "https://www.nielsen.com/wp-content/uploads/sites/2/2022/03/Nielsen-TikTok-MMM-Case-Study.pdf",
+    "note": "Shows how a new channel gets measured inside a commercial MMM and how platform data partnerships shape results.",
+    "course_use": "Session 2 (channel data) example; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Caritas Switzerland and Swiss Post: cross-media MMM for a fundraising campaign (Exactag)",
+    "author_source": "Swiss Post Advertising / Exactag, 2023, case summary in German",
+    "link": "https://www.directpoint.ch/de/kampagnenprozess/erfolgskontrolle/marketing-mix-modeling-welche-kanaele-wirken-wirklich",
+    "note": "A DACH example: MMM on the \"Welt ohne Armut\" Christmas campaign attributed over half of donations to advertising, with direct mail most effective, then OOH and DOOH. Useful for students who read German and for the non-profit angle.",
+    "course_use": "Session 2 or 4 short example; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Measured: ten named brand MMM examples",
+    "author_source": "Measured, 2025, vendor article",
+    "link": "https://www.measured.com/faq/real-life-media-mix-modeling-mmm-examples-true-incrementality/",
+    "note": "Ten retail and DTC brands with one-paragraph outcomes from incrementality-calibrated MMM; a quick source of discussion vignettes. Search results also state that Unilever uses Measured for media measurement at scale (unverified detail).",
+    "course_use": "Session 5 warm-up; free.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Volkswagen: cross-media measurement across Germany, France and the UK (TikTok and Kantar)",
+    "author_source": "TikTok for Business with Kantar, 2023, case study",
+    "link": "https://ads.tiktok.com/business/en/inspiration/volkswagen-cross-media-case-study",
+    "note": "Not an MMM, but a three-country cross-media study for the ID. range that shows how brand-lift and reach studies feed into mix decisions; no public VW MMM was found.",
+    "course_use": "Session 4 side example; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Anonymised vendor cases from Gain Theory and Ipsos MMA",
+    "author_source": "Gain Theory (WPP), 2023, case study; Ipsos MMA, 2024, case study",
+    "link": "https://gaintheory.com/case-study/optimizing-marketing-investments/",
+    "note": "A multinational alcoholic-beverages company and a large financial-services firm; useful to show how consultancies present MMM programmes (governance, scenario planning), even if client names are withheld.",
+    "course_use": "Session 5 background; free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "examples",
+    "title": "Austrian and German market context",
+    "author_source": "Trending Topics (Vienna), 2025, article; ad agents and directpoint articles, 2024 to 2025",
+    "link": "https://www.trendingtopics.eu/marketing-trends-2025-ki-mix-modeling-und-neue-einkaufsassistenten/",
+    "note": "German-language coverage of MMM adoption in DACH (one source cites about a quarter of companies using MMM regularly; unverified figure). No public, named MMM implementation from an Austrian brand (Red Bull, Swarovski, Spar, A1) was found.",
+    "course_use": "Background; free.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "PyMC-Marketing",
+    "author_source": "PyMC Labs, 2023 to 2026, software (Python, Apache 2.0). Latest release 1.2.0, 29 September 2026; requires Python 3.12 or newer.",
+    "link": "https://pypi.org/project/pymc-marketing/",
+    "note": "The most complete open Bayesian MMM in Python: pluggable adstock and saturation, lift-test calibration, time-varying intercept and media effects via Hilbert-space Gaussian processes, budget optimiser with constraints, multidimensional (geo-level) MMM, plus CLV models. Mature, actively released, excellent example notebooks.",
+    "course_use": "S2 and S3 main lab tool; S5 calibration lab. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Google Meridian",
+    "author_source": "Google, 2025 to 2026, software (Python on TensorFlow Probability, Apache 2.0). Latest release 2.1.0, 25 September 2026; Python 3.10 or newer (repo states 3.11 to 3.13).",
+    "link": "https://pypi.org/project/google-meridian/",
+    "note": "Geo-level hierarchical Bayesian MMM with Hill saturation, adstock, ROI priors, reach and frequency, and a fixed or flexible budget optimiser with ROI constraints. The natural \"international\" tool: geos (countries, regions) are first-class and partially pooled. Replaces LightweightMMM.",
+    "course_use": "S3 lab (multi-country allocation) and comparison with PyMC-Marketing. Free; GPU helpful but not required for the demo data.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Orbit (KTR) by Uber",
+    "author_source": "Uber, 2020 to 2026, software (Python, Apache 2.0). Latest 1.1.5.1, 22 May 2026; Python 3.12 or newer.",
+    "link": "https://pypi.org/project/orbit-ml/",
+    "note": "Bayesian time-series package whose Kernel Time-varying Regression (KTR) model is the reference implementation of the Ng, Wang and Dai (2021) time-varying coefficient MMM. Also provides ETS, LGT and DLT forecasters.",
+    "course_use": "S4 (forecasting) and an advanced S2 demo of time-varying media effects. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "CausalPy",
+    "author_source": "PyMC Labs, 2022 to 2026, software (Python, Apache 2.0). Latest 0.9.0, 28 July 2026.",
+    "link": "https://pypi.org/project/CausalPy/",
+    "note": "One API for difference-in-differences (including staggered), synthetic control, geographical lift, interrupted time series, regression discontinuity, IV and IPW, with PyMC (Bayesian) or scikit-learn (OLS) back ends. Ideal for teaching quasi-experiments without R.",
+    "course_use": "S5 lab (DiD, synthetic control on a country roll-out). Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "GeoLift",
+    "author_source": "Meta (facebookincubator), 2021 to 2026, software (R, GPL 2 or later; version 2.7.5 in DESCRIPTION).",
+    "link": "https://github.com/facebookincubator/GeoLift",
+    "note": "End-to-end geo-experiment toolkit built on augmented synthetic control: power analysis and market selection, test design, lift inference and plots. Needs 25 or more pre-periods and about 20 or more geo units, which is a useful teaching constraint. R only.",
+    "course_use": "S5 reading and optional R demo; pair with CausalPy or Google's Trimmed Match (https://github.com/google/trimmed_match, Python, Apache 2.0) for a Python path.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "CausalImpact (tfcausalimpact Python port)",
+    "author_source": "Willian Fuks (port of Google's R CausalImpact, Brodersen et al. 2015), 2020 to 2026, software (Python, Apache 2.0). Latest 0.0.19, 20 September 2026.",
+    "link": "https://pypi.org/project/tfcausalimpact/",
+    "note": "Bayesian structural time-series counterfactual for a single treated series with control series, with results documented as equivalent to the R original. Good for \"what did the campaign or price change do\" questions where no geo split exists.",
+    "course_use": "S5 short lab. Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "statsmodels",
+    "author_source": "statsmodels developers, 2009 to 2026, software (Python, BSD 3-clause). Latest 0.15.0, 27 August 2026.",
+    "link": "https://pypi.org/project/statsmodels/",
+    "note": "OLS and log-log elasticities with proper inference tables, HAC standard errors, VIF and condition numbers for multicollinearity diagnostics, ETS and SARIMAX for forecasting. The baseline every MMM should be compared against.",
+    "course_use": "S1 lab (first MMM as OLS), S4 forecasting baselines. Free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "linearmodels",
+    "author_source": "Kevin Sheppard, 2017 to 2025, software (Python, NCSA licence). Latest 7.0, 21 October 2025.",
+    "link": "https://pypi.org/project/linearmodels/",
+    "note": "Panel estimators that statsmodels lacks: one- and two-way fixed effects, first differences, between and pooled, plus IV and system estimators, with clustered standard errors. The frequentist counterpart to partial pooling for country-by-week panels.",
+    "course_use": "S3 lab (country fixed effects versus hierarchical priors). Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Prophet and StatsForecast (forecasting baselines)",
+    "author_source": "Meta (Prophet 1.5.0, 5 October 2026, MIT) and Nixtla (StatsForecast 2.1.1, 16 July 2026, Apache 2.0), software (Python).",
+    "link": "https://pypi.org/project/prophet/",
+    "note": "Prophet gives an additive trend plus Fourier seasonality plus holidays model with regressors, which doubles as an intuition builder for MMM baselines. StatsForecast gives fast AutoARIMA, AutoETS, Theta and CES with exogenous regressors across hundreds of country series at once.",
+    "course_use": "S4 lab (country-level demand forecasts feeding budget scenarios). Free.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Synthetic MMM benchmark generators",
+    "author_source": "Niklas Heusch, 2026, software and paper (Jupyter, generator for \"A Synthetic Benchmark Dataset with Endogenous Marketing Spend for Validating MMMs\", arXiv 2608.21130); Meta siMMMulator (R, MIT); PyMC Labs mmm-param-recovery (Python, Apache 2.0, compares PyMC samplers and Meridian).",
+    "link": "https://github.com/niklas-heusch/mmm-materials",
+    "note": "Ground-truth data is the only way to grade an MMM. Heusch's generator is the first with endogenous spend (budget feedback, promo-calendar anticipation, TV bursts, performance chasing) plus simulated go-dark geo tests, which is exactly the confounding students need to see. No licence file shown on the Heusch repo.",
+    "course_use": "S2 and S3 assignments (fit a model, compare to known ROI); S5 for simulated geo tests. Free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Mutinex (GrowthOS)",
+    "author_source": "Mutinex, Sydney, 2020 to 2026, software and vendor (continuous MMM, scenario planning, agency partnerships such as dentsu).",
+    "link": "https://mutinex.co/product/growthos/",
+    "note": "Example of \"always-on\" MMM delivered as a platform with confidence intervals on scenarios; strong APAC and multi-market footprint. No academic programme found.",
+    "course_use": "Background; vendor-landscape slide in S3.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Cassandra",
+    "author_source": "Cassandra (http://cassandra.app), 2021 to 2026, software and vendor (no-code Bayesian MMM and geo incrementality; now offers a Meridian-based model).",
+    "link": "https://cassandra.app/marketing-mix-model",
+    "note": "Shows how open-source engines (Meridian) are wrapped into SaaS. Markets a free entry tier (\"Your MMM in 10 minutes\"), which could give students a hands-on UI without code (terms unverified).",
+    "course_use": "S3 demo of a vendor UI versus a notebook; check the free tier before class.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Sellforte",
+    "author_source": "Sellforte, Espoo (Finland), 2017 to 2026, software and vendor (SaaS MMM, daily forecasts, incrementality tests, \"agentic\" media planner).",
+    "link": "https://sellforte.com/",
+    "note": "European SaaS MMM with public explainer content, including a page on Meridian and a note on data granularity; clients across Nordics and Baltics (Musti Group, Finnish Design Shop) give a multi-country angle.",
+    "course_use": "Background; strong European guest-talk candidate (Helsinki, remote).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Analytic Partners (GPS Enterprise)",
+    "author_source": "Analytic Partners, New York with European offices, 1999 to 2026, software and vendor (GPS-Enterprise platform, ROI Genome benchmarks; Gartner MMM leader).",
+    "link": "https://analyticpartners.com/solutions/marketing-mix-modeling/",
+    "note": "The large-enterprise \"commercial analytics\" model: data ingestion to optimisation, cross-market benchmarks (ROI Genome). Useful for discussing what enterprises buy versus what open source gives.",
+    "course_use": "Background; S3 vendor landscape.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Nielsen MMM (now Circana)",
+    "author_source": "Nielsen, then Circana (acquisition completed 21 August 2025), vendor and report. Nielsen \"Marketing Mix Modeling Best Practices\" guide, 2022.",
+    "link": "https://www.nielsen.com/wp-content/uploads/sites/2/2022/09/Marketing-Mix-Modeling-Best-Practices-EN.pdf",
+    "note": "Decades of multi-country MMM practice; the best-practices PDF is a short, readable client-side checklist (granularity, data requirements). Note the ownership change when citing.",
+    "course_use": "S1 or background reading.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Ipsos MMA",
+    "author_source": "Ipsos MMA, 1990s to 2026, vendor (unified marketing measurement; Gartner MMM Magic Quadrant leader 2024 and 2025).",
+    "link": "https://mma.com/resources/analytic-fundamentals-what-is-marketing-mix-modeling/",
+    "note": "Clear statement of \"unified measurement\" (MMM plus attribution plus tests in one framework), the vendor positioning students will meet in practice.",
+    "course_use": "S5 reading on triangulation; background.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Measured",
+    "author_source": "Measured, 2017 to 2026, software and vendor (incrementality testing platform with test-calibrated MMM; pricing reported from about USD 50k per year).",
+    "link": "https://www.measured.com/media-mix-modeling/",
+    "note": "Good public FAQ material on when to use incrementality tests, attribution or MMM, and ten real-world MMM examples.",
+    "course_use": "S5 reading; background.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Haus",
+    "author_source": "Haus, 2021 to 2026, software and vendor (geo incrementality experiments, \"causal MMM\"; USD 55m funding to 2025).",
+    "link": "https://www.haus.io/incrementality-101",
+    "note": "Their \"Incrementality 101\" and geo-experiment fundamentals posts are short, well written primers on design, power and synthetic control in business language.",
+    "course_use": "S5 pre-reading for the geo-experiment session.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Lifesight",
+    "author_source": "Lifesight, Singapore and US, 2016 to 2026, software and vendor (no-code causal MMM, incrementality, attribution). Maintains the CC0 \"awesome-marketing-measurement\" list on GitHub.",
+    "link": "https://github.com/lifesight/awesome-marketing-measurement",
+    "note": "The awesome list (15 sections: open-source MMM, geo experiments, attribution, datasets, papers, courses, communities) is a handy vendor-neutral index for students. Lifesight announced an open-source forecasting engine \"Horizon\" but no repository was visible on their GitHub organisation (unverified).",
+    "course_use": "Background; give students the awesome list in week 1.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "MASS Analytics (MassTer)",
+    "author_source": "MASS Analytics (Dr Ramla Jarrar), London and Tunis, 2010s to 2026, software and vendor (MassTer MMM desktop software, Bayesian and hierarchical options; MMM Academy).",
+    "link": "https://mass-analytics.com/solutions",
+    "note": "One of the few vendors that packages teaching with the tool: free YouTube course, paid academy with certificate and software access, 2-week MassTer trial licences with their Udemy course. Listed price about GBP 12,000 per year; no formal academic licence found, worth asking.",
+    "course_use": "S2 reading (free course videos); vendor demo candidate. Trial licence free for two weeks.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Ekimetrics (Eki.Decisions)",
+    "author_source": "Ekimetrics, Paris (offices in London, New York, Dubai), 2006 to 2026, vendor and consultancy (MMM core with modules; Gartner \"Visionary\" 2025; Meta and TikTok measurement partner).",
+    "link": "https://www.ekimetrics.com/solutions/marketing-effectiveness",
+    "note": "European leader in multi-market MMM for FMCG and luxury; co-author of the Artefact and Meta Robyn comparison study. Their \"Bayesian MMM with limited data\" style posts are useful for small-country models.",
+    "course_use": "Background; European guest-talk candidate (Paris).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Keen Decision Systems",
+    "author_source": "Keen, Durham NC, 2010 to 2026, software and vendor (adaptive Bayesian MMM with real-time scenario planning).",
+    "link": "https://keends.com/news/free-access-to-mmm/",
+    "note": "Announced a free-access MMM programme (scope unverified); a mid-market example of self-serve forecasting and planning.",
+    "course_use": "Background; check the free-access terms for a student exercise.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "software",
+    "title": "Artefact",
+    "author_source": "Artefact, Paris, 2015 to 2026, consultancy and vendor (Google Meridian certified; custom hierarchical Bayesian and graphical causal MMM; Robyn versus GCM study with Meta on five international FMCG brands).",
+    "link": "https://www.artefact.com/news/artefact-achieves-google-meridian-certification/",
+    "note": "Shows how consultancies build on open-source engines and where they add causal structure (DAGs). The five-brand international comparison is directly relevant.",
+    "course_use": "S2 or S5 reading; European guest-talk candidate.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "OLS and log-log (constant elasticity) response models",
+    "author_source": "Hanssens, Parsons and Schultz, 2001, book (Market Response Models, 2nd ed., Springer, chapters on functional forms); Tellis, 2006, book chapter (\"Modeling Marketing Mix\", Handbook of Marketing Research, Sage).",
+    "link": "https://www.springer.com/us/book/9780792378266",
+    "note": "Defines the linear, multiplicative (log-log) and semi-log forms, elasticities and the economics behind them; Tellis is the compact 17-page primer.",
+    "course_use": "S1 reading; statsmodels lab. Paywalled (library access).",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Adstock variants (geometric, delayed, Weibull)",
+    "author_source": "Jin, Wang, Sun, Chan and Koehler, 2017, paper (Google Research technical report); Robyn documentation, \"Key features\" (geometric and Weibull adstock).",
+    "link": "https://research.google/pubs/bayesian-methods-for-media-mix-modeling-with-carryover-and-shape-effects/",
+    "note": "Jin et al. formalise carryover (geometric and delayed adstock) and shape effects in one Bayesian model; Robyn's docs explain the Weibull PDF and CDF variants used in practice.",
+    "course_use": "S2 core reading.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Hill and logistic saturation",
+    "author_source": "Jin et al., 2017 (as above, Hill shape function); Google Meridian documentation, \"Media saturation and lagging\".",
+    "link": "https://developers.google.com/meridian/docs/advanced-modeling/media-saturation-lagging",
+    "note": "Hill(x; ec, slope) with half-saturation point and slope is now the default in Meridian and Robyn; the docs show how it interacts with adstock and why the two are hard to separate.",
+    "course_use": "S2 lab (plot response curves, derive marginal ROI).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Ridge regression with hyperparameter search (Robyn approach)",
+    "author_source": "Hastie, Tibshirani and Friedman, 2009, book (Elements of Statistical Learning, 2nd ed., section 3.4 shrinkage methods, free PDF); Zhou et al., 2024, paper (\"Packaging Up Media Mix Modeling: An Introduction to Robyn's Open-Source Approach\", arXiv 2403.14674 and MSI working paper).",
+    "link": "https://hastie.su.domains/ElemStatLearn/",
+    "note": "ESL gives the L2 penalty and bias-variance trade-off; the Robyn paper documents the Nevergrad multi-objective search over adstock, Hill and lambda and the model-selection criteria.",
+    "course_use": "S2 reading; compare with Bayesian priors.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Hierarchical Bayesian regression (geo-level MMM)",
+    "author_source": "Sun, Wang, Jin, Chan and Koehler, 2017, paper (Geo-level Bayesian Hierarchical Media Mix Modeling, Google); Wang, Jin, Sun, Chan and Koehler, 2017, paper (hierarchical approach using category data).",
+    "link": "https://research.google/pubs/geo-level-bayesian-hierarchical-media-mix-modeling/",
+    "note": "The basis of Meridian: sub-national or multi-country units share priors, which tightens credible intervals and protects against unsound reallocation. The category paper shows how to borrow strength across brands or markets via informative priors.",
+    "course_use": "S3 core reading for cross-country allocation.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Time-varying coefficients and Gaussian processes",
+    "author_source": "Ng, Wang and Dai, 2021, paper (Bayesian Time Varying Coefficient Model with Applications to MMM, AdKDD 2021, arXiv 2106.03322); PyMC-Marketing notebook \"MMM with time-varying parameters\" (HSGP); Rasmussen and Williams, 2006, book (GPML, free PDF).",
+    "link": "https://arxiv.org/pdf/2106.03322",
+    "note": "Media effectiveness drifts; KTR (Orbit) and HSGP (PyMC-Marketing) are the two practical ways to let coefficients or baselines move smoothly over time.",
+    "course_use": "S2 advanced demo; S4 link to forecasting.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Fourier seasonality",
+    "author_source": "Hyndman and Athanasopoulos, 2021, book (Forecasting: Principles and Practice, 3rd ed., chapter 7 \"Time series regression models\", section on Fourier terms, free online); Taylor and Letham, 2018, article (Forecasting at Scale, The American Statistician 72(1), 37 to 45).",
+    "link": "https://otexts.com/fpp3/useful-predictors.html",
+    "note": "Fourier pairs are how Prophet, PyMC-Marketing and Meridian represent yearly seasonality with few parameters; fpp3 explains the choice of K.",
+    "course_use": "S2 and S4.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Panel fixed effects and partial pooling",
+    "author_source": "Gelman and Hill, 2007, book (Data Analysis Using Regression and Multilevel/Hierarchical Models, Cambridge, chapter 12 on partial pooling); linearmodels documentation (PanelOLS fixed effects).",
+    "link": "https://assets.cambridge.org/97805218/67061/frontmatter/9780521867061_frontmatter.pdf",
+    "note": "Makes the link between country fixed effects (no pooling), pooled OLS (complete pooling) and hierarchical priors (partial pooling), which is the central modelling decision in a multi-country MMM.",
+    "course_use": "S3 reading and lab. Gelman and Hill is paywalled; chapter 12 circulates as a PDF in many course sites.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Budget optimisation under constraints",
+    "author_source": "PyMC-Marketing notebook \"Budget Allocation with PyMC-Marketing\" (SLSQP with bounds and custom constraints, plus risk assessment and multi-objective variants); Google Meridian docs \"Budget optimization scenarios\" (fixed versus flexible budget, minimal marginal ROI or target ROI constraints).",
+    "link": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_budget_allocation_example.html",
+    "note": "Both docs show the same mathematics (maximise expected response subject to total budget and per-channel bounds) in code students can run, including uncertainty in the optimum.",
+    "course_use": "S3 lab (allocate across countries and channels with floor and cap constraints).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Forecasting with ETS, ARIMA and regression",
+    "author_source": "Hyndman and Athanasopoulos, 2021, book (fpp3 chapters 8 \"Exponential smoothing\", 9 \"ARIMA models\", 10 \"Dynamic regression models\"); StatsForecast documentation.",
+    "link": "https://otexts.com/fpp3/",
+    "note": "The standard, free text; dynamic regression (ARIMA errors with media regressors) is the bridge between forecasting and MMM.",
+    "course_use": "S4 core reading and lab.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Difference-in-differences",
+    "author_source": "Roth, Sant'Anna, Bilinski and Poe, 2023, article (What's trending in difference-in-differences? Journal of Econometrics 235(2), 2218 to 2244); CausalPy documentation.",
+    "link": "https://doi.org/10.1016/j.jeconom.2023.03.008",
+    "note": "Synthesises staggered adoption, parallel-trends violations and inference, with practitioner recommendations; CausalPy implements standard and staggered DiD.",
+    "course_use": "S5 reading and lab.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Synthetic control",
+    "author_source": "Abadie, 2021, article (Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects, Journal of Economic Literature 59(2), 391 to 425, open access); Brodersen et al., 2015, article (CausalImpact, Annals of Applied Statistics 9(1), 247 to 274).",
+    "link": "https://www.aeaweb.org/articles?id=10.1257/jel.20191450",
+    "note": "Abadie is the definitive guide to when synthetic control is credible (donor pool, pre-period fit, placebo tests); Brodersen gives the Bayesian state-space version used in CausalImpact.",
+    "course_use": "S5 reading; CausalPy and tfcausalimpact labs.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Geo experiments and power",
+    "author_source": "Vaver and Koehler, 2011, paper (Measuring Ad Effectiveness Using Geo Experiments, Google); Chen and Au, 2022, article (Robust causal inference for incremental return on ad spend with randomized paired geo experiments, Annals of Applied Statistics 16(1); Trimmed Match, arXiv 1908.02922) and Trimmed Match Design (arXiv 2105.07060).",
+    "link": "https://research.google/pubs/measuring-ad-effectiveness-using-geo-experiments/",
+    "note": "Vaver and Koehler is the original geo-based regression design; Trimmed Match adds robust paired designs and power-based pair selection. GeoLift's power tools and Haus's primers build on both.",
+    "course_use": "S5 core reading; power-calculation exercise with GeoLift or Trimmed Match.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Logistic (data-driven) attribution",
+    "author_source": "Shao and Li, 2011, paper (Data-driven multi-touch attribution models, KDD 2011, pages 258 to 264).",
+    "link": "https://doi.org/10.1145/2020408.2020453",
+    "note": "The first data-driven MTA: bagged logistic regression on touchpoint exposure plus a probabilistic second-order model for credit assignment; the reference point for all later MTA work.",
+    "course_use": "S5 reading. ACM paywall (library access).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Shapley value attribution",
+    "author_source": "Zhao, Mahboobi and Bagheri, 2018, paper (Shapley Value Methods for Attribution Modeling in Online Advertising, arXiv 1804.05327).",
+    "link": "https://arxiv.org/abs/1804.05327",
+    "note": "Clear derivation of ordered and unordered Shapley attribution with an efficient computation; the method behind Google Analytics' former data-driven attribution.",
+    "course_use": "S5 lab (compute Shapley credit on a synthetic journey dataset). Free.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Markov chain attribution",
+    "author_source": "Anderl, Becker, von Wangenheim and Schumann, 2016, article (Mapping the customer journey: Lessons learned from graph-based online attribution modeling, International Journal of Research in Marketing 33(3), 457 to 474).",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0167811616300349",
+    "note": "The removal-effect Markov attribution framework, from a German research team (Passau and ETH), with first- and higher-order chains and spillover findings; the basis of the R ChannelAttribution package.",
+    "course_use": "S5 reading. Elsevier paywall (WU library).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Calibration with lift tests",
+    "author_source": "Zhang, Wurm, Li, Wakim, Kelly, Price and Liu, 2024, paper (Media Mix Model Calibration With Bayesian Priors, Google Research); PyMC-Marketing notebooks \"Lift test calibration\" and \"Mitigating unobserved confounders with lift test likelihoods\".",
+    "link": "https://research.google/pubs/media-mix-model-calibration-with-bayesian-priors/",
+    "note": "Reparametrising channel effects as ROI and placing experiment-informed priors on them is now the industry standard (Meridian ROI priors, Robyn calibration); the PyMC-Marketing notebooks show it in code with simulated confounding.",
+    "course_use": "S5 lab linking experiments back into the MMM.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "methods",
+    "title": "Identifiability and multicollinearity diagnostics",
+    "author_source": "Chan and Perry, 2017, paper (Challenges and Opportunities in Media Mix Modeling, Google); Chen, Chan, Perry, Jin, Sun, Wang and Koehler, 2018, paper (Bias Correction for Paid Search in Media Mix Modeling, arXiv 1807.03292); statsmodels VIF.",
+    "link": "https://research.google/pubs/challenges-and-opportunities-in-media-mix-modeling/",
+    "note": "Chan and Perry list the structural problems (collinear spend, selection bias, limited variation, ad-hoc functional forms); the paid-search paper gives a back-door correction. Together with VIF and prior-posterior checks they are the honest \"what can this model not tell you\" session.",
+    "course_use": "S2 reading and a diagnostics checklist students apply to their own model.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Google Meridian simulated geo-level data",
+    "author_source": "Google, 2025, dataset in the Meridian repo; Apache 2.0",
+    "link": "https://raw.githubusercontent.com/google/meridian/refs/heads/main/meridian/data/simulated_data/csv/geo_all_channels.csv",
+    "note": "6,240 rows: 40 geos x 156 weeks (25 January 2021 to 15 January 2024), 5 paid channels with impressions and spend, 1 organic channel, 2 controls, promo flag, conversions, revenue per conversion and population (20 columns, about 1 MB). Sibling files add reach and frequency, national-level and a \"hypothetical\" future scenario for budget optimisation.",
+    "course_use": "Session 3 lab alternative (hierarchical geo model and allocation); the geos can be relabelled as countries.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "PyMC-Marketing example data (mmm_example.csv)",
+    "author_source": "PyMC Labs, 2023 onward, dataset in the pymc-marketing repo; Apache 2.0",
+    "link": "https://raw.githubusercontent.com/pymc-labs/pymc-marketing/main/data/mmm_example.csv",
+    "note": "179 weekly rows (2 April 2018 to 30 August 2021), 2 media channels, 2 event dummies, trend and seasonality helpers (8 columns, 12 KB). Tiny, so sampling is fast; matches the library's own tutorial.",
+    "course_use": "Session 2 warm-up before the Alpenglow Germany data.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Robyn demo data (dt_simulated_weekly)",
+    "author_source": "Meta Marketing Science, 2021 onward, dataset shipped with Robyn (R and Python); MIT",
+    "link": "https://raw.githubusercontent.com/facebookexperimental/Robyn/main/python/src/robyn/tutorials/resources/dt_simulated_weekly.csv",
+    "note": "208 weekly rows (23 November 2015 to 11 November 2019), 12 columns: revenue, TV, OOH, print, Facebook (impressions and spend), search (clicks and spend), competitor sales, events, newsletter. The most widely used MMM demo, so students can compare their Python results with countless Robyn write-ups.",
+    "course_use": "Session 2 lab or exercise (reproduce a Robyn-style decomposition in PyMC-Marketing).",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Synthetic benchmark with endogenous marketing spend",
+    "author_source": "arXiv 2608.21130, 2026, paper plus seeded generator and reference instance with notebooks; licence stated in the repository (unverified)",
+    "link": "https://arxiv.org/html/2608.21130",
+    "note": "Unlike Robyn and Meridian simulations, spend here reacts to seasons, promotions and past performance, so it tests whether a model survives endogeneity; ground truth is known.",
+    "course_use": "Session 3 or 5 stretch exercise: fit the course model and check recovery of true ROAS.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "siMMMulator and PySiMMMulator (simulation packages)",
+    "author_source": "Meta Marketing Science (R, MIT, author Jessica Nguyen) and PySiMMMulator (Python port, PyPI 0.6.2, 2024, Ryan Duecker); software",
+    "link": "https://github.com/facebookexperimental/siMMMulator",
+    "note": "Generate MMM data from first principles (baseline, spend, impressions, conversions) with user-chosen true ROI, so students can make their own ground-truth tests.",
+    "course_use": "Session 5 project option: build a simulator for a seventh market.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Meta GeoLift sample data",
+    "author_source": "Meta, 2021 onward, datasets in the GeoLift R package (GeoLift_PreTest, GeoLift_Test, GeoLift_Test_MultiCell); MIT",
+    "link": "https://github.com/facebookincubator/GeoLift/tree/main/data",
+    "note": "Daily sales by location for pre-test and test periods, built for synthetic-control geo experiments; the pre-test file is the standard power-analysis example.",
+    "course_use": "Session 4 geo-lift lab (load the .rda files with pyreadr).",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Kaggle: Sample Media Spends Data",
+    "author_source": "Kaggle user yugagrawal95, dataset; licence not visible from here (unverified)",
+    "link": "https://www.kaggle.com/datasets/yugagrawal95/sample-media-spends-data",
+    "note": "3,051 rows, 9 columns, 113 weeks (January 2018 to February 2020), 8 digital channels (Facebook, Google search, email, YouTube, affiliate and more) plus sales; channel-week long format is good practice for reshaping.",
+    "course_use": "Session 2 exercise; requires a Kaggle account.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Kaggle: MMM demo dataset (bike sales)",
+    "author_source": "Kaggle user mattwalentosky, dataset; licence not visible from here (unverified)",
+    "link": "https://www.kaggle.com/datasets/mattwalentosky/mmmdemodataset",
+    "note": "Five years of fictitious weekly bike sales driven by Google Trends plus marketing spend; useful for showing how a search-interest covariate can absorb media effects.",
+    "course_use": "Session 4 forecasting exercise.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Dunnhumby: The Complete Journey and Breakfast at the Frat",
+    "author_source": "dunnhumby Source Files, retail transaction and promotion datasets; free download under dunnhumby terms (non-commercial; permission needed to publish results, per search summary; unverified)",
+    "link": "https://www.dunnhumby.com/source-files/",
+    "note": "Complete Journey: 2,500 households over two years with transactions, coupons and campaigns. Breakfast at the Frat: 156 weeks of store-product sales with base price, shelf price and display/feature flags across four categories, the cleanest free data for price and promotion elasticities.",
+    "course_use": "Session 1 elasticity lab (Breakfast at the Frat); Session 4 attribution background.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Dominick's Finer Foods scanner data",
+    "author_source": "Kilts Center, Chicago Booth, store-level weekly scanner data 1989 to 1997; free for academic use with registration. Eurostat's cleaned version and code: EUPL 1.2",
+    "link": "https://www.chicagobooth.edu/research/kilts/research-data/dominicks",
+    "note": "About 100 million observations, 18,000 UPCs, 29 categories, 90+ stores, almost 400 weeks; the classic for store-level price response and a reasonable stand-in for a \"geo\" panel.",
+    "course_use": "Session 1 or 3 (treat stores as geos); subset one category before class.",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "NielsenIQ via the Kilts Center (Consumer Panel, Retail Scanner, Ad Intel)",
+    "author_source": "Kilts Center, Chicago Booth; academic subscription, US data only",
+    "link": "https://www.chicagobooth.edu/research/kilts/research-data/nielseniq/pricing",
+    "note": "Weekly retail scanner data since 2006 from 90+ chains plus advertising occurrences by media type: the only large public-to-academics source that combines sales and advertising.",
+    "course_use": "Background and thesis work only. Cost USD 3,000 for three years for one dataset (faculty subscription; up to two PhD students free); not usable for a 30-student class.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Google Trends",
+    "author_source": "Google, ongoing; web tool and unofficial Python access (pytrends)",
+    "link": "https://trends.google.com/trends/",
+    "note": "Free weekly search-interest indices by country, the standard proxy for demand and for organic interest in all six Alpenglow markets; index values (0 to 100) are relative, not volumes.",
+    "course_use": "Session 3 and 4 covariate; mind rate limits and the terms of service.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "Eurostat",
+    "author_source": "European Commission, ongoing; database and API (Python package eurostat); CC BY 4.0",
+    "link": "https://ec.europa.eu/eurostat/web/main/data/database",
+    "note": "Monthly HICP, retail trade volume, consumer confidence and unemployment for AT, DE, FR, IT, NL, PL; the natural macro controls for a cross-country MMM and the source for PPP price-level adjustments.",
+    "course_use": "Session 3 (controls and price-level normalisation).",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "data",
+    "title": "World Bank World Development Indicators",
+    "author_source": "World Bank, ongoing; API (Python package wbgapi); CC BY 4.0",
+    "link": "https://data.worldbank.org/",
+    "note": "Annual GDP per capita, PPP conversion factors, population and internet penetration for every country; needed when extending the model to emerging markets or scaling spend across currencies.",
+    "course_use": "Session 3 and 5 (emerging-market extension in projects).",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Juan Camilo Orduz",
+    "author_source": "VP Marketing Analytics, PyMC Labs; Berlin; person (core author of PyMC-Marketing's MMM module)",
+    "link": "https://www.pymc-labs.com/blog-posts/mmm_roas_lift",
+    "note": "Writes the most detailed public worked examples of Bayesian MMM, hierarchical geo models and lift-test calibration in Python; his notebooks are the closest public analogue to Session 3's lab.",
+    "course_use": "Session 3 background reading; strong remote guest-talk candidate (Berlin, same time zone) on calibrating an MMM with experiments.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Thomas Wiecki",
+    "author_source": "CEO and co-founder, PyMC Labs; co-author of PyMC; Berlin area; person",
+    "link": "https://cd.linkedin.com/posts/twiecki_pymc-marketing-activity-7049716496519811072-Ojbv",
+    "note": "The public voice of Bayesian MMM; frequent posts on priors, identifiability and why Bayesian beats ridge for MMM; case studies with HelloFresh and Bolt.",
+    "course_use": "Session 2-3 motivation; guest-talk candidate (vendor and open-source angle), realistic by video.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Gufeng Zhou",
+    "author_source": "Marketing Science, Meta; creator of Robyn; London; person",
+    "link": "https://uk.linkedin.com/in/gufeng-zhou-96401721",
+    "note": "Author of the most used open-source MMM in industry; his Medium and LinkedIn pieces on experiment calibration explain Robyn's design choices (ridge, Nevergrad, calibration).",
+    "course_use": "Session 2 (Robyn as the R and ridge benchmark); vendor-side guest talk angle (Meta Marketing Science Europe).",
+    "status": "neu; in Suchergebnis bestätigt",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Google Meridian team",
+    "author_source": "Google Meridian Marketing Mix Modeling Team (the README cites the team, not individuals); person/team",
+    "link": "https://github.com/google/meridian",
+    "note": "Meridian is the reference implementation of geo-level hierarchical Bayesian MMM with reach and frequency, exactly the structure used in Session 3; their docs on geo selection are directly reusable.",
+    "course_use": "Session 3 (geo hierarchy); follow via the GitHub repo and the Think with Google measurement pages. No single named person to follow; see JSM 2025 talk \"Meridian: Google's Open-Source Marketing Mix Model\" (https://ww2.amstat.org/meetings/jsm/2025/onlineprogram/abstract.cfm?sid=2361&tid=2363, unverified).",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Harald van Heerde",
+    "author_source": "Research Professor of Marketing, UNSW Sydney; Fellow, Tilburg University; person",
+    "link": "https://www.unsw.edu.au/staff/harald-van-heerde",
+    "note": "Leading author on promotion response, decomposition of sales lifts, and marketing effectiveness across business cycles; essential for the baseline vs incremental logic.",
+    "course_use": "Session 2 background (promotion decomposition), Session 1 elasticities.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Marnik Dekimpe",
+    "author_source": "Research Professor of Marketing, Tilburg University, and Professor, KU Leuven; person",
+    "link": "https://www.researchgate.net/scientific-contributions/Marnik-G-Dekimpe-80951987",
+    "note": "Persistence modelling and long-run effects; cross-country work on private labels and retail in Europe fits the international angle.",
+    "course_use": "Session 3 background (cross-country heterogeneity); realistic academic guest from the Benelux.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Peter Danaher",
+    "author_source": "Professor of Marketing and Econometrics, Monash University; Melbourne; person",
+    "link": "https://research.monash.edu/en/persons/peter-danaher/",
+    "note": "Media exposure, reach and frequency modelling and multichannel attribution with field tests; directly relevant to Meridian's reach and frequency extension.",
+    "course_use": "Session 4 attribution background.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Jan-Benedict Steenkamp",
+    "author_source": "C. Knox Massey Distinguished Professor of Marketing, UNC Kenan-Flagler; Editor in Chief, Journal of Marketing; person",
+    "link": "https://www.kenan-flagler.unc.edu/faculty/directory/jan-benedict-steenkamp/",
+    "note": "The international marketing reference (global brands, emerging markets, private label); frames why effects differ across the six Alpenglow markets.",
+    "course_use": "Session 3 (cross-country) and Session 5 framing.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Raoul Kübler",
+    "author_source": "Professor of Marketing, ESSEC Business School; Cergy/Paris; German, previously Münster; person",
+    "link": "https://faculty.essec.edu/en/cv/kubler-raoul/",
+    "note": "Co-author of \"Applied Marketing Analytics Using R\" (SAGE, with Yildirim), teaches MMM hands-on; posts on how MMM results get manipulated are perfect critical-thinking material.",
+    "course_use": "Session 2 reading; realistic academic guest speaker (German speaker, European time zone, teaches exactly this material).",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Gokhan Yildirim",
+    "author_source": "Associate Professor of Marketing, Imperial College Business School; London; person",
+    "link": "https://www.researchgate.net/scientific-contributions/Gokhan-Yildirim-2006570428",
+    "note": "MMM and multichannel budget allocation research (direct mail vs email field tests, JAMS 2023); co-author of the applied R textbook.",
+    "course_use": "Session 3 budget allocation background.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Nicolas Padilla",
+    "author_source": "Assistant Professor of Marketing, London Business School; person",
+    "link": "https://www.london.edu/faculty-and-research/faculty-profiles/n/nicolas-padilla",
+    "note": "Works explicitly on \"modern marketing mix models\" with first-party data and machine learning; one of few academics engaging with the Bayesian MMM revival.",
+    "course_use": "Session 3 background; remote guest candidate (London).",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Bernd Skiera",
+    "author_source": "Professor, Chair of Electronic Commerce, Goethe University Frankfurt; person",
+    "link": "https://www.marketing.uni-frankfurt.de/de/professoren/skiera/prof-dr-bernd-skiera/publikationen.html",
+    "note": "Online advertising economics, attribution, and the GDPR tracking study (https://arxiv.org/pdf/2411.06862); the German-speaking reference on why attribution breaks and MMM returns.",
+    "course_use": "Session 4 attribution; realistic guest (Frankfurt, two hours from Vienna by air).",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Christian Schulze",
+    "author_source": "Associate Professor of Marketing, Frankfurt School of Finance and Management; person",
+    "link": "https://scholar.google.com/citations?user=bt2edqYAAAAJ&hl=en",
+    "note": "Digital marketing and customer analytics with a strong quantitative bent; co-author with Skiera on marketing ROI and attribution.",
+    "course_use": "Session 4 background; Frankfurt-based guest candidate.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Martin Spann",
+    "author_source": "Professor and Director, Institute of Electronic Commerce and Digital Markets, LMU Munich; person",
+    "link": "https://ieeexplore.ieee.org/author/37086629306",
+    "note": "Pricing, mobile and digital markets; useful for the price elasticity and digital channel parts.",
+    "course_use": "Session 1 background; Munich guest candidate.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Mike Taylor",
+    "author_source": "Independent, co-founder of Ladder (marketing agency), author; London; person",
+    "link": "https://getrecast.com/author/miketaylor/",
+    "note": "Practitioner tutorials comparing Robyn, LightweightMMM and PyMC-Marketing from a marketer's view; also writes on AI-assisted analysis, matching the course's AI-coding approach.",
+    "course_use": "Session 2 optional reading.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Eric Seufert",
+    "author_source": "Heracles Media, author of Mobile Dev Memo; person",
+    "link": "https://mobiledevmemo.com/",
+    "note": "Explains the privacy-driven revival of MMM (ATT, cookie loss) better than anyone; good for the \"why now\" argument.",
+    "course_use": "Session 1 motivation.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Jim Gianoglio",
+    "author_source": "Founder, Cauzle Analytics and MMM Hub; USA; person",
+    "link": "https://www.linkedin.com/in/jimgianoglio/",
+    "note": "Runs the MMM Hub newsletter, Slack and podcast; curates practically every new MMM resource. Marketing Analytics Summit talk \"Cracking the Code: Mastering Modern MMM\" https://www.youtube.com/watch?v=FEG-Vtj7Y9Q",
+    "course_use": "Point students to MMM Hub in Session 1; the YouTube talk is a 40-minute overview for Session 2.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Kevin Hartman",
+    "author_source": "Director of Analytics, Google; author of \"Digital Marketing Analytics: In Theory and in Practice\"; person",
+    "link": "https://www.goodreads.com/book/show/53490687-digital-marketing-analytics",
+    "note": "Accessible textbook framing of measurement choices; useful for students without a statistics background.",
+    "course_use": "Background.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Dominik Papies",
+    "author_source": "Professor of Marketing, University of Tübingen; person",
+    "link": "https://www.linkedin.com/in/dominik-papies-6aa204183/",
+    "note": "Market response models and the standard reference chapter on endogeneity in marketing models; exactly the \"why is media spend endogenous\" problem in Session 2 and 3.",
+    "course_use": "Session 2 reading on endogeneity; German guest candidate.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Jochen Hartmann",
+    "author_source": "Professor of Digital Marketing, TUM School of Management, Munich; person",
+    "link": "https://www.mgt.tum.de/professors-1/info/prof-dr-jochen-hartmann",
+    "note": "Generative AI, multimodal ad analytics and unstructured data; complements MMM with creative-quality covariates.",
+    "course_use": "Session 4 or 5 extension; Munich guest candidate.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Thomas Reutterer, WU Vienna",
+    "author_source": "Professor of Marketing, Head of Institute for Marketing and Customer Analytics, WU Vienna; academic",
+    "link": "https://www.wu.ac.at/en/mca/institute/meet-our-team",
+    "note": "In-house WU colleague with a long record in marketing analytics and Bayesian methods; zero travel cost.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Nils Wlömert and Nadia Abou Nabout, WU Vienna",
+    "author_source": "Professors, Retailing and Data Science (Wlömert) and AI in Marketing Analytics (Abou Nabout), WU Department of Marketing; academic",
+    "link": "https://www.wu.ac.at/en/marketing/about-us/department-struktur/",
+    "note": "Abou Nabout works on online advertising auctions and attribution, Wlömert on retail data science; both are on campus.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Analytic Partners, Hamburg and Munich",
+    "author_source": "Analytic Partners GmbH (Gartner MMM Magic Quadrant leader 2025); Hamburg office opened 2017 under Achim Schoeneich (Managing Director Germany, role as of 2017); vendor",
+    "link": "https://analyticpartners.com/news-blog/2017/09/welcome-achim-schoeneich-lead-new-office-germany/",
+    "note": "The largest commercial MMM shop with a German-speaking team; they run multi-country models for DACH brands.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Adtriba (now part of Funnel), Hamburg",
+    "author_source": "János Moldvay, founder and CEO, Adtriba; acquired by Funnel in 2024; vendor",
+    "link": "https://funnel.io/press-releases/marketing-intelligence-platform-funnel-acquires-measurement-firm-adtriba",
+    "note": "German start-up that combined MMM, multi-touch attribution and incrementality for clients such as FlixBus; the Anyscale post describes their Bayesian MMM engineering.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Nexoya, Zurich",
+    "author_source": "Nexoya AG, Zurich-based AI marketing budget optimisation platform active in CH, DE, AT, IT, UK; vendor",
+    "link": "https://www.nexoya.com/press/",
+    "note": "Regression-based cross-channel attribution and automated budget reallocation for brands such as Zurich Insurance, Generali, Swisscom; a Swiss example of operationalised allocation.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Mediaplus Austria (Serviceplan Group), Vienna",
+    "author_source": "Mediaplus Austria GmbH and Co KG, Vienna media agency; group Data and AI unit in Munich; agency",
+    "link": "https://at.linkedin.com/company/mediaplus-austria",
+    "note": "Largest independent media agency in DACH with an in-house modelling offer; Vienna office means an in-person visit is realistic.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "dentsu Austria and Merkle, Vienna",
+    "author_source": "dentsu Austria GmbH, Vienna; Merkle (dentsu) runs a Marketing Measurement and Optimisation practice and is a Google Meridian partner (partner status unverified); agency",
+    "link": "https://medianet.at/markets/mediaagenturen/dentsu-austria-gmbh-5524.html",
+    "note": "Network agency with a Vienna office and a Meridian-based measurement practice in the group.",
+    "course_use": "",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "GroupM Austria (WPP), Vienna",
+    "author_source": "GroupM Austria, about 350 staff in Vienna; agency",
+    "link": "https://www.linkedin.com/company/groupm-austria",
+    "note": "WPP's media investment arm; GroupM's global analytics units (Choreograph, [m]Science) run MMM for Austrian clients.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "e-dialog, Vienna",
+    "author_source": "e-dialog GmbH, Vienna performance marketing and analytics agency listing Marketing Mix Modelling among its services; agency (unverified: site blocked by proxy, mention from search summary only)",
+    "link": "https://www.e-dialog.at/",
+    "note": "Small Vienna agency doing Google-stack analytics and MMM for mid-sized Austrian advertisers; practical scale for student projects.",
+    "course_use": "",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Red Bull, Salzburg (Global Brand Marketing, marketing data science)",
+    "author_source": "Red Bull GmbH, Fuschl am See; public job posting \"Marketing Data Science Specialist\" describing in-house MMM work in R and Python; brand",
+    "link": "https://builtin.com/job/marketing-data-science-specialist/3710572",
+    "note": "Austria's most international brand runs MMM in-house across markets; a textbook case for Session 3's cross-country allocation.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Sellforte (clients in DACH: bonprix, Hamburg)",
+    "author_source": "Sellforte, Helsinki-based MMM SaaS for retail and ecommerce; bonprix case; vendor",
+    "link": "https://sellforte.com/customer-news/bonprix",
+    "note": "European SaaS MMM with a published multi-country retail case (bonprix across Europe); contrasts with consultancy-style MMM.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Ekimetrics (Paris, London; DACH projects)",
+    "author_source": "Ekimetrics, Gartner MMM Magic Quadrant Visionary 2025, Forrester Wave leader Q1 2026; consultancy",
+    "link": "https://www.ekimetrics.com/articles/ekimetrics-recognized-in-the-2025-gartner-magic-quadrant-for-marketing-mix-modeling",
+    "note": "Runs global measurement programmes with branding, local activation and structural variables; strong on the \"holistic MMM\" argument.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Kantar (LIFT ROI), Munich and Vienna offices",
+    "author_source": "Kantar, Gartner MMM Magic Quadrant Visionary 2025; LIFT ROI MMM product; research vendor",
+    "link": "https://www.kantar.com/Campaigns/LIFT-ROI",
+    "note": "Combines brand tracking with MMM; useful to show how brand equity enters a mix model.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Beiersdorf, Hamburg (Commercial Mix Modelling)",
+    "author_source": "Beiersdorf AG; a public LinkedIn profile (Christian Jähnert, role unverified) describes media data analytics and \"Commercial Mix Modeling (econometrics)\" in-house; brand",
+    "link": "https://www.linkedin.com/in/christian-jaehnert/",
+    "note": "FMCG brand owner (Nivea) with in-house econometrics across many countries; comparable category dynamics to Alpenglow.",
+    "course_use": "",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Henkel, Düsseldorf (Meridian adopter)",
+    "author_source": "Henkel AG; search results indicate Henkel introduced Google Meridian for MMM (unverified; named profile Gabriel Marambaia, role unverified); brand",
+    "link": "https://www.linkedin.com/in/gabrielmarambaia/",
+    "note": "A large DACH brand using the same open-source stack as the course.",
+    "course_use": "",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Raoul Kübler, ESSEC (German academic abroad)",
+    "author_source": "See 1a; German-speaking professor teaching MMM in R; academic",
+    "link": "https://faculty.essec.edu/en/cv/kubler-raoul/",
+    "note": "Teaches the same material at master level and has written on MMM manipulation; fluent German.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Dominik Papies, Tübingen",
+    "author_source": "Professor of Marketing, University of Tübingen; academic",
+    "link": "https://www.linkedin.com/in/dominik-papies-6aa204183/",
+    "note": "The German reference on endogeneity in market response models.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Bernd Skiera, Frankfurt",
+    "author_source": "Professor, Goethe University Frankfurt; academic",
+    "link": "https://www.marketing.uni-frankfurt.de/de/professoren/skiera/prof-dr-bernd-skiera/publikationen.html",
+    "note": "Attribution and privacy regulation research; close to Vienna.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Markus Christen, HEC Lausanne",
+    "author_source": "Full Professor of Marketing, HEC Lausanne (ex INSEAD, ETH engineering background); academic",
+    "link": "https://hecnet.unil.ch/hec/recherche/fiche?pnom=mchristen&dyn_lang=en",
+    "note": "Marketing models and value-of-information research; Swiss academic voice on how much a model is worth to a decision maker.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "people",
+    "title": "Jochen Hartmann, TUM Munich",
+    "author_source": "Professor of Digital Marketing, TUM; academic",
+    "link": "https://www.mgt.tum.de/professors-1/info/prof-dr-jochen-hartmann",
+    "note": "Generative AI and ad creative analytics; one flight from Vienna.",
+    "course_use": "",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "MMM Hub (newsletter, Slack community, podcast)",
+    "author_source": "Jim Gianoglio (Cauzle Analytics), ongoing since 2023; website and community",
+    "link": "https://www.mmmhub.org",
+    "note": "The de facto practitioner hub: weekly newsletter, Slack workspace, curated resources and a podcast; PyMC-Marketing points its own users there.",
+    "course_use": "Session 1 onboarding; students join the Slack and newsletter.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "PyMC Discourse, pymc-marketing category, and the Bayesian Discord",
+    "author_source": "PyMC community, ongoing; forum",
+    "link": "https://discourse.pymc.io/t/getting-started-with-pymc-marketing-questions-and-doubts/14447",
+    "note": "Where PyMC-Marketing maintainers answer modelling questions (hierarchical channel structures, priors, sampling problems); the threads above are directly about Session 3 models.",
+    "course_use": "Session 3 lab support channel; encourage students to search before asking.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "Robyn GitHub Discussions and Facebook group",
+    "author_source": "Meta Marketing Science, ongoing; GitHub Discussions (Announcements, General, Ideas, Polls, Q&A, Show and tell)",
+    "link": "https://github.com/facebookexperimental/Robyn/discussions",
+    "note": "Active Q&A on calibration, budget allocation and hyperparameters; the Facebook group linked from the README is where Meta's team interacts with users.",
+    "course_use": "Session 2 (R benchmark) reference.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "Google Meridian GitHub and developer docs",
+    "author_source": "Google, 2025 onward; repository and documentation",
+    "link": "https://github.com/google/meridian",
+    "note": "Issues and docs are the practical community for geo-hierarchical MMM; the geo-selection guidance maps onto choosing markets in Session 3.",
+    "course_use": "Session 3 reading.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "ISMS Marketing Science Conference",
+    "author_source": "INFORMS Society for Marketing Science; annual academic conference",
+    "link": "https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2026-ISMS-Marketing-Science-Conference",
+    "note": "The main quantitative marketing conference; MMM, attribution and experiment sessions every year.",
+    "course_use": "Background; for students considering a PhD or research-based thesis.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "EMAC Annual and Fall Conferences",
+    "author_source": "European Marketing Academy; annual (spring) and regional (fall) conferences",
+    "link": "https://www.emac2026conference.org/",
+    "note": "Europe's marketing academic community; the Rome 2027 meeting is the realistic one for WU students and the instructor.",
+    "course_use": "Background; thesis supervision pipeline.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "PyData Amsterdam and PyCon DE and PyData",
+    "author_source": "NumFOCUS PyData; annual conferences",
+    "link": "https://amsterdam.pydata.org/",
+    "note": "PyMC Labs and PyMC-Marketing talks appear at PyData regularly (Wiecki's \"Bayesian Marketing Science\" was a PyData talk); the recordings are free on YouTube.",
+    "course_use": "Session 3 video pre-read; next in-person editions are 2027.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "Meta Marketing Mix Modeling Summit",
+    "author_source": "Meta Marketing Science, recurring practitioner summit (invitation-based); event",
+    "link": "https://getrecast.com/meta-mmm-summit/",
+    "note": "Where Meta, vendors (Nielsen, Accenture, Ekimetrics) and brands compare MMM practice; recaps are a good snapshot of industry consensus.",
+    "course_use": "Session 2 background; 2026 date not public.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "Marketing Analytics Summit",
+    "author_source": "Marketing Analytics Summit (formerly eMetrics), annual practitioner conference, USA; event",
+    "link": "https://marketinganalyticssummit.com/session/cracking-the-code-mastering-modern-marketing-mix-modeling/",
+    "note": "Practitioner-level MMM talks with recordings on YouTube.",
+    "course_use": "Session 2 video; 2027 dates unverified.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "Marketing Mix Modeling GitHub organisation",
+    "author_source": "Community-curated GitHub organisation consolidating Meridian, Robyn, PyMC-Marketing, LightweightMMM, Unified-MMM and a Papers repo; website",
+    "link": "https://github.com/marketing-mix-modeling",
+    "note": "One place to compare the open-source MMM stacks and find the papers list.",
+    "course_use": "Session 2 reference.",
+    "status": "neu; Link geprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "Measure Up and Funnel Reboot podcasts",
+    "author_source": "Measure Up (podcast on marketing measurement) and Funnel Reboot episode 170 with Jim Gianoglio; audio",
+    "link": "https://www.measureup.show/",
+    "note": "Interview format makes trade-offs (cost, data needs, calibration) accessible for non-statisticians.",
+    "course_use": "Optional listening, Session 1 or 2.",
+    "status": "neu; Link ungeprüft",
+    "files": []
+  },
+  {
+    "category": "communities",
+    "title": "Marketing Science Institute (MSI) working papers",
+    "author_source": "MSI, ongoing; report series",
+    "link": "https://thearf-org-unified-admin.s3.amazonaws.com/MSI_Report_24-147.pdf",
+    "note": "Practitioner-facing academic papers on MMM (Runge and co-authors); free PDFs.",
+    "course_use": "Session 2 and 4 readings.",
+    "status": "neu; Link geprüft",
+    "files": []
+  }
+]

@@ -32,12 +32,15 @@ CATEGORIES = {
     "examples": ("Praxisbeispiele", "Praxisbeispiele"),
     "software": ("Software", "Software"),
     "data": ("Data", "Data"),
+    "methods": ("Statistische Methoden", "Statistische Methoden"),
+    "communities": ("Communities & Events", "Communities & Events"),
     "people": ("People", "People"),
 }
 ALIASES = {label.lower(): key for key, pair in CATEGORIES.items() for label in pair}
 ALIASES.update({"real world examples": "examples", "real-world examples": "examples",
                 "videos": "tutorials", "video tutorials": "tutorials", "datasets": "data",
-                "websites / blogs": "websites", "experts": "people", "guest speakers": "people"})
+                "websites / blogs": "websites", "experts": "people", "guest speakers": "people",
+                "personenkontakte": "people", "stat. methoden": "methods"})
 COLUMNS = ["Kategorie", "Titel / Name", "Autor / Quelle / Firma", "Link", "Notiz",
            "Verwendung im Kurs", "Status"]
 MONTHS_DE = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August",

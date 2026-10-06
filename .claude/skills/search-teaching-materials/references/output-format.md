@@ -46,6 +46,8 @@ Every research agent returns a JSON list of rows with these keys. Strings are pl
 | `examples` | Praxisbeispiele | documented real-world applications: company blog posts, conference talks, Kaggle solutions, public analyses |
 | `software` | Software | packages, libraries, apps, notebooks (with version and licence) |
 | `data` | Data | datasets and data portals (size, variables, licence) |
+| `methods` | Statistische Methoden | optional: method-level entries (e.g. adstock, ridge, hierarchical Bayes) when the topic is a modelling technique with many sub-methods |
+| `communities` | Communities & Events | optional: practitioner hubs, Slack/Discord groups, newsletters with community, conferences and meetups students can join |
 | `people` | People | experts, practitioners, influencers, potential guest speakers (see people-search.md) |
 
 ## Status labels

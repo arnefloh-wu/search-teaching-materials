@@ -58,7 +58,10 @@ blocks (combine if the topic is narrow, split further if it is broad):
 | B | websites, blogs, tutorials | `search_sources.py -c tutorials` (YouTube API), web search for documentation sites, blogs, Substack, Medium, course platforms (Coursera, edX, DataCamp, LinkedIn Learning, O'Reilly) |
 | C | cases, examples | web search on HBP Education, The Case Centre, Ivey, SAGE Business Cases, Emerald EMCS, WU EMCEE cases; company blogs, Think with Google, industry reports with real data for examples |
 | D | software, data | `search_sources.py -c software,data` (GitHub, PyPI/CRAN pages, Zenodo, Dataverse, Kaggle, data.europa.eu, data.gov, Eurostat, OECD, World Bank) |
-| E | people | web search only; read `references/people-search.md` first |
+| E | people, communities | web search only; read `references/people-search.md` first |
+
+Two optional categories exist for topics that need them: `methods` (sub-methods of a modelling
+technique, as on the MMM page) and `communities` (hubs, Slack groups, conferences).
 
 Tell every agent:
 
