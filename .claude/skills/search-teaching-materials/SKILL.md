@@ -4,7 +4,7 @@ description: >-
   Automated literature and resource search for university teaching. Use whenever Arne
   wants teaching materials, course resources, a reading list, a resource guide, Lehrmaterial,
   Quellen or Literatur for a topic, a new Notion topic page under "Literature Search for
-  Teaching", or asks to "search sources for <topic>" / "run the teaching search". Asks for
+  Teaching", or asks to "search sources for [topic]" / "run the teaching search". Asks for
   the topic, fans out parallel agents over open and WU-licensed APIs plus web search across
   twelve categories (books, journal articles, reports, websites, blogs, video tutorials,
   teaching cases, real-world examples, software, data, people/experts/guest speakers), then
