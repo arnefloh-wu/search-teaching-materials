@@ -1,5 +1,5 @@
 ## Quellen zu Brand Audit (Agentensuche, 13. Oktober 2026)
-Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher und Reports; Websites, Blogs und Video-Tutorials; Lehrfälle und Praxisbeispiele; Software und Daten; People und Communities), Suche auf Englisch und Deutsch. 323 Fundstellen nach Dublettenbereinigung. Schwerpunkte: Brand Audit nach Keller (Brand Inventory und Brand Exploratory) und Kapferer, Messung von Brand Equity (CBBE-Skalen von Aaker, Keller, Yoo & Donthu, Netemeyer), Brand Tracking und Brand Health, Markenassoziationen und Positionierung (Brand Concept Maps, ZMET, Perceptual Maps), Brand Personality, Distinctive Brand Assets und Mental Availability, finanzielle Markenbewertung (Interbrand, Kantar BrandZ, Brand Finance, ISO 10668/20671, MASB) sowie Social-Listening- und KI-gestützte Brand Audits. Österreich-Bezug: Brand Finance Austria 25, Österreichische Markenwert Studie (European Brand Institute), Markenartikelverband, Effie Austria. Ergänzt die Seite 'How Brands Grow'. Hinweise: Die Websuche-Kontingente der Agenten waren am Ende ausgeschöpft; offen sind Case-Centre-Fälle zu österreichischen Marken, Byron Sharps Blog und weitere deutschsprachige Fachblogs (brandeins, HORIZONT, Werbeplanung.at). Die Kapitelangabe zum Brand Audit bei Keller & Swaminathan (Kap. 9, 5. Aufl.) vor Verwendung im Inhaltsverzeichnis prüfen. Verlagsseiten (Springer, Taylor & Francis, ISO, HBP) blockieren automatische Abrufe; solche Zeilen behalten 'in Suchergebnis bestätigt'. Heruntergeladene PDFs ohne geklärte Lizenz liegen nur im Dropbox-Ordner, nicht auf GitHub. WU-Lizenzen für Qualtrics, Unipark und Statista prüfen. Status: 'Link geprüft' = Seite abgerufen, 'in Suchergebnis bestätigt' = nur über Suchtreffer bestätigt, 'Link ungeprüft' = vor Verwendung prüfen. Maschinenlesbare Quelle: GitHub topics/Brand Audit/rows.json.
+Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher und Reports; Websites, Blogs und Video-Tutorials; Lehrfälle und Praxisbeispiele; Software und Daten; People und Communities), Suche auf Englisch und Deutsch. 377 Fundstellen nach Dublettenbereinigung (323 aus dem Erstlauf am 13. Oktober 2026 als 'bestehend', 54 aus einem Nachlauf am selben Tag als 'neu': Lehrfälle und Praxisbeispiele zu österreichischen Marken sowie deutschsprachige Fachblogs und Fachpresse). Schwerpunkte: Brand Audit nach Keller (Brand Inventory und Brand Exploratory) und Kapferer, Messung von Brand Equity (CBBE-Skalen von Aaker, Keller, Yoo & Donthu, Netemeyer), Brand Tracking und Brand Health, Markenassoziationen und Positionierung (Brand Concept Maps, ZMET, Perceptual Maps), Brand Personality, Distinctive Brand Assets und Mental Availability, finanzielle Markenbewertung (Interbrand, Kantar BrandZ, Brand Finance, ISO 10668/20671, MASB) sowie Social-Listening- und KI-gestützte Brand Audits. Österreich-Bezug: Brand Finance Austria 25, Österreichische Markenwert Studie (European Brand Institute), Markenartikelverband, Effie Austria. Ergänzt die Seite 'How Brands Grow'. Hinweise: Für Manner, Rauch, Raiffeisen, ÖBB und Spar existieren keine Branding-Lehrfälle bei Case Centre, HBP, Ivey, IMD, INSEAD oder LBS; diese Marken sind über dokumentierte Praxisbeispiele (Marketagent BRAND.Diamonds, Effie, Pressematerial) abgedeckt. Byron Sharp betreibt keinen eigenen Blog; aufgenommen sind zwei Interviews. Die Kapitelangabe zum Brand Audit bei Keller & Swaminathan (Kap. 9, 5. Aufl.) vor Verwendung im Inhaltsverzeichnis prüfen. Verlagsseiten (Springer, Taylor & Francis, ISO, HBP) blockieren automatische Abrufe; solche Zeilen behalten 'in Suchergebnis bestätigt'. Heruntergeladene PDFs ohne geklärte Lizenz liegen nur im Dropbox-Ordner, nicht auf GitHub. WU-Lizenzen für Qualtrics, Unipark und Statista prüfen. Status: 'Link geprüft' = Seite abgerufen, 'in Suchergebnis bestätigt' = nur über Suchtreffer bestätigt, 'Link ungeprüft' = vor Verwendung prüfen. Maschinenlesbare Quelle: GitHub topics/Brand Audit/rows.json.
 ### Bücher (27)
 <table fit-page-width="true" header-row="true">
 <tr>
@@ -18,7 +18,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.pearson.com/en-gb/subject-catalog/p/Keller-Strategic-Brand-Management-Building-Measuring-and-Managing-Brand-Equity-Global-Edition-5th-Edition/P200000004606/9781292436456](https://www.pearson.com/en-gb/subject-catalog/p/Keller-Strategic-Brand-Management-Building-Measuring-and-Managing-Brand-Equity-Global-Edition-5th-Edition/P200000004606/9781292436456)</td>
 <td>Kapitel 9 'Developing a Brand Equity Measurement and Management System' ist die Standardquelle für das Brand Audit: Brand Inventory (Bestandsaufnahme aller Marketingaktivitäten und Markenelemente) + Brand Exploratory (qualitative/quantitative Konsumentenforschung zu Wissen, Assoziationen, Resonanz), dazu Brand Tracking und Brand Equity Charter; Kapitel 10/11 liefern die Messinstrumente (Customer Mind-Set bzw. Marktergebnisse). Der Muster-Brand-Audit im Anhang (frühere Auflagen: Rolex) eignet sich als Strukturvorlage für studentische Audits.</td>
 <td>Kernlektüre + Template für Audit-Projekt; paid (Print \~£81, eText \~£39), ältere Auflagen in WU-Bibliothek prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -27,7 +27,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/isbn/9780749465155](https://search.worldcat.org/isbn/9780749465155)</td>
 <td>Brand Identity Prism (Physique, Personality, Culture, Relationship, Reflection, Self-Image) als Diagnoseraster für den Identitäts-Teil eines Audits (Soll-Identität vs. wahrgenommenes Image); Kapitel zu Brand Equity/Markenbewertung und Markenarchitektur unterstützen die Portfolio-Analyse im Audit.</td>
 <td>Hintergrund/Framework für Identitätsanalyse; paid (\~€50), WU-Bibliothek prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -36,7 +36,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Aaker+Managing+Brand+Equity+1991](https://search.worldcat.org/search?q=Aaker+Managing+Brand+Equity+1991)</td>
 <td>Klassisches Brand-Equity-Modell (Markenloyalität, Bekanntheit, wahrgenommene Qualität, Markenassoziationen, sonstige Assets) – liefert die fünf Dimensionen, nach denen der Consumer-Teil eines Audits gegliedert werden kann.</td>
 <td>Hintergrund/Theorie; paid, WU-Bibliothek prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -45,7 +45,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Aaker+Building+Strong+Brands](https://search.worldcat.org/search?q=Aaker+Building+Strong+Brands)</td>
 <td>Brand Identity System (Marke als Produkt, Organisation, Person, Symbol; Kern- vs. erweiterte Identität) und Kapitel 'Measuring Brand Equity Across Products and Markets' (Brand Equity Ten) – direkt als Kennzahlenkatalog für ein Audit nutzbar.</td>
 <td>Reading/Kennzahlenkatalog (Brand Equity Ten); paid, WU-Bibliothek prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -54,7 +54,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Aaker+on+Brands+20+Principles](https://search.worldcat.org/search?q=Aaker+on+Brands+20+Principles)</td>
 <td>Kurze, praxisnahe Prinzipien (Brand Vision, Brand Relevance, Signature Stories, Portfolio) – als Checkliste für die strategische Bewertung im Audit und als leicht lesbare Einstiegslektüre.</td>
 <td>Ergänzende Lektüre/Checkliste; paid (\~€20)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -63,7 +63,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Esch+Strategie+und+Technik+der+Markenf%C3%BChrung](https://search.worldcat.org/search?q=Esch+Strategie+und+Technik+der+Markenf%C3%BChrung)</td>
 <td>Deutschsprachiges Standardwerk: Markensteuerrad (Kompetenz, Tonalität, Benefit, Markenbild) als Raster für den Soll-Ist-Vergleich der Markenidentität; der Teil zum Markencontrolling (Markenstatus, Markenwert, Imagemessung, Tracking) entspricht inhaltlich einem Markenaudit/Markencheck.</td>
 <td>Kernlektüre (DE) für Markenaudit-Aufbau; paid (\~€50), WU-Bibliothek prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -72,7 +72,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://link.springer.com/book/10.1007/978-3-658-44931-5](https://link.springer.com/book/10.1007/978-3-658-44931-5)</td>
 <td>Kapitel zum identitätsbasierten Markencontrolling (Messung der Markenidentität intern vs. Markenimage extern, Brand Commitment, Markenstärke und Markenwert) – liefert das Identitäts-Image-Gap-Modell als Gliederung eines Markenaudits; neue CSR-Sektion (inkl. Greenwashing-Risiken) für Nachhaltigkeits-Audits.</td>
 <td>Kernlektüre (DE); WU-Lizenz prüfen (SpringerLink)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -81,7 +81,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.sack.de/burmann-riley-halaszovich-identity-based-brand-management/9783658483159](https://www.sack.de/burmann-riley-halaszovich-identity-based-brand-management/9783658483159)</td>
 <td>Englische Fassung des Bremer Ansatzes; das Controlling-Kapitel (identity-based brand controlling, brand strength, brand value) ist für englischsprachige Kurse die direkte Entsprechung zum Markenaudit.</td>
 <td>Reading (EN); WU-Lizenz prüfen (SpringerLink)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -90,7 +90,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1007/978-3-658-41755-0](https://doi.org/10.1007/978-3-658-41755-0)</td>
 <td>Lehrbuch-Klassiker; Teil Marketingcontrolling (inkl. Markencontrolling und Marketing-Audit) sowie Abschnitte zur Markenstrategie – ordnet das Brand Audit in den breiteren Marketing-Audit-/Controlling-Prozess ein.</td>
 <td>Hintergrund (DE); WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -99,7 +99,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Baumgarth+Markenpolitik](https://search.worldcat.org/search?q=Baumgarth+Markenpolitik)</td>
 <td>Eigener Teil Markencontrolling (Markenstärke- und Markenwertmessung, Kennzahlensysteme) vom Autor des 'Marken-Audit'-Ansatzes; methodisch gute Vorlesungsgrundlage für Audit-Instrumente.</td>
 <td>Reading (DE); WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -108,7 +108,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1007/978-3-658-01646-3](https://doi.org/10.1007/978-3-658-01646-3)</td>
 <td>Deutschsprachige Monografie, die ein vollständiges Markenaudit-Instrument dokumentiert (Markenmodell, Dimensionen/Indikatoren, Scoring, Audit-Team, Ablauf) – direkt als Template für studentische Audits übertragbar, auch außerhalb des Kultursektors.</td>
 <td>Template/Fallanwendung (DE); WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -117,7 +117,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1007/978-3-658-13342-9](https://doi.org/10.1007/978-3-658-13342-9)</td>
 <td>Sammelband u. a. mit dem Beitrag 'Measuring Brand Equity' (Kap. 72) sowie Beiträgen zu Markencontrolling, Image- und Markenwertmessung – einzelne Kapitel als vertiefende Lektüre zu Messansätzen im Audit.</td>
 <td>Vertiefung, kapitelweise; WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -126,7 +126,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.oup.com.au/books/higher-education/business-marketing/9780190340902](https://www.oup.com.au/books/higher-education/business-marketing/9780190340902)</td>
 <td>Evidenzbasierter Gegenentwurf zu klassischen Funnel-Trackern: Mental Availability, Category Entry Points, Mental Market Share, Distinctive Assets; enthält einen Muster-Brand-Health-Tracker und eine Schritt-für-Schritt-Anleitung zum eigenen Tracker – ideal für den quantitativen Teil eines Audits.</td>
 <td>Kernlektüre + Template (Tracker); paid (\~AUD 60)</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -135,7 +135,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.oup.com.au/books/higher-education/management-and-marketing/9780190311506-building-distinctive-brand-assets](https://www.oup.com.au/books/higher-education/management-and-marketing/9780190311506-building-distinctive-brand-assets)</td>
 <td>Kapitel 'Measuring asset strength', 'Metrics: Fame', 'Metrics: Uniqueness', 'Metrics: The Grid' – liefern das Distinctive Asset Grid (Fame × Uniqueness) für den Brand-Elements-Teil eines Audits (Logo, Farbe, Figuren, Jingles); mit Studierenden leicht als Mini-Befragung replizierbar.</td>
 <td>Methode/Übung; paid (\~AUD 50)</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -144,7 +144,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Sharp+How+Brands+Grow+2010](https://search.worldcat.org/search?q=Sharp+How+Brands+Grow+2010)</td>
 <td>Empirische Marketinggesetze (Double Jeopardy, Duplication of Purchase, Mental & Physical Availability) – Benchmarks, um Penetrations- und Loyalitätskennzahlen im Audit korrekt zu interpretieren statt Loyalität zu überschätzen.</td>
 <td>Hintergrund/kritische Perspektive; paid (\~€35)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -153,7 +153,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/isbn/9780190330026](https://search.worldcat.org/isbn/9780190330026)</td>
 <td>Überträgt die Ehrenberg-Bass-Gesetze auf Services, Durables, Luxus und B2B (neues Kapitel 'Getting Down to Business-to-Business Markets') – nützlich, wenn das Audit-Objekt keine FMCG-Marke ist.</td>
 <td>Ergänzung; paid (\~€40)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -162,7 +162,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.wiley-vch.de/en/areas-interest/art-culture/designing-brand-identity-978-1-119-98481-8](https://www.wiley-vch.de/en/areas-interest/art-culture/designing-brand-identity-978-1-119-98481-8)</td>
 <td>Process-Teil, Phase 1 'Conducting Research': Marketing Audit, Competitive Audit, Language Audit und Audit-Readout – praxisnahe Checklisten für den visuellen/verbalen Identitäts-Audit (Touchpoint-Inventar); 50+ neue Cases.</td>
 <td>Template/Checklisten für Brand Inventory; paid (\~€60)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -171,7 +171,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.routledge.com/products/9780367172589](https://www.routledge.com/products/9780367172589)</td>
 <td>Acht Brand-Management-Ansätze (ökonomisch, Identität, consumer-based, Persönlichkeit, relational, Community, kulturell, sensorisch) – hilft, die Perspektive eines Audits theoretisch zu begründen und die Methodenwahl (qualitativ vs. quantitativ) zu reflektieren.</td>
 <td>Theoretischer Hintergrund (Master); paid (\~£45), WU-Bibliothek prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -180,7 +180,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://oup.com.au/books/higher-education/management-and-marketing/9780198797807-strategic-brand-management](https://oup.com.au/books/higher-education/management-and-marketing/9780198797807-strategic-brand-management)</td>
 <td>Kapitel zu Brand Equity und deren Messung sowie zum Brand Tracking aus kommunikationsorientierter Sicht – Ergänzung zu Keller für die Auswertung von Werbe- und Kommunikationsdaten im Audit.</td>
 <td>Ergänzende Lektüre; paid</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -189,7 +189,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1007/978-3-540-44729-0](https://doi.org/10.1007/978-3-540-44729-0)</td>
 <td>Kapitel 'B2B Branding Dimensions', 'Acceleration Through Branding' (B2B-Markenmanagementprozess, Markenmessung) und 'Beware of Branding Pitfalls' – Grundlage für Audits von Industrie-/B2B-Marken.</td>
 <td>Reading für B2B-Fälle; WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -198,7 +198,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Riezebos+Brand+Management+Theoretical+Practical+Approach](https://search.worldcat.org/search?q=Riezebos+Brand+Management+Theoretical+Practical+Approach)</td>
 <td>Europäisches Lehrbuch mit Kapiteln zu Brand Equity (konsumenten- vs. finanzorientiert) und Markenbewertung – Brücke zwischen Consumer-Audit und monetärer Bewertung.</td>
 <td>Hintergrund; paid/antiquarisch, WU-Bibliothek prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -207,7 +207,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/title/Kellogg-on-branding-in-a-hyper-connected-world/oclc/1120726401](https://search.worldcat.org/title/Kellogg-on-branding-in-a-hyper-connected-world/oclc/1120726401)</td>
 <td>Kap. 1 Brand Positioning (Tybout), Kap. 2 Brand Purpose (Stengel et al.), Kap. 3 Brand Portfolio (Calkins), Kapitel zu Customer Experience – Bewertungsraster für Positionierung, Purpose und Portfolio im strategischen Teil eines Audits.</td>
 <td>Ergänzende Lektüre; paid (\~€35)</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -216,7 +216,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.4324/9780080966649](https://doi.org/10.4324/9780080966649)</td>
 <td>Prozessmodell von Brand Vision bis Brand Evaluation; die Schlusskapitel zur Bewertung der Markenperformance (intern/extern, Brand Health) eignen sich als Audit-Ablauf inkl. Mitarbeiter- und Stakeholderperspektive.</td>
 <td>Reading/Prozessmodell; paid, WU-Bibliothek prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -225,7 +225,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1007/978-3-658-50245-4](https://doi.org/10.1007/978-3-658-50245-4)</td>
 <td>Aktuelles Master-Lehrbuch um das Framework 'Brand Management Clock Face' (12 Kapitel); der Teil Brand Evaluation behandelt Markenbewertung und -kontrolle – aktuellste englischsprachige Springer-Quelle zum Thema.</td>
 <td>Reading (Master/Executive); WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -234,7 +234,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://openstax.org/books/principles-marketing/pages/preface](https://openstax.org/books/principles-marketing/pages/preface)</td>
 <td>Kapitel 9 behandelt Branding (Markenentscheidungen, Brand Equity, Packaging, Produkterlebnis) auf Einführungsniveau – kostenlose Vorbereitungslektüre vor der Audit-Einheit in Bachelor-Kursen.</td>
 <td>Vorbereitende Lektüre; free (CC BY)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -243,7 +243,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Neumeier+The+Brand+Gap](https://search.worldcat.org/search?q=Neumeier+The+Brand+Gap)</td>
 <td>Kurzes visuelles Buch zur Lücke zwischen Strategie und Kreation (Differentiate, Collaborate, Innovate, Validate, Cultivate) – Disziplin 'Validate' als Einstieg in Audit- und Testlogik; gut für die Kick-off-Diskussion.</td>
 <td>Einstieg/Diskussion; paid (\~€25)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Bücher</td>
@@ -252,7 +252,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://search.worldcat.org/search?q=Haig+Brand+Failures](https://search.worldcat.org/search?q=Haig+Brand+Failures)</td>
 <td>Kurzfälle gescheiterter Extensions, Rebrandings und Kulturmissverständnisse – Materialpool für Übungen 'Was hätte ein Brand Audit früher gezeigt?'.</td>
 <td>Fallmaterial; paid (\~€25)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 </table>
 ### Journal Articles (59)
@@ -273,7 +273,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1177/002224299305700101](https://doi.org/10.1177/002224299305700101)</td>
 <td>Defines CBBE as the differential effect of brand knowledge (awareness + image) and specifies associations by type, favourability, strength and uniqueness. This is the conceptual backbone of the brand exploratory: every audit question maps onto one of these dimensions. Also lists direct (experimental, fictitious-brand comparison) and indirect (association elicitation) measurement approaches.</td>
 <td>Core reading, week 1. Students derive their audit questionnaire from the awareness/image taxonomy. Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -282,7 +282,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1007/s13162-016-0078-z](https://doi.org/10.1007/s13162-016-0078-z)</td>
 <td>Keller's own update of CBBE: the brand resonance pyramid, the brand value chain, and the brand audit (inventory + exploratory) placed in a digital, multichannel context. Gives the current 'official' version of the audit process from its originator.</td>
 <td>Reading next to the textbook chapter on brand audits. Can be used to build the audit report structure. Paid (Springer): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -291,7 +291,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1287/mksc.1050.0153](https://doi.org/10.1287/mksc.1050.0153)</td>
 <td>Review that organises brand research along the brand value chain: company actions, customer mindset, product-market outcomes, financial market outcomes. Useful as a map showing where each audit metric sits, from awareness to price premium to shareholder value.</td>
 <td>Background reading. Use the value-chain figure as the frame for the audit dashboard. Paid (INFORMS): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -300,7 +300,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1177/0022242919899905](https://doi.org/10.1177/0022242919899905)</td>
 <td>Shows how hyperconnectivity (consumers, brands, devices, platforms) changes brand meaning-making and measurement. Supports adding social listening, platform and algorithmic touchpoints to a classical Keller-style audit.</td>
 <td>Reading for the 'digital brand audit' session. Discussion: which parts of the classic audit are outdated? Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -309,7 +309,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.15276/mdt.6.2.2022.7](https://doi.org/10.15276/mdt.6.2.2022.7)</td>
 <td>One of the few recent articles that classify brand audit types (strategic vs. operational, internal vs. external) and pair them with methods and metric sets. Useful as a checklist-style overview, but it comes from a smaller Ukrainian journal, so students should read it critically.</td>
 <td>Optional reading or source for an audit checklist template. Open access (journal OA policy).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -318,7 +318,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1108/EBR-12-2018-0206](https://doi.org/10.1108/EBR-12-2018-0206)</td>
 <td>Proposes a step-by-step brand portfolio audit (role of each brand, overlaps, gaps, architecture fit) and applies it to a company case. One of the few academic sources that operationalise the portfolio/architecture part of an audit.</td>
 <td>Lab: students audit the portfolio of a real company (e.g. Red Bull, Unilever) with the paper's steps. Paid (Emerald): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -327,7 +327,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.2307/41166051](https://doi.org/10.2307/41166051)</td>
 <td>Introduces the brand relationship spectrum (branded house, sub-brands, endorsed brands, house of brands). This is the standard diagnostic grid for the brand-architecture section of a brand inventory.</td>
 <td>Classic reading. Students map a portfolio onto the spectrum as part of the inventory. Paid (CMR/SAGE): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -336,7 +336,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1108/EJM-08-2012-0482](https://doi.org/10.1108/EJM-08-2012-0482)</td>
 <td>Empirical study of the industry, company and product factors that drive the choice between corporate and product branding. Gives auditors criteria for judging whether the current architecture fits. The author is at WU Vienna, which makes it useful locally and a possible guest-speaker link.</td>
 <td>Reading for the brand architecture audit session. Paid (EJM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -345,7 +345,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.2307/41165845](https://doi.org/10.2307/41165845)</td>
 <td>The 'Brand Equity Ten': ten measures in five groups (loyalty, perceived quality/leadership, associations/differentiation, awareness, market behaviour) with concrete survey questions. Ready-made skeleton for a brand health questionnaire.</td>
 <td>Core reading. Lab: students adapt the Brand Equity Ten into a short survey for a chosen brand. Paid (CMR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -354,7 +354,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/S0148-2963%2899%2900098-3](https://doi.org/10.1016/S0148-2963%2899%2900098-3)</td>
 <td>The most widely used CBBE scale: brand loyalty, perceived quality, awareness/associations and overall brand equity (OBE), validated across cultures. Short item set that students can use directly in an audit survey.</td>
 <td>Lab instrument: field the Yoo-Donthu items in a class survey and compare brands. Paid (JBR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -363,7 +363,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/S0148-2963%2801%2900303-4](https://doi.org/10.1016/S0148-2963%2801%2900303-4)</td>
 <td>Scales for perceived quality, perceived value for cost, uniqueness and willingness to pay a price premium, validated across 16 brands in six categories. Links perceptions to price premium, a key audit outcome.</td>
 <td>Lab instrument together with Yoo & Donthu; discuss which facets drive the price premium. Paid (JBR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -372,7 +372,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1108/07363769510095270](https://doi.org/10.1108/07363769510095270)</td>
 <td>Early five-dimension CBBE measure (performance, social image, value, trustworthiness, attachment) applied to TVs and watches. A short, intuitive alternative to Yoo & Donthu.</td>
 <td>Comparison reading: students contrast scale dimensions across Aaker, Lassar and Yoo & Donthu. Paid (Emerald): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -381,7 +381,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.2501/S1470785310201053](https://doi.org/10.2501/S1470785310201053)</td>
 <td>Review that sorts CBBE measurement into direct vs. indirect approaches and compares the main scales and their weaknesses. Good one-stop overview for choosing an instrument for the brand exploratory.</td>
 <td>Background reading before students design their audit survey. Paid (SAGE/IJMR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -390,7 +390,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jimk.16.4.29](https://doi.org/10.1509/jimk.16.4.29)</td>
 <td>Factor-analyses 27 common survey brand metrics across categories and countries and reduces them to a small set of underlying dimensions (comprehension, comparative advantage, interpersonal relations, history, preference, attachment). Shows which tracker questions are redundant.</td>
 <td>Use when designing a brand health tracker: which metrics to keep, which to drop. Paid (AMA/SAGE): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -399,7 +399,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jm.15.0340](https://doi.org/10.1509/jm.15.0340)</td>
 <td>Links BAV survey-based brand equity to sales-based brand equity estimated from scanner data (25 categories, 290+ brands). Shows when survey metrics in an audit actually predict market outcomes and marketing-mix elasticities.</td>
 <td>Advanced reading. Discussion: is survey-based audit data 'enough'? Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -408,7 +408,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jmkg.67.4.1.18688](https://doi.org/10.1509/jmkg.67.4.1.18688)</td>
 <td>Proposes revenue premium (brand revenue vs. private label) as a simple, objective product-market measure of brand equity. Gives auditors a market-data metric to complement consumer surveys.</td>
 <td>Calculation exercise: compute the revenue premium from retail data for a category. Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -417,7 +417,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1108/IJCHM-03-2020-0186](https://doi.org/10.1108/IJCHM-03-2020-0186)</td>
 <td>Reviews about 200 CBBE studies, finds about 40 component labels and argues for five core components (awareness/familiarity, image, quality, value, loyalty) with a parsimonious measurement framework.</td>
 <td>Background: helps students justify a lean, defensible audit questionnaire. Paid (Emerald): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -426,7 +426,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jmkr.43.4.549](https://doi.org/10.1509/jmkr.43.4.549)</td>
 <td>Step-by-step BCM procedure (elicitation, mapping, aggregation into a consensus map) demonstrated on the Mayo Clinic brand. A hands-on qualitative-quantitative tool for the brand exploratory.</td>
 <td>Lab: students run a BCM with classmates for one brand and build a consensus map. Paid (JMR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -435,7 +435,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/j.ijresmar.2012.04.002](https://doi.org/10.1016/j.ijresmar.2012.04.002)</td>
 <td>Extends BCM by adding association favourability and link strength (aBCM), so maps show not only what is associated but whether it helps or hurts the brand. Directly usable as an audit diagnostic.</td>
 <td>Lab follow-up to John et al.: add favourability ratings to the class BCM. Paid (IJRM): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -444,7 +444,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/S0167-8116%2896%2900021-3](https://doi.org/10.1016/S0167-8116%2896%2900021-3)</td>
 <td>Operationalises Keller's association properties through free association: number, valence, uniqueness and origin (direct vs. indirect experience). Shows that high-equity brands differ on these indices, a coding scheme students can reuse.</td>
 <td>Lab: code free-association data with Krishnan's indices. Paid (IJRM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -453,7 +453,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1007/s11846-017-0251-2](https://doi.org/10.1007/s11846-017-0251-2)</td>
 <td>Systematic review of 224 articles covering 12 brand image measurement techniques (scales, free association, BCM, laddering, ZMET, text mining, etc.), with a decision roadmap for choosing a technique. Ideal method-selection guide for the brand exploratory.</td>
 <td>Core reading for method choice. Use the roadmap figure in class. Springer: WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -462,7 +462,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1177/147078530604800605](https://doi.org/10.1177/147078530604800605)</td>
 <td>Compares rating scales, ranking and pick-any (free choice) for brand-attribute association and finds that they produce near-identical brand-level results. Supports the cheap pick-any brand-attribute grid as the standard audit format.</td>
 <td>Lab: build a pick-any brand x attribute matrix and a correspondence-analysis map. Paid (SAGE/IJMR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -471,7 +471,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1057/palgrave.jt.5740079](https://doi.org/10.1057/palgrave.jt.5740079)</td>
 <td>Shows that the quantity of brand-attribute responses largely follows brand size (double jeopardy), so raw association scores must be benchmarked against expected values before claiming a brand 'owns' an attribute.</td>
 <td>Important caveat for interpreting audit image grids. Exercise: compute expected vs. observed associations. Paid (Springer/Palgrave): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -480,7 +480,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1080/00218499.1995.12466477](https://doi.org/10.1080/00218499.1995.12466477)</td>
 <td>Original description of the Zaltman Metaphor Elicitation Technique (ZMET): picture collection, storytelling, construct elicitation, consensus map. The reference method for deep qualitative brand-meaning research in an exploratory.</td>
 <td>Method reading; mini-ZMET interview exercise in pairs. Paid (JAR/T&F): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -489,7 +489,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1080/00218499.1988.12467766](https://doi.org/10.1080/00218499.1988.12467766)</td>
 <td>Classic how-to for laddering interviews (attribute -\> consequence -\> value), coding, the implication matrix and the hierarchical value map. Directly applicable for uncovering brand benefits and values in the exploratory.</td>
 <td>Lab: students conduct 3-4 laddering interviews and draw a hierarchical value map. Paid (JAR/T&F): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -498,7 +498,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1177/002224379703400304](https://doi.org/10.1177/002224379703400304)</td>
 <td>Develops the 42-item, five-dimension brand personality scale (sincerity, excitement, competence, sophistication, ruggedness). Standard instrument for the personality part of a brand audit.</td>
 <td>Lab instrument: profile 2-3 competing brands on the five dimensions. Paid (JMR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -507,7 +507,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/j.ijresmar.2008.12.002](https://doi.org/10.1016/j.ijresmar.2008.12.002)</td>
 <td>Short 12-item, five-factor scale (responsibility, activity, aggressiveness, simplicity, emotionality) that strips non-personality items from Aaker's scale and is validated across brands, categories and countries. A practical replacement for audit surveys.</td>
 <td>Lab: compare Aaker vs. Geuens results for the same brand; discuss validity. Paid (IJRM): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -516,7 +516,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1057/palgrave.bm.2540162](https://doi.org/10.1057/palgrave.bm.2540162)</td>
 <td>Kapferer's critique: Aaker's scale mixes personality with other identity facets (e.g. competence, gender). Links to the brand identity prism and supports a critical discussion of audit instruments.</td>
 <td>Debate reading paired with Aaker (1997). Paid (JBM): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -525,7 +525,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1287/mksc.1120.0713](https://doi.org/10.1287/mksc.1120.0713)</td>
 <td>Text-mines online forum posts (cars, diabetes drugs) to derive brand co-occurrence networks, perceptual maps and brand-attribute associations, and validates them against survey and sales data. Blueprint for a UGC-based brand exploratory.</td>
 <td>Core reading for the digital audit. Lab: replicate brand co-mention maps from Reddit/reviews in Python/R. Paid (INFORMS): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -534,7 +534,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1287/mksc.2015.0968](https://doi.org/10.1287/mksc.2015.0968)</td>
 <td>Infers brand perceptions (eco-friendliness, luxury, nutrition) for 200+ brands from the overlap between brand followers and exemplar accounts on Twitter, validated against survey ratings. Scalable, survey-free brand image metric.</td>
 <td>Reading plus discussion of data access after the X/Twitter API changes. Paid (INFORMS): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -543,7 +543,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jmr.12.0106](https://doi.org/10.1509/jmr.12.0106)</td>
 <td>Uses LDA topic models on about 350,000 reviews across 15 firms and 5 markets to extract quality dimensions, their valence and brand positioning maps over time. Shows how to turn reviews into a dynamic positioning audit.</td>
 <td>Lab: topic-model reviews of competing brands. Paid (JMR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -552,7 +552,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jmkr.48.5.881](https://doi.org/10.1509/jmkr.48.5.881)</td>
 <td>Extracts product attributes from pros/cons reviews (digital cameras) and builds correspondence-analysis maps that match traditional survey-based perceptual maps.</td>
 <td>Method reading for review-based positioning maps. Paid (JMR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -561,7 +561,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1080/10864415.2016.1061792](https://doi.org/10.1080/10864415.2016.1061792)</td>
 <td>Text-mining and network approach that derives brand association networks (strength, favourability, uniqueness in Keller's sense) from Amazon reviews and compares them with survey-based BCMs. Bridges classic BCM and UGC mining.</td>
 <td>Reading linking the BCM lab to text mining. Paid (T&F): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -570,7 +570,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/j.jretconser.2022.102989](https://doi.org/10.1016/j.jretconser.2022.102989)</td>
 <td>Open-access, step-by-step workflow (text preprocessing, sentiment, association extraction, brand positioning maps) applied to Amazon reviews of competing brands. Easy to replicate as a student project.</td>
 <td>Lab template for a review-based brand exploratory. Open access (CC BY).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -579,7 +579,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1287/mksc.2015.0950](https://doi.org/10.1287/mksc.2015.0950)</td>
 <td>Builds competitive market maps from consumer search/consideration data (price comparison site) for 1,000+ products, including asymmetric competition. Shows how to map the competitive frame of reference for the audit's positioning section.</td>
 <td>Advanced reading. Discussion of the competitive frame of reference. Paid (INFORMS): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -588,7 +588,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/j.ijresmar.2022.05.005](https://doi.org/10.1016/j.ijresmar.2022.05.005)</td>
 <td>Benchmarks dictionary, classic ML and transfer-learning sentiment methods across 272 datasets and shows the accuracy gaps. Essential for judging the quality of social listening/sentiment numbers in a digital brand audit.</td>
 <td>Method reading before students use sentiment tools on brand UGC. Open access (CC BY-NC-ND).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -597,7 +597,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1287/mksc.2014.0861](https://doi.org/10.1287/mksc.2014.0861)</td>
 <td>Documents a research dataset on about 700 US brands combining BAV perceptions (differentiation, relevance, esteem, knowledge), personality, word of mouth and advertising. A ready-made data source for brand equity exercises.</td>
 <td>Data lab: students benchmark brands on BAV pillars and relate them to WOM. Paid article; dataset described therein. WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -606,7 +606,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1177/1470593104047643](https://doi.org/10.1177/1470593104047643)</td>
 <td>Defines brand salience as the propensity to be noticed or come to mind in buying situations and measures it through the breadth of attribute/category-entry-point associations instead of top-of-mind awareness. Foundation of mental availability metrics (MPen, MMS, network size).</td>
 <td>Core reading for the 'Ehrenberg-Bass' view of brand health. Lab: compute mental penetration from a CEP grid. Paid (SAGE): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -615,7 +615,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1057/s41262-020-00187-6](https://doi.org/10.1057/s41262-020-00187-6)</td>
 <td>Tests 1,281 brand identity elements across 13 CPG categories and 19 countries and proposes 'competitive intensity' as an ownership-potential metric. Characters and logos are easiest to own, colours hardest. Useful for the brand-elements part of the inventory.</td>
 <td>Lab: distinctive-asset audit of a category (who owns which colour/shape?). Paid (JBM): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -624,7 +624,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1080/02650487.2026.2637295](https://doi.org/10.1080/02650487.2026.2637295)</td>
 <td>Benchmarks for Fame and Uniqueness from 1,162 distinctive assets (21 categories, 4 countries, 9 years). Shape-based assets reach about 40% Fame and 71% Uniqueness, colour only about 12% and 39%. Gives students norms to judge their own Fame-Uniqueness grid.</td>
 <td>Lab: run a Fame x Uniqueness distinctive asset survey and compare results with the benchmarks. Open access (CC BY).</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -633,7 +633,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1057/s41262-025-00395-y](https://doi.org/10.1057/s41262-025-00395-y)</td>
 <td>Compares marketers' intuitive judgements with consumer Fame/Uniqueness data for 405 brand elements of 50 brands. Managers overestimate fame and underestimate uniqueness, which makes a strong case for evidence-based asset audits.</td>
 <td>Class experiment: students guess asset strength first, then compare with survey data. Open access (CC BY).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -642,7 +642,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1177/14707853241251954](https://doi.org/10.1177/14707853241251954)</td>
 <td>Uses GPT-4 to code about 4,600 brand names and about 600 distinctive assets for suggestiveness, after validating it against human coders. Shows AI-assisted coding for brand inventory work and that suggestive assets score lower on Fame and Uniqueness.</td>
 <td>Example of LLM-assisted inventory coding; students replicate a small coding task. Paid (SAGE): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -651,7 +651,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jmkr.45.1.15](https://doi.org/10.1509/jmkr.45.1.15)</td>
 <td>Links the BAV pillars (differentiation/energy, relevance, esteem, knowledge) to stock returns beyond accounting data. Relevance and energized differentiation carry incremental information for investors. Connects audit metrics to firm value.</td>
 <td>Reading for the 'why audit?' business case session. Paid (JMR): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -660,7 +660,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jm.10.0522](https://doi.org/10.1509/jm.10.0522)</td>
 <td>Uses BAV data for US car brands to show which pillars drive acquisition, retention and margin (e.g. knowledge drives acquisition, differentiation drives margin). Translates audit findings into customer-equity consequences.</td>
 <td>Reading; exercise linking audit scores to customer metrics. Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -669,7 +669,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/j.ijresmar.2012.01.002](https://doi.org/10.1016/j.ijresmar.2012.01.002)</td>
 <td>Compares Interbrand financial brand values with consumer-based (EquiTrend) measures in predicting stock performance during the 2008 crisis. Consumer-based measures did better, and the Interbrand values were largely 'blind'. Ideal for critiquing league-table valuations.</td>
 <td>Discussion reading on Interbrand/BrandZ critiques. Paid (IJRM): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -678,7 +678,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1057/bm.2009.14](https://doi.org/10.1057/bm.2009.14)</td>
 <td>Classifies brand valuation methods (cost, market, income/royalty relief, Interbrand-type hybrid) by methodology and purpose and shows how much results diverge. Background for the financial-valuation section of an audit and for ISO 10668.</td>
 <td>Background reading; compare Interbrand vs. BrandZ vs. Brand Finance values for one brand. Paid (JBM): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -687,7 +687,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1177/0022242921995173](https://doi.org/10.1177/0022242921995173)</td>
 <td>Builds a weekly brand reputation tracker for top brands from Twitter text, based on the value-brand-relationship drivers of customer equity, and validates it. A model for continuous, social-data-based brand health tracking instead of annual audits.</td>
 <td>Core reading for the brand health tracking session. Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -696,7 +696,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1057/crr.2014.21](https://doi.org/10.1057/crr.2014.21)</td>
 <td>Documents the RepTrak model: an emotional pulse plus seven rational dimensions (products, innovation, workplace, governance, citizenship, leadership, performance), with validation. Standard framework for a corporate reputation audit.</td>
 <td>Lab: rate a company on RepTrak dimensions across stakeholder groups. Paid (Springer/Palgrave): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -705,7 +705,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1017/S0021849905050129](https://doi.org/10.1017/S0021849905050129)</td>
 <td>Describes a consumer-based tool for auditing brand contacts (touchpoints): which contacts matter, how strongly they are linked to the brand and their cost-effectiveness. Draws on more than 150 audited brands. Template for the touchpoint audit.</td>
 <td>Lab: students list and score touchpoints for a brand with the contact-audit logic. Paid (JAR): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -714,7 +714,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jm.15.0420](https://doi.org/10.1509/jm.15.0420)</td>
 <td>Defines the customer journey (pre-purchase, purchase, post-purchase) and touchpoint types (brand-owned, partner-owned, customer-owned, social/external). Standard framework for structuring the touchpoint part of a brand audit.</td>
 <td>Core reading for the customer experience audit. Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -723,7 +723,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1509/jmkg.73.3.052](https://doi.org/10.1509/jmkg.73.3.052)</td>
 <td>12-item brand experience scale (sensory, affective, intellectual, behavioural), distinct from brand personality and attachment, with effects on satisfaction and loyalty. Ready-made instrument for an experience module in the audit survey.</td>
 <td>Lab instrument. Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -732,7 +732,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/j.jbusres.2008.06.009](https://doi.org/10.1016/j.jbusres.2008.06.009)</td>
 <td>German identity-based branding school (Burmann/Meffert): an integrated brand equity model that combines internal (employee) and external (customer) sources and links behavioural to financial brand equity. Bridges inside-out and outside-in audits.</td>
 <td>Reading for the internal brand audit session. Fits the German-language textbooks (Burmann et al., Identitätsbasierte Markenführung). Paid (JBR): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -741,7 +741,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1057/bm.2011.44](https://doi.org/10.1057/bm.2011.44)</td>
 <td>11-item, three-factor employee brand equity scale (brand consistent behaviour, brand endorsement, brand allegiance). Directly usable to audit internal branding effectiveness.</td>
 <td>Lab instrument for an internal branding audit (e.g. survey of student employees). Paid (JBM): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -750,7 +750,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1108/JPBM-03-2020-2821](https://doi.org/10.1108/JPBM-03-2020-2821)</td>
 <td>Applies the three EBE dimensions to employees' public Instagram posts (SoulCycle case, 100 images and captions), a qualitative content-analysis approach to auditing internal branding from public data.</td>
 <td>Mini-project: code employee posts of a chosen brand with the EBE scheme. Paid (JPBM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -759,7 +759,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1080/02650487.2005.11072912](https://doi.org/10.1080/02650487.2005.11072912)</td>
 <td>Develops the 25-item EmpAt scale (interest, social, economic, development, application value). Standard instrument for an employer brand audit, with many later replications (e.g. Viot 2020, JBR).</td>
 <td>Lab instrument for an employer brand audit of a known recruiter. Paid (T&F): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -768,7 +768,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1016/j.indmarman.2010.02.022](https://doi.org/10.1016/j.indmarman.2010.02.022)</td>
 <td>Develops and tests 'internal brand equity' (brand knowledge, commitment, involvement of employees) in German B2B firms and links it to brand-oriented culture and external brand equity. Combines a B2B audit with an internal audit.</td>
 <td>Reading for the B2B/internal audit session. Paid (IMM): WU-Lizenz prüfen</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -777,7 +777,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1108/13522750810845540](https://doi.org/10.1108/13522750810845540)</td>
 <td>Tests the Keller CBBE pyramid qualitatively with B2B buyers (electronic tracking systems) and shows which blocks need adaptation, e.g. corporate brand and sales-staff relationships matter more than product-brand imagery. Guides adapting the audit to B2B.</td>
 <td>Case-like reading for B2B audit projects. Paid (Emerald): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -786,7 +786,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1287/mksc.2023.0454](https://doi.org/10.1287/mksc.2023.0454)</td>
 <td>Shows that LLM-generated brand similarity ratings reproduce human-survey perceptual maps with high agreement (above 75%) at a fraction of the cost. Key evidence for AI-based brand perception measurement in audits.</td>
 <td>Lab: students prompt an LLM for brand similarity and attribute ratings, build a perceptual map and compare it with a class survey. Paid (INFORMS): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Journal Articles</td>
@@ -795,7 +795,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.1177/00222429241276529](https://doi.org/10.1177/00222429241276529)</td>
 <td>Evaluates LLMs as synthetic respondents and as co-analysts in qualitative and quantitative research and identifies where they match humans and where they fail. Guidelines for hybrid AI-human brand exploratory research.</td>
 <td>Reading for the AI session. Discussion of the limits of synthetic respondents in audits. Paid (JM): WU-Lizenz prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 </table>
 ### Reports (24)
@@ -816,7 +816,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://interbrand.com/best-global-brands/](https://interbrand.com/best-global-brands/)</td>
 <td>Methodik aus drei Komponenten: Finanzanalyse (Economic Profit), Role of Brand (Anteil der Marke an der Kaufentscheidung) und Brand Strength (interne + externe Faktoren; Aufnahme ab Brand Strength Score 50); das Methodik-PDF erklärt Brand Value Chain und Anwendungen (Tracking, Portfolio, M&A, Lizenzraten). Verknüpft Audit-Ergebnisse mit monetärer Bewertung.</td>
 <td>Reading + Methodenvergleich; free (Ranking & PDF online)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -825,7 +825,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kantar.com/campaigns/brandz/methodology](https://www.kantar.com/campaigns/brandz/methodology)</td>
 <td>Dreistufig: Financial Value (S&P Capital IQ, Anteil immaterieller Erträge, Brand Multiple) × Brand Contribution (MDS-Modell: Meaningful, Different, Salient → Demand Power, Pricing Power, Future Power) = Brand Value; MDS ist MASB-validiert. Zeigt, wie Konsumentenbefragungen (4,6 Mio. Befragte, 22.000+ Marken) in Markenwert übersetzt werden.</td>
 <td>Reading/Methodenvergleich; free (Report-Download, ggf. Registrierung)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -834,7 +834,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandirectory.com/rankings/global](https://brandirectory.com/rankings/global)</td>
 <td>Top-500-Markenwerte (gesamt ca. 10,4 Bio. USD, Apple an der Spitze); Brand Strength Index + Royalty Relief; Rankings frei auf Brandirectory – Datengrundlage für Übungen zur Markenwertentwicklung und zum Vergleich mit Interbrand/BrandZ.</td>
 <td>Datenquelle für Übung; free (Ranking), Vollreport teils frei</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -843,7 +843,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandfinance.com/insights/methodology-brands-annual-rankings](https://brandfinance.com/insights/methodology-brands-annual-rankings)</td>
 <td>Schritt-für-Schritt-Erklärung der Royalty-Relief-Methode: BSI (Brand Investment, Brand Equity, Brand Performance; 0–100) → Lizenzratenspanne aus Vergleichsverträgen → markenspezifische Royalty Rate → Umsatzprognose → Barwert; ISO-10668- und IVSC-konform. Ideal für eine Rechenübung im Kurs.</td>
 <td>Template für Bewertungsübung; free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -852,7 +852,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandfinance.com/press-releases/austrian-brands-charge-ahead-with-red-bull-at-the-front](https://brandfinance.com/press-releases/austrian-brands-charge-ahead-with-red-bull-at-the-front)</td>
 <td>Österreichs 25 wertvollste Marken (2025: 40 Mrd. €, Red Bull 8,7 Mrd. €, Erste stärkste Marke, Billa am schnellsten wachsend; 2026 laut Pressemeldung 46,8 Mrd. €) inkl. BSI und Sustainability Perceptions Value – lokaler Datensatz für WU-Audit-Projekte; Report unter brandirectory.com/reports/austria.</td>
 <td>Datenquelle (AT) für Audit-Projekte; free (Pressemitteilung), Report ggf. Registrierung</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -861,7 +861,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.europeanbrandinstitute.com/brand-rankings-1/brand-rankings-2026/](https://www.europeanbrandinstitute.com/brand-rankings-1/brand-rankings-2026/)</td>
 <td>Top-10-Markenunternehmen Österreichs (Red Bull ca. 20,1 Mrd. €, Novomatic, Erste Group u. a.; 180 Unternehmen aus 16 Branchen) plus ESG-basiertes Sustainable Brand Rating; Wiener Institut – Gastvortrag möglich. Die Abweichung zu Brand Finance Austria 25 (Red Bull 8,7 vs. \~20 Mrd. €) eignet sich ideal zur Diskussion von Methodenunterschieden.</td>
 <td>Datenquelle (AT) + Methodendiskussion; free (Charts, Pressemitteilung PDF)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -870,7 +870,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.europeanbrandinstitute.com/brand-evaluation/methods/](https://www.europeanbrandinstitute.com/brand-evaluation/methods/)</td>
 <td>PDF-Beschreibung der EBI-Bewertungsmethodik (Grundlage der Global-Top-100- und Österreich-Rankings, laut EBI an ISO-Standards orientiert) – deutschsprachige Methodenquelle aus Wien.</td>
 <td>Reading (DE/EN); free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -879,7 +879,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.iso.org/standard/46032.html](https://www.iso.org/standard/46032.html)</td>
 <td>Norm zur monetären Markenbewertung: Income-, Market- und Cost-Approach; Anforderungen an rechtliche, verhaltenswissenschaftliche und finanzielle Analyse sowie Reporting – Referenzrahmen, wenn das Audit einen Markenwert ausweist.</td>
 <td>Hintergrund; paid (\~CHF 100), Zugang über WU/Austrian Standards prüfen</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -888,7 +888,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.iso.org/standard/81739.html](https://www.iso.org/standard/81739.html)</td>
 <td>Erster internationaler Standard zur (nicht-monetären) Markenevaluation: Input-Elemente (tangible, Qualität, Innovation, Service, intangible) und Output-Dimensionen (Recht, Kunde, Markt, Umfeld, Finanzen) mit Beispielindikatoren sowie Prinzipien (Transparenz, Konsistenz, Objektivität) – direkt als Audit-Gliederung nutzbar; ergänzt ISO 10668.</td>
 <td>Framework für Audit-Gliederung; paid (Preview frei bei ANSI Webstore)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -897,7 +897,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://commercial.yougov.com/rs/464-VHH-988/images/WP-2025-01-Global-Best-Brands-2025.pdf](https://commercial.yougov.com/rs/464-VHH-988/images/WP-2025-01-Global-Best-Brands-2025.pdf)</td>
 <td>BrandIndex-Index aus Impression, Quality, Value, Satisfaction, Reputation, Recommend (28 Märkte, Marken in ≥10 Märkten); dazu 13 Tracking-Metriken (Aided/Ad Awareness, Buzz, WOM, Consideration, Purchase Intent, Current Customer) – Muster für ein Brand-Health-Kennzahlenset im Audit.</td>
 <td>Template für KPI-Set; free (PDF)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -906,7 +906,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.edelman.com/trust/2026/trust-barometer/special-report-brands](https://www.edelman.com/trust/2026/trust-barometer/special-report-brands)</td>
 <td>Brand-Companion zum Trust Barometer (15 Märkte): Vertrauen verengt sich auf Peers, Creators, Earned Media und Algorithmen – Input für die Dimension Markenvertrauen/Reputation im Audit und für die Diskussion der Trust-Messung.</td>
 <td>Reading/Diskussion; free (PDF, ggf. Registrierung)</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -915,7 +915,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://prophet.com/thinking/relevantbrands](https://prophet.com/thinking/relevantbrands)</td>
 <td>Konsumentenbewertung von 300+ Marken in 27 Branchen auf vier Relevanztreibern (customer obsession, pragmatism, innovation, inspiration); Methodik-Seiten früherer Editionen dokumentieren die Markenauswahl – Beispiel für einen Relevanz-Baustein im Audit.</td>
 <td>Beispiel/Benchmark; free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -924,7 +924,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://worldssimplestbrands.com/](https://worldssimplestbrands.com/)</td>
 <td>15.000+ Befragte in 9 Ländern, 800+ Marken in 25 Branchen nach wahrgenommener Einfachheit bewertet, plus 'Simplicity Dividend' (Mehrzahlungsbereitschaft) – Beispiel für ein erlebnisbezogenes Audit-Kriterium (Customer Experience).</td>
 <td>Beispiel/Benchmark; free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -933,7 +933,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.havas.com/meaningful-brands/](https://www.havas.com/meaningful-brands/)</td>
 <td>Misst persönlichen, funktionalen und kollektiven Nutzen von Marken; Headline: ca. 78 % der Marken könnten verschwinden, ohne vermisst zu werden; Österreich-Auswertung mit 5.724 Interviews zu 159 Marken – AT-Benchmark für Meaningfulness im Audit.</td>
 <td>Benchmark/Diskussion; free (Summary), Vollreport auf Anfrage</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -942,7 +942,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://themasb.org/wp-content/uploads/2016/03/MASB_Brand_Investment_Valuation-DEEP-DIVE-FINAL-v2-3_15_2016.pdf](https://themasb.org/wp-content/uploads/2016/03/MASB_Brand_Investment_Valuation-DEEP-DIVE-FINAL-v2-3_15_2016.pdf)</td>
 <td>18-monatige Tracking-Studie (12 Kategorien, 120 Marken): Brand Preference erklärt \~80 % der Varianz im Mengenmarktanteil (ungestützte Bekanntheit \~48 %); 2015 als BIV-Standard verabschiedet; MASB Marketing Metric Audit Protocol (10 Merkmale idealer Metriken) – Kriterien zur Auswahl valider Audit-KPIs.</td>
 <td>Reading/Metrik-Validierung; free (PDF)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -951,7 +951,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://themasb.org/applying-masbs-model-for-brand-valuation/](https://themasb.org/applying-masbs-model-for-brand-valuation/)</td>
 <td>Anwendung des BIV-Modells (DCF mit Verknüpfung Brand Preference → Unit Share → Cash Flow) bei MillerCoors – zeigt, wie Audit-Ergebnisse (Präferenz) finanziell übersetzt werden.</td>
 <td>Vertiefung; paid/members only (Summary frei)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -960,7 +960,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.econstor.eu/bitstream/10419/261112/1/afm-praxiswissen-01-2016-s022-034.pdf](https://www.econstor.eu/bitstream/10419/261112/1/afm-praxiswissen-01-2016-s022-034.pdf)</td>
 <td>Kompakte, frei verfügbare Anleitung: Markenmodell mit Dimensionen (Markenorientierung, Markenführung, Branding, markenorientiertes Marketing, verhaltenswiss. Markenstärke, ökonomischer Markenerfolg) und Indikatoren, Scoring/Gewichtung, Audit-Team, drei Phasen (Vorbereitung – Durchführung – Kommunikation); explizit auch als Lehrmethode beschrieben.</td>
 <td>Kernlektüre (DE) + Template für Audit-Projekt; free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -969,7 +969,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.markenlexikon.com/texte/ma_franzen_markenbewertung_din-iso-norm-10668_09_2011.pdf](https://www.markenlexikon.com/texte/ma_franzen_markenbewertung_din-iso-norm-10668_09_2011.pdf)</td>
 <td>Kurze deutschsprachige Einführung in die DIN ISO 10668: Hintergrund der Standardisierung, Anforderungen und Kritik an publizierten Markenwertrankings – Vorbereitung auf die Methodendiskussion Interbrand/BrandZ/Brand Finance/EBI.</td>
 <td>Vorbereitende Lektüre (DE); free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -978,7 +978,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.markenlexikon.com/texte/sattler_pwc_markenbewertung_2006.pdf](https://www.markenlexikon.com/texte/sattler_pwc_markenbewertung_2006.pdf)</td>
 <td>Unternehmensbefragung zu Einsatz, Zwecken und Methoden der Markenbewertung – zeigt, wie Markencontrolling/Audits in der Praxis tatsächlich eingesetzt werden.</td>
 <td>Hintergrund (DE); free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -987,7 +987,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.markenlexikon.com/texte/bbdo_klein-boelting_etal_monetaere_markenbewertung_insights_6_sept2007.pdf](https://www.markenlexikon.com/texte/bbdo_klein-boelting_etal_monetaere_markenbewertung_insights_6_sept2007.pdf)</td>
 <td>Überblick über monetäre Bewertungsverfahren und die 'Zehn Grundsätze der monetären Markenbewertung' des Brand Valuation Forum (2006) – deutscher Vorläufer von ISO 10668, nützlich als Kriterienkatalog im Audit.</td>
 <td>Hintergrund (DE); free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -996,7 +996,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.quantilope.com/resources/better-brand-health-tracking-whitepaper](https://www.quantilope.com/resources/better-brand-health-tracking-whitepaper)</td>
 <td>Praxisanleitung zum Tracking von Category Entry Points, Mental Availability und Mental Market Share statt klassischer Funnel-Metriken – Fragebogen-Inspiration für den quantitativen Audit-Teil (Anbietermaterial, kritisch lesen).</td>
 <td>Template für Fragebogen; free (Registrierung)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -1005,7 +1005,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://nielseniq.com/global/en/insights/report/2025/](https://nielseniq.com/global/en/insights/report/2025/)</td>
 <td>CMO-Befragung: 83 % vertrauen auf Brand Equity, Anteil langfristiger Markenbudgets sinkt auf 55 %, Datenkonnektivität als Barriere – Kontext, warum Brand Audits und Markenmessung in Unternehmen unter Druck stehen.</td>
 <td>Kontext/Diskussion; free (Registrierung)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -1014,7 +1014,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.ipsos.com/en-nz/topic/brand-health-tracking](https://www.ipsos.com/en-nz/topic/brand-health-tracking)</td>
 <td>Ipsos-Logik des Brand-Health-Trackings (Top-of-Mind beim Kauf, Erfüllung funktionaler/emotionaler Bedürfnisse, Präferenz ggü. Wettbewerb) – Vergleichsfolie zu Kantar/YouGov für die Kennzahlenwahl im Audit.</td>
 <td>Beispiel Anbieterperspektive; free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Reports</td>
@@ -1023,7 +1023,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.bavgroup.com/](https://www.bavgroup.com/)</td>
 <td>Vier Säulen Differentiation (Energized Differentiation), Relevance, Esteem, Knowledge; Brand Strength (Differentiation × Relevance) vs. Brand Stature (Esteem × Knowledge) im PowerGrid – klassisches Diagnoseraster für die Positionierungsanalyse im Audit.</td>
 <td>Framework/Übung (PowerGrid); free (Website), Daten paid</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 </table>
 ### Websites (18)
@@ -1044,7 +1044,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.brandwatch.com/blog/brand-audit/](https://www.brandwatch.com/blog/brand-audit/)</td>
 <td>13-minute guide with 7 steps (framework/goals/roles → customer insights → website & SEO analytics → social media & sentiment → brand performance KPIs → competitor benchmarking incl. share of voice and SWOT → action plan & monitoring) plus a 7-area checklist with guiding questions (strategy & identity, messaging & voice, online presence, customer perception, competitive positioning, internal alignment, tools). Vendor content, promotes social listening.</td>
 <td>Pre-reading before the audit project; the 7-area checklist works as an in-class worksheet for student teams. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1053,7 +1053,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.smartsheet.com/content/brand-audit-templates](https://www.smartsheet.com/content/brand-audit-templates)</td>
 <td>17 free templates in Word/PDF/Google Docs/Excel/PowerPoint: brand audit template (core, verbal, visual identity + evaluation), audit report template (executive summary, methodology, results, recommendations, competitive positioning matrix), competitive brand audit (3 competitors side by side), logo/asset audit checklist, brand asset inventory (Excel), employee (internal) and customer (external) feedback surveys, engagement metrics tracker.</td>
 <td>In-class template bank: give teams the report template as the required deliverable format and the internal/external surveys as starting questionnaires. Free download.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1062,7 +1062,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://learn.marsdd.com/article/branding-strategy-use-a-three-step-brand-audit/](https://learn.marsdd.com/article/branding-strategy-use-a-three-step-brand-audit/)</td>
 <td>Simple, teachable 3-step logic: (1) internal audit (team fills form with brand foundations), (2) external audit by an uninvolved outsider who transcribes the website messaging into the same fields (\~2 h), then gap comparison, (3) competitive analysis with 2 direct competitors + 1 'stretch comparator'. Linked Google Sheets form with 16 fields (segments, functional/emotional benefits, value proposition, core associations, key messages, proof points, foundation story etc.).</td>
 <td>Ideal for a 90-minute in-class exercise: student pairs act as the 'external auditor' for a real brand's website and compare with the brand's self-description. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1071,7 +1071,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.shopify.com/blog/how-to-do-a-brand-audit](https://www.shopify.com/blog/how-to-do-a-brand-audit)</td>
 <td>8 steps (checklist → mission review → data collection → external branding consistency → company culture → customer experience → market position → improvements) organised around the three audit areas internal culture / external branding / customer experience. Practitioner/SME perspective, no downloadable template.</td>
 <td>Short pre-reading for undergraduates; contrast with Keller's brand inventory/brand exploratory to show what practitioner guides omit (brand equity measurement). Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1080,7 +1080,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://questionpro.com/blog/de/marken-audit-definition-schritte-und-wie-man-ein-solches-durchfuehrt](https://questionpro.com/blog/de/marken-audit-definition-schritte-und-wie-man-ein-solches-durchfuehrt)</td>
 <td>German-language 6-step process (Zweck brainstormen → Ziel definieren → Plan mit Aufgaben/Deadlines → Daten erheben inkl. Befragung von Kunden UND Nicht-Kunden → Analyse internes Branding / externes Branding / Customer Experience → Monitoring) with concrete brainstorming questions (Suchergebnisse, Website, Logo, Weiterempfehlung). Vendor blog of a survey tool.</td>
 <td>German pre-reading for Bachelor courses; use the three analysis areas as a structure for the team report. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1089,7 +1089,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.qualtrics.com/de/articles/strategy-research/marke-marketingforschung/](https://www.qualtrics.com/de/articles/strategy-research/marke-marketingforschung/)</td>
 <td>German guide on brand tracking: Markentreue (Kaufabsicht), Markenbekanntheit (gestützt vs. ungestützt, Recall vs. Recognition), Markenassoziationen (offene Textantworten), brand research in practice. No sample questionnaire; vendor perspective (Qualtrics XM).</td>
 <td>Background reading in German before students design a tracking survey; pair with the Attest questionnaire template for concrete items. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1098,7 +1098,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.askattest.com/blog/articles/the-brand-tracker-survey-template](https://www.askattest.com/blog/articles/the-brand-tracker-survey-template)</td>
 <td>16 ready-made tracker questions: category purchase/usage, ranked choice drivers, unprompted and prompted awareness, ever purchased, consideration (next 12 months), brand-attribute statements, last purchase, NPS + reason, channel exposure last month, mirrored questions for a competitor brand. Template runs on the Attest platform (signup), questions readable for free.</td>
 <td>In-class template: students critique and adapt the 16 items (e.g. replace generic attributes with category entry points following Romaniuk) and program them in Qualtrics/LimeSurvey. Article free; platform login.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1107,7 +1107,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://yougov.com/en-us/articles/37433-us-biggest-brand-movers](https://yougov.com/en-us/articles/37433-us-biggest-brand-movers)</td>
 <td>Clear one-line definitions of 13 daily-tracked brand health metrics grouped as media (aided awareness, ad awareness, word of mouth, buzz), perception (impression, value, reputation, satisfaction, recommend, quality) and funnel (consideration, purchase intent, current customer); ranking = number of metrics with significant month-on-month increase.</td>
 <td>Reference sheet when students define KPIs for their brand health dashboard; YouGov monthly 'brand movers' articles give free real data for discussion. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1116,7 +1116,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.quantilope.com/resources/category-entry-points](https://www.quantilope.com/resources/category-entry-points)</td>
 <td>Operationalises Romaniuk's Better Brand Health metrics: Mental Market Share, Mental Penetration, Network Size, Share of Mind, Mental Advantage; CEP generation via 7W framework, \~20 CEPs per tracker; CEP examples for cereals, soft drinks, face wash, fast food, cleaning. Vendor material – metric definitions are useful, product claims less so.</td>
 <td>Handout when students build a CEP-based mental availability module for their audit survey. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1125,7 +1125,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://wirtschaftslexikon.gabler.de/definition/markenwert-38582](https://wirtschaftslexikon.gabler.de/definition/markenwert-38582)</td>
 <td>Short German definition distinguishing the finanzwirtschaftliche Perspektive (sum of future net cash inflows attributable to the brand) from the verhaltenswissenschaftliche Perspektive (more favourable consumer response than to an identical unbranded product); cross-links to Markenimage, Markenbekanntheit, Markenidentität, identitätsbasiertes Markenmanagement. No dedicated Gabler entry 'Markenaudit' found.</td>
 <td>Terminology anchor for German-language courses (WU Bachelor); cite as definition source in student reports. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1134,7 +1134,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.markenlexikon.com/d_texte/markenbewertung_trommsdorff.pdf](https://www.markenlexikon.com/d_texte/markenbewertung_trommsdorff.pdf)</td>
 <td>23-page German handbook chapter: brand value as success measure of brand strategy; argues there is no objectively 'true' brand value but standardised, comparable measurement is essential for controlling; overview and critique of valuation approaches (state of 2003: no accepted standards). PDF loads; content summarised from search snippets.</td>
 <td>German background reading for the session on Markenbewertung vs. Markenaudit; good for discussing validity of brand value numbers. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1143,7 +1143,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://markenlexikon.com/texte/asw_biesalski_kilian_markenwert_franzen_strehlau_bdu-markenbewertung_11_2015.pdf](https://markenlexikon.com/texte/asw_biesalski_kilian_markenwert_franzen_strehlau_bdu-markenbewertung_11_2015.pdf)</td>
 <td>German trade article on monetary brand valuation: rankings with diverging billion-dollar values for the same company make valuation look like a 'Ratespiel'; discusses the BDU principles of brand valuation and standardisation. Large PDF (\>10 MB) – fetch aborted, existence confirmed by search.</td>
 <td>Discussion starter: why do Interbrand, BrandZ and Brand Finance disagree? Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1152,7 +1152,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.canva.com/learn/brand-assets/](https://www.canva.com/learn/brand-assets/)</td>
 <td>Practical brand asset audit: collect past/current/future elements along the customer journey, gather audience and team feedback (emotions evoked, confusion, correct brand attribution), focus groups; explains the Ehrenberg-Bass Distinctive Asset Grid (Avoid / Use or Lose / Ignore or Test / Invest) with a mascot example. Canva also offers editable 'Brand Audit Presentation' templates (some Pro).</td>
 <td>Hands-on: students audit 5-8 assets of a brand and place them in the grid; Canva templates for the final presentation. Free (Pro templates paid).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1161,7 +1161,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.brandwatch.com/blog/brand-health-how-to-measure/](https://www.brandwatch.com/blog/brand-health-how-to-measure/)</td>
 <td>Metrics (aided/unaided awareness, consideration, perception/attributes, loyalty/advocacy, share of voice, purchase intent) plus 9 steps: link to business objectives, benchmarks (own past, competitors, aspirational), cadence (continuous monitoring, monthly pulse, quarterly deep dive, annual audit), multiple data sources, dashboard design, common mistakes (vanity metrics, method changes). Warns that SOV/sentiment alone lack context.</td>
 <td>Pre-reading for the session linking the one-off audit to continuous tracking; the cadence model is a good slide. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1170,7 +1170,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kantar.com/uki/solutions/brand-growth/brand-tracking](https://www.kantar.com/uki/solutions/brand-growth/brand-tracking)</td>
 <td>Shows how a large agency frames modern tracking: always-on 'brand guidance system' integrating survey, search, social and sales data; competitor benchmarking, campaign optimisation, scenario simulation; links to a downloadable brand equity & growth guide and an on-demand webinar (registration).</td>
 <td>Industry-practice illustration (5 min in class) of how agencies sell tracking; contrast with Ritson's annual tracker. Free; extras require registration.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1179,7 +1179,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://ipa.co.uk/knowledge/effectiveness-research-analysis/les-binet-peter-field](https://ipa.co.uk/knowledge/effectiveness-research-analysis/les-binet-peter-field)</td>
 <td>Central index of Binet & Field material: The Long and the Short of It (2013), Media in Focus (2017), Effectiveness in Context (2018), 'Share of Search as a predictive measure' (article & webinar, Oct 2020), 'Using Share of Search to gauge consumer demand' (with James Hankins, Nov 2020), 'Share of Search one year on' (2021), Greatest Hits charts. Access per item not stated (some IPA member-only).</td>
 <td>Source list for a session on behavioural brand metrics (share of search as low-cost audit indicator); students compute share of search with Google Trends. Mostly free, some IPA login.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1188,7 +1188,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.semrush.com/blog/free-ai-visibility-audit-semrush/](https://www.semrush.com/blog/free-ai-visibility-audit-semrush/)</td>
 <td>New audit dimension: does ChatGPT/Gemini/AI Overviews mention and recommend the brand? \<30-minute routine with free tools: AI mentions (Domain Overview), AI crawler access (Site Audit 'AI Search Health'), competitor comparison (Free AI Brand Visibility Tool). Vendor content.</td>
 <td>Optional add-on module 'brand audit in the age of AI search'; students run the free checks on their audit brand. Free tools, some features need Semrush account.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Websites</td>
@@ -1197,10 +1197,10 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://blog.hubspot.de/marketing/marketing-audit](https://blog.hubspot.de/marketing/marketing-audit)</td>
 <td>German HubSpot checklist for the broader marketing audit (Prämissen-Audit, Ziel-/Strategie-Audit, Maßnahmen-Audit, Organisations-Audit). HubSpot has no dedicated, current brand audit article (blog.hubspot.com/marketing/brand-audit returns 404); use this to show where the brand audit sits within the marketing audit.</td>
 <td>Background for positioning the brand audit within marketing controlling; German, free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 </table>
-### Blogs (19)
+### Blogs (45)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -1218,7 +1218,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.marketingweek.com/brand-diagnosis-brand-managers/](https://www.marketingweek.com/brand-diagnosis-brand-managers/)</td>
 <td>Ritson's blueprint for a brand audit: first-year deep diagnosis (secondary data, buyer profiles, ethnography, brand history/founders/archives, large category survey) → annual tracker measuring only the few associations that matter against competitors plus a custom 4-5-stage funnel from qual research; timing of the yearly tracker; derived (not stated) drivers of purchase.</td>
 <td>Core pre-reading; use the 'deep diagnosis vs. annual tracker' distinction to structure the course project. Marketing Week paywall (limited free articles/registration).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1227,7 +1227,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.marketingweek.com/mark-ritson-marketers-skip-brand-research-doomed-fail/](https://www.marketingweek.com/mark-ritson-marketers-skip-brand-research-doomed-fail/)</td>
 <td>Argues new CMOs should spend their first \~6 months on diagnosis; two phases: discovery (brand history, secondary data, loyalist research, segment groups) and testing (brand survey, second-stage groups); low-budget route (history, secondary data, ethnography, talking to loyalists); 'no correlation' between research spend and insight quality.</td>
 <td>Short reading to motivate why an audit precedes strategy; good for a debate on qualitative vs. quantitative audit components. Marketing Week login/paywall.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1236,7 +1236,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.marketingweek.com/ritson-badly-designed-surveys/](https://www.marketingweek.com/ritson-badly-designed-surveys/)</td>
 <td>Dissects survey flaws using a Barclays study (70% say sustainability matters): prompted lists, social desirability, respondent fatigue, consumers' limited self-knowledge; recommends qual first, shorter questionnaires, honesty priming, derived/behavioural data (e.g. conjoint).</td>
 <td>Methods session before students write their audit questionnaire: 'what not to ask'. Marketing Week login/paywall.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1245,7 +1245,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.thedrum.com/news/2025/10/06/mark-ritson-we-know-what-distinctive-marketing-looks-now-let-s-agree-what-call-it](https://www.thedrum.com/news/2025/10/06/mark-ritson-we-know-what-distinctive-marketing-looks-now-let-s-agree-what-call-it)</td>
 <td>Clarifies terminology for the asset part of an audit (branded recall, brand codes, distinctive brand assets, fluent devices); cites System1×Effies data (emotion, longevity, explicit branding), \<50% correct ad attribution, \~7 brand references in a 30-second spot push recall to 100%.</td>
 <td>Reading for the brand identity/asset audit session; students check ads of their audit brand for branding cues. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1254,7 +1254,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.marketingweek.com/mark-ritson-brand-distinctive-assets/](https://www.marketingweek.com/mark-ritson-brand-distinctive-assets/)</td>
 <td>Distinctiveness/salience ('first they must know it's me') is 70-80% of the job, differentiation overrated – a useful provocation when students decide which audit dimensions to weight.</td>
 <td>Debate prompt (distinctiveness vs. differentiation) in the positioning part of the audit. Marketing Week login/paywall.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1263,7 +1263,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.marketingweek.com/marketers-judgement-strength-brand-assets-rarely-accurate/](https://www.marketingweek.com/marketers-judgement-strength-brand-assets-rarely-accurate/)</td>
 <td>Ehrenberg-Bass study of 400+ brand elements: marketers overestimate fame and underestimate uniqueness of their assets; group judgements more accurate than individual ones; recommends consumer testing with the Distinctive Asset Grid.</td>
 <td>Evidence for why the audit needs external consumer data rather than internal workshops; pair with Canva/EBI grid exercise. Marketing Week login/paywall.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1272,7 +1272,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://mba.marketingweek.com/what-are-category-entry-points/](https://mba.marketingweek.com/what-are-category-entry-points/)</td>
 <td>Ritson proposes a tracking funnel starting with category entry points instead of awareness: share of market experiencing each CEP, brand salience per CEP (mental availability), preference, repeat, NPS; criticises 'have you heard of our brand?' as brand-first; suggests tracking both CEP and classic metrics. Domain was unreachable at check time (DNS).</td>
 <td>Short reading to redesign the classic awareness funnel in the student tracker. Free.</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1281,7 +1281,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandingstrategyinsider.com/brand-audit/](https://brandingstrategyinsider.com/brand-audit/)</td>
 <td>Five posts: 'The Brand Audit' (2007), 'Brand Audits: Choosing the Auditor' (2007), 'The Brand Audit: Key for Determining Brand Health' (2011), 'Brand Audit: Guardian of Brand Health' (2012), 'Brand Audits: Three Powerful Rings' (2012) – audit of mission/vision, brand essence, promise, personality as perceived by stakeholders, consistency across stakeholder groups, recommendations for equity and positioning.</td>
 <td>Older but concise practitioner framing; assign 'Choosing the Auditor' for a discussion on internal vs. external auditors. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1290,7 +1290,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketingscience.info/news-and-insights/jenni-romaniuk-on-better-brand-health](https://marketingscience.info/news-and-insights/jenni-romaniuk-on-better-brand-health)</td>
 <td>Principles for brand health tracking from 'Better Brand Health' (OUP 2023): brand health = changes in memory/perceptions within the category; design the tracker for the category (usable by every brand, not one), analyse by buyer/non-buyer rather than demographics, report for the brand.</td>
 <td>Pre-reading before designing the audit survey; check student questionnaires against the three principles. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1299,7 +1299,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketingscience.info/news-and-insights/tuning-out-the-noise-to-better-hear-the-quiet-consumer](https://marketingscience.info/news-and-insights/tuning-out-the-noise-to-better-hear-the-quiet-consumer)</td>
 <td>Trackers overweight heavy loyal buyers; separate light and non-buyers; don't assume purchase frequency (window cleaner bought \~once a year); choose loyalty metrics by category (frequency vs. renewal/defection).</td>
 <td>Discussion input on sampling for the audit survey (who to ask). Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1308,7 +1308,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketingscience.info/news-and-insights/how-do-you-measure-how-brands-grow](https://marketingscience.info/news-and-insights/how-do-you-measure-how-brands-grow)</td>
 <td>Short reflection: brand research takes too little account of How Brands Grow; keep existing research but add category entry points and new association/brand strength metrics (Romaniuk). Very brief – use as bridge to the book.</td>
 <td>5-minute reading to introduce the 'Ehrenberg-Bass vs. traditional tracker' debate. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1317,7 +1317,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketingscience.info/news-and-insights/brands-of-distinction](https://marketingscience.info/news-and-insights/brands-of-distinction)</td>
 <td>Original explanation of the Distinctive Asset Grid: assets must be famous and unique (uniqueness more important); quadrants Use or Lose / Invest / Avoid / Test or Ignore; check what consumers actually store in memory before identity decisions.</td>
 <td>Primary source for the asset-audit exercise. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1326,7 +1326,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.swinburne.edu.au/news/2019/06/advertising-tracking-is-broken/](https://www.swinburne.edu.au/news/2019/06/advertising-tracking-is-broken/)</td>
 <td>Provocative critique: 'the majority of brand measures are meaningless'; perception/consideration charts barely move for established brands; use existing search, social and third-party data first, surveys last; re-allocate tracking budget to media.</td>
 <td>Counter-position for a pro/contra debate on traditional brand trackers. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1335,7 +1335,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://ipa.co.uk/knowledge/ipa-blog/six-things-we-learnt-about-the-long-and-the-short-of-it-10-years-on](https://ipa.co.uk/knowledge/ipa-blog/six-things-we-learnt-about-the-long-and-the-short-of-it-10-years-on)</td>
 <td>Interview recap with Les Binet and Peter Field: influence of LSOI, short-termism after COVID, announcement of a forthcoming measurement-focused report; context for long-term brand metrics in audits.</td>
 <td>Background reading on why audits must track long-term brand effects, not only activation KPIs. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1344,7 +1344,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://prophet.com/2022/02/2022-prophet-brand-relevance-index/](https://prophet.com/2022/02/2022-prophet-brand-relevance-index/)</td>
 <td>Consultancy alternative to equity trackers: 13,500+ US consumers, 293 brands, 27 categories, 16 relevance attributes (pragmatic, customer-obsessed, inspired, innovative); Prophet also offers a self-diagnostic at relevantbrands-2018.prophet.com.</td>
 <td>Students run the free relevance self-diagnostic for their audit brand and critique the attribute list. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1353,7 +1353,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.wuv.de/themen/agentur/zehn-jahre-statt-40-tage-warum-markenfuehrung-mehr-widerstand-braucht](https://www.wuv.de/themen/agentur/zehn-jahre-statt-40-tage-warum-markenfuehrung-mehr-widerstand-braucht)</td>
 <td>German report on the five shared theses of Mark Ritson and Byron Sharp at Cannes Lions 2026 (mental availability, distinctive assets, consistency, broad reach) and what agencies should learn; full text paywalled.</td>
 <td>German-language current-affairs hook for the lecture; teaser and theses readable for free. W&V subscription for full text.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1362,7 +1362,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://labmarcel.substack.com/p/brand-health-and-tracking-with-jenni](https://labmarcel.substack.com/p/brand-health-and-tracking-with-jenni)</td>
 <td>Audio conversation: what brand health means, running tracking with survey tools, awareness and CEP metrics, analysing results, common pitfalls; companion video on YouTube.</td>
 <td>Commute listening before the tracking session; assign one question per student group to summarise. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1371,7 +1371,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.askattest.com/blog/articles/is-data-blindness-a-problem-for-marketers-tom-roach-thinks-so](https://www.askattest.com/blog/articles/is-data-blindness-a-problem-for-marketers-tom-roach-thinks-so)</td>
 <td>Roach argues for less but better-quality data and people who can interpret it; balances short-term sales metrics with long-term brand metrics, favours MMM and share of search.</td>
 <td>Short reading for the reflection on 'metric overload' in audit dashboards. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Blogs</td>
@@ -1380,6 +1380,240 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.deptagency.com/?p=4291429](https://www.deptagency.com/?p=4291429)</td>
 <td>Re-examines Keller's HBR 'Brand Report Card' (2000) with its 10 traits (benefit delivery, relevance, value pricing, positioning, consistency, portfolio logic, full marketing toolkit, understanding brand meaning, sustained support, monitoring sources of equity) and finds them still valid for today's brands; useful as a scoring sheet.</td>
 <td>Students score their audit brand 1-10 on the ten traits (Keller's original in HBR, paid); this review is the free companion. Free.</td>
+<td>bestehend; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>So kannst du deine KI-Sichtbarkeit messen</td>
+<td>Lili Frankus (duwerk), OMR Reviews ContentHub, 23.01.2026, Blogpost (Gastbeitrag)</td>
+<td>[https://omr.com/de/reviews/contenthub/ki-sichtbarkeit-messen](https://omr.com/de/reviews/contenthub/ki-sichtbarkeit-messen)</td>
+<td>Practical how-to for auditing brand visibility in ChatGPT, Perplexity and Gemini: builds a prompt set, defines KPIs (brand mentions, citations, citation frequency, prompt coverage, visibility share, sentiment, factual correctness) and shows how to filter AI referral traffic in GA4 with a regex. Recommends starting with four KPIs. Written by a GEO agency founder, so it partly promotes the agency's own services.</td>
+<td>German pre-reading for an 'AI visibility' module of a brand audit; students run a mini prompt-set audit for a brand and compare share of voice with competitors. Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Künstliche Intelligenz: Wie misst man Markenpräsenz in LLMs? Mattes Schrader hat die Lösung</td>
+<td>Klaus Janke, HORIZONT (Tech), 11.07.2025, Artikel</td>
+<td>[https://www.horizont.net/tech/nachrichten/kuenstliche-intelligenz-wie-misst-man-markenpraesenz-in-llms-mattes-schrader-hat-die-loesung-229055](https://www.horizont.net/tech/nachrichten/kuenstliche-intelligenz-wie-misst-man-markenpraesenz-in-llms-mattes-schrader-hat-die-loesung-229055)</td>
+<td>Reports on a tool from Oh-So Digital (Matthias 'Mattes' Schrader) that tracks how brands perform in LLM answers along the AIDA phases and turns this into competitor rankings. Shows how a funnel logic from classic brand tracking is being carried over to AI search. Paywall: only the teaser is free.</td>
+<td>Discussion hook: can funnel-based brand tracking be carried over to LLMs? Pair with the free OMR how-to. Access: paywall (HORIZONT+).</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Warum KI bessere Marketingziele braucht</td>
+<td>ADZINE guest author (former Appinio market researcher, now agency media planner), W&V, 03.08.2026, Gastbeitrag</td>
+<td>[https://www.wuv.de/themen/ki-tech/Warum-KI-bessere-Marketingziele-braucht](https://www.wuv.de/themen/ki-tech/Warum-KI-bessere-Marketingziele-braucht)</td>
+<td>Argues that AI-driven optimisation will maximise whatever short-term KPI it is given, so brands should adopt mental availability or mental market share as the shared goal metric. Cites a meta-analysis of 100+ brands with r = 0.83 between mental market share and sales; the study is not named, so verify it before use. Soft paywall.</td>
+<td>Discussion hook on which KPI a brand audit should make the 'north star'; have students check the 0.83 claim against Romaniuk's Better Brand Health. Access: paywall (W&V subscription), with some full text visible.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Was Marken im Optimierungsdruck aus den Augen verlieren</td>
+<td>Stefan Schasche, W&V, 17.08.2026, Artikel (with Olaf Peters-Kim, Welect)</td>
+<td>[https://www.wuv.de/themen/marke/was-marken-im-optimierungsdruck-aus-den-augen-verlieren](https://www.wuv.de/themen/marke/was-marken-im-optimierungsdruck-aus-den-augen-verlieren)</td>
+<td>Argues that constant campaign optimisation favours short-term efficiency metrics, so a campaign can look efficient while the brand wins few new buyers. Makes the case for reach, mental availability and new-customer acquisition as brand-health indicators. Paywall after the intro.</td>
+<td>Short German hook on the 'short-term metrics trap' when choosing audit KPIs. Access: paywall.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Mark Ritson: "People don't give a fuck about your brand"</td>
+<td>Conrad Breyer, W&V, 24.06.2026, Artikel (Cannes Lions report)</td>
+<td>[https://www.wuv.de/Themen/Agentur/Mark-Ritson-People-don-t-give-a-fuck-about-your-brand](https://www.wuv.de/Themen/Agentur/Mark-Ritson-People-don-t-give-a-fuck-about-your-brand)</td>
+<td>Report on the joint Ritson and Byron Sharp session at Cannes Lions 2026, where they presented five 'marketing truths' (mental availability, distinctive assets, low consumer involvement). This is a separate piece from Breyer's later column 'Zehn Jahre statt 40 Tage', which is already in the guide. Paywall after the intro.</td>
+<td>German entry point to the Sharp and Ritson positions; use with the English Ritson columns already in the guide. Access: paywall.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Marketingexperte Mark Ritson: Warum sich CMOs nicht wie Kinder verhalten sollten</td>
+<td>Juliane Paperlein, HORIZONT, 13.11.2025, Artikel/Interview</td>
+<td>[https://www.horizont.net/marketing/nachrichten/marketingexperte-mark-ritson-warum-sich-cmos-nicht-wie-kinder-verhalten-sollten-231708](https://www.horizont.net/marketing/nachrichten/marketingexperte-mark-ritson-warum-sich-cmos-nicht-wie-kinder-verhalten-sollten-231708)</td>
+<td>Ritson argues that erratic CMO decisions (frequent repositioning, new campaigns and agencies) cost both awareness and sales, and that consistency in brand management pays off. Includes his '10 harsh truths' for advertisers and announces his regular HORIZONT column. Paywall.</td>
+<td>Discussion hook for the 'consistency' dimension of a brand audit, i.e. how often assets and positioning changed. Access: paywall.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Kolumne von Mark Ritson: Die deutschen Verbraucher verstehen mehr von Werbung als die deutschen Marketer</td>
+<td>Mark Ritson, HORIZONT (Talking Heads), 28.09.2026, Kolumne</td>
+<td>[https://www.horizont.net/marketing/talkingheads/kolumne-von-mark-ritson-die-deutschen-verbraucher-verstehen-mehr-von-werbung-als-die-deutschen-marketer-236014](https://www.horizont.net/marketing/talkingheads/kolumne-von-mark-ritson-die-deutschen-verbraucher-verstehen-mehr-von-werbung-als-die-deutschen-marketer-236014)</td>
+<td>Ritson's German-language column on the gap between what German consumers expect from advertising and what German brands deliver, aimed at the DACH marketing industry. Paywall; the free teaser contains no data.</td>
+<td>Optional German Ritson column for discussion on the DACH market. Access: paywall.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Nummer eins im Kopf</td>
+<td>markenartikel – Das Magazin für Markenführung, Ausgabe 10/2026, Artikel (with Stefanie Sonnenschein, Interrogare)</td>
+<td>[https://www.markenartikel-magazin.de/_rubric/detail.php?rubric=marke-marketing&nr=66937](https://www.markenartikel-magazin.de/_rubric/detail.php?rubric=marke-marketing&nr=66937)</td>
+<td>Article on measuring mental availability, Byron Sharp's key driver of brand growth, featuring the market research institute Interrogare. The teaser notes that the approach long lacked a valid data foundation in practice. Paywall: only the teaser is visible, so the study design was not checked.</td>
+<td>German practitioner perspective on putting mental availability into brand tracking. Access: paywall (markenartikel subscription).</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Der Sprung ins kalte Wasser: Von dem Wagnis, ein Brand Tracking für eine große Marke umzustellen</td>
+<td>planung&analyse (HORIZONT), Sonderheft betriebliche Marktforschung, 25.02.2022, Erfahrungsbericht</td>
+<td>[https://www.horizont.net/planung-analyse/nachrichten/der-sprung-ins-kalte-wasser-von-dem-wagnisein-brand-tracking-fuer-eine-grossemarke-umzustellen-198138](https://www.horizont.net/planung-analyse/nachrichten/der-sprung-ins-kalte-wasser-von-dem-wagnisein-brand-tracking-fuer-eine-grossemarke-umzustellen-198138)</td>
+<td>In-house researcher's account of switching the brand tracker of a large brand. Covers running old and new providers in parallel and calibrating historical waves, effects of panel composition and survey bots, cutting a 20+ minute questionnaire to about 20 core questions, question-order effects, and the client complaint that trackers yield no actionable decisions. Note: planung&analyse has moved, and the URL now redirects to marktforschung.de/planung-analyse, so find the article there.</td>
+<td>Strong case for the 'tracking design' session, on comparability, wave calibration and data quality. Access: login/paywall likely; the URL redirects.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Grow your brand: Wie ein Framework für evidenzbasiertes Markenwachstum aussieht</td>
+<td>planung&analyse (HORIZONT), ca. 2022, Fachartikel</td>
+<td>[https://www.horizont.net/planung-analyse/nachrichten/framework-des-markenwachstums-grow-your-brand-199938](https://www.horizont.net/planung-analyse/nachrichten/framework-des-markenwachstums-grow-your-brand-199938)</td>
+<td>German framework article built on Sharp: penetration (share of buying households) as the core KPI, mental and physical availability as drivers, and the Distinctive Asset Grid (unprompted testing of static, moving and sound assets among category buyers) as the audit tool. Gives the rule of thumb of 4–5 highly distinctive assets. The URL now redirects to marktforschung.de/planung-analyse.</td>
+<td>German pre-reading on the Ehrenberg-Bass audit logic (penetration, availability, asset grid). Access: login/paywall likely; the URL redirects.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Neuer Markenauftritt von Jaguar: Die Katze macht Beute</td>
+<td>Peter John Mahrenholz, HORIZONT (Agenturen/Kommentare), 27.11.2024, Gastbeitrag</td>
+<td>[https://www.horizont.net/agenturen/kommentare/neuer-markenauftritt-von-jaguar-die-katze-macht-beute-224304](https://www.horizont.net/agenturen/kommentare/neuer-markenauftritt-von-jaguar-die-katze-macht-beute-224304)</td>
+<td>Contrarian strategist view that the Jaguar rebrand ('Copy Nothing', new monogram, leaper largely retired) was a success, against design critics who saw it as a break with the brand's core. Useful counterpoint for a rebranding post-mortem. Paywall.</td>
+<td>Debate exercise on Jaguar: assign this pro view against the absatzwirtschaft and PAGE critiques, then check the later sales figures. Access: paywall.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Paukenschlag von Jaguar: Radikales Redesign der Traditionsmarke!</td>
+<td>Sabine Danek, PAGE online, 21.11.2024, Artikel</td>
+<td>[https://page-online.de/kreation/paukenschlag-von-jaguar-radikales-redesign-der-traditionsmarke/](https://page-online.de/kreation/paukenschlag-von-jaguar-radikales-redesign-der-traditionsmarke/)</td>
+<td>Design-press documentation of the Jaguar identity: mixed-case wordmark, monogram, gold palette, and the 'Copy Nothing' spot without a car. Frames the shift from selling cars to selling a lifestyle and records the first meme and backlash reactions. Gives primary visual material for analysing which distinctive assets were dropped.</td>
+<td>Free visual source for a distinctive-asset audit of Jaguar before and after the rebrand. Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Rebranding von Jaguar: The cat is dead. Long live the cat!</td>
+<td>absatzwirtschaft, ca. Dezember 2024, Kolumne</td>
+<td>[https://www.absatzwirtschaft.de/rebranding-von-jaguar-the-cat-is-dead-long-live-the-cat-265106/](https://www.absatzwirtschaft.de/rebranding-von-jaguar-the-cat-is-dead-long-live-the-cat-265106/)</td>
+<td>Column calling Jaguar the most-discussed rebrand of 2024. It assesses the wordmark as defensible, criticises the monogram sharply, and calls the coordinated launch communication a marketing coup because awareness came before any car was shown. Note: absatzwirtschaft URLs currently redirect, so the link could not be fetched.</td>
+<td>Second German Jaguar view for the post-mortem debate. Access: probably free or registration; the link redirects at present.</td>
+<td>neu; in Suchergebnis bestätigt</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Etablierte Firmen verlieren bei den 150 stärksten Marken Österreichs (BrandAsset Valuator 2025)</td>
+<td>Tobias Seifried, Leadersnet.at, 01.07.2025, Artikel</td>
+<td>[https://www.leadersnet.at/news/90726,etablierte-firmen-verlieren-bei-den-150-staerksten-marken.html](https://www.leadersnet.at/news/90726,etablierte-firmen-verlieren-bei-den-150-staerksten-marken.html)</td>
+<td>Austrian BAV 2025 by Scholz & Friends Wien: about 1,000 brands, 12,500 respondents aged 16–69, brand strength measured on Differentiation, Relevance, Esteem and Knowledge, plus 49 image attributes and 80+ value questions. Findings: ChatGPT rising; Apple and Manner losing strength; top 3 are Amazon, Österreich and Google.</td>
+<td>Austrian benchmark data for a brand-audit exercise: place a local brand on the BAV pillars. Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>"Brand Finance Top 25"-Report: Das sind die wertvollsten und stärksten Marken Österreichs 2025</td>
+<td>Tobias Seifried, Leadersnet.at, 04.09.2025, Artikel</td>
+<td>[https://www.leadersnet.at/news/92500,das-sind-die-wertvollsten-und-staerksten-marken-oesterreichs-2025.html](https://www.leadersnet.at/news/92500,das-sind-die-wertvollsten-und-staerksten-marken-oesterreichs-2025.html)</td>
+<td>Brand Finance Austria 25 (2025): brand value defined via the licensing (royalty-relief) logic, separate from brand strength (BSI). Red Bull is most valuable, Erste Bank strongest, ÖBB second on strength. BILLA brand value is up 70% to EUR 2bn and it enters the top 10, a useful data point for discussing the Merkur to BILLA Plus brand consolidation.</td>
+<td>Use to contrast financial brand value with brand strength, and as an outcome check for the BILLA/Merkur case. Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Supermarktkette Merkur wird in Billa Plus umbenannt</td>
+<td>Der Standard (Wirtschaft/Etat), Jänner 2021, Artikel</td>
+<td>[https://www.derstandard.at/story/2000123686140/supermarktkette-merkur-wird-in-billa-plus-umbenannt](https://www.derstandard.at/story/2000123686140/supermarktkette-merkur-wird-in-billa-plus-umbenannt)</td>
+<td>News source on REWE retiring the Merkur brand in favour of BILLA Plus: cost savings, ending internal rivalry, facade changeover from April 2021, supplier fears of 'Hochzeitsboni', and loss of variety for consumers. Gives the stated rationale for a brand-architecture decision.</td>
+<td>Case anchor for an Austrian rebranding post-mortem (rationale in 2021 compared with Brand Finance 2025 BILLA growth). Access: free with consent banner or ad-free login (PUR).</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Marktagent: Das sind Österreichs Top-Marken</td>
+<td>HORIZONT Österreich (Redaktion), 21.09.2021, Artikel</td>
+<td>[https://www.horizont.at/marketing/news/marktagent-das-sind-oesterreichs-top-marken-85987](https://www.horizont.at/marketing/news/marktagent-das-sind-oesterreichs-top-marken-85987)</td>
+<td>Describes Marketagent's Brand.Diamonds mobile tracking tool: about 1,200 brands, 270,000+ interviews, and an index of brand closeness, loyalty, USP and emotional brand character. Category winners include Milka, WhatsApp and LEGO. Shows an Austrian continuous brand-tracking design.</td>
+<td>Example of an Austrian commercial brand-health tracker; students critique its index dimensions against MDS or mental availability. Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Studie: Kampagne steigert Markenbekanntheit und Consideration von Magnum</td>
+<td>HORIZONT Österreich (Redaktion), 24.11.2021, Artikel</td>
+<td>[https://www.horizont.at/marketing/news/studie-kampagne-steigert-markenbekanntheit-und-consideration-von-magnum-86651](https://www.horizont.at/marketing/news/studie-kampagne-steigert-markenbekanntheit-und-consideration-von-magnum-86651)</td>
+<td>Short Austrian example of campaign brand-lift measurement (Teads Brand Pulse, Mindshare): awareness gain 38% above benchmark and a 10% consideration uplift. Sample and design are not disclosed, which is a good prompt for critical evaluation of vendor brand-lift studies.</td>
+<td>Critical-reading exercise: what is missing to make this brand-lift claim credible? Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Wie stärke ich meine Marke?</td>
+<td>Sabine Kaa-Pickel & Katrin Schlegel, Kantar Deutschland (Inspiration/Brand Growth), 28.02.2024, Blogpost</td>
+<td>[https://www.kantar.com/de/inspiration/brand-growth/marke-staerken](https://www.kantar.com/de/inspiration/brand-growth/marke-staerken)</td>
+<td>Explains Kantar's Meaningful–Different–Salient framework (BrandZ) and its four forecast metrics: Demand Power, Pricing Power, Activation Power and Future Power. Claims include 5x sales for high demand power and a 13% price premium for high pricing power. These are vendor claims, not independently verified.</td>
+<td>German summary of the MDS audit model, to contrast with the Ehrenberg-Bass mental-availability approach. Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>GfK Brand Architect: Durchbruch bei Messung und Management der Markenstärke</td>
+<td>GfK/NielsenIQ Deutschland, 11.03.2021, Pressemitteilung/Insight</td>
+<td>[https://nielseniq.com/global/de/news-center/2021/gfk-brand-architect-durchbruch-bei-messung-und-management-der-markenstarke](https://nielseniq.com/global/de/news-center/2021/gfk-brand-architect-durchbruch-bei-messung-und-management-der-markenstarke)</td>
+<td>Describes an implicit brand-strength measure based on simulated alternative purchase decisions (consideration, preference, willingness to pay more), combined into a Brand Strength Index. It is positioned against stated trust and sympathy trackers. Vendor source.</td>
+<td>Example of a behaviour-based alternative to attitudinal tracking in brand-audit method design. Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Marken des Jahres 2024</td>
+<td>YouGov Deutschland (mit Handelsblatt), 21.10.2024, Report/Artikel</td>
+<td>[https://yougov.com/de-de/reports/50656-marken-des-jahres-2024](https://yougov.com/de-de/reports/50656-marken-des-jahres-2024)</td>
+<td>Shows how YouGov BrandIndex works: daily tracking of 16 metrics for 1,600+ German brands. The ranking index averages six metrics (quality, value, impression, recommendation, employer image, satisfaction) on a scale from -100 to +100, using only brands tracked over the full year (1,072 brands, 33 categories). PayPal is the overall winner.</td>
+<td>Shows students a public continuous brand-health tracker and its index logic; ask which metrics a brand audit would add. Access: free (full ranking download may require registration).</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Marken-Studie bescheinigt SWM und N-Ergie schlechten Markenauftritt</td>
+<td>Pauline Faust, ZfK – Zeitung für kommunale Wirtschaft, 05.12.2025, Artikel</td>
+<td>[https://www.zfk.de/unternehmen/marken-studie-bescheinigt-swm-und-n-ergie-schlechten-markenauftritt](https://www.zfk.de/unternehmen/marken-studie-bescheinigt-swm-und-n-ergie-schlechten-markenauftritt)</td>
+<td>Reports the 'Brand IQ' audit of the 10 largest German energy brands by Mutabor and The Relevance Group. It is an outside-in audit using only public data across CI coherence, design quality, digital readiness, AI visibility, strategic clarity and cross-channel communication, scored on an IQ scale (Eon 117, SWM and N-Ergie at the bottom). Weak AI visibility across the sector. Subscription site.</td>
+<td>Concrete example of an outside-in brand audit scorecard that students can replicate for an Austrian sector. Access: paywall (text partly visible).</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Markenführung: Es muss nicht immer ein Rebranding sein</td>
+<td>Jürgen Siebert (Monotype), t3n, 14.12.2018, Gastbeitrag</td>
+<td>[https://t3n.de/news/markenfuehrung-nicht-immer-rebranding-1130824/](https://t3n.de/news/markenfuehrung-nicht-immer-rebranding-1130824/)</td>
+<td>Decision guide for refresh versus rebrand: check brand fundamentals (loyalty, image, engagement, sales), review the design system and brand language, update the style guide, interview stakeholders, survey customers on the logo and reputation, and set concrete goals. Logo, colours and typeface should normally stay untouched in a refresh. Older but practical.</td>
+<td>German checklist for the 'recommendation' step of a brand audit (refresh or rebrand?). Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Die wertvollsten Marken: Alle Rankings, Berechnungsmethoden und Entwicklungen auf einen Blick</td>
+<td>Klaus Janke, HORIZONT, 13.10.2010, Artikel</td>
+<td>[https://www.horizont.net/marketing/nachrichten/-Die-wertvollsten-Marken-Alle-Rankings-Berechnungsmethoden-und-Entwicklungen-auf-einen-Blick-95577](https://www.horizont.net/marketing/nachrichten/-Die-wertvollsten-Marken-Alle-Rankings-Berechnungsmethoden-und-Entwicklungen-auf-einen-Blick-95577)</td>
+<td>Compares Interbrand, BrandZ, Brand Finance and Semion valuations, showing how far they diverge (Google at USD 114bn vs 43.5bn). Groups monetary methods into income-, cost- and market-price-based and contrasts them with consumer-based rankings. Introduces ISO 10668. Figures are from 2010, but the method comparison is still useful.</td>
+<td>German background reading for the Markenwert session: why rankings disagree. Access: free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Byron Sharp on the legacy of How Brands Grow – and why he disagrees with Les Binet</td>
+<td>Ehrenberg-Bass Institute (marketingscience.info), excerpt of a WARC interview, ca. 2020, Interview</td>
+<td>[https://marketingscience.info/byron-sharp-on-the-legacy-of-how-brands-grow-and-why-he-disagrees-with-les-binet](https://marketingscience.info/byron-sharp-on-the-legacy-of-how-brands-grow-and-why-he-disagrees-with-les-binet)</td>
+<td>Sharp reflects on ten years of How Brands Grow (penetration over loyalty, mental and physical availability) and on his disagreement with Les Binet. The page is an excerpt; the full interview is on WARC (paywall). English.</td>
+<td>Primary Sharp voice for the Sharp vs Binet/Field debate behind brand-audit KPI choices. Access: free excerpt; full text WARC paywall.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Why brands matter more than customers' enthusiasm</td>
+<td>Dave Winterlich (Dentsu) interviewing Byron Sharp, via marketingscience.info (orig. Irish Times), Sept. 2022, Interview</td>
+<td>[https://marketingscience.info/news-and-insights/why-brands-matter-more-than-customers-enthusiasm](https://marketingscience.info/news-and-insights/why-brands-matter-more-than-customers-enthusiasm)</td>
+<td>Sharp on evidence-based marketing that can be presented to CEOs and CFOs, and on why broad brand reach matters more than the enthusiasm of loyal heavy buyers. Short and accessible. English.</td>
+<td>Short English pre-reading on why audits should look beyond loyal-customer satisfaction. Access: free.</td>
 <td>neu; Link geprüft</td>
 </tr>
 </table>
@@ -1401,7 +1635,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=frolJ7Qq_oc](https://www.youtube.com/watch?v=frolJ7Qq_oc)</td>
 <td>Chaptered walkthrough: four layers of the brand → competitive analysis → audience research → action plan; agency practitioner view (length not visible).</td>
 <td>Flipped classroom: watch before the kickoff, then map the four steps onto Keller's brand inventory/exploratory. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1410,7 +1644,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=GskQP1KKPs4](https://www.youtube.com/watch?v=GskQP1KKPs4)</td>
 <td>'Cliff notes' version of how an agency conducts a brand audit for a client; short practitioner overview.</td>
 <td>Short in-class opener. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1419,7 +1653,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=T3qrWpM8rAQ](https://www.youtube.com/watch?v=T3qrWpM8rAQ)</td>
 <td>Step-by-step explainer of the brand audit process from a brand consultancy's training channel.</td>
 <td>Optional pre-watch for students without branding background. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1428,7 +1662,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=PIwtkVijibI](https://www.youtube.com/watch?v=PIwtkVijibI)</td>
 <td>Digital-agency perspective on running a brand audit (online presence, consistency, audience) – SME focus.</td>
 <td>Compare with academic frameworks: what does a digital agency audit leave out? Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1437,7 +1671,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=ZdRH1s2ksTM](https://www.youtube.com/watch?v=ZdRH1s2ksTM)</td>
 <td>Conversation distinguishing brand audit from digital marketing audit and discussing when audit findings justify a rebrand.</td>
 <td>Optional listening for the 'audit → refresh vs. rebrand' decision session. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1446,7 +1680,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=DA6Lfb543dA](https://www.youtube.com/watch?v=DA6Lfb543dA)</td>
 <td>Chaptered explainer of the CBBE pyramid: identity (salience) → meaning (performance, imagery) → response (judgements, feelings) → relationships (resonance).</td>
 <td>Pre-watch before the lecture on consumer-based brand equity; students then derive survey items per pyramid block. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1455,7 +1689,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=kyzKHM7kH7o](https://www.youtube.com/watch?v=kyzKHM7kH7o)</td>
 <td>Full-length academic lecture on Keller's CBBE framework – how customer knowledge drives differential response; part of an NPTEL brand management lecture series (follow-up lectures available).</td>
 <td>Recorded lecture for self-study / flipped classroom. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1464,7 +1698,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=v-k6GWzRTlg](https://www.youtube.com/watch?v=v-k6GWzRTlg)</td>
 <td>Compares four equity models (Aaker, Keller CBBE, Young & Rubicam BAV, BrandZ) in one video – useful overview of measurement models an audit can draw on; exam-prep style.</td>
 <td>Revision video before the exam; compare with Kantar BrandZ methodology page. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1473,7 +1707,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=i--jpFIYFgo](https://www.youtube.com/watch?v=i--jpFIYFgo)</td>
 <td>Video version of the Let's Talk Branding episode: what brand health means, how to run tracking, CEP-based metrics, pitfalls (\~48 min).</td>
 <td>Flipped classroom for the brand tracking session. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1482,7 +1716,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=nPMDDyZCWOA](https://www.youtube.com/watch?v=nPMDDyZCWOA)</td>
 <td>Practical crash course on setting up a brand health tracker and using its results (survey design, sample, KPIs); pairs with Attest's free 16-question tracker template.</td>
 <td>Workshop video before students build their own tracker. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1491,7 +1725,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=yaW2F3NPT8Y](https://www.youtube.com/watch?v=yaW2F3NPT8Y)</td>
 <td>Shows how Romaniuk's CEP/mental availability metrics are operationalised in a commercial tracker (Organic Valley case context); vendor perspective.</td>
 <td>Illustration of Better Brand Health metrics in practice. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1500,7 +1734,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=mJ1S9Pfj3mo](https://www.youtube.com/watch?v=mJ1S9Pfj3mo)</td>
 <td>Analytics educator explains how to measure brand performance beyond sales: linking brand KPIs, surveys and digital data.</td>
 <td>Optional for students focusing on the measurement/dashboard part of the audit. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1509,7 +1743,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=MSQBgRn_gxg](https://www.youtube.com/watch?v=MSQBgRn_gxg)</td>
 <td>Byron Sharp explains mental and physical availability – the two constructs an Ehrenberg-Bass-style audit measures.</td>
 <td>Short input before the CEP/mental availability module. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1518,7 +1752,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=WRCLibUWIU4](https://www.youtube.com/watch?v=WRCLibUWIU4)</td>
 <td>Translates How Brands Grow into practical steps to measure and lift mental availability using real-time experience tracking data.</td>
 <td>Optional deep-dive for Master students. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1527,7 +1761,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://2025.marketingfestival.cz/en/video/lecture/mental-availability-measurement-and-metrics-for-the-modern-marketer.html](https://2025.marketingfestival.cz/en/video/lecture/mental-availability-measurement-and-metrics-for-the-modern-marketer.html)</td>
 <td>Conference lecture: why to track mental availability, best-practice measures and which to avoid, contexts of use, how metrics change over time; video library behind purchase/login.</td>
 <td>Recommended for instructors preparing the tracking session; students only if licence bought. Paid/login.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1536,7 +1770,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=7RKUgXCLPds](https://www.youtube.com/watch?v=7RKUgXCLPds)</td>
 <td>Screen walkthrough of setting up queries, mentions, sentiment in Brandwatch – the social listening step of an external brand audit.</td>
 <td>Lab session prep if WU has tool access; otherwise demo only. Free video (tool licence paid).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1545,7 +1779,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=JePjKrjg9qg](https://www.youtube.com/watch?v=JePjKrjg9qg)</td>
 <td>Beginner tutorial on brand mention tracking and monitoring in Talkwalker (alerts, sentiment, sources).</td>
 <td>Alternative tool demo for the social listening part of the audit. Free video (tool paid).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1554,7 +1788,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=R2OhCqeEMeE](https://www.youtube.com/watch?v=R2OhCqeEMeE)</td>
 <td>Tool-agnostic method: from query design to insight, avoiding vanity metrics – complements the tool tutorials.</td>
 <td>Methodology input before students analyse online conversations about their audit brand. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1563,7 +1797,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.youtube.com/watch?v=dmSCe3UMLho](https://www.youtube.com/watch?v=dmSCe3UMLho)</td>
 <td>German agency video presenting a digital brand audit: do brand values still match customer needs (post-crisis)? Short, German-language practitioner example.</td>
 <td>German example of how agencies sell brand audits; critique in class. Free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1572,7 +1806,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.coursera.org/learn/brand](https://www.coursera.org/learn/brand)</td>
 <td>5 modules (\~22 h): Brand Purpose & Experience; Brand Design & Delivery; Brand Leadership & Alignment; Brand Practices & Engagement; Brand Metrics & Returns (module 5 relevant for audit/measurement). 4.9 stars from 7,870 reviews, 520k+ learners; peer-reviewed assignments.</td>
 <td>Recommend module 5 as self-study; whole course as optional certificate. Enrol free / certificate via Coursera Plus or purchase; financial aid available.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1581,7 +1815,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.coursera.org/learn/brand-management](https://www.coursera.org/learn/brand-management)</td>
 <td>6 modules (\~10 h): product life cycle, brands engaging stakeholders, brand architecture & naming, brand portfolio, brand into customer experience, employees and the brand promise; covers brand equity, purchase funnel, touchpoints. 4.7 stars (2,716 reviews).</td>
 <td>Optional self-study on brand architecture/portfolio parts of the audit. Free enrolment; certificate paid.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1590,7 +1824,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.coursera.org/learn/brand-management-brand-equity-strategy](https://www.coursera.org/learn/brand-management-brand-equity-strategy)</td>
 <td>7 modules; module 3 'Measuring Brand Equity' covers qualitative and quantitative equity measurement methods; \~2 weeks at 10 h/week.</td>
 <td>Self-study option for students needing a refresher on equity measurement. Free enrolment; certificate paid.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1599,7 +1833,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.coursera.org/learn/align-brand-strategy](https://www.coursera.org/learn/align-brand-strategy)</td>
 <td>Module 1 'Analyze Narrative Consistency' teaches a structured messaging audit (tone, voice, brand pillars, word-visual fit, brand drift) with an audit framework reading and a hands-on landing-page audit of a fictional product.</td>
 <td>2-hour micro-course to train the verbal identity/consistency part of the audit. Free enrolment; certificate paid.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1608,7 +1842,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://minimba.com/brand-management/](https://minimba.com/brand-management/)</td>
 <td>10 on-demand modules (\~14.5 h video): incl. Module 3 Brand Diagnosis (heritage, founders, brand research, 1 h 46 min) and Module 10 Budgeting & Brand Tracking (brand health, 1 h 40 min); final exam = brand plan in a competitive simulation; 36-40 CPD credits. Price \~£1,949 per person (April 2026 intake, per minimba.com listing).</td>
 <td>Instructor CPD or recommendation for practitioners; module 3 preview free on course page. Paid (\~£1,949).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1617,7 +1851,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://ipa.co.uk/effworks/effworksglobal-2020/](https://ipa.co.uk/effworks/effworksglobal-2020/)</td>
 <td>Binet presents analysis showing branded search share predicts market share – a cheap behavioural metric to include in brand audits; page lists the session under 'presentation videos and/or slides available'.</td>
 <td>Watch before a lab where students compute share of search in Google Trends for their audit brand and competitors. Free (some IPA content may need registration).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1626,7 +1860,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://academy.meltwater.com/collections/explore-social-listening](https://academy.meltwater.com/collections/explore-social-listening)</td>
 <td>Short video courses with assessments: Level I (Boolean searches, brand monitoring, researching conversations), Level II (advanced Boolean, influential mentions, brand benchmarking); competitive benchmarking course. Catalogue page returned 404 at check time; course content per search results.</td>
 <td>Optional skills training for the social listening part of the audit. Free courses; full use requires Meltwater access/login.</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>(Video-) Tutorials</td>
@@ -1635,10 +1869,10 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.edx.org/learn/branding](https://www.edx.org/learn/branding)</td>
 <td>edX hub currently lists IIMB 'Brand Management' and the 3-course professional certificate 'Brand and Marketing Research Strategy' (brand research methods relevant for audits). The former CurtinX 'Strategic Brand Management' (brand value chain, CBBE measurement) appears archived.</td>
 <td>Point students to IIMB courses for structured self-study on brand research. Audit free; verified certificate paid.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 </table>
-### Cases for Teaching (24)
+### Cases for Teaching (30)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -1656,7 +1890,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://store.hbr.org/product/brand-report-card-exercise/501004](https://store.hbr.org/product/brand-report-card-exercise/501004)</td>
 <td>Classic companion exercise to Keller's HBR article 'The Brand Report Card': students rate a brand on Keller's ten brand-equity attributes, isolate its distinctive traits and decide which areas matter most for improving performance. Short (11 pp.) and structured like a mini brand audit, so it works as a template for student audit projects.</td>
 <td>Kick-off session of a brand audit project: each team grades its own audit brand with the report card, then compares. Paid: USD 8.95 per copy (less via HBP Educator account, up to 50% academic discount); check WU licence/coursepack</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1665,7 +1899,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.hbs.edu/faculty/Pages/item.aspx?num=35026](https://www.hbs.edu/faculty/Pages/item.aspx?num=35026)</td>
 <td>Follows Dove's move from a functional soap to a masterbrand with a point of view (Real Beauty) and its stretch into new categories. Covers the research that led to the repositioning (psychologists plus a 3,000-woman study in 10 countries) and how Unilever handled online controversy. Won an ECCH/Case Centre Marketing award in 2012.</td>
 <td>Case discussion on brand meaning, the brand exploratory, and masterbrand extension limits; pair it with current Dove tracking or press coverage for a then-vs-now audit. Paid via HBP (\~USD 9-12); check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1674,7 +1908,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://store.hbr.org/product/barbie-reviving-a-cultural-icon-at-mattel/525006](https://store.hbr.org/product/barbie-reviving-a-cultural-icon-at-mattel/525006)</td>
 <td>Recent brand revitalization case. It contrasts decades of criticism (narrow beauty standards, gender stereotypes) and mixed results from earlier diversification with the 2023 film-driven revival. The decision: how to sustain the momentum, and whether the approach can be transferred to other brands in Mattel's portfolio. Rich material for brand associations and brand-portfolio thinking.</td>
 <td>Main case discussion on brand revitalization and on auditing the associations a brand carries; the abridged version suits undergraduates. Paid: USD 11.95 per copy; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1683,7 +1917,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://store.hbr.org/product/burberry-s-digital-strategy/LBS330](https://store.hbr.org/product/burberry-s-digital-strategy/LBS330)</td>
 <td>Covers the 2006-2014 Burberry turnaround under Ahrendts and Bailey: winning back a brand diluted by licensing and by the 'chav' check, refocusing on heritage and the trench coat, targeting millennials and building digital capabilities. It ends in 2015 with mixed results and Bailey as combined CEO/CCO. A standard case on regaining brand control after an audit shows dilution.</td>
 <td>Case discussion: reconstruct the 2006 brand audit the case implies (inventory: licences, products; exploratory: associations), then judge the fixes. Paid: USD 11.95; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1692,7 +1926,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.library.hbs.edu/working-knowledge/hbs-cases-lego](https://www.library.hbs.edu/working-knowledge/hbs-cases-lego)</td>
 <td>LEGO near bankruptcy (2003-04 sales -26%, heavy losses); new CEO Knudstorp must diagnose why diversification diluted the brick and craft a back-to-core strategy. Shows how a brand/portfolio audit feeds a turnaround. One failed and one successful turnaround attempt give a natural before/after comparison.</td>
 <td>Case discussion on brand-core identification and portfolio rationalisation; combine with the free AEF LEGO 'Rebuild the World' case for brand tracking. Paid via HBP (\~USD 9-12); check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1701,7 +1935,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://aef.com/classroom-resources/case-histories/lego/](https://aef.com/classroom-resources/case-histories/lego/)</td>
 <td>Free case with real exhibits for brand measurement: Part A covers the 2016-17 sales stall and repositioning toward creativity for low-affinity parents; Part B covers measuring the global 'Rebuild the World' campaign and reporting to the board. Appendices: tracking-study response data, media effectiveness data and purchase data (simulated), plus a teaching note/discussion guide PDF.</td>
 <td>Hands-on brand tracking exercise: students analyse the tracking appendix and build a board-level brand health report. Free download, no login</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1710,7 +1944,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kellogg.northwestern.edu/academics-research/research/detail/2011/old-spice-revitalizing-glacial-falls](https://www.kellogg.northwestern.edu/academics-research/research/detail/2011/old-spice-revitalizing-glacial-falls)</td>
 <td>Compact repositioning decision. Glacial Falls, the worst-performing scent in 2008, risks delisting. Should P&G keep current users or target new ones, and should it change the scent (sensory) or the positioning (cognitive)? Outcome: relaunched as 'Swagger', with strong sales according to WARC/Effie. A good test of positioning statements and multi-level branding.</td>
 <td>Case discussion (60-75 min) on revitalization options; follow with the 2014 sequel case. Paid via HBP/Kellogg (\~USD 9-12); check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1719,7 +1953,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://store.hbr.org/product/old-spice-repeating-success-in-the-face-of-competitive-threat/KEL786](https://store.hbr.org/product/old-spice-repeating-success-in-the-face-of-competitive-threat/KEL786)</td>
 <td>Sequel (2009-10): after Swagger, should the team push Swagger, another scent, the umbrella brand or body wash, and should it react to Unilever's Dove Men+Care Super Bowl ad? Students play the assistant brand manager. Good for brand architecture (umbrella vs. sub-brand) and competitive brand audits.</td>
 <td>Second session after the Glacial Falls case, or a stand-alone brand architecture discussion. Paid: USD 11.95; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1728,7 +1962,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://store.darden.virginia.edu/managing-brand-crisis-bud-light-cracks-open-a-can-of-controversy](https://store.darden.virginia.edu/managing-brand-crisis-bud-light-cracks-open-a-can-of-controversy)</td>
 <td>First business-school case on the 2023 Dylan Mulvaney 'Easy Carry Contest' backlash, laid out as a timeline with decision points. Covers influencer-brand fit, core-user alienation and reputation recovery, with effects on AB InBev's market cap. Pairs well with public YouGov BrandIndex data (Impression -20 points) for a data-driven audit.</td>
 <td>Case discussion on target-user fit and brand crisis; students add YouGov/Brand Finance numbers and write a post-crisis brand audit. Paid via Darden store (price shown at checkout); check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1737,7 +1971,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://themasb.org/bud-light-case-study-being-taught-worldwide/](https://themasb.org/bud-light-case-study-being-taught-worldwide/)</td>
 <td>Practitioner-built teaching package that links damaged brand preference to a lasting drop in sales volume, using MASB's brand investment & valuation logic. It shows how brand-preference tracking predicts financial outcomes, which is the 'why audit' argument in numbers.</td>
 <td>Complements the Darden case; use the white paper as pre-reading on brand metrics → financial outcomes. White paper downloadable free; full academic package on request (info@themasb.org)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1746,7 +1980,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://store.hbr.org/product/red-bull/UV2928](https://store.hbr.org/product/red-bull/UV2928)</td>
 <td>Classic case on non-traditional brand building (word of mouth, events) that created the functional energy drink category, ending with how to answer US competition. A strong Austrian brand example for WU students and good for discussing sources of brand equity.</td>
 <td>Case discussion on brand building/brand equity sources for an Austrian brand; use as the 'origin' before the LBS 2022 case. Paid: USD 11.95; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1755,7 +1989,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://publishing.london.edu/cases/red-bull-spreads-its-wiiings/](https://publishing.london.edu/cases/red-bull-spreads-its-wiiings/)</td>
 <td>Brand-extension and brand-architecture case: Red Bull 35 years on, with energy-drink variants, the Organics range and the AlphaTauri fashion brand, including an F1 team renaming. Students judge brand-extension fit and how sub-brands feed back into parent brand equity. Teaching PPT with 7 videos available to educators.</td>
 <td>Session on brand architecture/extension audits; good for WU because of the Austrian brand. Paid via LBS/Case Centre/HBP (price after login); teaching slides via cases@london.edu</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1764,7 +1998,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.london.edu/news/red-bull-case-study-recognised](https://www.london.edu/news/red-bull-case-study-recognised)</td>
 <td>Best-selling case on how Red Bull built an iconic brand while avoiding traditional advertising. A strong base for mapping Red Bull's brand elements and associations in a brand inventory exercise.</td>
 <td>Alternative to the Darden case for the brand-inventory part of an audit; available via LBS Publishing/The Case Centre (paid, \~GBP/USD 10-15); check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1773,7 +2007,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://emerald.com/insight/content/doi/10.1108/TCJ-11-2014-0065/full/html](https://emerald.com/insight/content/doi/10.1108/TCJ-11-2014-0065/full/html)</td>
 <td>Teaching case on the October 2010 Gap logo change, reversed within about a week after a social-media backlash. Covers brand life cycle and the effect of a logo change on brand equity, associations and positioning. A teaching note exists. For graduate or advanced undergraduate students who already know branding.</td>
 <td>Short case discussion on brand elements in the brand inventory and on the risk of changing distinctive assets. Emerald case collection, so check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1782,7 +2016,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://ibscdc.org/Case_Studies/Operations%20and%20Project%20Management/Operations%20Management/OM0022.htm](https://ibscdc.org/Case_Studies/Operations%20and%20Project%20Management/Operations%20Management/OM0022.htm)</td>
 <td>Covers the January 2009 Tropicana Pure Premium carton redesign (orange-with-straw dropped) and its reversal within two months. IRI data cited in the press show unit sales -20% and about USD 33 m lost. The best-known example of an unaudited change to distinctive assets.</td>
 <td>Short case paired with the Ehrenberg-Bass distinctive-asset grid; students run a mini fame/uniqueness test on their audit brand's assets. Paid (low-cost IBSCDC case); short ICMR caselet CLMM047 as alternative</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1791,7 +2025,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://store.hbr.org/product/himalaya-drug-company-repositioning-an-herbal-soap/W13661](https://store.hbr.org/product/himalaya-drug-company-repositioning-an-herbal-soap/W13661)</td>
 <td>One of the few cases built on consumer perception survey data versus two main competitors. Students read the brand image data and recommend a repositioning to rebuild brand equity, which is in effect the analysis step of a brand audit.</td>
 <td>Data-interpretation exercise in the brand exploratory phase (perceptual comparison); 45-60 min. Paid: USD 11.95; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1800,7 +2034,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://publishing.insead.edu/case/rasurel-reviving-ageing-brand?src=author](https://publishing.insead.edu/case/rasurel-reviving-ageing-brand?src=author)</td>
 <td>European (French) ageing swimwear brand inside lingerie firm Lejaby. The new marketing director must decide whether and how to reposition it and launch the Summer 2004 collection. Works for introductory positioning and for advanced repositioning plus organisational alignment behind the brand promise.</td>
 <td>Classic European revitalization case for MBA/master classes; good for practising the 'reposition vs. retire' decision after an audit. Paid via INSEAD/Case Centre; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1809,7 +2043,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://store.hbr.org/product/gucci-s-turnaround-repositioning-and-rebuilding-the-company/W18546](https://store.hbr.org/product/gucci-s-turnaround-repositioning-and-rebuilding-the-company/W18546)</td>
 <td>Gucci in 2014: operating profit down three quarters in a row, and the CEO and creative director gone. The new CEO (Jan 2015) must decide whether to reposition and whether to hire the creative director from inside or outside. A clean luxury-brand repositioning decision.</td>
 <td>Case discussion on luxury brand revitalization; can be paired with the 2021 SMU Gucci case for the outcome. Paid: USD 11.95; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1818,7 +2052,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://ink.library.smu.edu.sg/cases_coll_all/350](https://ink.library.smu.edu.sg/cases_coll_all/350)</td>
 <td>Follow-up view: after the 2015 Bizzarri/Michele overhaul, Gucci tripled sales and quadrupled profits by end-2019. The question is how to keep a heritage luxury brand relevant. Useful for long-term brand tracking and the risks of trend-driven revitalization.</td>
 <td>Second session or written assignment comparing pre-/post-2015 brand positioning. Paid via SMU/HBP; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1827,7 +2061,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.iveypublishing.ca/s/search#q=9B17M052](https://www.iveypublishing.ca/s/search#q=9B17M052)</td>
 <td>German brand-reputation crisis: after the EPA notice on EA 189 diesel engines (Sept 2015), new CEO Matthias Müller must recover VW's reputation and plan the recall. A brand-trust audit after a crisis. Pair it with Gallup's 2015 'Can VW salvage a damaged brand' analysis.</td>
 <td>Case discussion on brand trust and reputation audits after a crisis. Paid via Ivey/HBP (\~USD 9-12); check WU licence. Alternative: INSEAD 'Volkswagen: Diesel Emissions - A Whiff of Scandal' (Jarisch & Kaiser 2017, governance focus)</td>
-<td>neu; Link ungeprüft</td>
+<td>bestehend; Link ungeprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1836,7 +2070,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.insead.edu/faculty-research/publications/case-studies/volkswagen-diesel-emissions-a-whiff-scandal](https://www.insead.edu/faculty-research/publications/case-studies/volkswagen-diesel-emissions-a-whiff-scandal)</td>
 <td>Shows VW as a much-loved brand with green credentials, then the cheat on about 11 m cars, costs above EUR 16 bn and resignations. The focus is governance and culture rather than brand measurement, but it gives the setting for a 'trust regained?' brand audit.</td>
 <td>Background case for a session on corporate brand reputation; teaching slides available. Paid via INSEAD/Case Centre; check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1845,7 +2079,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.icmrindia.org/Casestudies/catalogue/Business%20Strategy2/BSTR095.htm](https://www.icmrindia.org/Casestudies/catalogue/Business%20Strategy2/BSTR095.htm)</td>
 <td>Brand portfolio rationalisation, the textbook example: Unilever's 1999/2000 plan to cut from about 1,600 to about 400 core brands within the EUR 5 bn 'Path to Growth' programme. Use with current news on Unilever's focus on 30 'power brands' (70%+ of sales) and its ice-cream spin-off for a then/now portfolio audit.</td>
 <td>Portfolio-audit session: students classify a brand portfolio (keep/invest/divest). Paid: INR 500 (\~USD 11)</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1854,7 +2088,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://hbswk.hbs.edu/item/peloton-changed-the-exercise-game-can-the-company-push-through-the-pain](https://hbswk.hbs.edu/item/peloton-changed-the-exercise-game-can-the-company-push-through-the-pain)</td>
 <td>Category creation and premium brand building, then the post-pandemic slump (losses, USD 750 m borrowing). Dolan's verdict: Peloton should have kept things simple. Useful for auditing a brand whose equity rests on a community and a lifestyle promise.</td>
 <td>Case discussion or group assignment: post-2022 Peloton brand health check. Paid via HBP (\~USD 9-12); check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Cases for Teaching</td>
@@ -1863,10 +2097,64 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://halshs.archives-ouvertes.fr/halshs-02394423](https://halshs.archives-ouvertes.fr/halshs-02394423)</td>
 <td>Free Austrian-brand case: Swarovski (founded 1895) trying to establish itself in the global jewellery market against strong competition. Students build segmentation, targeting and positioning. Update it with the Dec 2024 IMD interview with CEO Alexis Nasard on the 'modern pop-luxury' repositioning (tiered collections, 2023 revenue EUR 1.83 bn).</td>
 <td>Free group assignment on an Austrian brand: audit Swarovski before and after its 2020s repositioning. Free (open archive)</td>
+<td>bestehend; Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Zotter — Living by Chocolate</td>
+<td>Mukti Khaire, Stefan Aichinger, Monika Hoffmann, Maximilian Schnoedl; Harvard Business School case 9-810-091; Feb 2010, rev. 23 Jun 2011; field case</td>
+<td>[https://hbsp.harvard.edu/product/810091-PDF-ENG](https://hbsp.harvard.edu/product/810091-PDF-ENG)</td>
+<td>The only HBS case found on an Austrian food brand. Josef Zotter (Riegersburg, Styria) after his bankruptcy in 1997 rebuilt the firm around a founder-led, 'inside-out' hand-scooped chocolate brand, organic and Fairtrade, launching up to \~90 new varieties a year without market testing. The decision point is growth: a new flagship store in Essen (Germany), further stores, and how far the brand can be stretched. The case reports that consumers did not really understand the production difference but valued the taste experience. That makes it a good audit question: what drives brand equity, product or story? Useful as a contrast case to Manner (heritage mass brand vs. founder-led craft brand).</td>
+<td>Brand inventory and exploratory session: students map the brand elements and associations Zotter controls vs. those it cannot control, then judge the growth options. Paid via HBP (usual HBP academic price, approx. USD 4–9 per copy). Check whether WU holds a coursepack licence. The HBP product page did not render for us; case number and authors were confirmed via a library catalogue record and a copy of the case.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Zotter Chocolate: Creating a Market in China</td>
+<td>Shameen Prashantham, Liman Zhao; CEIBS (China Europe International Business School) case ENT-18-538 (ENT-18-538-CE); 1 Oct 2018; 18 pp.</td>
+<td>[https://ceibs.globalimpact.cn/en/publications/zotter-chocolate-creating-a-market-in-china](https://ceibs.globalimpact.cn/en/publications/zotter-chocolate-creating-a-market-in-china)</td>
+<td>Follow-up case to the HBS Zotter case: a small Austrian family brand picks China over the US, enters through a Shanghai partner, and opens an experiential 'Chocolate Theatre' factory run by Julia Zotter. It ends in Aug 2017 with open questions about Zotter China's next steps. The brand-audit angle is whether an origin- and craft-based brand transfers to a market with low chocolate consumption and health concerns, and which associations to stress (Austrian origin, organic, experience). CEIBS also used it in its 'Real Situation Learning' with a site visit.</td>
+<td>International brand audit, 1 session (18 pp.): pair with the HBS Zotter case for a home vs. host market brand-equity comparison. Paid; distributed by CEIBS (also check The Case Centre listing). WU licence: check.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Swarovski: How to shine through stormy weather?</td>
+<td>Niccolò Pisani, Stéphane J. G. Girod; IMD case IMD-7-2430; Jan 2023; 15 pp.; teaching note available</td>
+<td>[https://www.imd.org/research-knowledge/case-studies/swarovski-how-to-shine-through-stormy-weather](https://www.imd.org/research-knowledge/case-studies/swarovski-how-to-shine-through-stormy-weather)</td>
+<td>The case itself, not the Nasard interview already in the guide. Swarovski's first external CEO, Alexis Nasard, takes over in July 2022 after his predecessor Robert Buchbauer resigned over disagreements with the family board. Costume jewellery is squeezed in mid-range luxury and large stores lose relevance as digital grows. Learning objectives explicitly include a SWOT and 'strategies to strengthen Swarovski's brand image'. A teaching note is listed. Works well with the Lippincott relaunch example (2021) as the brand-side evidence.</td>
+<td>Brand audit with a strategic decision: students do the SWOT and brand-image diagnosis, then prioritise initiatives as Nasard (1 session). Paid via The Case Centre / HBP / Asia Pacific Case Center, approx. GBP/USD 5–10 per copy academic. Check WU licence.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Swarovski's Crystals</td>
+<td>ICMR / IBS Case Development Centre (India); case code BSTA124; 2005; 10 pp.; compiled from published sources; no teaching note</td>
+<td>[https://www.ibscdc.org/Case_Studies/Business%20Strategy/Business%20Strategy/BSTA124.htm](https://www.ibscdc.org/Case_Studies/Business%20Strategy/Business%20Strategy/BSTA124.htm)</td>
+<td>Older, short case on an earlier Swarovski brand renewal. Sixth-generation family member Nadja Swarovski tries to give the swan brand a new image by extending into chandeliers and diamonds (joint venture Signity). Useful as the 'before' point in a longitudinal Swarovski brand audit: 2005 brand extension, then the 2021 Lippincott relaunch, then the 2023 IMD case. It is built only from secondary data, so it is weaker than the IMD case.</td>
+<td>Optional pre-reading for brand extension fit / brand stretch. Cheap: Rs. 300 electronic. No teaching note.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Raiffeisen's Business Strategy in Russia</td>
+<td>S. Chaudhuri, J. Chakraborty; IBS Case Development Centre (India); case code GGL0072IRC; 2010; no teaching note</td>
+<td>[https://www.ibscdc.org/Case_Studies/Strategy/Going%20Global%20and%20Managing%20Global%20Businesses/GGL0072IRC.htm](https://www.ibscdc.org/Case_Studies/Strategy/Going%20Global%20and%20Managing%20Global%20Businesses/GGL0072IRC.htm)</td>
+<td>The only teaching case found on Raiffeisen. No brand case exists in HBS, Ivey, IMD, INSEAD or LBS listings that we could find. It covers the strategy of the 2006 acquisition of Impexbank (USD 550m), not branding. It still matters for a brand audit: RBI's large Russian exposure became its main reputational and brand risk after 2022. Students can trace how a 2006 growth decision turns into a brand-reputation liability. Sister case: 'Raiffeisen's Strategic Dilemma in Ukraine' (GGL0073IRC, 2010).</td>
+<td>Background reading only, if a team audits Raiffeisen/RBI. Use together with the RBI 2023 brand refresh and the EBI brand-value series. Paid (IBS price not shown). Low priority.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Kotler, Reischl & Schlader: Essentials of Modern Marketing — Edition Austria, Switzerland & Liechtenstein (local case studies incl. ÖBB)</td>
+<td>Philip Kotler, Birgit Anna Reischl, Julia Schlader; regional edition presented at FHWien der WKW on 30 Jan 2025; contains local DACH case studies (FHWien page names Ankerbrot, Casinos Austria, ÖBB; FHWien case by Melanie Gratzer & David Dobrowsky)</td>
+<td>[https://www.fh-wien.ac.at/en/news/case-study-of-fhwien-der-wkw-in-new-kotler-essentials-of-modern-marketing/](https://www.fh-wien.ac.at/en/news/case-study-of-fhwien-der-wkw-in-new-kotler-essentials-of-modern-marketing/)</td>
+<td>The closest thing to a textbook case collection on Austrian brands. The FHWien announcement says it includes cases on well-known national brands such as Ankerbrot, Casinos Austria and ÖBB, plus chapters on branding and brand management. A video summary (unofficial) mentions 24 local cases. Exact case titles, length and depth were not visible online, so check the table of contents before assigning it.</td>
+<td>Check library/WU access to the book. If the ÖBB case covers brand positioning, use it as the Austrian textbook anchor for the ÖBB examples below. Paid (book).</td>
 <td>neu; Link geprüft</td>
 </tr>
 </table>
-### Praxisbeispiele (27)
+### Praxisbeispiele (49)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -1884,7 +2172,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://yougov.com/articles/47258-how-the-dylan-mulvaney-controversy-hit-bud-lights-brand](https://yougov.com/articles/47258-how-the-dylan-mulvaney-controversy-hit-bud-lights-brand)</td>
 <td>Public brand-health tracking data from 1 Apr-11 Jun 2023. Index 7.7 → -8.4; Impression 6.2 → -14 (-20.2); Consideration 14.1 → 10.9. Competitor Stella Artois only -3.5 on Impression. Age split: over 50s -21.5 vs. 18-34 -10.8. Also benchmarks Brewdog UK. A ready-made exhibit for crisis brand audits.</td>
 <td>Data exhibit with the Darden Bud Light case: students read the tracking charts and judge damage by segment. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1893,7 +2181,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://yougov.com/en-us/articles/47335-as-nfl-football-returns-long-time-sponsor-bud-light-sees-a-much-needed-rebound](https://yougov.com/en-us/articles/47335-as-nfl-football-returns-long-time-sponsor-bud-light-sees-a-much-needed-rebound)</td>
 <td>Follow-up tracking. Bud Light regains some ground and tops Ad Awareness before NFL Kickoff 2023, and 8.9% of NFL fans say they bought it. Pair with sales data (-28% in the four weeks to 9 Dec 2023, per press) to show that perception and behaviour can diverge.</td>
 <td>Discussion: does a recovery in awareness mean recovered brand equity? Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1902,7 +2190,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://yougov.com/en-gb/articles/51062-jaguars-brand-reset-has-got-uk-talking-and-consideration-has-ticked-up](https://yougov.com/en-gb/articles/51062-jaguars-brand-reset-has-got-uk-talking-and-consideration-has-ticked-up)</td>
 <td>Post-rebrand tracking for the 19 Nov 2024 'Copy Nothing' launch. Attention 7.8 → 21.9 (18-34: 7.2 → 27.8); WOM exposure roughly doubled; Buzz fell among all UK adults but rose among 18-34 (2.7 → 9.2); Consideration 4.3 → 6.1. Shows that awareness spikes and sentiment can move in opposite directions.</td>
 <td>Rebranding post-mortem exercise: students judge whether the Jaguar rebrand 'worked' using funnel metrics. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1911,7 +2199,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://insights.swayable.com/how-an-iconic-brand-pivots-toward-a-new-reality](https://insights.swayable.com/how-an-iconic-brand-pivots-toward-a-new-reality)</td>
 <td>Randomized test of old vs. new Jaguar branding. Gen Z/Millennials showed higher consideration toward the new identity than Gen X, and favourability was not significantly disrupted. Teaches the difference between social-media outrage and measured brand effects.</td>
 <td>Methods discussion: social listening vs. experimental testing in brand audits. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1920,7 +2208,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandfinance.com/press-releases/the-decline-of-x-musks-rebrand-wipes-billions-in-brand-value](https://brandfinance.com/press-releases/the-decline-of-x-musks-rebrand-wipes-billions-in-brand-value)</td>
 <td>Twitter → X post-mortem in valuation terms. Brand value USD 5.7 bn (Jan 2022) → 3.9 bn (2023) → 673 m (2024); Brand Strength Index -12.7 points to 56.9/100, with weaker familiarity, reputation and recommendation. Ad revenue down from more than USD 1 bn to about USD 600 m per quarter.</td>
 <td>Example for linking brand strength metrics to financial value; critique the method in class. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1929,7 +2217,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.bloomberg.com/news/articles/2009-04-02/tropicana-fiasco-from-arnell-is-gift-that-keeps-giving](https://www.bloomberg.com/news/articles/2009-04-02/tropicana-fiasco-from-arnell-is-gift-that-keeps-giving)</td>
 <td>Hard numbers for the Tropicana rebrand failure. Pure Premium unit sales -20%, dollar sales -19% (about USD 33 m) in under two months, with Minute Maid, Florida's Natural and Tree Ripe gaining. The redesign was scrapped on 23 Feb 2009. Ehrenberg-Bass cites about USD 26.3 m in lost sales.</td>
 <td>Lecture example on distinctive assets in the brand inventory; pair with the Gap logo case. Free to read (Bloomberg may be metered)</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1938,7 +2226,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketingscience.info/brands-of-distinction](https://marketingscience.info/brands-of-distinction)</td>
 <td>Introduces the Distinctive Asset Grid (fame × uniqueness: use or lose / invest / avoid / test or ignore). Examples include McDonald's arches, Nike swoosh, Disney castle, Coca-Cola script, Cadbury purple and Tropicana's lost packaging. This is the measurement logic for auditing brand elements.</td>
 <td>Method input for the brand inventory: teams run a small unprompted asset-recognition survey for their audit brand. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1947,7 +2235,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.dezeen.com/2019/01/10/mastercard-rebrand-pentagram-design/](https://www.dezeen.com/2019/01/10/mastercard-rebrand-pentagram-design/)</td>
 <td>A positive distinctive-asset case. The decision rested on research showing more than 80% of people recognise the interlocking circles without the name, so the symbol-only mark was used on cards, at acceptance points and on sponsorships. A clean example of asset 'fame' data driving an identity decision.</td>
 <td>Contrast with Tropicana/Gap: when is it safe to drop or change brand elements? Free</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1956,7 +2244,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandfinance.com/?p=42498](https://brandfinance.com/?p=42498)</td>
 <td>Current Austrian brand-value ranking. Top 25 worth EUR 46.8 bn (+16%). Red Bull EUR 10.6 bn (+22%), Erste 7.9 bn, Raiffeisen 3.9 bn, A1 2.5 bn, ÖBB 2.1 bn; BAWAG PSK fastest-growing (+39%). The release spells out the 7-step valuation method with BSI → royalty rate.</td>
 <td>Local data source for WU audit projects (brand value as one outcome metric); discussion of methods. Free press release; full report paid</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1965,7 +2253,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.news.at/wirtschaft/oesterreichs-staerkste-marken-ausgezeichnet-ebi-praesentiert-markenwert-studie-2026](https://www.news.at/wirtschaft/oesterreichs-staerkste-marken-ausgezeichnet-ebi-praesentiert-markenwert-studie-2026)</td>
 <td>Second Austrian valuation with very different numbers: Red Bull about EUR 20.1 bn (vs. 10.6 bn at Brand Finance), Novomatic 3.94 bn, Erste +26.6%. Top 10 also includes Spar, ÖBB, Swarovski, Raiffeisen, Verbund, XXXLutz, OMV. 180 companies from 16 sectors; ÖBB 'most sustainable brand' for the 7th time.</td>
 <td>Compare EBI vs. Brand Finance for the same brands: why do valuation methods diverge? Free (press coverage)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1974,7 +2262,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.ipsos.com/de-at/node/978746](https://www.ipsos.com/de-at/node/978746)</td>
 <td>Nation-brand audit for Austria across six dimensions (exports, governance, culture, people, tourism, immigration/investment). Austria ranks 16th, driven by tourism, culture and heritage and effective administration, while its people are not seen as especially friendly. Includes the Russia 27 → 58 drop as an example of a crisis effect. Note: the most recent Austria-specific release found is 2022.</td>
 <td>Place/nation brand audit exercise; compare with WienTourismus positioning. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1983,7 +2271,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://b2b.wien.info/en/strategy-brand/vienna-brand](https://b2b.wien.info/en/strategy-brand/vienna-brand)</td>
 <td>City-brand case in Vienna. The brand was repositioned toward customer benefit and emotion ('the experiences of a city without the stress factors of a city'), with the brand core 'Encouraging Enjoyment', claim 'JETZT. FÜR IMMER', and new logo/CD. The 2016 brand booklet PDF is downloadable from b2b.wien.info. Related: the 2025 'Optimum Tourism' visitor-economy strategy.</td>
 <td>Group assignment: city brand audit of Vienna (inventory from brand manual + exploratory via NBI/tourist surveys). Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -1992,7 +2280,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.wien.gv.at/spezial/cd-manual/markenstrategie/markenarchitektur/](https://www.wien.gv.at/spezial/cd-manual/markenstrategie/markenarchitektur/)</td>
 <td>A public umbrella-brand system (Dachmarke): the city brand is the most visible and departmental brands are absorbed into it (coat of arms + 'Stadt Wien' wordmark + descriptor). A real brand-architecture document that can be audited, and it sits alongside the separate WienTourismus brand.</td>
 <td>Brand architecture exercise: map the Vienna brand family (city vs. tourism vs. Wiener Linien etc.). Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2001,7 +2289,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.warc.com/en/article/lidl%3A-when-the-challenger-becomes-a-british-staple-81bea4b013d44c13abe43a6e840a32a4](https://www.warc.com/en/article/lidl%3A-when-the-challenger-becomes-a-british-staple-81bea4b013d44c13abe43a6e840a32a4)</td>
 <td>Repositioning documented with brand tracking: Lidl GB moves from 'surprising discounter' to 'quality democratiser'. Market share +2.1 pp, consideration +5 pp, shopper penetration +4.4 pp, incremental revenue +68%. Shows how effectiveness papers link tracking to business results.</td>
 <td>Model for the 'recommendations & measurement' section of a student audit. Free summary on WARC; full paper via WARC/IPA (check WU access)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2010,7 +2298,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://ipa.co.uk/news/effectiveness-awards-2024-winners/](https://ipa.co.uk/news/effectiveness-awards-2024-winners/)</td>
 <td>Grand Prix McCain: long-term emotional brand building reduced price elasticity by 47%, raised base sales by 44% and delivered GBP 26 m net profit over nine years. The problem the brand had to fix: shoppers searched for 'oven chips' rather than 'McCain', i.e. weak brand salience. The award database (79 entries) is a source of real tracking-based cases.</td>
 <td>Source pool: each audit team picks an IPA paper from its category as a benchmark. Free list; papers via WARC/IPA (check WU access)</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2019,7 +2307,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.leadersnet.at/news/28030,telekom-austria-stellt-die-gesamte-gruppe-auf-die-marke-a1-um.html](https://www.leadersnet.at/news/28030,telekom-austria-stellt-die-gesamte-gruppe-auf-die-marke-a1-um.html)</td>
 <td>Austrian brand-architecture decision with hard numbers: more than 10 local brands migrated to a single A1 brand after 'extensive market and brand analyses', with EUR 350 m of local brand value written off. Follow-ups: 2023 design refresh with Saffron; A1 now 4th in Brand Finance Austria 2026 (EUR 2.5 bn).</td>
 <td>Case vignette on brand portfolio consolidation (house of brands → branded house). Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2028,7 +2316,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://rewe-group.at/en/newsroom/2021/01/merkur-and-billa-become-one-family-in-april-billa-and-billa-plus](https://rewe-group.at/en/newsroom/2021/01/merkur-and-billa-become-one-family-in-april-billa-and-billa-plus)</td>
 <td>Austrian retail brand-architecture move: the 52-year-old Merkur brand is retired into BILLA PLUS (April 2021) to remove duplicate structures, saving a double-digit EUR million amount. An FH Wien thesis measured consumer evaluation via a representative online survey. In Brand Finance Austria 2025, Billa was the fastest-growing brand (+70% to EUR 2 bn).</td>
 <td>Local vignette for discussing brand retirement/migration; students can audit BILLA vs. BILLA PLUS perception today. Free</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2037,7 +2325,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://unitguides.mq.edu.au/unit_offerings/84347/unit_guide](https://unitguides.mq.edu.au/unit_offerings/84347/unit_guide)</td>
 <td>The standard textbook model of a complete brand audit (brand inventory: portfolio, elements, product, price, IMC, distribution; brand exploratory: consumer knowledge, brand resonance pyramid, competitive analysis, recommendations). The Macquarie unit guide shows how a course turns it into an assignment template.</td>
 <td>Template for the student brand audit report structure; textbook via WU library. Unit guide free online</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2046,7 +2334,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://hstalks.com/article/6374/download/](https://hstalks.com/article/6374/download/)</td>
 <td>A published, complete Keller-style brand audit of a mid-sized European FMCG brand (Spanish chocolate maker Lacasa) ending in three concrete recommendations. It is close to what students produce and works as a worked example at the right scale.</td>
 <td>Model answer/pre-reading before students write their own audit. Subscription (HSTalks/Journal of Brand Strategy), so check WU licence</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2055,7 +2343,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.foxbusiness.com/markets/bud-light-faces-boycott-calls-punishing-brands-harder-than-looks](https://www.foxbusiness.com/markets/bud-light-faces-boycott-calls-punishing-brands-harder-than-looks)</td>
 <td>Social-listening numbers for a brand audit. Bud Light had 1.08 m social mentions in the 11 days after the Mulvaney video vs. 20,400 in the 11 days before (mostly Twitter, Reddit and forums). The dominant emotions were disgust, anger and joy. Pair with BeerBoard bar-pour data (Axios) and YouGov tracking.</td>
 <td>Illustrates the social-listening module of a brand audit and its limits (volume ≠ representativeness). Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2064,7 +2352,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kellogg.northwestern.edu/academics-research/research/detail/2024/lessons-from-the-bud-light-boycott-one-year-later/](https://www.kellogg.northwestern.edu/academics-research/research/detail/2024/lessons-from-the-bud-light-boycott-one-year-later/)</td>
 <td>Academic one-year retrospective on the Bud Light crisis, a ready reflection piece to close a brand crisis audit (what happened to loyalty, what brand managers should learn).</td>
 <td>Reading after the Darden case/YouGov data. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2073,7 +2361,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://news.gallup.com/businessjournal/187472/volkswagen-salvage-damaged-brand.aspx](https://news.gallup.com/businessjournal/187472/volkswagen-salvage-damaged-brand.aspx)</td>
 <td>Practitioner analysis of VW's apology and goodwill package after Dieselgate, arguing that emotional customer engagement data shows much more is needed. A short evidence-based commentary on a German brand crisis.</td>
 <td>Reading with the Ivey/INSEAD VW cases; students design a brand-trust tracking plan. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2082,7 +2370,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.leadersnet.at/news/81828,julius-meinl-vergoennt-sich-neuen-markenauftritt.html](https://www.leadersnet.at/news/81828,julius-meinl-vergoennt-sich-neuen-markenauftritt.html)</td>
 <td>Viennese heritage coffee brand (founded 1862) repositions toward a 'Coffee Love Brand' to rejuvenate its target group. A live Austrian rejuvenation example where students can audit heritage cues vs. the new identity.</td>
 <td>Topic for a student brand audit (Austrian heritage brand). Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2091,7 +2379,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.about-drinks.com/erfrischend-neuer-markenauftritt-almdudler-startet-mit-neuer-kampagne-in-die-kommunikationsoffensive/](https://www.about-drinks.com/erfrischend-neuer-markenauftritt-almdudler-startet-mit-neuer-kampagne-in-die-kommunikationsoffensive/)</td>
 <td>First new claim and brand presence in almost 30 years, explicitly meant to 'strengthen what was there from the start' rather than reinvent the brand. A clear 'evolution, not revolution' example that reflects the Tropicana lesson, set in an Austrian brand. Plus a distribution change in Germany (own distribution from 2027).</td>
 <td>Topic for a student brand audit/discussion of continuity of brand elements. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2100,7 +2388,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.walterscott.com/research/articles/how-adidas-got-its-mojo-back/](https://www.walterscott.com/research/articles/how-adidas-got-its-mojo-back/)</td>
 <td>Analysis of the German brand's turnaround under Bjørn Gulden. Diagnosis: product/marketing sidelined by strategists, wholesale neglected. Fix: product at the centre, retailers back on side, heritage lines (Samba, Gazelle, Spezial) scaled up. A good example of heritage brand assets as the basis for revitalization.</td>
 <td>Mini-case for revitalization via heritage; students verify with adidas annual reports and brand rankings. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2109,7 +2397,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.imd.org/ibyimd/leadership/alexis-nasard-on-transforming-swarovski-into-a-modern-pop-luxury-brand/](https://www.imd.org/ibyimd/leadership/alexis-nasard-on-transforming-swarovski-into-a-modern-pop-luxury-brand/)</td>
 <td>First-hand CEO account of repositioning a Tyrolean family brand: three product categories with distinct price and style tiers, a tiered collection from entry level to bespoke rather than across-the-board price increases, and 2023 revenue of EUR 1.83 bn. Primary-source input for a Swarovski brand audit.</td>
 <td>Pair with the free 'World of Swarovski' case. Free</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Praxisbeispiele</td>
@@ -2118,6 +2406,204 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.leadersnet.at/news/33116,oesterreichs-studierende-wollen-fuer-red-bull-und-google-arbeiten.html](https://www.leadersnet.at/news/33116,oesterreichs-studierende-wollen-fuer-red-bull-und-google-arbeiten.html)</td>
 <td>Employer-brand audit data for Austria: business students rank Red Bull 1st, then Google and BMW; engineering/IT students rank Google, Siemens, Microsoft. Shows how employer-brand rankings feed an employer brand audit. Note: older edition; current results are on universumglobal.com.</td>
 <td>Employer-brand audit module: compare a brand's consumer vs. employer brand standing. Free</td>
+<td>bestehend; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Marketagent BRAND.Diamonds 2024: Österreichs Markenstars (Manner, SPAR, EUROSPAR, Hofer, dm)</td>
+<td>Marketagent (Thomas Schwabl); press charts, Feb 2025; 47 slides; mobile research app, n = 237,880 brand ratings, 1,266 brands, Austrian population 14+, fieldwork 01.01.–31.12.2024</td>
+<td>[https://b2b.marketagent.com/media/teuksy0e/pressecharts_branddiamonds_feb_2025.pdf](https://b2b.marketagent.com/media/teuksy0e/pressecharts_branddiamonds_feb_2025.pdf)</td>
+<td>The best free brand-tracking dataset for Austrian brands. It reports top-10 lists on 11 brand-equity questions: awareness, closeness, attraction, emotionality, fascination, connectedness ('Verbundenheit'), being 'seen with the brand', 14 personality traits, recommendation (NPS-style), distinctiveness, brand lifecycle 'season', and 'would miss it'. Manner ranks #1 in attraction (84.5% top-2-box) and #2 in emotionality (73.5%), and leads 'seen with the brand'. SPAR is #4 in connectedness (70.9%) and EUROSPAR, SPAR and Hofer appear in GenZ connectedness. Each list shows top, average and bottom values, so students can benchmark a brand against the market norm.</td>
+<td>Data exhibit for the brand audit (exploratory part): students read the Manner and SPAR profiles across the dimensions and turn them into CBBE pyramid levels. Free PDF.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Marketagent BRAND.Swipe: Die authentischsten Marken Österreichs (2020)</td>
+<td>Marketagent; BRAND.Swipe study, Nov 2020; 8 pp.; 1,396 brands; fieldwork 01.01.–08.11.2020</td>
+<td>[https://retailreport.at/sites/default/files/2020-11/Marketagent%20BRAND.Swipe_Die%20authentischsten%20Marken_November%20%202020.pdf](https://retailreport.at/sites/default/files/2020-11/Marketagent%20BRAND.Swipe_Die%20authentischsten%20Marken_November%20%202020.pdf)</td>
+<td>Top-20 authenticity ranking from 1,396 brands. Search coverage reports Manner as #1. Marketagent's sympathy ranking also had Manner #1 in 2018–2019 (index 85.1 in 2019), before dm took over in 2022 (Manner #3). Together with BRAND.Diamonds 2024 this gives a short time series for Manner's brand strength, useful for 'is the heritage brand still gaining?' discussions.</td>
+<td>Second data point for a Manner or SPAR audit (trend over time). Free PDF.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Josef Manner & Comp. AG: Geschäftsbericht 2019 (brand portfolio and marketing section)</td>
+<td>Josef Manner & Comp. AG (listed on Vienna Stock Exchange); annual report 2019; 58 pp.; PDF</td>
+<td>[https://josef.manner.com/de/media/556/download](https://josef.manner.com/de/media/556/download)</td>
+<td>Primary source for a Manner brand inventory. The marketing section covers the portfolio (Manner, Casali, Napoli/Dragee Keksi, Victor Schmidt/Mozartkugeln, Ildefonso) and new flavours aimed at 'Neuverwender, insbesondere jüngere Zielgruppen'. It also covers Victor Schmidt's 110th anniversary, the 'Rosa macht glücklich' advertising line, the website relaunch, #pinkplayground, and awards (e.g. Marketagent 2019: most-liked brand ahead of Wikipedia and dm). It includes key figures 2015–2019. Because Manner is listed, newer annual reports are on josef.manner.com, e.g. 2024 revenue approx. EUR 288m.</td>
+<td>Brand inventory exercise: students extract brand elements, sub-brands and marketing activities from the report, then compare with the consumer data (BRAND.Diamonds). Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Manner Vollkornschnitte: Platin-Effie 2013 (and Manner personalised packs: Effie Gold + Platin)</td>
+<td>IAA Austria Effie Awards 2013, reported by Leadersnet; client Josef Manner & Comp AG; agencies Demner, Merlicek & Bergmann (creative), OMD (media)</td>
+<td>[https://www.leadersnet.at/news/10477,effie-gala-2013.html](https://www.leadersnet.at/news/10477,effie-gala-2013.html)</td>
+<td>Documented brand-extension result with numbers. The wholegrain wafer, positioned as a 'sweet alternative', won the Platinum Effie (Food). Sales grew +9.9% in 2012, about ten times faster than the confectionery market, with \~0.75 kg sold per EUR 1 of advertising and a repurchase rate of 63.6%. A later Manner case with personalised packaging (in-house creative, OMD media) won Gold and the Platinum Effie again (Der Standard, 'Wirksamste Werbeschnitte', [https://www.derstandard.at/2000067718868/](https://www.derstandard.at/2000067718868/); seen in search results only). The same Leadersnet page lists the ÖBB ÖSTERREICHcard among the 2013 winners.</td>
+<td>Discussion: does a health-oriented line extension strengthen or dilute the core Manner associations? Use the Effie KPIs as 'outcome' evidence in the audit. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Origin as brand essence: Manner and Almdudler as case companies (NHH master thesis, 2012)</td>
+<td>Master thesis, NHH Norwegian School of Economics, 2012; NHH Brage open-access repository</td>
+<td>[https://openaccess.nhh.no/nhh-xmlui/handle/11250/169457](https://openaccess.nhh.no/nhh-xmlui/handle/11250/169457)</td>
+<td>Qualitative study of Josef Manner & Comp AG and Almdudler. Finding: both use their Austrian/Viennese origin not as a secondary association but as an essential part of the brand. A useful academic frame for the 'secondary associations / country of origin' part of a Manner audit. We did not open the full text: the repository host did not resolve, so authors and exact title are not verified.</td>
+<td>Optional reading for student teams auditing Manner or Almdudler. Free (open access) if the link resolves; otherwise search NHH Brage for 'Manner Almdudler'.</td>
+<td>neu; Link ungeprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Rauch: neues Dachmarken-Bild 'Rauch-Baum' und internationaler Etat an Wensauer & Partner (2009)</td>
+<td>HORIZONT Online, 7 Apr 2009</td>
+<td>[https://www.horizont.net/agenturen/nachrichten/-Wensauer--Partner-gewinnt-internationalen-Fruchtsaft-Etat-83478](https://www.horizont.net/agenturen/nachrichten/-Wensauer--Partner-gewinnt-internationalen-Fruchtsaft-Etat-83478)</td>
+<td>One of the few documented brand-architecture moves by Rauch. After a pitch, Wensauer & Partner took on international communication, and the first output was a new umbrella-brand image built on the 'Rauch-Baum' (tree), described as standing for 'frischeste Fruchtkompetenz des Unternehmens und der Dachmarke Rauch'. Rauch at the time: 2008 revenue EUR 720m, exports to 90+ countries, brands Bravo, Happy Day, Ice Tea, Nativa. No teaching case on Rauch exists in the case databases we searched (Case Centre, HBP, Ivey, IMD). This plus the items below is the best available material for a house-of-brands vs. umbrella-brand discussion.</td>
+<td>Brand architecture mini-exercise: draw the Rauch portfolio (Rauch, Happy Day, Bravo, Rauch Eistee, Yippy, Nativa, Franz Josef Rauch, Kloster Kitchen acquired 2024/25) and judge the role of the umbrella brand. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Rauch Happy Day: Packaging-Relaunch der 1-Liter-Range (2018)</td>
+<td>about-drinks.com, 22 Oct 2018 (press release Rauch Deutschland); plus Rauch '100 x Rauch 1919–2019' company history</td>
+<td>[https://www.about-drinks.com/packaging-relaunch-happy-day-erfrischt-im-neuen-look/](https://www.about-drinks.com/packaging-relaunch-happy-day-erfrischt-im-neuen-look/)</td>
+<td>Packaging as the key brand touchpoint for Rauch. The 2018 Happy Day 1-l Tetra Pak redesign (new flavour bands, colours, pure fruit imagery, icons on the back) aimed at shelf impact, impulse purchase and repurchase in German retail (Rauch 2017 revenue EUR 902m). The company history page [https://www.rauch.cc/company/100-x-rauch-1919-2019/posts/standing-out-on-supermarket-shelves](https://www.rauch.cc/company/100-x-rauch-1919-2019/posts/standing-out-on-supermarket-shelves) documents the 2001 glass bottle for gastronomy and the 2006–07 PET bottle with the embossed Rauch ellipse as the brand's distinctive asset. Good for a distinctive-asset audit.</td>
+<td>Distinctive brand assets exercise: which Rauch/Happy Day codes (ellipse, tree, colours) are distinctive and owned? Students check shelf photos against the brand guidelines. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>RBI launches new group brand design and slogan 'Make it happen' (2023)</td>
+<td>Raiffeisen Bank International AG, Group Communications; press release, 8 May 2023</td>
+<td>[https://www.rbinternational.com/en/raiffeisen/media-hub/press-releases/2023/brand-refresh.html](https://www.rbinternational.com/en/raiffeisen/media-hub/press-releases/2023/brand-refresh.html)</td>
+<td>Documented brand-architecture harmonisation across RBI's CEE network banks. Head of Group Marketing: 'Up until now, the only unifying elements across the Group were the iconic gable cross and distinctive yellow.' Changes: brand strategy, architecture and identity harmonised; brand idea 'Ease'; slogan 'Make it happen'. FutureBrand London (branding) and McCann Bucharest (creative) were chosen after two pitches, and the launch included a metaverse pavilion. Contrast: the Austrian Raiffeisen Bankengruppe (cooperative, regional banks, Landesbanken) keeps its own claim 'WIR macht's möglich'. This is a live example of one brand name under two architectures.</td>
+<td>Brand architecture discussion: who owns 'Raiffeisen'? Map RBI vs. Raiffeisen Bankengruppe Österreich vs. Raiffeisen Schweiz (separate rebrand by MetaDesign). Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>FutureBrand: Raiffeisen Bank International brand strategy, architecture and identity</td>
+<td>FutureBrand (agency case page), c. 2023</td>
+<td>[https://www.futurebrand.com/our-work/raiffeisen-bank](https://www.futurebrand.com/our-work/raiffeisen-bank)</td>
+<td>Agency view of the RBI repositioning. The challenge: move from a 'trusted but conventional network bank' to a more emotive, innovative brand that stands out against legacy banks and fintechs. The new architecture links segments, products and initiatives, aiming to attract tech-savvy newcomers and keep high-value customers. The Gable Cross and yellow were kept as equity assets, and new 'brand arrows' and a sonic identity were added. No results or metrics are reported, which is itself a good audit discussion point.</td>
+<td>Pair with the RBI press release: students identify which equity elements were kept vs. replaced, and what tracking they would require to evaluate it. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Raiffeisen Bankengruppe Österreich: Giebelkreuz, Struktur und Markenversprechen (Selbstdarstellung)</td>
+<td>raiffeisen.at, 'Die Raiffeisen Bankengruppe' (accessed Oct 2026)</td>
+<td>[https://www.raiffeisen.at/de/meine-bank/raiffeisen-bankengruppe.html](https://www.raiffeisen.at/de/meine-bank/raiffeisen-bankengruppe.html)</td>
+<td>Primary source for the brand inventory of the Austrian group. It describes a three-tier structure (Raiffeisenbanken, Raiffeisenlandesbanken, RBI) plus specialised companies (Capital Management, Versicherung, Leasing, Bausparkasse). It reports 1,500+ branches, approx. 4.4 million customers and 26,800 employees, and frames members as co-owners. The Giebelkreuz and name 'stehen für Sicherheit und verlässliche Partnerschaft', with brand pillars 'Raiffeisen ist sicher / regional / Alles aus einer Hand'. Regional pages add the claim 'WIR macht's möglich' and the founder quote 'Was dem Einzelnen nicht möglich ist, das vermögen viele'.</td>
+<td>Brand inventory: students compare the intended brand (this page) with external data (EBI brand values, reputation rankings, the Russia debate). Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Markenwertstudie 2012 (European Brand Institute): Raiffeisen −22.6%, Erste −31.4%, ÖBB +10%</td>
+<td>Leadersnet report on the 9th Austrian brand value study by the European Brand Institute (Gerhard Hrebicek), 2012</td>
+<td>[https://www.leadersnet.at/news/5835,markenwertstudie-2012.html](https://www.leadersnet.at/news/5835,markenwertstudie-2012.html)</td>
+<td>Historical counterpoint to the EBI 2026 study already in the guide. Top 10 with 2011→2012 values: Raiffeisen fell from rank 3 to 5 (EUR 2.94bn → 2.28bn, attributed to scandals). Erste Bank dropped 31.4% to rank 9, while ÖBB gained \~10% (EUR 1.38bn → 1.52bn) and Spar was stable at rank 7 (+2%). Later EBI waves show Raiffeisen stuck around rank 7 (\~EUR 2.04bn in 2024) while Erste rose to #3 in 2026. This gives a 14-year brand-value trajectory for three of the five target brands.</td>
+<td>Outcome-metric exercise: why did bank brand values fall in 2012, and what does a financial brand valuation capture that consumer tracking (BRAND.Diamonds) does not? Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>ÖBB: neue Markenstrategie, Positionierung und Arbeitgebermarke — 'Heute. Für morgen. Für uns.' (2019)</td>
+<td>Leadersnet, 2 Oct 2019; client ÖBB Holding AG (Corporate Communications, Senior Brand Management); AANDRS (creation), Brainds (strategic brand development and brand design), ÖBB Werbung (in-house)</td>
+<td>[https://www.leadersnet.at/news/39440,die-oebb-fahren-eine-neue-werbelinie.html](https://www.leadersnet.at/news/39440,die-oebb-fahren-eine-neue-werbelinie.html)</td>
+<td>The best-documented ÖBB repositioning. After a multi-year internal culture programme, ÖBB moved from fixed testimonials to 'real people'. It positioned itself as 'die sinnvollste Lösung für Mensch, Umwelt und Wirtschaft' (climate and sustainable mobility) with the claim 'Heute. Für morgen. Für uns.' It extracted the red 'Raute' from the Ö-stroke of the wordmark as a distinctive asset, and launched the employer brand 'Jobs mit Sinn', driven by a quarter of staff retiring. No tracking data are given, but ÖBB is one of few Austrian brands whose EBI brand value rose sharply (+10% in 2012).</td>
+<td>Example of a corporate + employer brand repositioning for a state-owned brand: students write the positioning statement and propose audit KPIs (image, consideration, employer attractiveness). Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>ÖBB Dachkampagne 'Jede Fahrt macht den Unterschied' (2022)</td>
+<td>Leadersnet, 21 Aug 2022; creation Ortner&Weihs; development ÖBB Werbung (in-house); music Wiener Symphoniker</td>
+<td>[https://www.leadersnet.at/news/61739,oebb-launchen-neue-dachkampagne.html](https://www.leadersnet.at/news/61739,oebb-launchen-neue-dachkampagne.html)</td>
+<td>Next step of the 2019 repositioning. ÖBB presents itself as 'one of Austria's largest climate-protection companies' and targets undecided non-users while affirming existing customers. The 360° campaign ran across TV, cinema, OOH, print wraps and ÖBB Railscreens. Together with the 2019 article it shows brand consistency over time (same claim and red, a new narrative), useful for checking consistency in an audit.</td>
+<td>Consistency check over two campaign waves (2019 → 2022). Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>SPAR Food-Salon 2026: Eigenmarken-Architektur (S-BUDGET, Natur\*pur, Vital) und Marktanteil</td>
+<td>Leadersnet, 26 Apr 2026 (Markus Kaser, deputy CEO SPAR Österreich)</td>
+<td>[https://www.leadersnet.at/news/99481,spar-setzt-auf-eigenmarken-ernaehrungstrends-und-stationaeren.html](https://www.leadersnet.at/news/99481,spar-setzt-auf-eigenmarken-ernaehrungstrends-und-stationaeren.html)</td>
+<td>Current figures on SPAR's private-label brand architecture: approx. 10,000 own-brand items and \~45% of revenue. S-BUDGET has approx. EUR 1bn revenue in Austria, 1,100+ products and +8%. SPAR Natur\*pur is 30 years old with +8.7%, and SPAR Vital grew +15%. Market share was 36.2% at end of 2025 (NielsenIQ, after a 0.6-point correction). Also covers dropping the online grocery shop and the 'shrinkflation' positioning against branded manufacturers. No teaching case on SPAR Austria exists in the major case databases. This and the next row are the best documented brand-strategy data.</td>
+<td>Retailer brand portfolio audit: map the good-better-best tiers (S-BUDGET / SPAR / SPAR Premium) plus benefit lines (Natur\*pur, Vital, Veggie) and judge overlaps and gaps. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Eigenmarken treiben Wachstum: Spar vergrößert Abstand zur Konkurrenz (Ergebnisse 2025)</td>
+<td>VOL.AT / APA, 13 Mar 2026; market data NielsenIQ via 'Key Account' (Feb 2026)</td>
+<td>[https://www.vol.at/private-labels-drive-growth-spar-increases-distance-from-competitors/10045553](https://www.vol.at/private-labels-drive-growth-spar-increases-distance-from-competitors/10045553)</td>
+<td>Market-outcome data for a SPAR audit. Austrian market shares 2025: SPAR 36.8%, REWE (Billa, Penny) 32.3%, Hofer + Lidl 25.5%. SPAR Austria store revenue +4.2% to EUR 10.8bn, group EUR 22.3bn, S-BUDGET +8%, Unimarkt takeover (+0.2 pp). Earlier coverage (2024 results) gives tier growth: S-BUDGET +8.5%, SPAR Premium +11%, Natur\*pur +8%, Veggie +13%, and own-brand share up from 25% (2007) to 45%. Combine with BRAND.Diamonds (SPAR #4 in connectedness) for the consumer side.</td>
+<td>Link the brand-equity data (BRAND.Diamonds) with market outcomes (share, own-brand growth). Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Erste Group: '...and then there was George' — launch of the George digital banking brand (2015)</td>
+<td>Erste Group press release, Jan 2015; INTEGRAL online survey, n = 900 Austrians 16+, fieldwork 21–30 Nov 2014</td>
+<td>[https://www.erstegroup.com/en/news-media/press-releases/2015/01/16/and-then-there-was-george-alias](https://www.erstegroup.com/en/news-media/press-releases/2015/01/16/and-then-there-was-george-alias)</td>
+<td>Rare example of a brand launch justified with published consumer research. Comparisons of banks vs. tech platforms: 81% find their bank trustworthy vs. 3% for Facebook, 74% vs. 1% for Google on data safety, and 45% enjoy Facebook vs. 18% online banking. 80–94% would not buy financial products from Amazon, Google or Facebook. The naming rationale ties George to the early 'Let George do it' autopilot, giving the brand personality. George later reached 1m users in Austria and was rolled out across Erste's CEE markets. Erste is now #3 in EBI 2026 (+26.6%).</td>
+<td>Show how a points-of-parity / points-of-difference argument (trust vs. ease and design) is built from survey data, then ask students what tracking would show whether George strengthened or diluted the Erste/Sparkasse brand. Free.</td>
+<td>neu; Link ungeprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Swarovski brand relaunch with Lippincott: 'making crystal cool again' (2021)</td>
+<td>Lippincott (agency case page); relaunch Feb 2021; logo redesign led in-house by creative director Giovanna Engelbert</td>
+<td>[https://lippincott.com/work/swarovski](https://lippincott.com/work/swarovski)</td>
+<td>Agency case with an explicit audit finding: Swarovski was perceived as near-luxury but had trained customers to expect entry-level prices and discounts, so the brand was eroding its own image. Response: a bolder brand platform, new product range, higher average price point, new logo (swan turned around), the 'Instant Wonder' concept store in Milan, plans for 28 more stores, and an internal engagement campaign. The page cites WWD: strongest growth in seven years, retail sales +13%, B2B crystal +5%. Complements the IMD case and the Nasard interview already in the guide.</td>
+<td>Before/after audit: students reconstruct the 'as-is' brand image from the diagnosis and test whether the relaunch closes the gap to the intended identity. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Austrian Airlines further develops its branding for the digital age (2018)</td>
+<td>GTP Headlines, 20 Apr 2018 (Austrian Airlines announcement; CCO Andreas Otto)</td>
+<td>[https://news.gtp.gr/2018/04/20/austrian-airlines-further-develops-branding/](https://news.gtp.gr/2018/04/20/austrian-airlines-further-develops-branding/)</td>
+<td>Evolutionary rebrand of a national-flag brand inside the Lufthansa Group. Chevron and 'Austrian' wordmark modernised for legibility on smartphones and smartwatches and at distance on aircraft. Signature red used more deliberately as the differentiator, 'Servus' kept on the belly. Gradual livery rollout (18 of 82 aircraft by summer 2019, about seven years for the full fleet). The earlier 2015 'red-white-red' change dropped the sky blue after the Tyrolean merger. A good case for 'evolution vs. revolution' and the cost and timing of brand changes.</td>
+<td>Discussion on retaining brand elements: which equities (red, chevron, 'Servus') must be kept, and how a digital-first brief changes logo design. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>BIPA: neuer Markenauftritt 'Alles beginnt mit einem großen B' (2026)</td>
+<td>Leadersnet, 21 Jan 2026; BIPA (REWE International), MD Markus Geyer; BBDO Wien (corporate design), AANDRS (campaign)</td>
+<td>[https://www.leadersnet.at/news/96540,so-sieht-der-neue-markenauftritt-von-bipa-aus.html](https://www.leadersnet.at/news/96540,so-sieht-der-neue-markenauftritt-von-bipa-aus.html)</td>
+<td>Repeated repositioning of an Austrian drugstore brand against dm. In 2017 Serviceplan repositioned BIPA with 'Weil ich ein Mädchen bin' (tone, look, range and store layout; Der Standard, seen in search results only). The 2026 relaunch makes the letter 'B' the key visual and adds the tagline 'Wir sind da, für das, was das Leben bringt'. It also brings reduced design, real people, and new store entrances and wayfinding. No research data are cited. Marketagent data place dm among Austria's most-liked brands, the obvious benchmark.</td>
+<td>Challenger vs. leader audit: BIPA vs. dm, using Marketagent data for dm and the two repositionings (2017, 2026) to discuss consistency. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Kitzbühel Tourismus zieht Rebranding-Bilanz (one year after the relaunch)</td>
+<td>Leadersnet, 23 Jun 2025 (relaunch 20 Jun 2024)</td>
+<td>[https://www.leadersnet.at/news/90417,kitzbuehel-tourismus-zieht-rebranding-bilanz.html](https://www.leadersnet.at/news/90417,kitzbuehel-tourismus-zieht-rebranding-bilanz.html)</td>
+<td>Austrian destination rebrand with a post-launch review. Changes: first new logo in 50 years, a fashion-like design that moved toward 'Artificial Design', and rights secured to Alfons Walde's original 'Gams' after three years of negotiation. Reported measures: campaign reach 54m, press reach 87m, and effectiveness tests at Sporthochschule Köln (eye-tracking, recall, in-depth interviews) showing higher attractiveness, sympathy, visit intent and recommendation among those exposed. Exact figures are not given. German Design Award 2025.</td>
+<td>Use to discuss what a credible post-rebrand audit should contain (baseline, control group, exact KPIs) versus what is reported here. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Stiegl: 'Stiegl und stolz drauf' brand relaunch (2022)</td>
+<td>Wien Nord Serviceplan / House of Communication (agency case page); launch reported by Leadersnet, 16 May 2022</td>
+<td>[https://www.house-of-communication.com/at/en/cases/stiegl-und-stolz-drauf.html](https://www.house-of-communication.com/at/en/cases/stiegl-und-stolz-drauf.html)</td>
+<td>Agency case with an explicit audit diagnosis: Stiegl's image was 'fragmented by too many campaigns and TV spots, with no consistent brand codes'. The market is dominated by Heineken/Brau Union. The response was one central idea for Austria's largest private brewery (founded 1492): raising a glass as a gesture of respect, 'the beer of all Austrians'. It serves as an umbrella for brand, product, employer branding and sponsorship. No KPIs are reported. Leadersnet launch article: [https://www.leadersnet.at/news/59010,stiegl-launcht-neuen-markenauftritt-und-ist-stolz-drauf.html](https://www.leadersnet.at/news/59010,stiegl-launcht-neuen-markenauftritt-und-ist-stolz-drauf.html)</td>
+<td>Shows the typical audit outcome 'inconsistent brand codes' and its remedy. Students can audit Stiegl's current touchpoints for consistency. Free.</td>
+<td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Hofer 'Austropop' / Hofer Song 2020 image campaign</td>
+<td>Ogilvy Austria (agency case page); client Hofer KG; Staatspreis Werbung</td>
+<td>[https://ogilvy.com/at/work/austropop](https://ogilvy.com/at/work/austropop)</td>
+<td>Discounter brand-image campaign with an explicit brand objective: strengthen price perception and exclusive own brands, celebrate diverse customers, and offer distraction during the pandemic. It was a 360° campaign (radio, Spotify, YouTube, TikTok, OOH) and won the Staatspreis Werbung. No KPIs are given. Useful alongside the SPAR rows for comparing how competing grocers build own-brand equity.</td>
+<td>Grocery brand comparison (SPAR vs. Hofer vs. BILLA): positioning maps and own-brand roles. Free.</td>
 <td>neu; Link geprüft</td>
 </tr>
 </table>
@@ -2139,7 +2625,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.qualtrics.com/use-cases/brand-tracking/](https://www.qualtrics.com/use-cases/brand-tracking/)</td>
 <td>Survey-based brand tracker: awareness, consideration, preference, loyalty funnel, brand associations, competitor benchmarks, automated alerts; brand-tracker survey templates for the consumer-based part of a brand audit (CBBE inventory).</td>
 <td>Project: students build a brand awareness/image questionnaire and field it. WU-Lizenz prüfen (WU provides Qualtrics/Unipark for courses and theses); the commercial brand-tracker module is paid enterprise.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2148,7 +2634,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.tivian.com/](https://www.tivian.com/)</td>
 <td>German-language survey platform widely used at DACH universities; matrix rating scales for brand attributes, Likert CBBE items (Keller/Aaker), randomised brand blocks, export to SPSS/R.</td>
 <td>Lab: programme a brand image survey for 3-5 competing brands; Unipark academic licence - WU-Lizenz prüfen.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2157,7 +2643,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.limesurvey.org/](https://www.limesurvey.org/)</td>
 <td>Free alternative for brand perception questionnaires: array/matrix questions for attribute ratings, semantic differentials, unaided brand recall (open text), quotas; export to CSV/R/SPSS; EU hosting.</td>
 <td>Lab/project: free (self-hosted, open source) or free cloud plan (25 responses/month); paid cloud plans from \~EUR 29/month.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2166,7 +2652,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.surveymonkey.com/](https://www.surveymonkey.com/)</td>
 <td>Survey platform with brand awareness and brand perception templates and an optional panel (SurveyMonkey Audience) to field a quick brand tracker.</td>
 <td>Project: pilot surveys; free basic plan (10 questions); paid plans from \~EUR 30/month; panel completes charged extra.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2175,7 +2661,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://yougov.com/business/products/brandindex](https://yougov.com/business/products/brandindex)</td>
 <td>Daily brand-health metrics (Index, Buzz, Impression, Quality, Value, Reputation, Satisfaction, Recommend, Awareness, Consideration, Purchase intent, Current customer) for thousands of brands; competitor benchmarking in the brand-exploratory phase.</td>
 <td>Demo/guest lecture; commercial licence (paid); free BrandIndex Lite tier listed by YouGov; no general academic programme found - ask YouGov.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2184,7 +2670,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kantar.com/campaigns/brandz](https://www.kantar.com/campaigns/brandz)</td>
 <td>BrandZ brand equity model (Meaningful, Different, Salient) and Most Valuable Brands rankings; methodology to contrast survey-based equity with financial brand valuation.</td>
 <td>Reading/benchmark; methodology and rankings free online (registration for reports); custom tracking paid.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2193,7 +2679,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.latana.com/](https://www.latana.com/)</td>
 <td>Always-on brand tracking (awareness, consideration, associations) by granular target-group segments; example of modern panel-based brand-health tracking in DACH.</td>
 <td>Demo/case input; paid (custom pricing).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2202,7 +2688,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.tracksuit.com/](https://www.tracksuit.com/)</td>
 <td>Monthly brand-funnel tracking (unprompted/prompted awareness, consideration, preference, competitor comparison) aimed at SMEs; illustrates brand-funnel metrics for the brand inventory.</td>
 <td>Demo/case; paid (subscription, market dependent).</td>
-<td>neu; Link ungeprüft</td>
+<td>bestehend; Link ungeprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2211,7 +2697,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.brandwatch.com/products/consumer-research/](https://www.brandwatch.com/products/consumer-research/)</td>
 <td>Boolean-query listening over 100m+ online sources; mention volume, share of voice, sentiment, emotion, topic clusters, demographics - evidence for brand associations and brand image.</td>
 <td>Project if licence available; paid enterprise - WU-Lizenz prüfen.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2220,7 +2706,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.talkwalker.com/](https://www.talkwalker.com/)</td>
 <td>Social and media listening with share of voice, sentiment, logo/image recognition (visual listening) and brand-health dashboards; free Talkwalker Alerts as lightweight alternative.</td>
 <td>Demo; enterprise paid; Talkwalker Alerts free for simple mention tracking.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2229,7 +2715,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.meltwater.com/en](https://www.meltwater.com/en)</td>
 <td>Earned-media and social monitoring incl. Austrian/German press; share of voice, sentiment, media reach - media coverage part of the brand exploratory.</td>
 <td>Demo/guest lecture; paid enterprise.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2238,7 +2724,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brand24.com/](https://brand24.com/)</td>
 <td>Low-cost mention monitoring: volume, reach, sentiment, share of voice, influencer score, AI insights; suitable for student groups auditing a local brand.</td>
 <td>Project: 14-day free trial; paid from \~USD 79/month.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2247,7 +2733,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://mention.com/en/](https://mention.com/en/)</td>
 <td>Real-time web and social mention monitoring with sentiment and competitor comparison; brand buzz/awareness evidence.</td>
 <td>Project: free trial; paid plans (\~USD 40-50/month entry).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2256,7 +2742,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://awario.com/](https://awario.com/)</td>
 <td>Budget social listening with Boolean queries, sentiment, share of voice and competitor analysis.</td>
 <td>Project: 7-day free trial; paid from \~USD 29/month.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2265,7 +2751,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://trends.google.com/trends/](https://trends.google.com/trends/)</td>
 <td>Relative search interest by brand, region (Austria/Bundesland) and time; 'share of search' as indicator of brand salience; R/Python packages pull series for analysis.</td>
 <td>Lab: compute share of search for 3-5 competitors in Austria; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2274,7 +2760,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.semrush.com/](https://www.semrush.com/)</td>
 <td>Branded vs. non-branded keyword volume, organic share of voice, traffic estimates, backlinks; AI Visibility Toolkit measures brand presence in AI answers.</td>
 <td>Project: free account with limited queries; paid from \~USD 140/month.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2283,7 +2769,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://ahrefs.com/brand-radar](https://ahrefs.com/brand-radar)</td>
 <td>Tracks brand mentions, branded search demand and AI-assistant visibility vs. competitors; Keywords Explorer for branded search volume.</td>
 <td>Demo/project; paid; free Ahrefs Webmaster Tools only for own sites.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2292,7 +2778,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.similarweb.com/](https://www.similarweb.com/)</td>
 <td>Website traffic, channel mix, audience overlap and branded search share for competing brands - digital touchpoint part of a brand audit.</td>
 <td>Project: free basic website lookup; paid plans for full data.</td>
-<td>neu; Link ungeprüft</td>
+<td>bestehend; Link ungeprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2301,7 +2787,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.tryprofound.com/](https://www.tryprofound.com/)</td>
 <td>Tracks how often and how favourably a brand appears in ChatGPT, Perplexity, Gemini and Google AI Overviews answers; cited sources and share of voice in LLM answers - the 'AI brand perception' layer of an audit.</td>
 <td>Demo/discussion; paid enterprise.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2310,7 +2796,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://otterly.ai/](https://otterly.ai/)</td>
 <td>Monitors brand mentions, rank and cited links across ChatGPT, Perplexity, Google AI Overviews/AI Mode, Copilot; prompt-based brand visibility reports. Austrian start-up - potential guest speaker.</td>
 <td>Project: free trial; paid from \~USD 29/month.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2319,7 +2805,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://peec.ai/](https://peec.ai/)</td>
 <td>Tracks brand visibility, position and sentiment in AI assistant answers vs. competitors, with source analysis; prompt-based tracking.</td>
 <td>Demo/project; paid (entry plans reported \~EUR 75-105/month; check peec.ai/pricing).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2328,7 +2814,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment)</td>
 <td>Lexicon/rule-based sentiment for social media text; fast polarity scores for brand tweets/reviews (English).</td>
 <td>Lab: score sentiment of brand mentions; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2337,7 +2823,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest)</td>
 <td>Transformer (RoBERTa) 3-class sentiment for tweets; multilingual variant (twitter-xlm-roberta-base-sentiment) for German-language brand mentions.</td>
 <td>Lab (Colab): compare lexicon vs. transformer sentiment on brand mentions; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2346,7 +2832,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://maartengr.github.io/BERTopic/](https://maartengr.github.io/BERTopic/)</td>
 <td>Embedding-based topic modelling to surface brand associations/themes from reviews or social posts; dynamic topics over time.</td>
 <td>Lab: extract association clusters from brand reviews; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2355,7 +2841,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/explosion/spaCy](https://github.com/explosion/spaCy)</td>
 <td>NLP pipeline with NER (ORG/PRODUCT) and German models to detect brand mentions and co-occurring attributes for brand association networks.</td>
 <td>Lab: NER-based brand mention extraction; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2364,7 +2850,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://cran.r-project.org/package=tidytext](https://cran.r-project.org/package=tidytext)</td>
 <td>Tidy text mining with sentiment lexicons (AFINN, Bing, NRC), tf-idf and n-grams to compare brand associations across competitors.</td>
 <td>Lab: sentiment/tf-idf of brand reviews; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2373,7 +2859,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://cran.r-project.org/package=quanteda](https://cran.r-project.org/package=quanteda)</td>
 <td>Corpus handling, dictionaries (brand attribute dictionaries), keyness and feature co-occurrence networks - brand association maps from text.</td>
 <td>Lab: keyness brand A vs. brand B; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2382,7 +2868,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://cran.r-project.org/package=sentimentr](https://cran.r-project.org/package=sentimentr)</td>
 <td>Sentence-level sentiment with valence shifters (negation, amplifiers) - more accurate polarity of brand reviews than plain lexicon counts.</td>
 <td>Lab; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2391,7 +2877,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://cran.r-project.org/package=FactoMineR](https://cran.r-project.org/package=FactoMineR)</td>
 <td>Correspondence analysis of brand x attribute tables and PCA of brand ratings to draw perceptual/positioning maps; factoextra for ggplot2 visualisation.</td>
 <td>Lab: perceptual map from Chapman & Feit brand ratings; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2400,7 +2886,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://cran.r-project.org/package=smacof](https://cran.r-project.org/package=smacof)</td>
 <td>Metric/non-metric MDS of brand (dis)similarity judgements for perceptual maps; MASS::isoMDS as classic alternative.</td>
 <td>Lab: MDS map from brand similarity survey; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2409,7 +2895,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://lavaan.ugent.be/](https://lavaan.ugent.be/)</td>
 <td>Confirmatory factor analysis/SEM to validate consumer-based brand equity scales (e.g. Yoo & Donthu: awareness/associations, perceived quality, loyalty) and test measurement invariance across brands.</td>
 <td>Lab: CFA of a CBBE survey; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2418,7 +2904,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://cran.r-project.org/package=seminr](https://cran.r-project.org/package=seminr)</td>
 <td>PLS-SEM for brand equity driver models (brand image -\> trust -\> loyalty) with bootstrapping and HTMT; open alternative to SmartPLS.</td>
 <td>Lab/thesis; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2427,7 +2913,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://pypi.org/project/prince/](https://pypi.org/project/prince/)</td>
 <td>Python equivalents: semopy for CFA/SEM of CBBE scales; prince for correspondence analysis/PCA perceptual maps from brand x attribute tables.</td>
 <td>Lab for Python-track students; free/open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2436,7 +2922,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[http://r-marketing.r-forge.r-project.org/code.html](http://r-marketing.r-forge.r-project.org/code.html)</td>
 <td>Chapter 8 code: PCA, exploratory factor analysis and perceptual maps from consumer brand ratings (10 brands x 9 adjectives); classroom slides and exercises.</td>
 <td>Lab: ready-made perceptual-mapping exercise; code free; book via SpringerLink - WU-Lizenz prüfen.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2445,7 +2931,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/python-marketing-research/python-marketing-research-1ed](https://github.com/python-marketing-research/python-marketing-research-1ed)</td>
 <td>Jupyter/Colab notebooks incl. the brand-rating PCA/factor analysis and perceptual-map chapter (Python version of the brand ratings exercise).</td>
 <td>Lab for Python track; code free; book via SpringerLink - WU-Lizenz prüfen.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2454,7 +2940,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/tapilab/mksci-2015-brand-perceptions](https://github.com/tapilab/mksci-2015-brand-perceptions)</td>
 <td>Replication code for 'Mining Brand Perceptions from Twitter Social Networks' (Marketing Science 2016): infers brand perceptions (eco-friendliness, luxury, nutrition) from follower overlap with exemplar accounts.</td>
 <td>Advanced lab/seminar replication; free/open source (Twitter/X data access now restricted).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2463,7 +2949,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/hannesdatta/brand-equity-journal-of-marketing](https://github.com/hannesdatta/brand-equity-journal-of-marketing)</td>
 <td>Replication code for Datta, Ailawadi & van Heerde (2017, Journal of Marketing) 'How well does consumer-based brand equity align with sales-based brand equity and marketing-mix response?'; uses R package marketingtools; IRI sales data proprietary.</td>
 <td>Seminar: CBBE vs. sales-based brand equity measurement; code free, full data only via IRI.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2472,7 +2958,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/aloth/yougov-brandindex-query](https://github.com/aloth/yougov-brandindex-query)</td>
 <td>Python client to query BrandIndex brand perception metrics via API (requires a BrandIndex licence).</td>
 <td>Only with BrandIndex access; open source.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2481,7 +2967,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://miro.com/miroverse/visual-and-verbal-audit-template](https://miro.com/miroverse/visual-and-verbal-audit-template)</td>
 <td>Collaborative board to audit a brand's visual and verbal identity (what works, gaps, potential) before a rebrand; Miro also offers brand positioning and brand guidelines templates.</td>
 <td>Workshop/group project; Miro free plan; Miro Education plan free for students/teachers.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Software</td>
@@ -2490,7 +2976,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.canva.com/](https://www.canva.com/)</td>
 <td>No native 'brand audit' template found; brand-guidelines and social-media-audit templates can be adapted to present audit findings (brand element inventory, touchpoints, recommendations).</td>
 <td>Presentation of audit results; Canva for Education free for teachers/students.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 </table>
 ### Data (25)
@@ -2511,7 +2997,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[http://r-marketing.r-forge.r-project.org/data/rintro-chapter8.csv](http://r-marketing.r-forge.r-project.org/data/rintro-chapter8.csv)</td>
 <td>1,000 rows (100 respondents x 10 brands a-j), 10 variables: 9 adjective ratings 1-10 (perform, leader, latest, fun, serious, bargain, value, trendy, rebuy) + brand. Classic input for PCA/factor analysis and perceptual maps. All chapter data as ZIP: data/ChapmanFeit-RforMarketing2e-data.zip.</td>
 <td>Lab: perceptual map, brand positioning; free direct CSV download (simulated teaching data).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2520,7 +3006,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/python-marketing-research/python-marketing-research-1ed](https://github.com/python-marketing-research/python-marketing-research-1ed)</td>
 <td>Same simulated brand ratings dataset (10 brands, 9 attributes) loaded in Python notebooks for PCA/perceptual maps.</td>
 <td>Lab (Python); free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2529,7 +3015,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)</td>
 <td>14,640 tweets about 6 US airlines (United, US Airways, American, Southwest, Delta, Virgin America) labelled positive/neutral/negative with negative-reason codes - compare brand sentiment and complaint drivers across competitors.</td>
 <td>Lab: competitive brand sentiment; free (Kaggle login).</td>
-<td>neu; Link ungeprüft</td>
+<td>bestehend; Link ungeprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2538,7 +3024,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products)</td>
 <td>\~34,000 reviews of Amazon-brand products (Kindle, Fire TV, Echo) with ratings, review text, dates, brand/category - product-level brand image and sentiment.</td>
 <td>Lab: text mining of brand reviews; free (Kaggle login).</td>
-<td>neu; Link ungeprüft</td>
+<td>bestehend; Link ungeprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2547,7 +3033,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://amazon-reviews-2023.github.io/](https://amazon-reviews-2023.github.io/)</td>
 <td>571M reviews (1996-2023) across 33 categories with item metadata incl. brand/store - filter by brand for large-scale brand perception and attribute mining.</td>
 <td>Advanced lab/thesis; free for research (large; use category subsets).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2556,7 +3042,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)</td>
 <td>\~74,000 training tweets + validation set labelled by entity (brands/games e.g. Microsoft, Nvidia, Amazon, Google, Facebook) and sentiment (positive/negative/neutral/irrelevant).</td>
 <td>Lab: brand-level sentiment comparison; free (Kaggle login).</td>
-<td>neu; Link ungeprüft</td>
+<td>bestehend; Link ungeprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2565,7 +3051,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter)</td>
 <td>\~3M tweets/replies between consumers and large brands' support accounts (Apple, Amazon, Spotify, airlines, telcos) - audit of service touchpoints and brand response behaviour.</td>
 <td>Lab/project; free (Kaggle login).</td>
-<td>neu; Link ungeprüft</td>
+<td>bestehend; Link ungeprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2574,7 +3060,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kaggle.com/datasets/kazanova/sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)</td>
 <td>1.6M tweets with automatic polarity labels; filter for brand names (e.g. Nike, Apple) to illustrate brand sentiment tracking.</td>
 <td>Lab; free (Kaggle login); dated, noisy labels.</td>
-<td>neu; Link ungeprüft</td>
+<td>bestehend; Link ungeprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2583,7 +3069,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://huggingface.co/datasets/cardiffnlp/tweet_eval](https://huggingface.co/datasets/cardiffnlp/tweet_eval)</td>
 <td>Benchmark of 7 tweet classification tasks incl. sentiment (\~60k tweets) - evaluate/fine-tune sentiment models before applying them to brand mentions.</td>
 <td>Lab (NLP); free/open.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2592,7 +3078,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://zenodo.org/records/7679325](https://zenodo.org/records/7679325)</td>
 <td>2,881 tweets on 7 luxury/fashion bag brands (Gucci, Chanel, Dior, Louis Vuitton, Prada, Hermes, Supreme); one XLSX (446 kB) - luxury brand perception comparison.</td>
 <td>Lab: luxury brand sentiment; free download.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2601,7 +3087,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://zenodo.org/records/20794390](https://zenodo.org/records/20794390)</td>
 <td>35,640 grounded LLM responses (GPT-5.4, Gemini 3.1 Pro, Perplexity Sonar Pro) about 66 European brands in 12 languages incl. German; sentiment, recommendation share, 150,093 source attributions, 196,020 embedding similarities; 50.6 MB ZIP with reproduction script.</td>
 <td>Seminar/project on AI brand perception (LLM visibility); free download.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2610,7 +3096,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://data.mendeley.com/datasets/c3nt3zjt36](https://data.mendeley.com/datasets/c3nt3zjt36)</td>
 <td>Questionnaire data with six 4-item constructs (BT, BC, CD, CL, PV, PQ); sample size and codebook sparsely documented - usable for CFA/PLS-SEM practice after checking.</td>
 <td>Lab: CFA/PLS-SEM practice; free; check documentation first.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2619,7 +3105,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://doi.org/10.34894/ELVF0J](https://doi.org/10.34894/ELVF0J)</td>
 <td>Open survey data on category characteristics used alongside consumer-based brand equity (survey) and IRI scanner sales data; IRI data proprietary (request via IRI).</td>
 <td>Seminar on validity of brand equity measures; partially open.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2628,7 +3114,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/tapilab/mksci-2015-brand-perceptions](https://github.com/tapilab/mksci-2015-brand-perceptions)</td>
 <td>Code and survey-validated perception scores for 200+ brands on eco-friendliness, luxury and nutrition, inferred from Twitter follower networks; raw Twitter data must be re-collected (now restricted).</td>
 <td>Seminar replication/discussion; free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2637,7 +3123,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://github.com/Wangjing1551/LogoDet-3K-Dataset](https://github.com/Wangjing1551/LogoDet-3K-Dataset)</td>
 <td>158,652 images, 3,000 logo categories, \~194k annotated logo objects in 9 super-categories - brand element / visual identity exercises (logo recognition, visual listening).</td>
 <td>Advanced lab (computer vision); free for research.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2646,7 +3132,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://yougov.com/en-us/ratings](https://yougov.com/en-us/ratings)</td>
 <td>Free quarterly popularity (% positive opinion) and fame rankings for brands, people and organisations by country (US, UK, DE etc.) - quick awareness/liking benchmarks.</td>
 <td>Exploratory audit input; free (manual copy, no bulk download).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2655,7 +3141,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://interbrand.com/best-global-brands/](https://interbrand.com/best-global-brands/)</td>
 <td>Top 100 brand values (USD) with year-on-year change and brand strength factors; historic rankings online - financial brand-value benchmark.</td>
 <td>Benchmark/discussion; free online (no official CSV; copy tables).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2664,7 +3150,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.kantar.com/campaigns/brandz/global](https://www.kantar.com/campaigns/brandz/global)</td>
 <td>Top 100 brand values combining financial data with consumer brand-equity survey (Meaningful/Different/Salient); full report PDF after registration.</td>
 <td>Benchmark; free with registration.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2673,7 +3159,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandirectory.com/reports/austria](https://brandirectory.com/reports/austria)</td>
 <td>Brand value and Brand Strength Index (BSI) for the most valuable Austrian brands plus global and sector rankings; tables online, full reports on request.</td>
 <td>Benchmark for Austrian brand audits; free online tables.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2682,7 +3168,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.europeanbrandinstitute.com/](https://www.europeanbrandinstitute.com/)</td>
 <td>Annual Eurobrand ranking of the most valuable European and Austrian brands (ISO 10668-based valuation) - local benchmark data.</td>
 <td>Benchmark; summaries free online, full study paid.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2691,7 +3177,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://de.statista.com/](https://de.statista.com/)</td>
 <td>Brand KPIs (awareness, popularity, usage, loyalty, buzz) per brand and country incl. Austria/Germany; brand rankings and market shares.</td>
 <td>Project: secondary data for brand inventory; WU-Lizenz prüfen (WU library access).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2700,7 +3186,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://bavgroup.com/](https://bavgroup.com/)</td>
 <td>Large brand-equity database (tens of thousands of brands, 50+ countries): Differentiation, Relevance, Esteem, Knowledge pillars and \~48 image attributes.</td>
 <td>Seminar/thesis; access restricted - WU-Lizenz prüfen (WRDS).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2709,7 +3195,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.media-analyse.at/](https://www.media-analyse.at/)</td>
 <td>Reach data for Austrian print media and target-group profiles - media touchpoint context for Austrian brand audits; key tables online.</td>
 <td>Project context data; free tables online.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2718,7 +3204,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://oewa.at/](https://oewa.at/)</td>
 <td>Monthly unique users/visits of Austrian websites - digital touchpoint benchmarks for brand audits of Austrian media brands.</td>
 <td>Project context data; free online tables.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -2727,7 +3213,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://data.europa.eu/](https://data.europa.eu/)</td>
 <td>Eurobarometer consumer attitude data (trust, sustainability attitudes, consumer conditions) as country context; mostly CC BY 4.0.</td>
 <td>Context data; free/open.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 </table>
 ### Communities & Events (11)
@@ -2748,7 +3234,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.leadersnet.at/news/89769,markenartikelverband-versammelte-zum-100er-die-branchenspitze.html](https://www.leadersnet.at/news/89769,markenartikelverband-versammelte-zum-100er-die-branchenspitze.html)</td>
 <td>Represents Austrian brand manufacturers; annual joint brand campaign (30th edition 2026); 100-year gala 2025; studies on the economic value of brands.</td>
 <td>Corporate membership only; students can use studies/press material and invite MAV for panels. Own website (markenartikel.at) not reachable at check time.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2757,7 +3243,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.marketingclub.at/](https://www.marketingclub.at/)</td>
 <td>20-45 events per year (talks, workshops, MARKETING X conference, VAMP Award, Staatspreis Marketing, Marketing Leader); 'Marketing Club Rookies' is the youth club with mentoring and events.</td>
 <td>Students can attend Rookies events; trial membership ('Jetzt schnuppern'); fees on separate page.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2766,7 +3252,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.dmvoe.at/](https://www.dmvoe.at/)</td>
 <td>Expert groups (B2B, data compliance, automation/CX, social influence); Marketing Natives Signature Events, e.g. May 2026 'Past Forward' on the future of brands (IKEA Austria, LUX FUX). Youth site marketingnatives.at.</td>
 <td>Students can attend Marketing Natives events and network with young brand managers; low barrier.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2775,7 +3261,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.iaa-austria.at/effie-3/die-effie-awards](https://www.iaa-austria.at/effie-3/die-effie-awards)</td>
 <td>Award for demonstrably effective campaigns; 2026 shortlist 79 campaigns in 20 categories; gala 12 Nov 2026 in the Sofiensäle; online archive of Effie entries – Austrian cases showing brand KPIs; IAA Young Professionals network.</td>
 <td>Use the Effie archive for audit case material; gala tickets via oeticket; IAA Young Professionals for students.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2784,7 +3270,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.europeanbrandinstitute.com/](https://www.europeanbrandinstitute.com/)</td>
 <td>Annual Austrian brand value study (23rd edition, July 2026), Sustainable Brand Rating; 22nd Brand Global Summit 20-21 Oct 2026 ('The Power of Brands – Leading in a new economic reality'); magazine brandannual.</td>
 <td>Study results usable as audit benchmarks; summit is industry-priced, ask EBI for student/academic access.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2793,7 +3279,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandfinance.com/press-releases/austrian-brands-charge-ahead-with-red-bull-at-the-front](https://brandfinance.com/press-releases/austrian-brands-charge-ahead-with-red-bull-at-the-front)</td>
 <td>Annual Austria 25 brand value ranking (2025: EUR 40bn; 2026: EUR 46.8bn, Red Bull first); Brandirectory pages for single Austrian brands; Brand Strength Index methodology.</td>
 <td>Free online rankings and brand pages for student audits; some events/webinars free.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2802,7 +3288,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://themasb.org/category/brand-valuation](https://themasb.org/category/brand-valuation)</td>
 <td>Brand Investment & Valuation (BIV) project towards generally accepted brand measurement standards; 'The Financial Value of Brands Imperative' (2021); references ISO 20671.</td>
 <td>Free public papers for readings on linking brand metrics to financial value; summits for members.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2811,7 +3297,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketingscience.info/sponsorship/](https://marketingscience.info/sponsorship/)</td>
 <td>100+ sponsoring firms (e.g. PepsiCo, Mars, Mondelez, Diageo) fund research on brand health, mental availability, distinctive assets; sponsors receive seminars and full research library (Baseline tier reportedly \~USD 70k p.a.).</td>
 <td>Not for students directly; free articles/podcasts on marketingscience.info usable in class.</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2820,7 +3306,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.emac-online.org/](https://www.emac-online.org/)</td>
 <td>Main European marketing research conference with branding tracks; 2026 in Bath (2-5 June); 2027 announced for LUISS Rome, 25-28 May 2027 (secondary source).</td>
 <td>For research-oriented Master/PhD students; fees approx. EUR 650-700.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2829,7 +3315,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://minimba.com/courses](https://minimba.com/courses)</td>
 <td>12-week on-demand course covering brand diagnosis, positioning, codes, architecture, budgeting and tracking; large alumni base on LinkedIn.</td>
 <td>Paid (approx. GBP 1,500-2,000); free on-demand open-day webinars.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>Communities & Events</td>
@@ -2838,7 +3324,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://ucmo.transistor.fm/74](https://ucmo.transistor.fm/74)</td>
 <td>Episodes with Jenni Romaniuk ('Better Brand Health'), Binet, Field and other brand-measurement experts; \>200 episodes; live events from 2026.</td>
 <td>Free podcast; assign episodes as pre-class listening.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 </table>
 ### People (22)
@@ -2859,7 +3345,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.wu.ac.at/en/mm/team/martin-schreier](https://www.wu.ac.at/en/mm/team/martin-schreier)</td>
 <td>Teaches product and brand management at WU; research on customer-brand interaction and luxury brand customization (JMR 2020 'Customization in luxury brands: Can Valentino get personal?'), Journal of Retailing 2023 on retailing groundedness and brand perceptions; former Editor-in-Chief IJRM (2021-2024). English/German.</td>
 <td>Natural in-house guest for a session on brand perception research and experimental brand measurement; on site Vienna; contact via institute page.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2868,7 +3354,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.europeanbrandinstitute.com/](https://www.europeanbrandinstitute.com/)</td>
 <td>Leads the annual Österreichische Markenwert Studie (23rd edition, July 2026: Red Bull \~EUR 20.1bn at the top), Sustainable Brand Rating Austria and Global TOP 100 Brand Corporations; initiated ONR 16800 and chairs development of ISO 20671 (brand evaluation), the formal standard behind brand-strength audits. Berufstitel Professor 2025. German/English.</td>
 <td>Strong fit for a guest lecture on brand evaluation standards (ISO 20671 vs ISO 10668) and the Austrian brand value ranking; on site Vienna; hosts Brand Global Summit and regular study presentations.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2877,7 +3363,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.leadersnet.at/news/89769,markenartikelverband-versammelte-zum-100er-die-branchenspitze.html](https://www.leadersnet.at/news/89769,markenartikelverband-versammelte-zum-100er-die-branchenspitze.html)</td>
 <td>Managing director of the Austrian branded goods association (106 member companies, founded 1925); public advocate for manufacturer brands vs. private labels (keynote at the 100-year gala, May 2025). German.</td>
 <td>Panel or Q&A on brands vs. private labels in Austrian retail and the industry view on brand health; on site Vienna; contact via MAV.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2886,7 +3372,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://b2b.marketagent.com/](https://b2b.marketagent.com/)</td>
 <td>Runs Brand.Swipe (since 2017, \>1,000 brands rated continuously) and Brand.Diamonds (2024 edition: \>230,000 brand ratings of \>1,200 brands on awareness, closeness, attractiveness, emotionality, fascination, attachment) – ready-made Austrian brand-health benchmarks for student audits; widely quoted in Austrian press. German.</td>
 <td>Guest talk on designing brand-health tracking with online panels in Austria; published press charts usable as audit data; on site Vienna area or remote. Role confirmed via press results, company page does not name him.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2895,7 +3381,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://forum.alpbach.org/de/person/oliver-heiss](https://forum.alpbach.org/de/person/oliver-heiss)</td>
 <td>Managing Partner of Brainds (founded 1997, \~20 staff; Business & Brand Strategy, Branding & Design, Employer Branding) since 2012, previously Senior Brand Consultant there; Forum Alpbach speaker profile. German/English.</td>
 <td>Practitioner view on how an agency runs a brand diagnosis before a repositioning; on site Vienna. Role confirmed only via Alpbach profile snippet (page fetch failed); confirm before inviting.</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2904,7 +3390,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.fh-joanneum.at/en/university/person/mike-fuisz](https://www.fh-joanneum.at/en/university/person/mike-fuisz)</td>
 <td>Co-founder of moodley (founded 1999, \>100 staff), one of Austria's best-known brand-identity consultancies; focus on repositionings and brand refreshes (e.g. Martin Auer bakery rebrand in Graz). German/English.</td>
 <td>Case-based guest lecture from brand audit to repositioning/rebrand; remote or on site Vienna. FH profile URL returned 404 at fetch time; role confirmed via search snippet.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2913,7 +3399,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.uibk.ac.at/](https://www.uibk.ac.at/)</td>
 <td>Co-author of brand trust and brand affect research, e.g. Matzler, Grabner-Kräuter & Bidmon (2006) 'The Value - Brand Trust - Brand Loyalty Chain' and Matzler et al. (2006) 'Individual determinants of brand affect' (Journal of Product & Brand Management) – constructs for consumer-side audit questionnaires; among the most-cited researchers in his field. German/English.</td>
 <td>Reading author or remote guest on brand trust/loyalty measurement; on site possible.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2922,7 +3408,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.aau.at/management/marketing-internationales-management/team/grabner-kraeuter-sonja/](https://www.aau.at/management/marketing-internationales-management/team/grabner-kraeuter-sonja/)</td>
 <td>Research on consumer trust, online consumer behaviour and CSR perceptions; co-author of the brand trust–loyalty chain paper with Matzler; publications in Journal of Product & Brand Management and Journal of Advertising. German/English.</td>
 <td>Remote session on measuring brand trust and CSR perceptions within a brand audit.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2931,7 +3417,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketing.uni-graz.at/en/department/professors/thomas-foscht/](https://marketing.uni-graz.at/en/department/professors/thomas-foscht/)</td>
 <td>Expert in buyer behaviour, retail and service marketing (co-author of the German textbook 'Käuferverhalten'); research on private labels in consumers' consideration sets – relevant for competitive brand audits in retail. German/English.</td>
 <td>Remote or on site guest on consumer-behaviour foundations of brand audits; link to the Styrian marketing club network.</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2940,7 +3426,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.iaa-austria.at/effie-3/die-effie-awards](https://www.iaa-austria.at/effie-3/die-effie-awards)</td>
 <td>Leads Effie Austria, the national award for demonstrably effective campaigns (2026 shortlist: 79 campaigns; gala 12 Nov 2026, Sofiensäle Wien) – source of Austrian cases linking brand KPIs to business results. German.</td>
 <td>Guest on effectiveness evidence and how brand metrics are presented in Effie cases; on site Vienna. Role confirmed via press search results, not named on the fetched IAA page.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2949,7 +3435,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://faculty.tuck.dartmouth.edu/kevin-lane-keller/about](https://faculty.tuck.dartmouth.edu/kevin-lane-keller/about)</td>
 <td>Author of 'Strategic Brand Management' (with Swaminathan), which formalised the brand audit (brand inventory + brand exploratory) and the CBBE pyramid; HBR 'The Brand Report Card' (2000); his MBA course uses a team brand-audit project. English.</td>
 <td>Core reading author; use recorded lectures/interviews; a course brand audit assignment can mirror his design. Live guest unlikely.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2958,7 +3444,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/KAPFERER-Jean-Noel](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/KAPFERER-Jean-Noel)</td>
 <td>Brand Identity Prism (six facets) and 'The New Strategic Brand Management' – standard frame for the identity side of a brand audit; luxury brand management. English/French.</td>
 <td>Reading author; recorded talks; remote keynote request possible.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2967,7 +3453,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://en.wikipedia.org/wiki/David_Aaker](https://en.wikipedia.org/wiki/David_Aaker)</td>
 <td>'Managing Brand Equity' (1991, brand equity dimensions and measures), 'Building Strong Brands' (brand identity model); blog and short videos on brand strategy. English.</td>
 <td>Reading author; use his blog/videos; live guest unlikely.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2976,7 +3462,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketingscience.info/exploring-brand-health-with-jenni-romaniuk/](https://marketingscience.info/exploring-brand-health-with-jenni-romaniuk/)</td>
 <td>'Better Brand Health' (OUP) – evidence-based design of brand health tracking (mental availability, category entry points); 'Building Distinctive Brand Assets' (2018) – distinctive asset audit method; past executive editor Journal of Advertising Research. English.</td>
 <td>Remote guest or podcast episode (Uncensored CMO ep. 74) as pre-class material for the consumer-research part of a brand audit.</td>
-<td>neu; in Suchergebnis bestätigt</td>
+<td>bestehend; in Suchergebnis bestätigt</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2985,7 +3471,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://minimba.com/courses](https://minimba.com/courses)</td>
 <td>Mini MBA in Brand Management covers brand diagnosis, positioning, codes, architecture, budgeting and brand tracking; prolific columnist and speaker on brand health research. English.</td>
 <td>Columns/videos as debate input; live guest costly; students can take the paid Mini MBA.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -2994,7 +3480,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.marketingweek.com/this-much-i-learned-les-binet-peter-field/](https://www.marketingweek.com/this-much-i-learned-les-binet-peter-field/)</td>
 <td>Co-author with Peter Field of 'The Long and the Short of It' (2013) and 'Marketing in the Era of Accountability', based on the IPA Effectiveness Databank – which brand metrics predict long-term growth. English.</td>
 <td>Recorded talks/podcasts; remote Q&A possible. Article fetched; current agency role from general knowledge, not on the fetched page.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -3003,7 +3489,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.marketingweek.com/this-much-i-learned-les-binet-peter-field/](https://www.marketingweek.com/this-much-i-learned-les-binet-peter-field/)</td>
 <td>Co-author of the IPA effectiveness studies; brand-building vs. activation, emotional vs. rational advertising, share of voice and brand metrics. English.</td>
 <td>Recorded talks; remote session on linking audit metrics to effectiveness.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -3012,7 +3498,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://brandfinance.com/insights/introduction-to-the-global-soft-power-index-2025](https://brandfinance.com/insights/introduction-to-the-global-soft-power-index-2025)</td>
 <td>Former Director of Brand Valuation at Interbrand, founded Brand Finance 1996; represented BSI on the ISO 10668 (brand valuation) and ISO 20671 (brand evaluation) working parties; Global Soft Power Index. English.</td>
 <td>Remote guest on financial brand valuation as one module of a brand audit; Brand Finance webinars.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -3021,7 +3507,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.horizont.net/marketing/kommentare/Hype-Disziplin-Influencer-und-Marken--wie-passt-das-zusammen-156560](https://www.horizont.net/marketing/kommentare/Hype-Disziplin-Influencer-und-Marken--wie-passt-das-zusammen-156560)</td>
 <td>Author of 'Strategie und Technik der Markenführung', 'Identität: Das Rückgrat starker Marken', 'Marke 4.0'; leading German-language reference on brand controlling and brand checks. German.</td>
 <td>German-language reading author; remote guest; consultancy cases.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -3030,7 +3516,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.uni-bremen.de/markstones/institut/arbeitsgruppe-innovatives-markenmanagement/prof-dr-christoph-burmann](https://www.uni-bremen.de/markstones/institut/arbeitsgruppe-innovatives-markenmanagement/prof-dr-christoph-burmann)</td>
 <td>Lead author of 'Identitätsbasierte Markenführung' (5th ed. 2024, Springer Gabler) incl. brand controlling; working papers on identity-based brand valuation (No. 76, 2024) and brand budgeting. German/English.</td>
 <td>Reading author for the internal (identity) side of an audit; remote guest possible.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -3039,7 +3525,7 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://www.hwr-berlin.de/hwr-berlin/fachbereiche-und-bps/fb-1-wirtschaftswissenschaften/personen-und-kontakte/40-carsten-baumgarth/](https://www.hwr-berlin.de/hwr-berlin/fachbereiche-und-bps/fb-1-wirtschaftswissenschaften/personen-und-kontakte/40-carsten-baumgarth/)</td>
 <td>Co-author of 'Markenaudit für Kulturinstitutionen' (Springer) – one of few books presenting a complete brand audit tool; 'Markentools I: Brand Canvas' (B\*canvas integrated into a Markenaudit); B2B branding, brand orientation; textbook 'Markenpolitik'. German/English.</td>
 <td>Very good fit: remote guest lecture walking through a structured Markenaudit tool; has given guest talks at other universities (e.g. Bremen).</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 <tr>
 <td>People</td>
@@ -3048,6 +3534,6 @@ Deep-Dive-Suche mit sechs parallelen Rechercheagenten (Journal Articles; Bücher
 <td>[https://marketingweek.com/system1s-jon-evans-uncensored-cmo/](https://marketingweek.com/system1s-jon-evans-uncensored-cmo/)</td>
 <td>200+ episodes, \>3m downloads; guests include Romaniuk, Binet, Field, Ritson on brand health and effectiveness; running Uncensored CMO full time with live events from 2026. English.</td>
 <td>Assign episodes as pre-class listening; remote guest possible.</td>
-<td>neu; Link geprüft</td>
+<td>bestehend; Link geprüft</td>
 </tr>
 </table>
