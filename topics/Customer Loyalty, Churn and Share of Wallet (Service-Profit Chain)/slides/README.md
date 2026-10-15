@@ -8,3 +8,5 @@ Two versions of the same 29-slide lecture (about 100 minutes, six parts), on the
 | `Kundenbindung_Churn_SoW_Vorlesung_WU.pptx` / `.pdf` | German |
 
 Parts: concepts and metrics; the service-profit chain; frameworks linking customers to firm value; churn; share of wallet; critiques and application (lab, teaching cases). Speaker notes carry the full sources. The PDFs are LibreOffice previews, so fonts and line breaks may differ slightly from PowerPoint.
+
+The `build/` folder holds the Python scripts that generate both decks, with the icons they use; see `build/README.md`.
