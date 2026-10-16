@@ -2916,7 +2916,7 @@ Deep-Dive-Suche mit sieben parallelen Rechercheagenten (zwei Consensus-/OpenAlex
 <td>Praxisbeispiele</td>
 <td>Apple iPhone launch price cut and USD 100 credit (2007)</td>
 <td>Apple; documented in Darden case UV1228; Wikipedia overview</td>
-<td>[https://en.wikipedia.org/wiki/IPhone_(1st_generation](https://en.wikipedia.org/wiki/IPhone_(1st_generation)</td>
+<td>[https://en.wikipedia.org/wiki/IPhone_(1st_generation)](https://en.wikipedia.org/wiki/IPhone_(1st_generation))</td>
 <td>The 8GB iPhone launched at USD 599 in June 2007; about two months later Apple cut it to USD 399. After early-adopter anger, Steve Jobs offered a USD 100 Apple Store credit. Illustrates price skimming, intertemporal price discrimination and reference-price fairness.</td>
 <td>Warm-up on skimming; discuss whether the credit was necessary. Free</td>
 <td>neu; Link ungeprüft</td>
@@ -4209,7 +4209,7 @@ Deep-Dive-Suche mit sieben parallelen Rechercheagenten (zwei Consensus-/OpenAlex
 <td>People</td>
 <td>Prof. Dr. Klaus M. Miller</td>
 <td>HEC Paris, Associate Professor of Marketing; Global; academic</td>
-<td>[https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/miller-klausm](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/miller-klausm).</td>
+<td>[https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/miller-klausm](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/miller-klausm)</td>
 <td>Co-author of the key WTP-measurement comparison 'How Should Consumers' Willingness to Pay Be Measured?' (JMR 2011, with Hofstetter, Krohmer, Zhang) and 'A De-biased Direct Question Approach to Measuring Consumers' WTP' (IJRM 2021). Research on pricing in the digital economy. German/English/French.</td>
 <td>Remote session on choosing a WTP method (direct questions, BDM, incentive-aligned conjoint) for the methods unit.</td>
 <td>neu; Link geprüft</td>
