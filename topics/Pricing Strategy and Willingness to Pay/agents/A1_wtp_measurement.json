@@ -1,0 +1,732 @@
+[
+ {
+  "category": "articles",
+  "title": "How Should Consumers' Willingness to Pay be Measured? An Empirical Comparison of State-of-the-Art Approaches",
+  "author_source": "Miller, K. M., Hofstetter, R., Krohmer, H., Zhang, Z. J., Journal of Marketing Research 48(1), 172-184, 2011, article",
+  "link": "https://doi.org/10.1509/jmkr.48.1.172",
+  "note": "Core reading for the session. Uses a five-in-one design to compare open-ended questions, CBC, BDM and incentive-aligned CBC against real purchases of the same product. BDM and ICBC pass the statistical and decision tests. Respondents are more price sensitive under incentive alignment. Hypothetical methods can still produce the right demand curve and price, so hypothetical bias does not always lead to a wrong pricing decision.",
+  "course_use": "Required reading plus in-class discussion: which method would you use to set a launch price? Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Measuring Consumers' Willingness to Pay. Which Method Fits Best?",
+  "author_source": "Miller, K. M., Hofstetter, R., Krohmer, H., Zhang, Z. J., GfK Marketing Intelligence Review 4(1), 42-49, 2012, article",
+  "link": "https://doi.org/10.2478/gfkmir-2014-0040",
+  "note": "Short practitioner version of the JMR 2011 study, with managerial charts and a decision guide for choosing a WTP method. Much easier to read than the JMR original.",
+  "course_use": "Pre-reading for MBA or executive groups, or as a substitute for the JMR paper. Access: open access.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "articles",
+  "title": "Accurately measuring willingness to pay for consumer goods: a meta-analysis of the hypothetical bias",
+  "author_source": "Schmidt, J., Bijmolt, T. H. A., Journal of the Academy of Marketing Science 48(3), 499-518, 2020 (online 2019), article",
+  "link": "https://doi.org/10.1007/s11747-019-00666-6",
+  "note": "Meta-analysis of 77 studies with 115 effect sizes. The average hypothetical bias is 21%. Indirect methods such as conjoint overstate real WTP more than direct methods, against common belief. The bias is larger for higher-priced products, specialty goods and within-subject designs. Gives students a rule-of-thumb correction factor.",
+  "course_use": "Required reading. Use the 21% figure in a class exercise to discount survey WTP. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Methoden zur Messung individueller Zahlungsbereitschaften: Ein Überblick zum State of the Art",
+  "author_source": "Völckner, F., Journal für Betriebswirtschaft 56(1), 33-60, 2006, Artikel",
+  "link": "https://doi.org/10.1007/s11301-006-0002-y",
+  "note": "Deutschsprachiger Überblick, der die Methoden nach direkt/indirekt und hypothetisch/anreizkompatibel ordnet: offene Abfrage, Kaufbereitschaftsabfragen, Conjoint, BDM, Vickrey-Auktion, Marktdaten. Eignet sich als Taxonomie-Folie für deutschsprachige Gruppen.",
+  "course_use": "Hintergrundlektüre (Deutsch) zur Methodentaxonomie. Zugang: kostenpflichtig, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Estimation of Willingness-to-Pay: Theory, Measurement, Application",
+  "author_source": "Breidert, C., Deutscher Universitäts-Verlag, Wiesbaden, 2006, book (dissertation, WU Wien)",
+  "link": "https://doi.org/10.1007/978-3-8350-9244-0",
+  "note": "WU Vienna dissertation. Chapters 3-4 review WTP measurement methods. The author also proposes a 'price estimation scene' appended to conjoint, tested on product bundles in the Nokia online shop in Germany. The related article by Breidert, Hahsler and Reutterer (2006, Innovative Marketing 2(4)) is a widely cited free review of the methods; that article's link is not verified.",
+  "course_use": "Background for students writing theses on WTP, and a local (WU) reference. Access: paid e-book, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "How Consumers' Willingness to Pay is Measured in Practice: An Empirical Analysis of Common Approaches' Relevance",
+  "author_source": "Steiner, M., Hendus, J., SSRN Working Paper, 2012, working paper",
+  "link": "https://doi.org/10.2139/ssrn.2025618",
+  "note": "Survey of market-research practitioners on which WTP methods they actually use. Direct questions, Van Westendorp and conjoint dominate; incentive-compatible methods are rare. Use it to contrast academic best practice with what agencies actually sell.",
+  "course_use": "Discussion input: why does practice lag behind research? Access: free on SSRN.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "articles",
+  "title": "Measuring Willingness to Pay: A Comparative Method of Valuation",
+  "author_source": "He, S., Anderson, E. T., Rucker, D. D., Journal of Marketing 88(3), 50-68, 2024 (online 2023), article",
+  "link": "https://doi.org/10.1177/00222429231195564",
+  "note": "Recent conceptual paper arguing that WTP is a distribution that depends on customers, comparisons and situations, not a single number. Introduces the comparative method of valuation (CMV) and benchmarks it against CBC and BDM in nine studies. Good for the question 'what exactly is WTP?'.",
+  "course_use": "Advanced reading, or discussion of why the comparison set changes WTP. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "A de-biased direct question approach to measuring consumers' willingness to pay",
+  "author_source": "Hofstetter, R., Miller, K. M., Krohmer, H., Zhang, Z. J., International Journal of Research in Marketing 38(1), 70-84, 2021, article",
+  "link": "https://doi.org/10.1016/j.ijresmar.2020.04.006",
+  "note": "Measures the hypothetical bias of the direct 'how much would you pay?' question that practitioners favour, and proposes de-biasing steps that make it accurate enough for managerial use. Validated in two studies.",
+  "course_use": "Reading for the direct-methods session; students redesign a survey question using the de-biasing steps. Access: paid, WU-Lizenz prüfen; SSRN preprint 10.2139/ssrn.3543473 is free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "The Van Westendorp Price-Sensitivity Meter as a Direct Measure of Willingness-to-Pay",
+  "author_source": "Kloss, D., Kunter, M., European Journal of Management 16(2), 45-54, 2016, article",
+  "link": "https://doi.org/10.18374/ejm-16-2.4",
+  "note": "One of the few validation studies of the PSM. Compares it with contingent valuation and BDM. The PSM is biased by its hypothetical format and its focus on minimum price resistance, but its results come close to incentive-aligned BDM. Minor journal; read with that caveat.",
+  "course_use": "Reading for the PSM lab, to discuss validity. Access: paid; availability through the WU library is uncertain.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "articles",
+  "title": "The 'Pricing Footprint' of Country-of-Origin: Conceptualization and Empirical Assessment",
+  "author_source": "Diamantopoulos, A., Matarazzo, M., Montanari, M. G., Petrychenko, A., Journal of Business Research 135, 749-757, 2021, article",
+  "link": "https://doi.org/10.1016/j.jbusres.2021.07.011",
+  "note": "Applies all four Van Westendorp thresholds to the same brand presented as coming from different countries (studies in Ukraine and Brazil). A good example of a between-subjects PSM measuring a brand or origin price premium. Diamantopoulos is at the University of Vienna (local link).",
+  "course_use": "Example study for the PSM lab; students replicate the design with a brand of their choice. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Measuring Consumers' Willingness to Pay at the Point of Purchase",
+  "author_source": "Wertenbroch, K., Skiera, B., Journal of Marketing Research 39(2), 228-241, 2002, article",
+  "link": "https://doi.org/10.1509/jmkr.39.2.228.19086",
+  "note": "Standard marketing application of BDM at the point of sale (Skiera, German marketing). Three studies show that BDM gives lower WTP than open-ended and double-bounded contingent valuation. The difference comes from the incentive constraint, not from the cognitive effort of answering.",
+  "course_use": "Required reading before the in-class BDM experiment. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Revealing consumers' willingness-to-pay: A comparison of the BDM mechanism and the Vickrey auction",
+  "author_source": "Noussair, C., Robin, S., Ruffieux, B., Journal of Economic Psychology 25(6), 725-741, 2004, article",
+  "link": "https://doi.org/10.1016/j.joep.2003.06.004",
+  "note": "Head-to-head test of BDM and the second-price (Vickrey) auction with induced values and with real food products. Shows that neither mechanism is foolproof, and that the way bids are framed and how much practice subjects get affect accuracy.",
+  "course_use": "Reading for the incentive-compatible methods session. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Misconceptions and Game Form Recognition: Challenges to Theories of Revealed Preference and Framing",
+  "author_source": "Cason, T. N., Plott, C. R., Journal of Political Economy 122(6), 1235-1270, 2014, article",
+  "link": "https://doi.org/10.1086/677254",
+  "note": "Experiment showing that many subjects misunderstand BDM and treat it like a first-price auction, which biases the elicited values. Practical takeaway: explain the mechanism and run practice rounds before using BDM.",
+  "course_use": "Use when debriefing the classroom BDM demo. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Experimental Tests of the Endowment Effect and the Coase Theorem",
+  "author_source": "Kahneman, D., Knetsch, J. L., Thaler, R. H., Journal of Political Economy 98(6), 1325-1348, 1990, article",
+  "link": "https://doi.org/10.1086/261737",
+  "note": "The mug experiments: willingness to accept (WTA) is roughly twice willingness to pay. Shows that measured WTP depends on ownership framing, which matters for trade-ins, returns and subscription cancellations.",
+  "course_use": "Classroom replication with WU mugs (WTP group vs WTA group). Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "'Coherent Arbitrariness': Stable Demand Curves Without Stable Preferences",
+  "author_source": "Ariely, D., Loewenstein, G., Prelec, D., Quarterly Journal of Economics 118(1), 73-106, 2003, article",
+  "link": "https://doi.org/10.1162/00335530360535153",
+  "note": "Anchoring on the last digits of social security numbers changed BDM-elicited WTP by large factors, while relative valuations across goods stayed consistent. A strong link to reference prices and anchoring in survey design.",
+  "course_use": "Classroom anchoring demo (last two digits of the student ID), followed by discussion. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Anchors on prices of consumer goods only hold when decisions are hypothetical",
+  "author_source": "Brzozowicz, M., Krawczyk, M., PLOS ONE 17(1), e0262130, 2022, article",
+  "link": "https://doi.org/10.1371/journal.pone.0262130",
+  "note": "Crosses high and low anchors with hypothetical questions versus BDM. Finds strong hypothetical bias, and anchors matter substantially only in the hypothetical questions. Open access and directly relevant to survey design.",
+  "course_use": "Pair with Ariely et al. (2003) to discuss whether anchoring is partly a survey artefact. Access: open access.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "articles",
+  "title": "Augmenting Conjoint Analysis to Estimate Consumer Reservation Price",
+  "author_source": "Jedidi, K., Zhang, Z. J., Management Science 48(10), 1350-1368, 2002, article",
+  "link": "https://doi.org/10.1287/mnsc.48.10.1350.272",
+  "note": "Standard reference for getting reservation prices in money terms, not just relative part-worths, out of conjoint by modelling the buy/no-buy decision. Explains why a no-choice option is needed to express WTP in money.",
+  "course_use": "Background for the CBC/WTP lecture. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Economic valuation of product features",
+  "author_source": "Allenby, G. M., Brazell, J. D., Howell, J. R., Rossi, P. E., Quantitative Marketing and Economics 12(4), 421-456, 2014, article",
+  "link": "https://doi.org/10.1007/s11129-014-9150-x",
+  "note": "Key paper. Standard conjoint WTP (part-worth divided by price coefficient) ignores competition and overstates what a feature is worth. Proposes equilibrium-based measures (equilibrium price premium and profit) computed from a hierarchical Bayes choice model. Essential for teaching students to read conjoint WTP numbers critically.",
+  "course_use": "Required for the MSc analytics track; lecture slide 'WTP is not the price you can charge'. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Valuation of Patented Product Features",
+  "author_source": "Allenby, G. M., Brazell, J. D., Howell, J. R., Rossi, P. E., Journal of Law and Economics 57(3), 629-663, 2014, article",
+  "link": "https://doi.org/10.1086/677071",
+  "note": "Applies the equilibrium-based approach to patent damages, the setting of smartphone-patent lawsuits, using conjoint data on digital-camera features. Shows how conjoint WTP is used, and misused, in court.",
+  "course_use": "Discussion case: 'How much is a feature worth?' Access: paid, WU-Lizenz prüfen; SSRN version 10.2139/ssrn.2359003.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "The Strategic Implications of Scale in Choice-Based Conjoint Analysis",
+  "author_source": "Hauser, J. R., Eggers, F., Selove, M., Marketing Science 38(6), 1059-1081, 2019, article",
+  "link": "https://doi.org/10.1287/mksc.2019.1178",
+  "note": "Shows that the logit scale (response noise) differs between respondents and between survey and market, and that this changes simulated shares, optimal prices and WTP-based conclusions. An important caveat for students who run conjoint simulators.",
+  "course_use": "Advanced reading for conjoint lab users. Access: paid, WU-Lizenz prüfen. DOI confirmed; volume, issue and pages are from memory.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Choice-Based Conjoint Analysis",
+  "author_source": "Eggers, F., Sattler, H., Teichert, T., Völckner, F., in Homburg, C., Klarmann, M., Vomberg, A. (eds.), Handbook of Market Research, Springer, 781-819, 2021, book chapter",
+  "link": "https://doi.org/10.1007/978-3-319-57413-4_23",
+  "note": "Up-to-date textbook chapter by German conjoint researchers covering design, estimation (including hierarchical Bayes), WTP computation, incentive alignment and market simulation, with a worked example. The best single teaching text for CBC.",
+  "course_use": "Core textbook reading for the conjoint lab. Access: Springer e-book, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Willingness-to-pay estimation with choice-based conjoint analysis: Addressing extreme response behavior with individually adapted designs",
+  "author_source": "Gensler, S., Hinz, O., Skiera, B., Theysohn, S., European Journal of Operational Research 219(2), 368-378, 2012, article",
+  "link": "https://doi.org/10.1016/j.ejor.2012.01.002",
+  "note": "Respondents who always or never choose the no-purchase option distort CBC WTP estimates. The authors recommend reporting these shares and using individually adapted price ranges. A practical check for student projects.",
+  "course_use": "Lab checklist item: report the shares of 'always none' and 'never none' respondents. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Two New Features in Discrete Choice Experiments to Improve Willingness-to-Pay Estimation That Result in SDR and SADR: Separated (Adaptive) Dual Response",
+  "author_source": "Schlereth, C., Skiera, B., Management Science 63(3), 829-842, 2017, article",
+  "link": "https://doi.org/10.1287/mnsc.2015.2367",
+  "note": "German contribution (Skiera, Frankfurt). Asking the buy/no-buy question separately from the choice among products (separated dual response), and adapting the price levels, gives more accurate WTP than standard CBC. Directly usable design advice.",
+  "course_use": "Design guideline for student CBC surveys. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Estimating Willingness-to-pay with Choice-based Conjoint Analysis - Can Consumer Characteristics Explain Variations in Accuracy?",
+  "author_source": "Sichtmann, C., Wilken, R., Diamantopoulos, A., British Journal of Management 22(4), 628-645, 2011, article",
+  "link": "https://doi.org/10.1111/j.1467-8551.2010.00696.x",
+  "note": "Finds that individual-level CBC WTP is inaccurate and on average strongly overestimates true WTP. Involvement, brand awareness and preference strength do not explain the error. Vienna authors (Sichtmann, Diamantopoulos).",
+  "course_use": "Counterpoint to the view that conjoint is the gold standard. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Heterogeneity distributions of willingness-to-pay in choice models",
+  "author_source": "Sonnier, G., Ainslie, A., Otter, T., Quantitative Marketing and Economics 5(3), 313-331, 2007, article",
+  "link": "https://doi.org/10.1007/s11129-007-9024-6",
+  "note": "Marketing version of WTP-space models in a hierarchical Bayes framework. Shows that WTP distributions derived from preference-space models can have extreme tails. The standard citation in marketing.",
+  "course_use": "Advanced reading for the hierarchical Bayes / WTP-space session. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "logitr: Fast Estimation of Multinomial and Mixed Logit Models with Preference Space and Willingness-to-Pay Space Utility Parameterizations",
+  "author_source": "Helveston, J. P., Journal of Statistical Software 105(10), 2023, article",
+  "link": "https://doi.org/10.18637/jss.v105.i10",
+  "note": "Open-source R package with a tutorial-style paper. Estimates mixed logit models in preference space and WTP space and includes market simulation. Ideal for a hands-on lab without commercial conjoint software licences.",
+  "course_use": "Lab: students estimate WTP in both spaces on the package's example data or their own CBC data. Access: open access; the software is free on CRAN.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "articles",
+  "title": "Incentive-Aligned Conjoint Analysis",
+  "author_source": "Ding, M., Grewal, R., Liechty, J., Journal of Marketing Research 42(1), 67-82, 2005, article",
+  "link": "https://doi.org/10.1509/jmkr.42.1.67.56890",
+  "note": "Field experiment in a Chinese restaurant using dinner specials, plus a second study with snacks. When respondents have to live with their choices, conjoint predicts real choices out of sample better than hypothetical conjoint.",
+  "course_use": "Required reading for the incentive-alignment session. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "An Incentive-Aligned Mechanism for Conjoint Analysis",
+  "author_source": "Ding, M., Journal of Marketing Research 44(2), 214-223, 2007, article",
+  "link": "https://doi.org/10.1509/jmkr.44.2.214",
+  "note": "Extends incentive alignment to cases where not every profile exists: a BDM-style mechanism uses the respondent's estimated WTP for a real reward product. The standard design in later incentive-aligned studies.",
+  "course_use": "Background for designing an incentive-aligned student study. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "A simple mechanism to incentive-align conjoint experiments",
+  "author_source": "Dong, S., Ding, M., Huber, J., International Journal of Research in Marketing 27(1), 25-32, 2010, article",
+  "link": "https://doi.org/10.1016/j.ijresmar.2009.09.004",
+  "note": "RankOrder mechanism: respondents receive the real product that their estimated preferences rank highest. It predicts as well as the WTP mechanism, is easier to understand, and respondents prefer it. The most practical option for classroom projects.",
+  "course_use": "Recommended mechanism for student CBC projects with real rewards. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Predicting new service adoption with conjoint analysis: external validity of BDM-based incentive-aligned and dual-response choice designs",
+  "author_source": "Wlömert, N., Eggers, F., Marketing Letters 27(1), 195-210, 2016 (online 2014), article",
+  "link": "https://doi.org/10.1007/s11002-014-9326-x",
+  "note": "Surveyed 2,679 music consumers before a streaming service launched and contacted them again five months later. Incentive-aligned CBC and dual-response CBC both predict actual adoption better; combining the two gives the most realistic WTP. A strong real-world validation story.",
+  "course_use": "Case-style reading, linked to a discussion of streaming subscription pricing. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Incentive alignment in conjoint analysis: a meta-analysis on predictive validity",
+  "author_source": "Schramm, J., Marketing Letters 36(3), 533-546, 2025, article",
+  "link": "https://doi.org/10.1007/s11002-025-09764-8",
+  "note": "Recent meta-analysis of 134 effect sizes from 34 articles (N = 12,980). Incentive alignment raises hit rates by about 12%. The gain is larger for durables and services and when the payout probability is higher. Indirect incentive procedures work as well as direct ones.",
+  "course_use": "Use the 12% figure in a cost-benefit discussion of incentive alignment. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Incentive alignment in anchored MaxDiff yields superior predictive validity",
+  "author_source": "Schramm, J., Lichters, M., Marketing Letters 36(1), 1-16, 2025 (online 2024), article",
+  "link": "https://doi.org/10.1007/s11002-023-09714-2",
+  "note": "Preregistered 2x2 experiment (n = 448) crossing direct vs indirect anchoring with incentive alignment in MaxDiff. Incentive alignment improves predictions of consequential choices, and hypothetical MaxDiff overestimates demand. Provides a public benchmark dataset.",
+  "course_use": "Reading and dataset for the MaxDiff method entry. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Understanding Hypothetical Bias: An Enhanced Meta-Analysis",
+  "author_source": "Penn, J. M., Hu, W., American Journal of Agricultural Economics 100(4), 1186-1206, 2018, article",
+  "link": "https://doi.org/10.1093/ajae/aay021",
+  "note": "Meta-analysis of 131 studies. Choice experiments, cheap talk, consequentiality and certainty follow-up questions reduce hypothetical bias; auctions reduce it less than commonly believed. Complements Schmidt & Bijmolt with evidence from environmental and agricultural economics.",
+  "course_use": "Supporting reading on remedies for hypothetical bias. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Contingent Valuation: A Practical Alternative When Prices Aren't Available",
+  "author_source": "Carson, R. T., Journal of Economic Perspectives 26(4), 27-42, 2012, article",
+  "link": "https://doi.org/10.1257/jep.26.4.27",
+  "note": "The case for contingent valuation. Pair it with the case against: Hausman, J. (2012), 'Contingent Valuation: From Dubious to Hopeless', JEP 26(4), 43-56, doi 10.1257/jep.26.4.43 (both DOIs confirmed). Short, readable and free.",
+  "course_use": "Debate assignment: two student teams argue for and against. Access: free (JEP is openly available).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "articles",
+  "title": "Contemporary Guidance for Stated Preference Studies",
+  "author_source": "Johnston, R. J., Boyle, K. J., Adamowicz, W., Bennett, J., Brouwer, R., Cameron, T. A., et al., Journal of the Association of Environmental and Resource Economists 4(2), 319-405, 2017, article",
+  "link": "https://doi.org/10.1086/691697",
+  "note": "Consensus best-practice recommendations for contingent valuation and choice experiments: survey design, payment vehicle, consequentiality and validity tests. Students can use it as a checklist for marketing WTP surveys.",
+  "course_use": "Reference checklist for survey-design assignments. Access: open access.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "articles",
+  "title": "The Price Elasticity of Selective Demand: A Meta-Analysis of Econometric Models of Sales",
+  "author_source": "Tellis, G. J., Journal of Marketing Research 25(4), 331-341, 1988, article",
+  "link": "https://doi.org/10.1177/002224378802500401",
+  "note": "Classic meta-analysis of 367 elasticities. The mean brand price elasticity is about -1.76, far larger in absolute terms than advertising elasticities. Still the standard benchmark.",
+  "course_use": "Lecture benchmark; compare with Bijmolt et al. (2005). Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "New Empirical Generalizations on the Determinants of Price Elasticity",
+  "author_source": "Bijmolt, T. H. A., van Heerde, H. J., Pieters, R. G. M., Journal of Marketing Research 42(2), 141-156, 2005, article",
+  "link": "https://doi.org/10.1509/jmkr.42.2.141.62296",
+  "note": "Updated meta-analysis of 1,851 elasticities from 81 studies, with a mean of about -2.62. Elasticities vary with product life-cycle stage, category, data aggregation and model specification. Lets students sanity-check their own estimates.",
+  "course_use": "Required reading for the elasticity session. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "An Investigation into the Evolution of Marketing-Mix Effectiveness: An Empirics-First Approach",
+  "author_source": "Gielens, K., Steenkamp, J.-B. E. M., Journal of Marketing 90(4), 165-191, 2026, article",
+  "link": "https://doi.org/10.1177/00222429251412261",
+  "note": "Household-panel data on more than 16,000 CPG brands in 34 countries. Average brand price elasticity is -.64, and 98.5% of brands show elasticities that change over time. Updates the benchmarks and shows that elasticity is not a constant.",
+  "course_use": "Recent benchmark for the elasticity lecture. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Personalized Pricing and Consumer Welfare",
+  "author_source": "Dubé, J.-P., Misra, S., Journal of Political Economy 131(1), 131-189, 2023, article",
+  "link": "https://doi.org/10.1086/720793",
+  "note": "Large randomized price field experiment at ZipRecruiter, used to train a demand model and to test personalized prices out of sample. Personalized pricing raised expected profits by about 19% over the optimized uniform price, and the authors also analyse consumer surplus. The experiment also showed that the firm's existing price was far from optimal.",
+  "course_use": "Showcase for 'price experiments reveal WTP'; discuss the ethics of personalized pricing. Access: paid, WU-Lizenz prüfen; NBER WP 23775 version at 10.3386/w23775.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Using Big Data to Estimate Consumer Surplus: The Case of Uber",
+  "author_source": "Cohen, P., Hahn, R., Hall, J., Levitt, S., Metcalfe, R., NBER Working Paper 22627, 2016, working paper",
+  "link": "https://doi.org/10.3386/w22627",
+  "note": "Uses surge-pricing discontinuities as quasi-experimental price variation to trace out demand curves for UberX and to estimate consumer surplus, about USD 6.8 billion in the US in 2015. A memorable example of revealed-preference WTP from platform data.",
+  "course_use": "Class discussion: what does the demand curve tell us about WTP? Access: NBER working paper (free for many users).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "articles",
+  "title": "Test & Roll: Profit-Maximizing A/B Tests",
+  "author_source": "Feit, E. M., Berman, R., Marketing Science 38(6), 1038-1058, 2019, article",
+  "link": "https://doi.org/10.1287/mksc.2019.1194",
+  "note": "Shows how to choose A/B test sample sizes that maximize profit rather than statistical significance. Directly applicable to price tests, where the test itself costs margin.",
+  "course_use": "Lab: size a two-price test for an online shop. Access: paid, WU-Lizenz prüfen; author preprint available.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Competition-Based Dynamic Pricing in Online Retailing: A Methodology Validated with Field Experiments",
+  "author_source": "Fisher, M., Gallino, S., Li, J., Management Science 64(6), 2496-2514, 2018, article",
+  "link": "https://doi.org/10.1287/mnsc.2017.2753",
+  "note": "A randomized price field experiment at a large online retailer gives elasticities free of price endogeneity, followed by a five-week live test of a best-response pricing rule (+11% revenue). A clear demonstration of why observational price data mislead.",
+  "course_use": "Case-style reading on endogeneity versus randomized prices. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Reducing Interference Bias in Online Marketplace Experiments Using Cluster Randomization: Evidence from a Pricing Meta-experiment on Airbnb",
+  "author_source": "Holtz, D., Lobel, F., Lobel, R., Liskovich, I., Aral, S., Management Science, 2024, article",
+  "link": "https://doi.org/10.1287/mnsc.2020.01157",
+  "note": "Airbnb fee experiment: at least 20% of the naive A/B estimate is interference bias, because treated and control users compete for the same listings. Cluster randomization reduces it. An important caveat for price A/B tests on platforms.",
+  "course_use": "Reading on the pitfalls of price testing. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Effects of $9 Price Endings on Retail Sales: Evidence from Field Experiments",
+  "author_source": "Anderson, E. T., Simester, D. I., Quantitative Marketing and Economics 1(1), 93-110, 2003, article",
+  "link": "https://doi.org/10.1023/A:1023581927405",
+  "note": "Randomized mail-order catalogue experiments in which the same item was offered at different prices. Prices ending in 9 increased demand, even compared with lower prices. A simple, intuitive field-experiment design.",
+  "course_use": "Example design for a monadic price field test. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "In-Store Experiments to Determine the Impact of Price on Sales",
+  "author_source": "Gaur, V., Fisher, M. L., Production and Operations Management 14(4), 377-387, 2005, article",
+  "link": "https://doi.org/10.1111/j.1937-5956.2005.tb00227.x",
+  "note": "A toy retailer assigns different price points to matched store panels to estimate a demand curve; in some cases demand rose with price. A practical template for offline price tests.",
+  "course_use": "Template for designing a store-level price test. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "An Assortmentwide Decision-Support System for Dynamic Pricing and Promotion Planning in DIY Retailing",
+  "author_source": "Natter, M., Reutterer, T., Mild, A., Taudes, A., Marketing Science 26(4), 576-583, 2007, article (Practice Prize Report)",
+  "link": "https://doi.org/10.1287/mksc.1060.0217",
+  "note": "WU Vienna team: price-elasticity and demand models for the Austrian DIY chain bauMax, turned into a pricing and promotion decision-support system with measurable profit impact. A strong local example of elasticity estimation in practice.",
+  "course_use": "Local case for the elasticity session; possible guest-speaker link (WU authors). Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Reference Price Research: Review and Propositions",
+  "author_source": "Mazumdar, T., Raj, S. P., Sinha, I., Journal of Marketing 69(4), 84-102, 2005, article",
+  "link": "https://doi.org/10.1509/jmkg.2005.69.4.84",
+  "note": "Standard review of internal and external reference prices: how they form and how they affect price judgments and WTP. The conceptual reason measured WTP depends on context.",
+  "course_use": "Background reading for the reference-price lecture. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Do Satisfied Customers Really Pay More? A Study of the Relationship between Customer Satisfaction and Willingness to Pay",
+  "author_source": "Homburg, C., Koschate, N., Hoyer, W. D., Journal of Marketing 69(2), 84-96, 2005, article",
+  "link": "https://doi.org/10.1509/jmkg.69.2.84.60760",
+  "note": "German marketing (Homburg, Mannheim). An experiment plus a field study show a nonlinear relationship between customer satisfaction and WTP. Links WTP measurement to customer management.",
+  "course_use": "Optional reading for a discussion of value-based pricing. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Pay What You Want: A New Participative Pricing Mechanism",
+  "author_source": "Kim, J.-Y., Natter, M., Spann, M., Journal of Marketing 73(1), 44-58, 2009, article",
+  "link": "https://doi.org/10.1509/jmkg.73.1.044",
+  "note": "Three field studies in Germany (restaurant, cinema, deli). PWYW prices are well above zero, are driven by fairness, satisfaction and reference prices, and can even raise revenue. German-speaking authors: Natter (later at WU) and Spann (LMU).",
+  "course_use": "Required reading for participative pricing; ask students where PWYW would work in Vienna. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Norms, moods, and free lunch: Longitudinal evidence on payments from a Pay-What-You-Want restaurant",
+  "author_source": "Riener, G., Traxler, C., Journal of Socio-Economics 41(4), 476-483, 2012, article",
+  "link": "https://doi.org/10.1016/j.socec.2011.07.003",
+  "note": "Long-run data from a Viennese PWYW restaurant (Wiener Deewan): payments decline slowly over time while visitor numbers grow. A local, very tangible case.",
+  "course_use": "Local case discussion; possible field visit or guest speaker. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Shared Social Responsibility: A Field Experiment in Pay-What-You-Want Pricing and Charitable Giving",
+  "author_source": "Gneezy, A., Gneezy, U., Nelson, L. D., Brown, A., Science 329(5989), 325-327, 2010, article",
+  "link": "https://doi.org/10.1126/science.1186744",
+  "note": "Amusement-park ride-photo field experiment: PWYW combined with a charity share produced the highest profits. Pair with Gneezy, Gneezy, Riener & Nelson (2012), PNAS 109(19), 7236-7240, doi 10.1073/pnas.1120893109, which shows that fewer people buy under PWYW because of self-image concerns.",
+  "course_use": "Short reading for a class discussion of social preferences in pricing. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Pay What You Want as a Marketing Strategy in Monopolistic and Competitive Markets",
+  "author_source": "Schmidt, K. M., Spann, M., Zeithammer, R., Management Science 61(6), 1217-1236, 2015, article",
+  "link": "https://doi.org/10.1287/mnsc.2014.1946",
+  "note": "Lab experiments: PWYW is viable for a monopolist but much weaker against a posted-price competitor, and when given the choice most sellers prefer posted prices. Explains why PWYW stays a niche.",
+  "course_use": "Seminar presentation. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Pay-What-You-Want pricing: An integrative review of the empirical research literature",
+  "author_source": "Gerpott, T. J., Management Science Letters 7, 35-62, 2017, article",
+  "link": "https://doi.org/10.5267/j.msl.2016.11.004",
+  "note": "Review of 72 English- and German-language PWYW publications (97 data sets), organized by mechanism design, buyer, seller, product and market factors. Its German-language coverage makes it a useful entry point.",
+  "course_use": "Overview reading for thesis students. Access: open access.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "articles",
+  "title": "Beyond Posted Prices: the Past, Present, and Future of Participative Pricing Mechanisms",
+  "author_source": "Spann, M., Zeithammer, R., Bertini, M., Haruvy, E., Jap, S. D., Koenigsberg, O., et al., Customer Needs and Solutions 5(1-2), 121-136, 2018, article",
+  "link": "https://doi.org/10.1007/s40547-017-0082-y",
+  "note": "Overview of auctions, NYOP, PWYW, negotiation and reverse auctions: how each mechanism reveals WTP and how it is used today. A good frame for the participative-pricing session.",
+  "course_use": "Overview reading. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Measuring individual frictional costs and willingness-to-pay via name-your-own-price mechanisms",
+  "author_source": "Spann, M., Skiera, B., Schäfers, B., Journal of Interactive Marketing 18(4), 22-36, 2004, article",
+  "link": "https://doi.org/10.1002/dir.20022",
+  "note": "Shows how repeated NYOP bids can be used to estimate individual WTP and the frictional (bidding) costs. Treats NYOP as a WTP measurement tool, not only a sales channel. German authors.",
+  "course_use": "Reading for the NYOP part of the session. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Delegating pricing power to customers: Pay What You Want or Name Your Own Price?",
+  "author_source": "Krämer, F., Schmidt, K. M., Spann, M., Stich, L., Journal of Economic Behavior and Organization 136, 125-140, 2017, article",
+  "link": "https://doi.org/10.1016/j.jebo.2017.01.019",
+  "note": "Lab comparison of the two mechanisms. PWYW reaches almost the whole market but is profitable only with low marginal costs and promotional benefits. NYOP segments the market and yields much higher profits.",
+  "course_use": "Compare-and-contrast exercise: PWYW vs NYOP. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Assessing Sale Strategies in Online Markets Using Matched Listings",
+  "author_source": "Einav, L., Kuchler, T., Levin, J., Sundaresan, N., American Economic Journal: Microeconomics 7(2), 215-247, 2015, article",
+  "link": "https://doi.org/10.1257/mic.20130046",
+  "note": "Uses eBay sellers' repeated listings of identical items with different formats, reserve prices and posted prices as natural experiments. Estimates demand and WTP and explains why posted prices overtook auctions.",
+  "course_use": "Discussion: auctions vs posted prices as ways to discover WTP. Access: paid, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "articles",
+  "title": "Using LLMs for Market Research (earlier title: Using GPT for Market Research)",
+  "author_source": "Brand, J., Israeli, A., Ngwe, D., Harvard Business School Working Paper / SSRN, 2023, working paper",
+  "link": "https://doi.org/10.2139/ssrn.4395751",
+  "note": "GPT-3.5 responses to conjoint-style survey questions produce downward-sloping demand curves and WTP estimates for products and features that match a human conjoint study. The starting point for the debate on synthetic respondents.",
+  "course_use": "Discussion plus mini-lab: put the same WTP question to an LLM and to the class and compare. Access: free on SSRN.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "articles",
+  "title": "Large Language Models for Market Research: A Data-Augmentation Approach",
+  "author_source": "Wang, M., Zhang, D. J., Zhang, H., Marketing Science 45(4), 728-751, 2026, article",
+  "link": "https://doi.org/10.1287/mksc.2025.0009",
+  "note": "Simply replacing human conjoint respondents with LLM-generated data introduces bias. A statistical augmentation estimator that combines both data sources stays consistent and cuts data needs by roughly 25-80%. The current best-practice answer to 'can AI replace WTP surveys?'.",
+  "course_use": "Advanced reading; pair with Brand et al. Access: paid, WU-Lizenz prüfen; arXiv preprint 10.48550/arxiv.2412.19363 is free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Van Westendorp Price Sensitivity Meter (PSM), including the Newton-Miller-Smith extension",
+  "author_source": "Van Westendorp, P. (1976), ESOMAR Congress paper 'NSS Price Sensitivity Meter'; Newton, D., Miller, J., Smith, P. (1993), market-acceptance extension; implementation: Alletsee, M., R package pricesensitivitymeter (CRAN)",
+  "link": "https://doi.org/10.32614/CRAN.package.pricesensitivitymeter",
+  "note": "Four direct questions: at what price is the product too cheap, a bargain, expensive, too expensive. Where the cumulative curves cross gives the acceptable price range, the optimal price point and the indifference price point. The NMS extension adds purchase-likelihood questions at the 'cheap' and 'expensive' prices to obtain demand and revenue curves. Fast and cheap, but hypothetical and without competitor context; validity evidence in Kloss & Kunter (2016). The original papers are conference papers without a DOI, so the link points to the open-source implementation.",
+  "course_use": "Lab (45 min): students answer the four questions for a real product, then plot the curves in Excel or in R with pricesensitivitymeter, including the NMS revenue curve. Discuss why the PSM's 'optimal price point' is not the profit-maximizing price. Access: software free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "methods",
+  "title": "Gabor-Granger (buy-response) price test",
+  "author_source": "Gabor, A., Granger, C. W. J. (1964), Journal of Advertising Research 4(4), 40-44; Gabor, A., Granger, C. W. J. (1966), Economica 33(129), 43-70; modelling: Wedel, M., Leeflang, P. S. H. (1998), Journal of Economic Psychology 19(2)",
+  "link": "https://doi.org/10.2307/2552272",
+  "note": "Respondents see the product at a series of prices, randomized or in a descending ladder, and say at each price whether they would buy. The share of buyers at each price traces a demand curve, from which revenue- or profit-maximizing prices follow. Simple and gives a demand curve directly, but within-subject price ladders invite anchoring and strategic answers, and the format is hypothetical.",
+  "course_use": "In-class survey with five price points; compute buy shares and revenue and profit curves, then compare with the PSM results for the same product. Access: Economica via JSTOR, WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Monadic price test (between-subject price cells)",
+  "author_source": "Evidence on between- vs within-subject designs: Schmidt, J., Bijmolt, T. H. A. (2020), JAMS 48(3), 499-518; field analogue: Anderson, E. T., Simester, D. I. (2003), QME 1(1), 93-110",
+  "link": "https://doi.org/10.1007/s11747-019-00666-6",
+  "note": "Each respondent sees the product at one randomly assigned price, and purchase intention or choice across the price cells gives the demand curve. Avoids the anchoring of Gabor-Granger ladders; Schmidt & Bijmolt find smaller hypothetical bias in between-subject designs. Needs larger samples (one cell per price) and calibration of stated intentions.",
+  "course_use": "Split the class, or an online panel sample, into four price cells; compare the result with a within-subject Gabor-Granger run on the same product. Access: WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Choice-based conjoint (CBC) with hierarchical Bayes WTP estimation",
+  "author_source": "Allenby, G. M., Brazell, J. D., Howell, J. R., Rossi, P. E. (2014), Quantitative Marketing and Economics 12(4), 421-456; textbook: Eggers, F., Sattler, H., Teichert, T., Völckner, F. (2021), Handbook of Market Research, Springer",
+  "link": "https://doi.org/10.1007/s11129-014-9150-x",
+  "note": "Respondents choose among product profiles that vary in features and price, with a no-buy option. A hierarchical Bayes multinomial logit gives individual part-worths; WTP for a feature is the part-worth difference divided by the price coefficient. Caveats to teach: indirect methods overstate WTP (Schmidt & Bijmolt 2020), extreme 'none' behaviour (Gensler et al. 2012), scale effects (Hauser et al. 2019), and the need for market simulation with competitors (Allenby et al. 2014).",
+  "course_use": "Lab over two sessions: design a four-attribute CBC (Sawtooth academic licence, Conjoint.ly or R), collect class data, estimate WTP, then run a market simulator and compare the WTP figure with the equilibrium price premium. Access: WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "WTP-space choice models (mixed logit estimated in willingness-to-pay space)",
+  "author_source": "Train, K., Weeks, M. (2005), in Applications of Simulation Methods in Environmental and Resource Economics, Springer, 1-16; software: Helveston, J. P. (2023), Journal of Statistical Software 105(10)",
+  "link": "https://doi.org/10.1007/1-4020-3684-1_1",
+  "note": "Re-parameterizes utility so that WTP itself is the estimated random parameter. This avoids the extreme or even infinite-variance WTP distributions that come from dividing two random coefficients. Fits slightly worse but gives more plausible WTP (Hole & Kolstad 2012; Sonnier et al. 2007).",
+  "course_use": "R lab with logitr: estimate the same CBC data in preference space and in WTP space and compare the WTP histograms. Access: logitr free; the chapter is paid, Train's preprint is free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "methods",
+  "title": "Becker-DeGroot-Marschak (BDM) mechanism",
+  "author_source": "Becker, G. M., DeGroot, M. H., Marschak, J. (1964), Behavioral Science 9(3), 226-232; marketing application: Wertenbroch, K., Skiera, B. (2002), JMR 39(2), 228-241",
+  "link": "https://doi.org/10.1509/jmkr.39.2.228.19086",
+  "note": "The respondent states a maximum price, a random price is drawn, and the respondent must buy at the drawn price if it is at or below the stated value. Under expected utility, truth-telling is optimal. Gives individual, incentive-compatible WTP for real products. Caveats: respondents often misunderstand it (Cason & Plott 2014), the distribution of random prices matters, and it cannot be used for products that do not exist yet.",
+  "course_use": "Live classroom demo with a real product (for example chocolate or WU merchandise) and a few real transactions. First ask a hypothetical open question, then run BDM, and compare the two distributions. Access: WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Vickrey (second-price sealed-bid) auction and experimental auctions",
+  "author_source": "Vickrey, W. (1961), Journal of Finance 16(1), 8-37; practical guide: Lusk, J. L., Shogren, J. F. (2007), Experimental Auctions, Cambridge University Press",
+  "link": "https://doi.org/10.1017/cbo9780511611261",
+  "note": "The highest bidder wins and pays the second-highest bid, so bidding one's true value is a dominant strategy; random nth-price variants also keep low-value bidders engaged. Elicits incentive-compatible WTP from several people at once. Results depend on the auction format, practice rounds and whether prices are posted between rounds (Lusk et al. 2004; Noussair et al. 2004).",
+  "course_use": "Run a 10-minute classroom auction for a real item over three rounds to show learning, and compare the bids with BDM bids. Access: book WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Incentive-aligned conjoint (IA-CBC)",
+  "author_source": "Ding, M. (2007), JMR 44(2), 214-223; Ding, M., Grewal, R., Liechty, J. (2005), JMR 42(1), 67-82; Dong, S., Ding, M., Huber, J. (2010), IJRM 27(1), 25-32",
+  "link": "https://doi.org/10.1509/jmkr.44.2.214",
+  "note": "Respondents know they may receive a real product based on their conjoint answers, through the WTP/BDM mechanism or the RankOrder mechanism, so their choices have consequences. Raises hit rates by about 12% on average (Schramm 2025) and gives more realistic WTP (Miller et al. 2011; Wlömert & Eggers 2016). Requires real products and a budget for rewards.",
+  "course_use": "Add a lottery for a real reward (RankOrder mechanism) to the class CBC and compare predictive validity with a hypothetical version on a holdout task. Access: WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "MaxDiff (best-worst scaling) for price and feature valuation, including anchored MaxDiff",
+  "author_source": "Schramm, J., Lichters, M. (2025), Marketing Letters 36(1), 1-16; WTP comparison with conjoint: Cheng, H., Zhang, Lambert, D. M., Feuz, R. (2023), Journal of Behavioral and Experimental Economics 106, 102049, doi 10.1016/j.socec.2023.102049",
+  "link": "https://doi.org/10.1007/s11002-023-09714-2",
+  "note": "Respondents pick the best and the worst item from subsets of features, offers or price-feature bundles. Gives ratio-scaled importances with less scale-use bias than rating scales. Plain MaxDiff measures relative preference only, so anchoring (direct or indirect) is needed to predict purchases, and incentive alignment improves validity. Best-worst case III with a price attribute gives WTP comparable to conjoint (Cheng et al. 2023).",
+  "course_use": "Short MaxDiff on add-on features of a subscription; use the anchored version to decide which features justify a price premium. The Schramm & Lichters benchmark dataset can be used. Access: WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Contingent valuation (open-ended, payment card, dichotomous choice) with bias remedies",
+  "author_source": "Johnston, R. J., et al. (2017), Journal of the Association of Environmental and Resource Economists 4(2), 319-405; Carson, R. T. (2012) and Hausman, J. (2012), Journal of Economic Perspectives 26(4)",
+  "link": "https://doi.org/10.1086/691697",
+  "note": "Direct survey questions about WTP for a described good, asked open-ended, with a payment card, or as single- or double-bounded yes/no questions at randomized bids. Standard in public-good and environmental valuation, and prone to hypothetical bias. Remedies: cheap talk (Cummings & Taylor 1999), certainty follow-up questions, consequentiality (Vossler et al. 2012).",
+  "course_use": "Survey-design workshop: students write a dichotomous-choice CV question with and without cheap talk and test both versions on each other. Access: Johnston et al. open access; JEP free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "methods",
+  "title": "Price A/B tests and randomized price field experiments",
+  "author_source": "Feit, E. M., Berman, R. (2019), Marketing Science 38(6), 1038-1058; examples: Dubé, J.-P., Misra, S. (2023), JPE 131(1), 131-189; Fisher, M., Gallino, S., Li, J. (2018), Management Science 64(6), 2496-2514",
+  "link": "https://doi.org/10.1287/mksc.2019.1194",
+  "note": "Customers are randomly assigned to different prices and their actual purchases are observed: the gold standard for revealed WTP and causal elasticities. Teach profit-based sample sizing (test and roll), interference on platforms (Holtz et al. 2024), fairness and legal limits (EU price-transparency rules, customer backlash), and bandit approaches (Misra et al. 2019).",
+  "course_use": "Lab: compute a profit-maximizing test size with the Test & Roll method, then discuss the ethics of testing prices on real customers. Access: WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Demand curve and price elasticity estimation from market data",
+  "author_source": "Bijmolt, T. H. A., van Heerde, H. J., Pieters, R. G. M. (2005), JMR 42(2), 141-156; Tellis, G. J. (1988), JMR 25(4), 331-341; application: Natter, M., Reutterer, T., Mild, A., Taudes, A. (2007), Marketing Science 26(4), 576-583",
+  "link": "https://doi.org/10.1509/jmkr.42.2.141.62296",
+  "note": "Estimate log-log or choice models on sales or scanner data to get own- and cross-price elasticities, then derive the optimal price with the Amoroso-Robinson (inverse elasticity) rule. Benchmarks: mean own-price elasticity about -2.6 (Bijmolt et al. 2005), mean cross-price elasticity .26 (Auer & Papies 2020). Teach price endogeneity and why randomized prices or instruments are needed (Fisher et al. 2018).",
+  "course_use": "Excel or R exercise: estimate an elasticity from weekly sales data, check it against the meta-analytic benchmarks and compute the optimal markup. WU link: the bauMax case by Natter et al. Access: WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Participative mechanisms as WTP revelation (NYOP bids, PWYW payments, online auctions)",
+  "author_source": "Spann, M., Skiera, B., Schäfers, B. (2004), Journal of Interactive Marketing 18(4), 22-36; Kim, J.-Y., Natter, M., Spann, M. (2009), JM 73(1), 44-58; Spann, M., et al. (2018), Customer Needs and Solutions 5(1-2), 121-136",
+  "link": "https://doi.org/10.1002/dir.20022",
+  "note": "Bids in name-your-own-price channels and auctions, and voluntary payments under PWYW, give revealed lower bounds on WTP from real transactions. Caveats: frictional bidding costs, social preferences under PWYW, and strategic or last-minute bidding in auctions.",
+  "course_use": "Discussion plus a small data exercise: infer a WTP distribution from a set of simulated NYOP bids. Access: WU-Lizenz prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "methods",
+  "title": "Direct open-ended WTP question (de-biased) and multiple price lists",
+  "author_source": "Hofstetter, R., Miller, K. M., Krohmer, H., Zhang, Z. J. (2021), IJRM 38(1), 70-84; multiple price lists: Jack, B. K., McDermott, K., Sautmann, A. (2022), 'Multiple Price Lists for Willingness to Pay Elicitation', SSRN, doi 10.2139/ssrn.4216219",
+  "link": "https://doi.org/10.1016/j.ijresmar.2020.04.006",
+  "note": "The simplest method, 'What is the most you would pay?', is popular in practice but biased upward; Hofstetter et al. propose de-biasing steps. A multiple price list is a series of buy/not-buy decisions at increasing prices, optionally with one decision paid out, which makes it an easy incentive-compatible variant. Watch for order effects and multiple switching (Jack et al. 2022).",
+  "course_use": "Warm-up at the start of the WTP session: everyone answers an open question, then a price list; compare the results later with BDM. Access: WU-Lizenz prüfen; SSRN free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ }
+]

@@ -1,0 +1,742 @@
+[
+ {
+  "category": "websites",
+  "title": "Better Willingness to Pay (WTP) in Conjoint Analysis",
+  "author_source": "Bryan Orme, Sawtooth Software, 2021 (last updated), website article",
+  "link": "https://sawtoothsoftware.com/resources/blog/posts/better-willingness-to-pay-in-conjoint-analysis",
+  "note": "Explains why the algebraic WTP ratio (feature utility divided by price utility) and two-product methods overstate WTP. Recommends market-simulation WTP against competitors plus a None option. Sampling of Scenarios gives values about 20% lower, and per-feature WTPs are not additive.",
+  "course_use": "Required background before a conjoint lab; discussion of why naive WTP ratios mislead. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Van Westendorp question library and templates",
+  "author_source": "Sawtooth Software, question library (updated 2022) with 2016 download bundle, website",
+  "link": "https://sawtoothsoftware.com/resources/question-library/van-westendorp",
+  "note": "Ready-made PSM question wording (numeric and dropdown versions) plus Newton-Miller-Smith purchase-intent questions and an Excel simulator in the download bundle. Sawtooth itself says it prefers CBC/ACBC for price sensitivity.",
+  "course_use": "Use the wording to build a class survey, then contrast PSM with CBC. Free (templates run in Lighthouse Studio).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Pricing Research Techniques (on-demand webinar)",
+  "author_source": "Bryan Orme, Sawtooth Software, on-demand webinar page",
+  "link": "https://sawtoothsoftware.com/resources/events/webinars/pricing-research-techniques",
+  "note": "Compares four survey-based methods (monadic price experiments, Gabor-Granger, Van Westendorp PSM, CBC) with their pros and cons. A compact overview of methods; the page gives no length or date.",
+  "course_use": "Pre-class overview of WTP measurement methods. Free, may require registration.",
+  "status": "neu; Link geprüft",
+  "access": "login"
+ },
+ {
+  "category": "websites",
+  "title": "Gabor-Granger or Van Westendorp?",
+  "author_source": "Hugh Zhao, Conjointly, 2018 (updated 2023), website guide",
+  "link": "https://conjointly.com/blog/gabor-granger-or-van-westendorp",
+  "note": "Floor-lamp test case: simple stated WTP averaged 31.84 USD, the PSM acceptable range was 24.99-35.89 USD and the Gabor-Granger revenue-maximising price was 35.00 USD. Shows that the two methods answer different questions.",
+  "course_use": "Worked example for comparing methods in class; short reading. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "How to manually calculate Van Westendorp PSM results",
+  "author_source": "Conjointly, website guide",
+  "link": "https://conjointly.com/guides/manual-calculation-of-van-westendorp/",
+  "note": "Step by step: tally the four price questions, convert to cumulative frequencies, then plot and read the intersections. Also covers the Newton-Miller-Smith revenue extension. The 10-respondent example appears only as screenshots, with no download.",
+  "course_use": "Lab walkthrough: students replicate it in Excel with class-collected data. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "How to Set Up a Brand-Price Trade-Off Study",
+  "author_source": "Conjointly, website guide",
+  "link": "https://conjointly.com/guides/setting-up-brand-price-trade-off/",
+  "note": "Concrete BPTO design rules: at most 20 SKUs, at least 4 competitor or current SKUs, at least 3 price points per SKU, each price point used for at least 2 SKUs, and no gaps in price ranges.",
+  "course_use": "Introduces competitive pricing research beyond single-product methods; design exercise. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Comparing four methods of conjoint for pricing research",
+  "author_source": "Conjointly, website article",
+  "link": "https://conjointly.com/blog/comparison-of-pricing-conjoints/",
+  "note": "Analyses the same toothpaste choice experiment with generic conjoint, brand-specific conjoint, BPTO and BPTO with linear price coefficients, showing how the choice of method changes the price-response results.",
+  "course_use": "Advanced reading for students running conjoint projects. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Using conjoint analysis for pricing research",
+  "author_source": "Qualtrics XM, website article",
+  "link": "https://www.qualtrics.com/articles/strategy-research/pricing-conjoint/",
+  "note": "Treats price as an exchange rate that converts utilities into money, values features against a baseline and builds up package value. Lists Gabor-Granger and BDM as alternatives and calls Van Westendorp not recommended for this type of study. Vendor content.",
+  "course_use": "Background on package (good-better-best) pricing with conjoint. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Market research for pricing",
+  "author_source": "SurveyMonkey, website resource",
+  "link": "https://www.surveymonkey.com/market-research/resources/market-research-pricing/",
+  "note": "Plain-language explainer of Van Westendorp, Gabor-Granger, conjoint and BPTO, with sample questions and a link to a price-testing survey template.",
+  "course_use": "Low-barrier pre-reading; template for student projects. Free (template needs an account).",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Van Westendorp's Price Sensitivity Meter",
+  "author_source": "Wikipedia, encyclopedia entry",
+  "link": "https://en.wikipedia.org/wiki/Van_Westendorp%27s_Price_Sensitivity_Meter",
+  "note": "Covers the four questions and the four intersections (PMC, PME, IPP, OPP). It has no real criticism section and few inline citations, so pair it with the Sawtooth or Qualtrics critiques.",
+  "course_use": "Quick reference only. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Willingness to pay (guide)",
+  "author_source": "Paddle (owner of ProfitWell / Price Intelligently), website guide, undated",
+  "link": "https://www.paddle.com/blog/willingness-to-pay",
+  "note": "Defines WTP as a range and lists six factors that shape it, research methods to estimate it and ways to raise it, with Spotify, Amazon Prime and Shopify examples. SaaS-focused vendor content.",
+  "course_use": "Background for SaaS pricing sessions. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "CMA price transparency guidance and online pricing enforcement drive",
+  "author_source": "UK Competition and Markets Authority, GOV.UK, 18 Nov 2025, press release plus guidance CMA209",
+  "link": "https://www.gov.uk/government/news/cma-launches-major-consumer-protection-drive-focused-on-online-pricing-practices",
+  "note": "Final DMCC Act price transparency guidance (drip and partitioned pricing prohibited under s.230), plus first investigations into 8 firms and advisory letters to 100 more. Sectors include live event tickets, rail, delivery, gyms and holidays. Guidance: gov.uk/government/publications/price-transparency-cma209.",
+  "course_use": "Ethics and regulation session on drip pricing, fake countdown timers and opt-ins. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Digital Fairness Act unpacked: unfair pricing practices",
+  "author_source": "Osborne Clarke, law-firm insight on the EU Commission consultation, 2025",
+  "link": "https://www.osborneclarke.com/insights/digital-fairness-act-unpacked-unfair-pricing-practices",
+  "note": "Summarises the EU Commission's DFA consultation on drip pricing, dynamic pricing and misleading price reductions, and on personalised pricing via profiling. The proposal was expected around Q3 2026; check its current status.",
+  "course_use": "Discussion of EU regulation of dynamic and personalised pricing (e.g. event ticketing). Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Commission guidance on price reductions (Omnibus Directive / Price Indication Directive Art. 6a)",
+  "author_source": "RPC, law-firm summary of the European Commission Notice (Dec 2021)",
+  "link": "https://rpclegal.com/snapshots/consumer/spring-2022/european-commission-publishes-guidance-on-price-promotions-under-the-omnibus-directive",
+  "note": "Explains the rule that an announced price reduction must show the lowest price of the prior 30 days, including Black Friday labels and progressive reductions. Secondary source; read with the Commission Notice text.",
+  "course_use": "Short case on promotion pricing ethics and reference prices. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "FTC surveillance pricing study: research summaries",
+  "author_source": "US Federal Trade Commission, Jan 2025, staff report (PDF)",
+  "link": "https://ftc.gov/system/files/ftc_gov/pdf/p246202_surveillancepricing6bstudy_researchsummaries_redacted.pdf",
+  "note": "Preliminary findings from six intermediaries (Mastercard, Accenture, PROS, Bloomreach, Revionics, McKinsey) on how browsing and cart data feed individualised prices. Released on a 3-2 vote; a final report is pending.",
+  "course_use": "Debate on personalised pricing and the ethics of price discrimination. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "AK Preismonitor",
+  "author_source": "Arbeiterkammer Wien, recurring price monitor, latest Sept 2026, German",
+  "link": "https://wien.arbeiterkammer.at/preismonitor",
+  "note": "Austrian supermarket price tracking. Covers the 40 cheapest food items across seven chains (cheapest basket about 74 EUR, -9% vs Sept 2025) plus 31 branded foods online (+5.3%). Related AK releases compare Austria with Germany (about 26% Austrian surcharge, May 2026).",
+  "course_use": "Local data for a class discussion of the Austrian price surcharge and retail price setting. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Anti-Mogelpackungs-Gesetz (Austrian shrinkflation labelling law)",
+  "author_source": "oesterreich.gv.at, Austrian federal government portal, 2026, German",
+  "link": "https://www.oesterreich.gv.at/de/Gesetzliche-Neuerungen/Bundesgesetzblatt/anti-mogelpackungs-gesetz",
+  "note": "A shrinkflation labelling duty, in force from 1 April 2026, for food and drugstore retailers above 400 m2 or with more than five outlets. Disclosure goes on the product, the shelf or a sign.",
+  "course_use": "Case input on hidden price increases (shrinkflation vs skimpflation). Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Branchenuntersuchung Lebensmittel: Executive Summary",
+  "author_source": "Bundeswettbewerbsbehörde (BWB), Oct/Nov 2023, report summary (PDF), German",
+  "link": "https://www.bwb.gv.at/fileadmin/user_upload/ExSum_Presse_31.10.2023.pdf",
+  "note": "Sector inquiry by the Austrian competition authority into food retail. Found retail margins largely stable in 2021-2023 and unfair practices toward suppliers, and discusses country-specific pricing (the Austrian price surcharge).",
+  "course_use": "Background for an Austrian retail pricing case; pair with the AK Preismonitor. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Mogelpackung des Jahres 2025",
+  "author_source": "Verbraucherzentrale Hamburg, 2025/2026, consumer press page, German",
+  "link": "https://www.vzhh.de/presse/wahl-der-mogelpackung-des-jahres-2025-gestartet",
+  "note": "Milka Alpenmilch won with 66.7% of 34,731 votes: the bar went from 100 g to 90 g while the price rose from 1.49 to 1.99 EUR (more than 48%). VZHH added 77 products to its list in 2025.",
+  "course_use": "Classroom hook on shrinkflation and consumer backlash. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "15.818 Pricing (Spring 2010)",
+  "author_source": "Catherine Tucker, MIT OpenCourseWare, graduate course site",
+  "link": "https://ocw.mit.edu/courses/15-818-pricing-spring-2010/",
+  "note": "A full MBA pricing course with lecture notes, assignments and exams with solutions. Topics include economic value analysis, price elasticities, price customisation, complementary products, platforms and competitor responses. Old but conceptually solid.",
+  "course_use": "Syllabus benchmark and source of exam-style problems. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "15.810 Marketing Management, Lecture 10: Pricing",
+  "author_source": "John Hauser, MIT OpenCourseWare, Fall 2015, lecture notes",
+  "link": "https://ocw.mit.edu/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/resources/mit15_810f15_l10_pricing",
+  "note": "A single MBA pricing lecture from an analytics-oriented marketing management course, with a companion Principles of Pricing page. Not opened in detail.",
+  "course_use": "Compact slide reference for a one-session pricing module. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Journal of Professional Pricing archive",
+  "author_source": "Professional Pricing Society (PPS), publications site",
+  "link": "https://publications.pricingsociety.com/document-category/journals/",
+  "note": "Practitioner journal archive by year (latest listed Q2 2024), including Liozu's research on the pricing function and Simon/Fassnacht excerpts. Some content is members-only.",
+  "course_use": "Source of practitioner articles for student essays. Partly free; full access needs membership.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "login"
+ },
+ {
+  "category": "websites",
+  "title": "ZHAW Pricing Lab",
+  "author_source": "ZHAW School of Management and Law, Institut für Marketing Management, website, German",
+  "link": "https://www.zhaw.ch/de/sml/institute-zentren/imm/pricing-lab",
+  "note": "Pricing competence centre for the DACH region offering research, training and consulting; a German-language contact point that bridges academia and practice.",
+  "course_use": "Background and possible guest-speaker network for DACH pricing. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "websites",
+  "title": "Pricing research solutions",
+  "author_source": "Conjointly, website",
+  "link": "https://conjointly.com/solutions/pricing-research/",
+  "note": "Overview of the tool options (Van Westendorp, Gabor-Granger, BPTO, conjoint) with when-to-use guidance. Vendor content; check whether it offers educational access for student surveys.",
+  "course_use": "Possible platform for running a student WTP survey. Free tier / paid.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "2025 State of B2B Monetization",
+  "author_source": "Kyle Poyar, Growth Unhinged (Substack), 4 Jun 2025, newsletter",
+  "link": "https://kylepoyar.substack.com/p/2025-state-of-b2b-monetization",
+  "note": "Survey of 240+ software and AI firms. Over 12 months, flat-fee subscriptions fell from 29% to 22% and seat-based pricing from 21% to 15%, while hybrid pricing rose from 27% to 41%. Outcome-based pricing is out of reach for about 95% of firms. The full 35-page report is paywalled.",
+  "course_use": "Discussion data on how pricing models are shifting under AI. Free teaser; full report paid.",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "blogs",
+  "title": "What's changing with AI monetization",
+  "author_source": "Kyle Poyar, Growth Unhinged (Substack), Jan 2025, newsletter",
+  "link": "https://www.growthunhinged.com/p/whats-changing-with-ai-monetization",
+  "note": "Reports that 54% of AI products are monetised beyond seats: usage-based 25%, hybrid 22%, outcome-based 7% (Sierra, Intercom, Chargeflow).",
+  "course_use": "Pre-reading for a session on AI pricing models. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Usage-based pricing for AI (the case against outcome-based pricing)",
+  "author_source": "Growth Unhinged, sponsored by Metronome, newsletter post",
+  "link": "https://growthunhinged.com/p/usage-based-pricing-for-ai",
+  "note": "Counterpoint from Metronome CEO Scott Woody: outcome-based pricing works only for firms with very large contracts or monopoly-like power, so price on countable outputs instead. Sponsored content.",
+  "course_use": "Pair with a16z and Ibbaka for a debate on outcome-based pricing. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "AI Is Driving A Shift Towards Outcome-Based Pricing",
+  "author_source": "Ivan Makarov, James da Costa, Bobby Pinero, a16z Enterprise Newsletter, 19 Dec 2024",
+  "link": "https://a16z.com/newsletter/december-2024-enterprise-newsletter-ai-is-driving-a-shift-towards-outcome-based-pricing/",
+  "note": "Three shifts: software replaces labour, the seat is no longer the basic unit of software, and model costs vary. Examples: Zendesk seat erosion, Decagon per-resolution pricing, Cursor seats plus usage, Notion/Canva bundling.",
+  "course_use": "Short pre-class reading for an AI pricing discussion. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "The art and science of pricing (Madhavan Ramanujam)",
+  "author_source": "Lenny Rachitsky, Lenny's Newsletter/Podcast, 8 Dec 2022, podcast with show notes, 1:38",
+  "link": "https://www.lennysnewsletter.com/p/the-art-and-science-of-pricing-madhavan",
+  "note": "Timestamps: WTP methods 23:50, WTP conversations 33:38, how many customers to talk to 37:08, segmentation 39:20, maximise/penetrate/skim 53:19, bundling 55:49, how vs how much you charge 59:50, behavioural pricing 1:16:13.",
+  "course_use": "Assign 23:50-44:33 as pre-class listening on WTP interviews and segmentation. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Pricing and scaling your AI product: Lessons from 400+ companies and 50 unicorns",
+  "author_source": "Lenny Rachitsky with Madhavan Ramanujam, Lenny's Newsletter, 27 Jul 2025, podcast, 1:12",
+  "link": "https://www.lennysnewsletter.com/p/pricing-and-scaling-your-ai-product-madhavan-ramanujam",
+  "note": "Give-and-get negotiation (15:00), POCs as business cases (31:33), a 2x2 for choosing an AI pricing model (38:58), outcome-based models (44:48; Fin at 0.99 USD per resolution). The post is paywalled; the same talk is on YouTube.",
+  "course_use": "AI pricing session; use the YouTube version for free access. Paid newsletter.",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "blogs",
+  "title": "Inside ChatGPT: The fastest growing product in history (Nick Turley)",
+  "author_source": "Lenny Rachitsky, Lenny's Newsletter, Aug 2025, podcast",
+  "link": "https://www.lennysnewsletter.com/p/inside-chatgpt-nick-turley",
+  "note": "Turley explains that the 20 USD/month ChatGPT Plus price came from a Van Westendorp survey run as a Google Form in OpenAI's Discord, and wonders whether that price left money on the table. Quoted in Simon Willison's blog (simonwillison.net/2025/Aug/12/nick-turley).",
+  "course_use": "Opening hook for a Van Westendorp lab: a famous real price set with the method. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Part 1: Monetizing AI without destroying margins",
+  "author_source": "Abde Tambawala, Yasar Atabay, Simon-Kucher Insights, 6 Apr 2026, blog article",
+  "link": "https://www.simon-kucher.com/en/insights/part-1-monetizing-ai-without-destroying-margins",
+  "note": "Argues that AI margins depend on user behaviour: under the same seat licence, one user can cost 10-20x as much as another. Names five margin levers: model routing, workflow depth limits, tiered packaging, price metrics tied to cost, and terms that share cost volatility.",
+  "course_use": "Discussion of cost-to-serve alongside customer value in pricing. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Why AI agents break traditional SaaS pricing models, and what leaders must do next",
+  "author_source": "Alix Nepveux, Abde Tambawala, Ruben de Lange, Simon-Kucher Insights, 17 Mar 2026",
+  "link": "https://www.simon-kucher.com/en/insights/why-ai-agents-break-traditional-saas-pricing-models-and-what-leaders-must-do-next",
+  "note": "Per-user pricing fails when one person runs many agents around the clock. Recommends pricing on the work done and outcomes achieved, piloting first, and involving sales, product, finance and customer success early.",
+  "course_use": "Pre-reading for an AI agent pricing case. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Case Study: Wie ein US-Zahlungsabwickler trotz Krisenzeiten Preissteigerungen erfolgreich umsetzte",
+  "author_source": "Simon-Kucher Insights (DE), case study, German",
+  "link": "https://www.simon-kucher.com/de/insights/case-study-wie-ein-us-zahlungsabwickler-trotz-krisenzeiten-preissteigerungen-erfolgreich",
+  "note": "B2B software and payment providers target 7-20% price increases. The client's churn fears were addressed by segmenting price sensitivity: typically fewer than 20% of customers are extremely price sensitive. Figures are self-reported by the consultancy.",
+  "course_use": "German-language mini case on implementing price increases. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Preisstrategie für eine führende nationale Restaurant-Kette",
+  "author_source": "Simon-Kucher Insights (DE), case study, German",
+  "link": "https://www.simon-kucher.com/de/insights/preisstrategie-fuer-eine-fuehrende-nationale-restaurant-kette",
+  "note": "A conjoint study with more than 12,000 consumers produced 23 WTP-based segments and a reported 150 million USD in added revenue. Figures are self-reported.",
+  "course_use": "Example of WTP-based segmentation for discussion. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "How to price AI agents",
+  "author_source": "Steven Forth, Ibbaka Market Blog, 2025",
+  "link": "https://www.ibbaka.com/ibbaka-market-blog/how-to-price-ai-agents",
+  "note": "Introduces the AI Agent Pricing Layer Cake (Role, Access, Usage, Outcomes). Most agents will combine two or three metrics, with Role + Usage dominant, and the value model comes first.",
+  "course_use": "Framework for a group exercise on pricing an AI agent. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Comparing the Value Model and Pricing Model of Intercom's Fin AI Agent",
+  "author_source": "Edward Wong, Ibbaka Market Blog, Feb 2025",
+  "link": "https://www.ibbaka.com/ibbaka-market-blog/comparing-the-value-model-and-pricing-model-of-intercoms-fin-ai-agent",
+  "note": "Worked value-vs-price calculation: 0.99 USD per resolution on top of 29-132 USD seat plans, against 5-10 USD human cost per query. Argues the price misses retention value.",
+  "course_use": "Ready-made worked calculation for an economic-value-to-customer (EVC) exercise. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "B2B SaaS and Agentic AI Pricing Predictions for 2026",
+  "author_source": "Ibbaka Market Blog, 2026",
+  "link": "https://www.ibbaka.com/ibbaka-market-blog/b2b-saas-and-agentic-ai-pricing-predictions-for-2026",
+  "note": "Predicts that credit-based pricing and prepaid credit wallets become the default for AI-native products.",
+  "course_use": "Discussion prompt: are credits a price metric or a way to obscure prices? Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Wiglaf Journal (Tim J. Smith author archive)",
+  "author_source": "Tim J. Smith, Wiglaf Pricing, blog/journal archive",
+  "link": "https://wiglafjournal.com/author/tsmith/page/57",
+  "note": "Long-running practitioner essays on value-based pricing and pricing maturity by the author of Pricing Strategy (Cengage) and Pricing Done Right. Only this old archive page was found; pick current posts from the front page.",
+  "course_use": "Supplementary readings on value-based B2B pricing. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Impact Pricing blog and podcast",
+  "author_source": "Mark Stiving, Impact Pricing, blog and podcast",
+  "link": "https://impactpricing.com/",
+  "note": "Value-based pricing and WTP. Stiving's Will-I vs Which-One framework: buyers are more price sensitive when choosing among alternatives. Many interviews with Forth, Campbell and Tim Smith.",
+  "course_use": "Short episodes as optional listening; framework for class discussion. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "8 Keys to Value-Based SaaS Pricing Pages",
+  "author_source": "Patrick Campbell (ProfitWell), CXL blog",
+  "link": "https://conversionxl.com/blog/author/patrickcampbell/",
+  "note": "Pricing-page design advice from ProfitWell's founder, linking page structure to value communication and buyer personas. Older (pre-2020); the link is the author page.",
+  "course_use": "Pricing page teardown exercise. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Is This the Time to Raise Prices? (reprint of an HBR article)",
+  "author_source": "Rafi Mohammed, Professional Pricing Society publications (originally Harvard Business Review)",
+  "link": "https://publications.pricingsociety.com/?p=111",
+  "note": "Six factors to weigh before following inflation-driven price increases. Mohammed argues against panic discounting and for bundling as an alternative to repeated hikes. Full text not checked.",
+  "course_use": "Discussion on inflation pricing in the Austrian 2022-2024 context. Free reprint; HBR original paywalled.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Price (and Thinking about iPhone Pricing)",
+  "author_source": "Ben Thompson, Stratechery, 2013 essays",
+  "link": "https://stratechery.com/2013/price/",
+  "note": "Classic free essays on price as a signal and a segmentation tool, using iPhone tiers. Newer pieces (e.g. Apple price increases, 2026) are for subscribers only.",
+  "course_use": "Discussion on premium pricing and versioning. Free (older posts).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Free to Freemium: 5 lessons learned from YouSendIt.com",
+  "author_source": "Ranjith Kumaran guest post, Andrew Chen blog, around 2009",
+  "link": "https://andrewchen.com/free-to-freemium-5-lessons-learned-from-yousendit-com/",
+  "note": "Lessons from a move to freemium, including segmenting out the users willing to pay. Old, but a concise freemium case.",
+  "course_use": "Optional reading on freemium as price discrimination. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Beim Pricing falsch abgebogen",
+  "author_source": "deutsche-startups.de, Oct 2025, German blog article",
+  "link": "https://www.deutsche-startups.de/2025/10/10/beim-pricing-falsch-abgebogen/",
+  "note": "Typical startup pricing errors: land-and-discount instead of land-and-expand, and one tariff for customers with very different WTP (no systematic segmentation).",
+  "course_use": "German-language discussion piece on startup pricing. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Pricing-Strategie für Startups",
+  "author_source": "KfW Gründerplattform, German guide",
+  "link": "https://gruenderplattform.de/startup-gruenden/pricing-strategie",
+  "note": "Separates pricing strategy (value-, cost- or competition-based) from pricing model, and notes that startups often price by gut feel and too low. Basic.",
+  "course_use": "Entry-level German reading. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "10 Dos and Don'ts für eine verbesserte Preisdurchsetzung",
+  "author_source": "Industriemagazin (Austria), IM-Expertenpool, German",
+  "link": "https://industriemagazin.at/a/10-dos-and-dont-s-fuer-eine-verbesserte-preisdurchsetzung",
+  "note": "Austrian B2B outlet: almost 70% of firms failed to realise even half of their targeted price increases. Advises raising prices selectively by price sensitivity rather than uniformly.",
+  "course_use": "Austrian practitioner input for a B2B price-increase session. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "blogs",
+  "title": "Netflix's latest price hike: steering subscribers toward ads",
+  "author_source": "Yahoo Finance analysis, 2026",
+  "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-latest-price-hike-reveals-151507769.html",
+  "note": "2026 US price hike: ad tier from 7.99 to 8.99 USD, standard to 19.99, premium to 26.99. Argues that the ad tier keeps price-sensitive households, and that the wider gap between tiers pushes downgrades.",
+  "course_use": "Discussion of good-better-best tiers and the gaps between them. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Pricing your AI product: Lessons from 400+ companies and 50 unicorns",
+  "author_source": "Madhavan Ramanujam on Lenny's Podcast, YouTube, 2025, video, about 1:12",
+  "link": "https://www.youtube.com/watch?v=NR85H55eYkM",
+  "note": "Free YouTube version of the Lenny episode. Timestamps from the show notes: AI pricing 2x2 at 38:58, outcome-based models 44:48, packaging 50:23.",
+  "course_use": "Pre-class video for the AI pricing session. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "The art and science of pricing",
+  "author_source": "Madhavan Ramanujam on Lenny's Podcast, YouTube, Dec 2022, video, 1:38",
+  "link": "https://www.youtube.com/watch?v=A6veeCbKIzw",
+  "note": "Watch 23:50-44:33 for WTP conversations and segmentation, and 53:19 for maximise/penetrate/skim strategies.",
+  "course_use": "Pre-class video. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "The Pricing Masterclass with Madhavan Ramanujam and Pete Flint",
+  "author_source": "NFX, YouTube, video",
+  "link": "https://www.youtube.com/watch?v=p_8A4dxpJ2Y",
+  "note": "Startup-oriented masterclass on setting price before building the product and on WTP conversations. Length not checked.",
+  "course_use": "Optional deeper video. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "How to Boost Profit and Growth through Pricing (part 2)",
+  "author_source": "Hermann Simon, YouTube, talk",
+  "link": "https://www.youtube.com/watch?v=aNnQcQ2P3SY",
+  "note": "Simon-Kucher founder on price as the main profit driver; supports the price-volume-profit argument. Length not checked.",
+  "course_use": "Introductory video for the first pricing session. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Pricing in the new era of digitalization (Warsaw Conference 2016)",
+  "author_source": "Hermann Simon, Simon-Kucher Warsaw, YouTube, talk",
+  "link": "https://www.youtube.com/watch?v=hHT3bI3UkV8",
+  "note": "Talk on digital pricing models such as freemium, pay-per-use and dynamic pricing (topics inferred from the title; not checked). Older but authoritative.",
+  "course_use": "Optional background video. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Wie findet man den richtigen Preis, Prof. Dr. Hermann Simon? (episode 117)",
+  "author_source": "German podcast episode on YouTube",
+  "link": "https://www.youtube.com/watch?v=9abbHYJqqDE",
+  "note": "German-language interview with Hermann Simon on finding the right price, including dynamic pricing.",
+  "course_use": "German pre-class listening. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Simon-Kucher Expert Talk: Preismanagement",
+  "author_source": "Simon-Kucher, YouTube, German video",
+  "link": "https://www.youtube.com/watch?v=fkWkJNXXV7k",
+  "note": "Hermann Simon on why price management matters; a short German introduction.",
+  "course_use": "German pre-class video. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "#2minutes_marketing: Effektives Preismanagement. Die 3Ks",
+  "author_source": "Prof. Dr. Sven Reinecke, YouTube, German, about 2 min",
+  "link": "https://www.youtube.com/watch?v=Im47ZK4EgAE",
+  "note": "Two-minute explainer by a DACH marketing professor on the 3Ks of pricing and their business effects.",
+  "course_use": "In-class opener. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Methoden der Preisoptimierung",
+  "author_source": "YouTube, German video",
+  "link": "https://www.youtube.com/watch?v=bm6tVf6NAcw",
+  "note": "German explainer on assessing WTP for products and software as a profit lever. Channel and length not checked.",
+  "course_use": "Optional German explainer. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Understand in Under 5: Van Westendorp Pricing Analysis",
+  "author_source": "YouTube, video, under 5 min",
+  "link": "https://www.youtube.com/watch?v=WrQlkiCBWT8",
+  "note": "Quick explanation of the four PSM questions and how to read the curves.",
+  "course_use": "Pre-lab primer. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "How to Run the Van Westendorp Price Sensitivity Meter with EXCEL Pivot Tables (Part 1)",
+  "author_source": "YouTube, video series in 3 parts",
+  "link": "https://www.youtube.com/watch?v=uYKxqcc0kD8",
+  "note": "Hands-on Excel build of the cumulative curves using pivot tables; part 1 of 3.",
+  "course_use": "Lab walkthrough alongside the Conjointly manual-calculation guide. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Python - Van Westendorp's Price Sensitivity Meter",
+  "author_source": "YouTube, video",
+  "link": "https://www.youtube.com/watch?v=djZyLibcOsU",
+  "note": "Python implementation of PSM, for students on an analytics track.",
+  "course_use": "Optional coding lab. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "pricesensitivitymeter (R package)",
+  "author_source": "Max Alletsee, GitHub/CRAN, R package with vignette, maintained 2025",
+  "link": "https://github.com/max-alletsee/pricesensitivitymeter",
+  "note": "Provides psm_analysis() and psm_plot(). The README example with 250 simulated cases gives an acceptable range of 9-12.48, OPP 10.64 and IPP 10.94, and drops 43% of answers as intransitive. Includes the Newton-Miller-Smith trial/revenue extension and weighted analysis.",
+  "course_use": "R lab: analyse class-collected PSM data and discuss cleaning intransitive responses. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Van Westendorp in Excel (BA 850, Lesson 10)",
+  "author_source": "Penn State, course page (attribution from URL)",
+  "link": "https://courses.ems.psu.edu/ba850/book/export/html/733",
+  "note": "Shows how to flag inconsistent PSM responses with IF/AND and how to build cumulative plots with the Histogram tool and custom price buckets.",
+  "course_use": "Excel lab instructions. Free.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Marketing Pricing Analytics: The Gabor-Granger Method, Applications in Excel",
+  "author_source": "YouTube, video plus advanced follow-up",
+  "link": "https://www.youtube.com/watch?v=qNONNu6aJWM",
+  "note": "Excel walkthrough of Gabor-Granger demand and revenue curves from survey data. Advanced follow-up example: youtube.com/watch?v=nepBYP4_tEI.",
+  "course_use": "Lab: compute the revenue-maximising price. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Weaknesses of the Gabor-Granger Pricing Method 1",
+  "author_source": "Bryan Orme, Sawtooth Software, YouTube, video",
+  "link": "https://www.youtube.com/watch?v=_gRLM0GYeQg",
+  "note": "Sawtooth's CEO on the weaknesses of Gabor-Granger: asking respondents directly about a sequence of prices can bias stated WTP.",
+  "course_use": "Critique video after the Gabor-Granger lab. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "How to Estimate Willingness to Pay (WTP) in Sawtooth Software's Market Simulator",
+  "author_source": "Sawtooth Software, YouTube, May 2021, video",
+  "link": "https://www.youtube.com/watch?v=UNvpxAedmjM",
+  "note": "Demonstrates simulation-based WTP for an enhanced feature against competitors and a None option, matching Orme's blog article.",
+  "course_use": "Demo after conjoint estimation. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Willingness to Pay (WTP) for Conjoint Analysis",
+  "author_source": "YouTube, video",
+  "link": "https://www.youtube.com/watch?v=SbLT0BF4ndY",
+  "note": "Short explainer on deriving WTP from discrete choice experiments (ratio of feature utility to the price coefficient).",
+  "course_use": "Pre-lab primer for conjoint WTP. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "logitr: Estimating Multinomial Logit Models (preference and WTP space)",
+  "author_source": "John Helveston, logitr R package vignette",
+  "link": "https://jhelvy.r-universe.dev/logitr/doc/mnl_models.html",
+  "note": "Yogurt-data example that estimates a WTP-space logit directly, with price as the scale parameter. wtpCompare() checks the results against preference-space WTP; a separate convergence vignette explains multistart.",
+  "course_use": "Advanced R lab on conjoint WTP. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "cbcTools: design and power analysis for choice-based conjoint",
+  "author_source": "John Helveston, CRAN/GitHub R package, 2025",
+  "link": "https://github.com/jhelvy/cbcTools",
+  "note": "Generates random, orthogonal, D-optimal and Bayesian D-efficient CBC designs, including no-choice options, and simulates choices for power analysis using logitr.",
+  "course_use": "Student project lab: design a CBC pricing study before fielding it. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "FULL TUTORIAL: Price Elasticity and Optimization in Python (feat. pyGAM)",
+  "author_source": "Business Science, YouTube, video",
+  "link": "https://www.youtube.com/watch?v=tRku0RgRQtc",
+  "note": "Estimates price-demand curves with GAMs (pyGAM) and finds the profit-maximising price from data.",
+  "course_use": "Analytics lab on revealed-preference elasticity. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Instrumental Variables in Python: Estimating Price Elasticity",
+  "author_source": "YouTube, video",
+  "link": "https://www.youtube.com/watch?v=fpZC_tEfnLM",
+  "note": "Uses Graddy's Fulton Fish Market data to show price endogeneity and to estimate elasticity with instrumental variables.",
+  "course_use": "Advanced methods add-on showing why naive regression elasticities are biased. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "tutorials",
+  "title": "Pricing Strategy Optimization Specialization",
+  "author_source": "UVA Darden and BCG (Izaret, Kohler, Wilcox), Coursera, MOOC, 4 courses, about 52 hours",
+  "link": "https://www.coursera.org/specializations/uva-darden-bcg-pricing-strategy",
+  "note": "Courses: Cost and Economics (12 h), Customer Value (15 h), Market and Competition (12 h), and Pricing Strategy in Practice (13 h, with a Philips eco-bulb capstone). Rated 4.8 from 943 reviews.",
+  "course_use": "Optional self-study or flipped-classroom component. Paid certificate (included in Coursera Plus); financial aid available.",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "tutorials",
+  "title": "Customer Value in Pricing Strategy",
+  "author_source": "UVA Darden and BCG, Coursera, MOOC, 4 modules, about 2 weeks at 10 h/week",
+  "link": "https://www.coursera.org/learn/value-based-pricing",
+  "note": "The single course most relevant to WTP: pricing to the demand curve with the price piano, price ladder and incentive curves. Rated 4.8 from 379 reviews.",
+  "course_use": "Assign selected modules as pre-class videos. Free enrolment to view (login); certificate paid.",
+  "status": "neu; Link geprüft",
+  "access": "login"
+ },
+ {
+  "category": "tutorials",
+  "title": "Strategic Pricing for Products and Services",
+  "author_source": "Stefan Michel (IMD), LinkedIn Learning, 2022, course, about 1:17",
+  "link": "https://www.linkedin.com/learning/strategic-pricing-for-products-and-services",
+  "note": "Step-by-step pricing framework covering cost- vs value-based pricing and real-world scenarios; a concise, executive-level course. Link built from the course title (not checked).",
+  "course_use": "Optional pre-course refresher. Paid (about 40 USD/month) or via library or university access.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "tutorials",
+  "title": "Gabor-Granger Price Elasticity Model in Qualtrics Surveys",
+  "author_source": "Ron Dev, YouTube, demo video",
+  "link": "https://www.youtube.com/watch?v=ebRQ6GSCqqs",
+  "note": "Shows how to build a branching Gabor-Granger price question in Qualtrics, a survey tool many universities license (check WU access).",
+  "course_use": "Lab setup demo for student surveys. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ }
+]

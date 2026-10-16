@@ -1,0 +1,672 @@
+[
+ {
+  "category": "software",
+  "title": "pricesensitivitymeter (R package)",
+  "author_source": "Max Alletsee, CRAN, v1.3.3 (2025-08-30), MIT licence, R, package",
+  "link": "https://cran.r-project.org/package=pricesensitivitymeter",
+  "note": "Implements the Van Westendorp Price Sensitivity Meter incl. the Newton-Miller-Smith extension (purchase-probability calibration, trial- and revenue-optimal price). psm_analysis() returns optimal price point, indifference price point and range of acceptable prices; psm_plot() draws the four-curve chart; psm_analysis_weighted() handles survey weights. Vignettes on small-sample interpolation and visualisation.",
+  "course_use": "Lab: students answer the four VW questions in class (e.g. streaming or coffee subscription) and compute OPP/IPP/RAP in R within 30 minutes. Free, open licence.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "pricesensitivitymeter source repository",
+  "author_source": "max-alletsee, GitHub, active 2025, MIT, R, package source",
+  "link": "https://github.com/max-alletsee/pricesensitivitymeter",
+  "note": "Source code, issues and examples for the CRAN package; shows how the NMS extension computes trial and revenue curves.",
+  "course_use": "Instructor reference; advanced students reading the implementation. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "logitr (R package) - logit in WTP space",
+  "author_source": "John Helveston, CRAN, v1.2.0 (2026-07-06), MIT, R, package",
+  "link": "https://cran.r-project.org/package=logitr",
+  "note": "Fast multinomial and mixed logit in preference space or directly in willingness-to-pay space (scalePar = 'price'), so coefficients are WTP in currency units. Functions logitr(), wtp(), predict(); multistart for non-convex WTP-space models. Vignettes use the bundled yogurt and cars_us data.",
+  "course_use": "Core conjoint-WTP lab: estimate a preference-space MNL, convert with wtp(), re-estimate in WTP space and compare. Pairs with cbcTools for design. Free.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "cbcTools (R package) - choice-based conjoint design and power",
+  "author_source": "John Helveston, CRAN/GitHub, 2024-2025, MIT, R, package",
+  "link": "https://github.com/jhelvy/cbcTools",
+  "note": "Builds profiles, randomised or D-efficient CBC designs (cbc_design), simulates choices (cbc_choices) and runs power analyses (cbc_power) to set sample size before fielding a conjoint with price as an attribute.",
+  "course_use": "Lab: design a 4-attribute CBC with price levels, simulate respondents, show how the price coefficient's standard error shrinks with n. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "bayesm (R package)",
+  "author_source": "Peter Rossi, CRAN, v3.1-7 (2025-11-11), GPL (>=2), R, package",
+  "link": "https://cran.r-project.org/package=bayesm",
+  "note": "Bayesian marketing models from Rossi, Allenby and McCulloch (2005): rhierMnlRwMixture() for hierarchical-Bayes MNL (individual part-worths and WTP distributions), rmnpGibbs, rhierLinearModel. Ships camera, margarine, orangeJuice, cheese, tuna datasets.",
+  "course_use": "Advanced lab: HB estimation on camera conjoint, individual WTP for features, heterogeneity histograms. Free; computationally heavier.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "mlogit (R package)",
+  "author_source": "Yves Croissant, CRAN, v1.1-x (2024-2025), GPL (>=2), R, package",
+  "link": "https://cran.r-project.org/package=mlogit",
+  "note": "Multinomial, nested, mixed and probit logit with dfidx data. Ships Catsup, Cracker, Heating, Electricity, Train; vignettes show WTP as coefficient ratios and mixed-logit WTP distributions.",
+  "course_use": "Lab: Cracker or Catsup brand choice with price, display and feature; own- and cross-price elasticities via effects(). Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "gmnl (R package)",
+  "author_source": "Mauricio Sarrias and Ricardo Daziano, CRAN, v1.1-x, GPL (>=2), R, package",
+  "link": "https://cran.r-project.org/package=gmnl",
+  "note": "Generalized MNL (scale heterogeneity), mixed and latent-class logit; WTP-space estimation. Shows taste vs scale heterogeneity in WTP.",
+  "course_use": "Elective lab or thesis tool; latent-class WTP segments. Free; little maintenance since about 2020, check compatibility.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "apollo (R package) - choice modelling",
+  "author_source": "Stephane Hess and David Palma (Choice Modelling Centre, Leeds), CRAN, v0.3.9 (2026-07-13), GPL-2, R, package",
+  "link": "https://cran.r-project.org/package=apollo",
+  "note": "MNL, nested, cross-nested, mixed, latent-class and hybrid choice models, Bayesian option; apollo_deltaMethod() gives WTP with delta-method standard errors. Large example library and manual at apollochoicemodelling.com.",
+  "course_use": "Thesis and advanced lab: mixed-logit WTP with confidence intervals from a stated-choice study. Free; steeper learning curve.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "conjoint (R package)",
+  "author_source": "Andrzej Bak and Tomasz Bartlomowicz, CRAN, v1.41, GPL, R, package",
+  "link": "https://cran.r-project.org/package=conjoint",
+  "note": "Ratings-based full-profile conjoint: caModel(), caPartUtilities(), caImportance(), caSegmentation(). Ships the tea dataset (13 profiles, 100 respondents; price, variety, kind, aroma).",
+  "course_use": "Intro lab: part-worths and attribute importance from tea data; discuss why price importance depends on level range. Free; check CRAN status before the course.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "ChoiceModelR (R package)",
+  "author_source": "Ryan Sermas, CRAN, v1.3, GPL-2, R, package",
+  "link": "https://cran.r-project.org/package=ChoiceModelR",
+  "note": "Hierarchical-Bayes MNL (choicemodelr()) mirroring Sawtooth CBC/HB; individual betas for WTP and market simulators.",
+  "course_use": "Free alternative to Sawtooth CBC/HB in labs. Older, lightly maintained.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "idefix (R package) - efficient DCE designs",
+  "author_source": "Frits Traets, Daniel Gil and Martina Vandebroek, CRAN, v1.x, GPL-3, R, package",
+  "link": "https://cran.r-project.org/package=idefix",
+  "note": "D-efficient and Bayesian-efficient designs (Modfed, CEA) for discrete choice experiments, adaptive sequential designs, Shiny survey app (SurveyApp).",
+  "course_use": "Project: teams design a choice experiment with a price attribute and field it via the Shiny app. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "support.CEs (R package)",
+  "author_source": "Hideo Aizaki, CRAN, GPL, R, package",
+  "link": "https://cran.r-project.org/package=support.CEs",
+  "note": "Choice-experiment designs (rotation.design, Lma.design), questionnaire generation and marginal WTP via mwtp().",
+  "course_use": "Lab from design to mwtp() in one session; suits students with limited R. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "AlgDesign (R package)",
+  "author_source": "Bob Wheeler / Jerome Braun, CRAN, GPL (>=2), R, package",
+  "link": "https://cran.r-project.org/package=AlgDesign",
+  "note": "optFederov() for D-optimal fractional factorial designs; classic way to reduce conjoint profile sets.",
+  "course_use": "Short demo on fractional factorial designs. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "xlogit (Python package)",
+  "author_source": "Cristian Arteaga et al., PyPI, v0.2.7 (2023-07-25), MIT, Python, package",
+  "link": "https://pypi.org/project/xlogit/",
+  "note": "GPU-accelerated multinomial, conditional and mixed logit with panel data and Halton draws; no built-in WTP space, WTP computed as coefficient ratios.",
+  "course_use": "Python-track lab: mixed logit on a CBC dataset, WTP distributions. Free; last release 2023.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "Biogeme (Python package)",
+  "author_source": "Michel Bierlaire, EPFL, PyPI / biogeme.epfl.ch, 3.x (2025), open source, Python, package",
+  "link": "https://biogeme.epfl.ch/",
+  "note": "Maximum-likelihood logit, nested, cross-nested and mixed logit; examples on Swissmetro with WTP/value-of-time and simulation of shares under price changes.",
+  "course_use": "Lab or thesis: value of time and price elasticities from Swissmetro. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "pylogit (Python package)",
+  "author_source": "Timothy Brathwaite, GitHub/PyPI, BSD-3, Python, package",
+  "link": "https://github.com/timothyb0912/pylogit",
+  "note": "Conditional, nested, mixed and asymmetric logit in long format; Swissmetro notebooks. Largely unmaintained since about 2019.",
+  "course_use": "Legacy option; prefer xlogit, Biogeme or choice-learn. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "choice-learn (Python package)",
+  "author_source": "Artefact research (artefactory), PyPI, v1.3.3 (2026-05-28), MIT, Python, package",
+  "link": "https://pypi.org/project/choice-learn/",
+  "note": "TensorFlow choice modelling: SimpleMNL, ConditionalLogit, NestedLogit, LatentClassConditionalLogit, RUMnet, TasteNet, plus assortment/pricing optimisation. Ships SwissMetro, ModeCanada, Train, Heating, Electricity, TaFeng grocery, Expedia ICDM-2013.",
+  "course_use": "Lab: conditional logit on Expedia hotel choice, then price optimisation; bridge to ML. Free.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "PyMC-Marketing (Python package)",
+  "author_source": "PyMC Labs, PyPI, v1.2.0 (2026-09-29), Apache-2.0, Python, package",
+  "link": "https://pypi.org/project/pymc-marketing/",
+  "note": "Bayesian MMM, CLV (BG/NBD, Gamma-Gamma), discrete choice (multinomial, nested, mixed logit), MaxDiff and Bayesian BLP for aggregate demand. No dedicated pricing module; elasticities derivable from choice/BLP models.",
+  "course_use": "Advanced lab: Bayesian MNL for posterior WTP; BLP demo on market shares. Free.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "statsmodels (Python) - log-log demand regression",
+  "author_source": "statsmodels developers, PyPI, 0.14.x (2024-2025), BSD-3, Python, package",
+  "link": "https://www.statsmodels.org/",
+  "note": "Formula API OLS/GLM (smf.ols('np.log(q) ~ np.log(p) + promo + C(store)')) for constant price elasticities with fixed effects and robust SE.",
+  "course_use": "Lab: own-price elasticity on Dominick's or Kaggle retail data, then markup rule p = c*e/(1+e). Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "EconML - causal price elasticity",
+  "author_source": "Microsoft Research ALICE / py-why, GitHub/PyPI, 0.15.x (2024-2025), MIT, Python, package",
+  "link": "https://github.com/py-why/EconML",
+  "note": "Double machine learning (LinearDML, CausalForestDML) for heterogeneous price elasticities controlling for confounders; case-study notebook on orange juice pricing.",
+  "course_use": "Advanced lab: naive OLS vs DML elasticity on OJ data; price endogeneity. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "DoWhy",
+  "author_source": "py-why community, GitHub/PyPI, 0.12+ (2024-2025), MIT, Python, package",
+  "link": "https://github.com/py-why/dowhy",
+  "note": "Causal workflow (model, identify, estimate, refute) with DAGs; frames price endogeneity before estimating elasticities.",
+  "course_use": "Conceptual demo why price-demand correlations are not elasticities. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "SciPy optimize for price optimisation",
+  "author_source": "SciPy developers, PyPI, 1.14+ (2025), BSD-3, Python, package",
+  "link": "https://docs.scipy.org/doc/scipy/reference/optimize.html",
+  "note": "minimize_scalar / minimize with bounds and constraints to find profit-maximising prices from an estimated demand function (price ladders, margin floors).",
+  "course_use": "Lab step after elasticity estimation; compare numeric optimum with Lerner rule. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "cvxgrp/elasticity-estimation",
+  "author_source": "Stanford Convex Optimization Group, GitHub, 2026, Python, code",
+  "link": "https://github.com/cvxgrp/elasticity-estimation",
+  "note": "Estimates full own- and cross-price elasticity matrices with regularised convex optimisation; multi-product pricing.",
+  "course_use": "Advanced demo or thesis starting point for assortment pricing. Free; check licence in repo.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "Van Westendorp PSM notebook (vivianamarquez)",
+  "author_source": "Viviana Marquez, GitHub, 2020, Python, notebook",
+  "link": "https://github.com/vivianamarquez/Van-Westendorp-Price-Sensitivity-Meter",
+  "note": "Jupyter notebook computing the four VW cumulative curves and intersections with pandas/matplotlib from raw responses.",
+  "course_use": "Python alternative for the VW lab; extend with NMS purchase-intent questions. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "Price elasticity estimation notebook (sumitdeole)",
+  "author_source": "sumitdeole, GitHub, 2024, Python, notebook",
+  "link": "https://github.com/sumitdeole/price-elasticity-estimation",
+  "note": "E-commerce case estimating price elasticity of a fish product basket with OLS and instrumental variables, illustrating endogeneity.",
+  "course_use": "Template for IV vs OLS lab. Free; student project, check code quality.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "Conjoint analysis of WTP (jbonfardeci)",
+  "author_source": "jbonfardeci, GitHub, 2021, notebook",
+  "link": "https://github.com/jbonfardeci/conjoint-analysis",
+  "note": "Worked conjoint analysis converting part-worths to monetary willingness to pay.",
+  "course_use": "Example for student term projects. Free; check licence.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "Dynamic pricing with reinforcement learning (divdasani)",
+  "author_source": "divdasani, GitHub, 2019, Python, thesis code",
+  "link": "https://github.com/divdasani/Dynamic-Pricing",
+  "note": "Single-agent dynamic pricing with RL in a simulated demand environment.",
+  "course_use": "Revenue-management demo of exploration vs exploitation in price setting. Free; academic code.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "Bandits with knapsacks dynamic pricing (Lunj12)",
+  "author_source": "Lunj12, GitHub, 2018, Python, notebook",
+  "link": "https://github.com/Lunj12/RL-Bandits-with-Knapsacks",
+  "note": "Dynamic pricing with limited inventory as a bandits-with-knapsacks problem; price experimentation algorithms.",
+  "course_use": "Short demo linking price A/B tests with multi-armed bandits. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "software",
+  "title": "Sawtooth Software Lighthouse Studio and Discover",
+  "author_source": "Sawtooth Software, vendor, 2025/2026, commercial, Windows desktop (Lighthouse) / web (Discover), app",
+  "link": "https://sawtoothsoftware.com/academics",
+  "note": "Industry standard for CBC, ACBC, MaxDiff with HB estimation and market simulators (WTP via share simulations). Academic programme: free classroom use of Discover; grants for master's (Discover) and PhD (Lighthouse Studio) students, non-commercial only.",
+  "course_use": "Class demo or project: CBC with price in Discover, field to classmates, run simulator. Free for classroom/grant; commercial licences paid.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "software",
+  "title": "Conjointly",
+  "author_source": "Conjointly, web SaaS, 2025/2026, commercial, app",
+  "link": "https://conjointly.com/",
+  "note": "Generic and brand-specific conjoint, Van Westendorp, Gabor-Granger, MaxDiff with automatic WTP and price-elasticity reports; extensive methodological guides.",
+  "course_use": "Lab: set up Gabor-Granger and VW studies and compare outputs. Education/free tier with limits; paid plans.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "software",
+  "title": "Qualtrics Conjoint and Pricing Studies",
+  "author_source": "Qualtrics XM, web, 2025/2026, commercial, app",
+  "link": "https://www.qualtrics.com/core-xm/conjoint-analysis/",
+  "note": "Conjoint and MaxDiff project types with simulator; Van Westendorp and Gabor-Granger templates.",
+  "course_use": "Survey fielding for projects; export data to R. Institutional licence (check WU access), login.",
+  "status": "neu; Link ungeprüft",
+  "access": "login"
+ },
+ {
+  "category": "software",
+  "title": "1000minds",
+  "author_source": "1000minds Ltd, web, 2025/2026, commercial with free academic licences, app",
+  "link": "https://www.1000minds.com/",
+  "note": "PAPRIKA adaptive conjoint; part-worths and attribute WTP; free licences for teaching and research.",
+  "course_use": "Classroom demo: adaptive conjoint on smartphone plans, results aggregated live. Free academic licence on application.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "software",
+  "title": "Displayr / Q Research Software",
+  "author_source": "Displayr, web (Displayr) / desktop (Q), 2025/2026, commercial, app",
+  "link": "https://www.displayr.com/",
+  "note": "Survey analysis with HB and latent-class choice models, conjoint simulators, Van Westendorp and Gabor-Granger templates; many free how-to articles.",
+  "course_use": "No-code conjoint-to-simulator demo. Paid; trial and educational discounts.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "software",
+  "title": "SurveyMonkey and Alchemer pricing research tools",
+  "author_source": "SurveyMonkey / Alchemer, web, 2025/2026, commercial, app",
+  "link": "https://www.surveymonkey.com/market-research/solutions/pricing-research/",
+  "note": "SurveyMonkey Market Research offers Van Westendorp and conjoint solutions; Alchemer has conjoint and MaxDiff question types.",
+  "course_use": "Low-barrier fielding alternatives. Paid tiers needed for conjoint.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "software",
+  "title": "Price management suites: Pricefx, PROS, Zilliant, Vendavo",
+  "author_source": "Pricefx, PROS Holdings, Zilliant, Vendavo, vendor SaaS, 2025/2026, commercial, enterprise apps",
+  "link": "https://www.pricefx.com/",
+  "note": "B2B price management: price waterfalls, deal guidance, AI price optimisation and elasticity models (PROS also airline revenue management). Vendor case studies and webinars.",
+  "course_use": "Context for B2B pricing session or guest lecture; students compare vendor approaches. Enterprise licences, demos on request.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "software",
+  "title": "Competera and Prisync (retail competitive pricing)",
+  "author_source": "Competera and Prisync, SaaS, 2025/2026, commercial, apps",
+  "link": "https://competera.ai/",
+  "note": "Competera: demand-based retail price optimisation with elasticities and cross-elasticities; Prisync: competitor price tracking and repricing rules for e-commerce SMEs.",
+  "course_use": "Demo of competitor-based vs value-based pricing tools. Paid; free trials.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "software",
+  "title": "Paddle / ProfitWell Metrics",
+  "author_source": "Paddle (acquired ProfitWell 2022), SaaS, 2025/2026, freemium, app",
+  "link": "https://www.paddle.com/profitwell-metrics",
+  "note": "Free subscription metrics (MRR, churn, ARPU); legacy Price Intelligently WTP research and SaaS pricing content.",
+  "course_use": "Case input for SaaS pricing session (value metric, tiers). Metrics free; consulting paid.",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "data",
+  "title": "Dominick's Finer Foods scanner data",
+  "author_source": "James M. Kilts Center for Marketing, Chicago Booth, dataset, about 1989-1997, academic-use terms",
+  "link": "https://www.chicagobooth.edu/research/kilts/research-data/dominicks",
+  "note": "Store-week-UPC movement data for about 100 Chicago stores and 29 categories (beer, cereals, canned tuna, refrigerated juices, etc.): price, units, profit margin, deal code; UPC files, daily customer counts, 1990 census store demographics. CSV and SAS; acknowledgement required.",
+  "course_use": "Lab: log-log elasticity for a category with store fixed effects, promotion and cross-price effects; optimal prices. Free for academic use, no login.",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "data",
+  "title": "NielsenIQ Retail Scanner and Consumer Panel (Kilts Center)",
+  "author_source": "Kilts Center for Marketing, Chicago Booth, dataset, 2006-present, restricted licence",
+  "link": "https://www.chicagobooth.edu/research/kilts/research-data/nielseniq",
+  "note": "Weekly store-UPC prices and units from tens of thousands of US stores plus a household panel of 40,000-60,000 households; reference data for modern pricing research.",
+  "course_use": "Faculty/PhD research only; institutional subscription and individual agreement; not for class distribution.",
+  "status": "neu; Link ungeprüft",
+  "access": "login"
+ },
+ {
+  "category": "data",
+  "title": "bayesm::camera conjoint data",
+  "author_source": "Peter Rossi, CRAN bayesm v3.1-7, GPL, R dataset",
+  "link": "https://cran.r-project.org/package=bayesm",
+  "note": "CBC on digital cameras: 332 respondents x 16 tasks, 4 brands plus none; attributes brand, pixels, zoom, video, swivel, wifi, price.",
+  "course_use": "Lab: MNL and HB-MNL, WTP for wifi or zoom, heterogeneity, share simulation. Free.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "bayesm::margarine and bayesm::orangeJuice",
+  "author_source": "Peter Rossi, CRAN bayesm, GPL, R datasets",
+  "link": "https://cran.r-project.org/package=bayesm",
+  "note": "margarine: household panel choices among 10 brands with prices and demographics (516 households). orangeJuice: Dominick's weekly store-level sales of 11 OJ brands in 83 stores with prices, deal, feature and store demographics.",
+  "course_use": "Labs: brand-choice MNL with price (margarine); store-level log-log demand and elasticity heterogeneity by demographics (orangeJuice). Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "mlogit datasets: Cracker, Catsup, Heating, Electricity",
+  "author_source": "Yves Croissant, CRAN mlogit, GPL, R datasets",
+  "link": "https://cran.r-project.org/package=mlogit",
+  "note": "Cracker: 3,292 purchases of 4 brands by 136 households (price, display, feature). Catsup: 2,798 ketchup purchases. Heating: 900 households choosing systems by installation and operating cost. Electricity: stated choice of supplier with price, contract length, time-of-day rates.",
+  "course_use": "Lab: brand-choice MNL with elasticities; Heating for WTP for operating-cost savings; Electricity for WTP for contract terms. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "conjoint::tea dataset",
+  "author_source": "CRAN conjoint package, GPL, R dataset",
+  "link": "https://cran.r-project.org/package=conjoint",
+  "note": "100 respondents rating 13 tea profiles on price, variety, kind, aroma (tprof, tpref, tlevn).",
+  "course_use": "Intro part-worth and importance lab. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "logitr datasets: yogurt and cars_us",
+  "author_source": "John Helveston, CRAN logitr, MIT, R datasets",
+  "link": "https://cran.r-project.org/package=logitr",
+  "note": "yogurt: 2,412 purchases by 100 households among 4 brands with price and feature. cars_us: stated-choice conjoint on vehicle type, price, fuel economy, acceleration, powertrain, range.",
+  "course_use": "Lab: WTP-space models for fuel economy and electric powertrain. Free.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "AER datasets: CigarettesSW and Journals",
+  "author_source": "Kleiber and Zeileis, CRAN AER, GPL, R datasets",
+  "link": "https://cran.r-project.org/package=AER",
+  "note": "CigarettesSW: US state panel of cigarette prices, taxes and packs (IV with tax as instrument). Journals: subscription prices and citations of 180 economics journals.",
+  "course_use": "Lab: IV vs OLS demand elasticity with ivreg(). Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Inside Airbnb - Vienna",
+  "author_source": "Inside Airbnb, portal, snapshot 17 Sep 2026, CC BY 4.0, CSV/GeoJSON",
+  "link": "https://insideairbnb.com/get-the-data/",
+  "note": "Vienna files: listings.csv.gz (nightly price, room type, district, capacity, reviews, superhost, amenities; roughly 12,000-14,000 listings), calendar.csv.gz (daily price and availability for a year), reviews.csv.gz, neighbourhoods.geojson. Quarterly snapshots.",
+  "course_use": "Lab: hedonic price regression for Vienna (implicit WTP for location, size, superhost); calendar data for weekday/event pricing. Free, open licence.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "The Economist Big Mac Index data",
+  "author_source": "The Economist, GitHub, semi-annual updates, data CC BY 4.0 / code MIT, CSV",
+  "link": "https://github.com/TheEconomist/big-mac-data",
+  "note": "big-mac-raw-index.csv, big-mac-adjusted-index.csv, big-mac-full-index.csv (2000-present, about 50-70 countries): local_price, dollar_ex, dollar_price, GDP_dollar, adj_price, raw and GDP-adjusted indices vs USD, EUR, GBP, JPY, CNY.",
+  "course_use": "Lab on international pricing: relate local prices to GDP per capita (income-adjusted WTP). Free.",
+  "status": "neu; Link geprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Eurostat HICP and Price Level Indices",
+  "author_source": "Eurostat, portal, monthly/annual, CC BY 4.0, CSV/SDMX",
+  "link": "https://ec.europa.eu/eurostat/web/hicp",
+  "note": "HICP by COICOP (prc_hicp_midx, prc_hicp_manr) incl. Austria; price level indices (prc_ppp_ind) for food, clothing, restaurants, electronics across countries.",
+  "course_use": "Lab: Austrian vs German/CEE price levels; international price corridors and grey imports. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Statistik Austria Verbraucherpreisindex (VPI/HVPI) open data",
+  "author_source": "Statistik Austria, data.statistik.gv.at and STATcube, monthly, CC BY 4.0, CSV",
+  "link": "https://data.statistik.gv.at/",
+  "note": "VPI 2020 (2020=100) with COICOP sub-indices; annual average reached 128.2 in 2025 (8.6% inflation in 2022).",
+  "course_use": "Lab/discussion: category price increases and shrinkflation in Austria 2022-2025; price pass-through. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "ECB Data Portal",
+  "author_source": "European Central Bank, portal, monthly, free reuse with attribution, CSV/API",
+  "link": "https://data.ecb.europa.eu/",
+  "note": "HICP series, Consumer Expectations Survey inflation expectations, exchange rates; API access.",
+  "course_use": "Context for pricing under inflation. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "OECD Data Explorer - prices and PPPs",
+  "author_source": "OECD, portal, CC BY 4.0, CSV/API",
+  "link": "https://data-explorer.oecd.org/",
+  "note": "CPI by category, comparative price levels and PPPs for OECD countries.",
+  "course_use": "International price comparisons for a global pricing assignment. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Open Prices (Open Food Facts)",
+  "author_source": "Open Food Facts, listed on data.europa.eu, 2024-, ODbL, CSV/Parquet/API",
+  "link": "https://data.europa.eu/data/datasets/67475976fc922a93fba72081",
+  "note": "Crowdsourced product-level supermarket prices with barcode, store, location and date across countries incl. Austria; links to product attributes.",
+  "course_use": "Lab: price dispersion for identical barcodes across retailers and countries; private-label gaps. Free, open licence.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Kaggle: Retail Price Optimization (suddharshan)",
+  "author_source": "suddharshan, Kaggle, dataset, licence see page, CSV",
+  "link": "https://www.kaggle.com/datasets/suddharshan/retail-price-optimization",
+  "note": "retail_price.csv: product-month demand and average unit price with competitor prices, freight, category and ratings (several hundred rows; exact schema not verified).",
+  "course_use": "Lab: elasticity by category and revenue-maximising price vs competitors. Free with Kaggle login.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "login"
+ },
+ {
+  "category": "data",
+  "title": "Kaggle: ride-hailing dynamic pricing dataset",
+  "author_source": "Kaggle community dataset, CSV, licence see page",
+  "link": "https://www.kaggle.com/search?q=dynamic+pricing+dataset",
+  "note": "About 1,000 rides with Number_of_Riders, Number_of_Drivers, Location_Category, Customer_Loyalty_Status, Vehicle_Type, Expected_Ride_Duration, Historical_Cost_of_Ride; widely used in surge-pricing tutorials. Synthetic; exact Kaggle page not verified.",
+  "course_use": "Lab: build a supply-demand surge multiplier; discuss fairness of dynamic pricing. Free with Kaggle login.",
+  "status": "neu; Link ungeprüft",
+  "access": "login"
+ },
+ {
+  "category": "data",
+  "title": "Kaggle: Uber and Lyft Cab Prices (Boston)",
+  "author_source": "ravi72munde, Kaggle, dataset, CSV",
+  "link": "https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices",
+  "note": "About 690,000 price quotes from Uber and Lyft in Boston (Nov-Dec 2018) with surge multiplier, distance, product, plus weather.",
+  "course_use": "Lab: surge pricing by time and weather; competitor price levels. Free with Kaggle login.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "login"
+ },
+ {
+  "category": "data",
+  "title": "Online Retail II (UCI)",
+  "author_source": "Daqing Chen, UCI Machine Learning Repository, CC BY 4.0, XLSX",
+  "link": "https://archive.ics.uci.edu/dataset/502/online+retail+ii",
+  "note": "UK online gift retailer transactions 2009-2011 (about 1.07 million rows): Invoice, StockCode, Description, Quantity, InvoiceDate, Price, Customer ID, Country.",
+  "course_use": "Lab: item price variation and quantity response; quantity discounts and country differences. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Olist Brazilian E-Commerce Public Dataset",
+  "author_source": "Olist, Kaggle, CC BY-NC-SA 4.0, CSV (9 tables)",
+  "link": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce",
+  "note": "About 100,000 orders 2016-2018 with item price, freight value, category, review score, seller and customer location.",
+  "course_use": "Lab: partitioned pricing (freight share), price vs reviews. Free with Kaggle login, non-commercial.",
+  "status": "neu; Link ungeprüft",
+  "access": "login"
+ },
+ {
+  "category": "data",
+  "title": "Instacart Market Basket Analysis",
+  "author_source": "Instacart, Kaggle competition data, non-commercial terms, CSV",
+  "link": "https://www.kaggle.com/c/instacart-market-basket-analysis",
+  "note": "3 million+ grocery orders from 200,000+ users with products, aisles, reorder flags; contains no prices.",
+  "course_use": "Only for bundling/cross-selling context. Free with Kaggle login.",
+  "status": "neu; Link ungeprüft",
+  "access": "login"
+ },
+ {
+  "category": "data",
+  "title": "Avocado Prices (Hass Avocado Board via Kaggle)",
+  "author_source": "Justin Kiggins / Hass Avocado Board, Kaggle, CSV",
+  "link": "https://www.kaggle.com/datasets/neuromusic/avocado-prices",
+  "note": "Weekly US retail scan data 2015-2018: AveragePrice, Total Volume, PLU volumes, bag sizes, type (conventional/organic), region (about 18,000 rows).",
+  "course_use": "Lab: elasticity of conventional vs organic avocados by region. Free with Kaggle login.",
+  "status": "neu; Link ungeprüft",
+  "access": "login"
+ },
+ {
+  "category": "data",
+  "title": "Expedia Hotel Search (ICDM 2013)",
+  "author_source": "Expedia via Kaggle; loader in choice-learn, dataset",
+  "link": "https://www.kaggle.com/c/expedia-personalized-sort",
+  "note": "About 10 million hotel impressions with price_usd, stars, review score, location score, promotion flag, click and booking.",
+  "course_use": "Lab: conditional logit hotel choice, WTP for stars/reviews in USD. Free with Kaggle login or via choice-learn.",
+  "status": "neu; Link ungeprüft",
+  "access": "login"
+ },
+ {
+  "category": "data",
+  "title": "Swissmetro stated-preference data",
+  "author_source": "Bierlaire/EPFL, distributed with Biogeme and choice-learn, free for research/teaching",
+  "link": "https://biogeme.epfl.ch/data.html",
+  "note": "10,728 choices (1,192 respondents x 9 tasks) among train, Swissmetro, car with time, cost, headway.",
+  "course_use": "Lab: WTP for travel-time savings; analogy to rail pricing (e.g. ÖBB). Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Harvard Dataverse: Consumer WTP for safer fish",
+  "author_source": "Harvard Dataverse, 2024, replication dataset",
+  "link": "https://doi.org/10.7910/DVN/EVMWVI",
+  "note": "Survey data on consumer WTP for safe fish (rohu, tilapia, pangasius).",
+  "course_use": "Real WTP survey data for replicating valuation analysis. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Purchase intention and WTP for circular beef (5 EU countries)",
+  "author_source": "Zenodo via data.europa.eu, 2023, open licence",
+  "link": "https://data.europa.eu/data/datasets/oai-zenodo-org-7620699",
+  "note": "5,246 food-buying consumers in 5 EU countries: purchase intention, WTP for circular beef, attitudes, demographics.",
+  "course_use": "Lab: drivers of WTP premiums for sustainability claims. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Experimental auction on consumer WTP (Zenodo)",
+  "author_source": "Zenodo via data.europa.eu, 2024, open licence",
+  "link": "https://data.europa.eu/data/datasets/oai-zenodo-org-11321391",
+  "note": "Experimental auction results on consumer perception and WTP for a food product.",
+  "course_use": "Discussion of incentive-compatible WTP (BDM, Vickrey) vs stated WTP. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Google Trends",
+  "author_source": "Google, web tool, free, CSV export",
+  "link": "https://trends.google.com/",
+  "note": "Search interest by region and time, e.g. 'Klimaticket', 'Preiserhöhung', streaming price increases in Austria.",
+  "course_use": "Lab: consumer attention around price changes. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "data",
+  "title": "data.gv.at incl. E-Control fuel prices and transport data",
+  "author_source": "Austrian Federal Chancellery, portal, mostly CC BY 4.0, CSV/API",
+  "link": "https://www.data.gv.at/",
+  "note": "Austrian open data: Statistik Austria tables, E-Control fuel price API (Spritpreisrechner), ÖBB and Wiener Linien timetable data; fares mostly not available as datasets.",
+  "course_use": "Lab: fuel price dispersion and time-of-day pricing across Austrian stations. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "open_access"
+ },
+ {
+  "category": "data",
+  "title": "Numbeo cost of living indices",
+  "author_source": "Numbeo, crowdsourced portal, proprietary terms",
+  "link": "https://www.numbeo.com/cost-of-living/",
+  "note": "Crowdsourced city prices (cappuccino, meal, transit pass, rent) and indices for Vienna and peers.",
+  "course_use": "Quick price-level comparisons; not representative. Free web, API paid.",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ }
+]

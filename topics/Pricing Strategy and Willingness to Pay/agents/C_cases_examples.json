@@ -1,0 +1,762 @@
+[
+ {
+  "category": "cases",
+  "title": "Pricing at Netflix",
+  "author_source": "Elie Ofek, Marco Bertini, Oded Koenigsberg, Amy Klopfenstein; Harvard Business School, product 521004, July 2020, 33 pages, case",
+  "link": "https://store.hbr.org/product/pricing-at-netflix/521004",
+  "note": "Decision (May 2020): raise prices again or change the pricing model, while Disney+, Apple TV+ and HBO Max enter. Case includes analyst views and willingness-to-pay survey evidence suggesting headroom for another increase. Illustrates value-based price increases, WTP measurement, competitive response and churn risk in subscriptions.",
+  "course_use": "Core case discussion session on subscription pricing; pair with the Sequel (523015) as a follow-up. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Pricing at Netflix: The Sequel",
+  "author_source": "Elie Ofek, Amy Klopfenstein; Harvard Business School, product 523015, August 2022, 7 pages, case (sequel to 521004)",
+  "link": "https://store.hbr.org/product/pricing-at-netflix-the-sequel/523015",
+  "note": "After the January 2022 price increase, growth slows; Netflix weighs games, charging for password sharing and an ad-supported tier priced below existing plans. Case compares rivals' ad tiers and asks how to design Netflix's ad tier and whether to raise prices again. Illustrates versioning/good-better-best tiers, price discrimination via ads, and monetising sharing.",
+  "course_use": "Short follow-up case for the second half of a session or a take-home memo; students can compare their design with Netflix's actual Nov 2022 ad tier. Listed at USD 5.00 on store.hbr.org; WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Netflix: Pricing Decision 2011",
+  "author_source": "David Robinson, Max Oltersdorf; UC Berkeley Haas School of Business, product B5766, January 2013, 13 pages, case",
+  "link": "https://store.hbr.org/product/netflix-pricing-decision-2011/B5766",
+  "note": "The 2011 split of streaming and DVD-by-mail into separately priced services (the Qwikster episode) triggered customer anger, cancellations and a roughly 60% fall in the share price. Rising content costs and new streaming competitors frame the pricing problem. Illustrates unbundling, reference prices, perceived fairness and how a price restructuring is communicated.",
+  "course_use": "Classic warm-up or contrast case to the 2020/2022 Netflix cases (failed vs. successful price increases). paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Dynamic Pricing at Wendy's: Where's the Beef?",
+  "author_source": "Elie Ofek, Alicia Dadlani, Martha Hostetter; Harvard Business School, product 525010, July 2024, 22 pages, case",
+  "link": "https://store.hbr.org/product/dynamic-pricing-at-wendy-s-where-s-the-beef/525010",
+  "note": "In early 2024 Wendy's announced digital menu boards to test dynamic pricing and AI suggestive selling; this triggered boycott calls and political criticism. Decision: should the CEO proceed and how can profits rise without losing customers amid rising costs and fast-casual competition. Illustrates dynamic pricing, price fairness, framing (surge vs. discount) and communication risk. Companion background note: 'Dynamic Pricing: Timing is Everything' (523110).",
+  "course_use": "Very current case discussion on dynamic pricing and fairness; works well with a role play (CEO vs. franchisees vs. consumer advocates). paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Wendy's: A \"Frosty\" Reception for Dynamic Pricing",
+  "author_source": "Fabrizio Di Muro (University of Winnipeg); Ivey Publishing, product W37154, June 2024, 9 pages, case",
+  "link": "https://store.hbr.org/product/wendy-s-a-frosty-reception-for-dynamic-pricing/W37154",
+  "note": "Shorter Ivey version of the Wendy's episode: CEO Kirk Tanner's February 2024 announcement of dynamic pricing tests for 2025, the backlash, and the USD 1 burger response during March Madness. Asks how to introduce dynamic pricing as 2025 approaches. Same concepts as HBS 525010 but more compact; Ivey cases usually come with a teaching note (check).",
+  "course_use": "Undergraduate or short-session alternative to HBS 525010; good for a 45-minute in-class discussion. Paid via HBP or Ivey Publishing (list USD 11.95); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Dynamic Pricing: Timing is Everything",
+  "author_source": "Elie Ofek; Harvard Business School, product 523110, industry and background note, approx. 21 pages",
+  "link": "https://store.hbr.org/product/dynamic-pricing-timing-is-everything/523110",
+  "note": "Background note explaining why firms use dynamic (time-dependent) pricing, a taxonomy of formats, many practical examples, the link to price discrimination and algorithmic pricing, and pitfalls with mitigation strategies. Not a decision case, but the natural pre-reading for the Wendy's, Uber or ticketing discussions.",
+  "course_use": "Assigned pre-reading before a dynamic pricing case session. Listed approx. USD 8.95 on store.hbr.org; HBP Educator academic price lower; WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "J.C. Penney's \"Fair and Square\" Pricing Strategy",
+  "author_source": "Elie Ofek, Jill Avery; Harvard Business School, product 513036, September 2012, 27 pages, case (follow-ups: Abridged 514063, (B) 514085, (C) 514073)",
+  "link": "https://store.hbr.org/product/j-c-penney-s-fair-and-square-pricing-strategy/513036",
+  "note": "Ron Johnson replaced high-low promotions with a three-tier everyday pricing scheme ('Fair and Square') in February 2012; shoppers used to coupons and circulars defected. Decision before back-to-school 2012: are the August adjustments enough, and should the broader repositioning continue. Illustrates EDLP vs. high-low, reference prices, deal-proneness and the psychology of discounts. B and C cases cover the reversal under Mike Ullman.",
+  "course_use": "Flagship case for behavioural pricing / promotions; use B/C cases as an in-class reveal. Darden also offers 'J. C. Penney: Reinventing Fair and Square Deals (A)/(B)' (UV6401/UV6402). paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Freemium Pricing at Dropbox",
+  "author_source": "Thales S. Teixeira, Elizabeth Anne Watkins; Harvard Business School, product 514053, November 2013, 10 pages, case",
+  "link": "https://store.hbr.org/product/freemium-pricing-at-dropbox/514053",
+  "note": "Dropbox grew to about 200 million users with a free basic tier and paid premium tier, yet only an estimated 1.6 to 4.0% paid. Case surveys cloud-storage competitors' pricing and compares freemium conversion rates and revenue across sectors. Illustrates freemium economics, conversion, referral programmes and the free-tier fence design.",
+  "course_use": "Case discussion or quantitative exercise on freemium conversion and customer lifetime value. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Basecamp: Pricing",
+  "author_source": "Frank V. Cespedes, Robb Fitzsimmons; Harvard Business School, product 817067, November 2016, 21 pages, case",
+  "link": "https://store.hbr.org/product/basecamp-pricing/817067",
+  "note": "A data analyst at Basecamp reviews market research on pricing for the new version of the project-management software and must interpret it. Illustrates SaaS price structure (flat vs. per-user), using survey/market research data for pricing and B2B price metrics. Listed as a bestseller in HBP's B2B Marketing collection; also available via The Case Centre.",
+  "course_use": "SaaS pricing session; students analyse the research exhibits and recommend a price structure. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Curled Metal Inc. - Engineered Products Division",
+  "author_source": "Benson P. Shapiro, Frank V. Cespedes; Harvard Business School, product 709434, October 2008, 14 pages, case (Spanish version 709S05)",
+  "link": "https://store.hbr.org/product/curled-metal-inc-engineered-products-division/709434",
+  "note": "New pile-driver pads deliver customer benefits worth many times their manufacturing cost in field tests; the team must set a price. Classic economic value to the customer (EVC) / value-based pricing exercise: calculate customer benefits, then weigh other factors that affect willingness to pay and the strategic fit of the price. Update of the older Cumberland Metal Industries case (580104).",
+  "course_use": "Standard EVC calculation exercise in class (students compute value per pad from exhibits); good exam case. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "The Apple iPhone",
+  "author_source": "Paul W. Farris, James Mitchell, Robert E. Spekman; Darden School of Business, product UV1228, July 2008, 14 pages, case",
+  "link": "https://store.hbr.org/product/the-apple-iphone/UV1228",
+  "note": "Traces the 2007 iPhone launch, the price cut shortly after launch and Apple's market-share goals, ending with the July 2008 3G launch. Includes public data on production costs, channel margins and marketing expenses, so students can compute margins, break-even and customer lifetime value with carrier revenue sharing. Illustrates skimming, price elasticity and early-adopter backlash.",
+  "course_use": "Quantitative case discussion on skimming and margin analysis. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Uber Pricing Strategies and Marketing Communications",
+  "author_source": "Paul W. Farris, Gerry Yemen, Virginia Weiler, Kusum Ailawadi; Darden School of Business, product UV6878, May 2014, 15 pages, case",
+  "link": "https://store.hbr.org/product/uber-pricing-strategies-and-marketing-communications/UV6878",
+  "note": "Uber as of March 2014: rapid growth via supply-demand matching (surge pricing) and word of mouth, plus backlash as UberX moved into taxi-style service. Frames Uber as a value-adding middleman for riders and drivers; contrasts with Tesla's direct sales. Illustrates surge pricing, two-sided market pricing and communicating price changes.",
+  "course_use": "Case discussion on surge pricing; combine with the Cohen et al. consumer surplus study (examples) and HBR commentary 'Everyone Hates Uber's Surge Pricing' (H02KQ1). paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Llao Llao: Setting a Pricing Strategy",
+  "author_source": "Ayelet Israeli, Eva Ascarza, Carla Larangeira, Mariana Cal; Harvard Business School, product 527003, July 2026, 20 pages, case",
+  "link": "https://store.hbr.org/product/llao-llao-setting-a-pricing-strategy/527003",
+  "note": "Luxury resort in Patagonia with 16 room categories across several seasons: keep the complex, revenue-maximising price structure or simplify it to improve booking experience, reduce complexity and build trust. Set in Argentina's high-inflation, volatile-exchange-rate environment. Illustrates revenue management, price complexity vs. fairness, and pricing under inflation.",
+  "course_use": "Brand-new (2026) hotel revenue management case; good for MBA discussion on complexity vs. revenue optimisation. Check whether teaching note is already released. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Pricing Simulation: Universal Rental Car V2",
+  "author_source": "John T. Gourville, Thomas T. Nagle, John Hogan; Harvard Business Publishing, product 7005-HTM-ENG (store 7005HB), August 2011, online simulation, approx. 2 to 3.5 hours",
+  "link": "https://hbsp.harvard.edu/product/7005-HTM-ENG",
+  "note": "Single-player simulation: students act as district manager setting weekday/weekend rental prices in Miami, Orlando and Tampa over 12 months, with business vs. leisure segments, seasonal demand, competitor reactions and fleet transfers. Learning objectives: price elasticity, segment-based pricing, seasonality, inventory optimisation, competitive response. Three preset scenarios plus custom scenarios; instructor guide/debrief materials via HBP Educator.",
+  "course_use": "In-class or homework simulation with debrief (approx. 20 min intro, 60-90 min play, 60 min debrief). Paid: listed approx. USD 16.60 per student on HBP (HBR store single licence USD 45); WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Marketplace Tutorial Bundle: Pricing",
+  "author_source": "Marketplace Simulations / Harvard Business Publishing, product MP0059-HTM-ENG, January 2025, interactive tutorials, approx. 40 minutes",
+  "link": "https://www.hbsp.harvard.edu/product/MP0059-HTM-ENG",
+  "note": "Two interactive tutorials ('Fundamentals of Pricing' and 'Price Elasticity in Practice') in which students set prices for a coffee roasting business. Covers basic price-volume-profit logic and elasticity; suitable as a primer before a full case or simulation.",
+  "course_use": "Pre-class warm-up for students without economics background. Paid: listed USD 25 per student (degree course); WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "OpenAI: Outcome-based Pricing Using Willingness-to-pay Surveys and Conjoints",
+  "author_source": "Diego Aparicio, Manuel Bertolotto; IESE Business School, product I00343, July 2026, 4 pages, case/exercise",
+  "link": "https://store.hbr.org/product/openai-outcome-based-pricing-using-willingness-to-pay-surveys-and-conjoints/I00343",
+  "note": "OpenAI must choose among subscription, usage-based and outcome-based pricing for generative AI products. Students estimate WTP with Van Westendorp, Gabor-Granger and BDM methods, then use conjoint analysis to build a data-driven B2C pricing recommendation. Directly on topic: WTP measurement methods plus AI pricing models.",
+  "course_use": "Hands-on WTP methods exercise (very short case, likely with data files; verify). Ideal for a WTP-measurement session. Paid (list USD 11.95); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Measuring Willingness to Pay for Pricing Decisions",
+  "author_source": "Kamel Jedidi, Sharan Jagpal; Columbia Business School CaseWorks, ID 090501, January 2009, case/note",
+  "link": "https://caseworks.business.columbia.edu/caseworks/measuring-willingness-pay-pricing-decisions",
+  "note": "Teaches methods for measuring WTP: actual purchase data, self-stated WTP, contingent valuation, choice-based conjoint and experimental auctions; then applies WTP data to segmented pricing, nonlinear pricing, bundling and product-line pricing. Strong conceptual backbone for a WTP lecture.",
+  "course_use": "Pre-reading for a WTP methods session or basis for an exam question comparing methods. Paid via Study.net or The Case Centre; teaching note not stated on page; WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Using Market Research to Assess Willingness to Pay for Pricing Decisions",
+  "author_source": "Kamel Jedidi, Robert J. Morais; Columbia Business School, product CU378, July 2023, 18 pages, note/white paper",
+  "link": "https://store.hbr.org/product/using-market-research-to-assess-willingness-to-pay-for-pricing-decisions/CU378",
+  "note": "Explains how qualitative and quantitative research (e.g. Van Westendorp, Gabor-Granger, conjoint) identify market opportunities and the price point that best matches WTP, with consumer-product examples. Updated companion to the 2009 Columbia WTP case.",
+  "course_use": "Assigned reading before running a Van Westendorp or conjoint exercise in class. Paid (list USD 11.95; also on The Case Centre); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "eReading: Amazon's Kindle",
+  "author_source": "Bharat N. Anand, Peter W. Olson, Mary Tripsas; Harvard Business School, product 709486, February 2009, 14 pages, case",
+  "link": "https://store.hbr.org/product/ereading-amazon-s-kindle/709486",
+  "note": "Amazon's November 2007 Kindle launch and how publishers (Penguin), retailers (Barnes & Noble), device makers (Apple, Sony), Google and Adobe should respond. Useful for discussing the USD 9.99 e-book price point, razor-blade logic (device vs. content) and ecosystem pricing power; the later agency-model dispute can be added from news. Related: 'The Random House Response to the Kindle' (710444).",
+  "course_use": "Case discussion on platform/ecosystem pricing and complementary goods. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Muscle-RDX: Pricing, Packaging, and Demand Forecasting for a New Product",
+  "author_source": "Prem Dewani, Achint Nigam; Ivey Publishing, product W16794, 2016, case",
+  "link": "https://store.hbr.org/product/muscle-rdx-pricing-packaging-and-demand-forecasting-for-a-new-product/W16794",
+  "note": "Indian sports-nutrition firm launching a whey protein must forecast demand before launch to choose pricing strategy and pack size. Illustrates new-product pricing, pack-size price architecture and demand forecasting. Ivey cases typically include a teaching note (check).",
+  "course_use": "First-year MBA/Master quantitative case; good group assignment. Paid (list USD 11.95); WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "The Springfield Nor'easters: Maximizing Revenues in the Minor Leagues",
+  "author_source": "Frank V. Cespedes, Laura Winig, Christopher H. Lovelock; Harvard Business School Brief Case, product 2510, July 2008, 13 pages, case",
+  "link": "https://store.hbr.org/product/the-springfield-nor-easters-maximizing-revenues-in-the-minor-leagues/2510",
+  "note": "Marketing director of a new minor-league team must use survey research to set ticket prices that fill seats and let the owner break even in season one; concession revenue complicates the problem. Learning objectives: survey design and interpretation, building a scaled (tiered) pricing strategy quantitatively, and cross-product effects.",
+  "course_use": "Quantitative WTP-from-survey exercise; good for Bachelor/Master; audio version available. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "American Airlines' Value Pricing (Abridged)",
+  "author_source": "Harvard Business School, 2018 abridged version; related product 595037 'American Airlines' Value Pricing (C)', case series",
+  "link": "https://hbsp.harvard.edu/product/595037-PDF-ENG",
+  "note": "American Airlines' 1992 attempt to simplify fares into a few value-pricing levels and the competitive reactions that followed (fare war). Illustrates price simplification, signalling and competitive response in oligopoly, and why revenue management complexity persists.",
+  "course_use": "Classic competitive pricing case; pair with Llao Llao (complexity vs. simplicity). paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Michelin Fleet Solutions: From Selling Tires to Selling Kilometers",
+  "author_source": "Chloe Renault, Frederic Dalsace, Wolfgang Ulaga; HEC Paris, distributed by The Case Centre, 2010, 15 pages, case (IMD abridged version IMD-5-0793, 2013, 5 pages)",
+  "link": "https://www.thecasecentre.org/products/view?id=96546",
+  "note": "Michelin launched MFS in 2000 to sell kilometres instead of tyres to European truck fleets; by 2003 growth is below expectations and profitability poor. Illustrates outcome/usage-based pricing, value capture in B2B solutions and the risks of pay-per-use contracts. Ranked No. 34 in The Case Centre's top 50 cases of 50 years; bestseller 2023-2025.",
+  "course_use": "Key B2B case for usage-based / outcome pricing; links to current AI outcome-based pricing (Intercom Fin). Paid via The Case Centre (approx. USD 5.75 per copy academic, teaching note available to educators); WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Rolls-Royce's Customer Service and Aftermarket Services",
+  "author_source": "The Case Centre listing, product id 168501, case (publisher per listing)",
+  "link": "https://www.thecasecentre.org/products/view?id=168501",
+  "note": "Covers Rolls-Royce's power-by-the-hour aftermarket model (fixed maintenance fee per engine flight hour, differentiated service packages) and the later Trent engine problems that cost GBP 370m (2018) and GBP 270m (2019). Illustrates performance-based pricing, risk transfer and its downside. Rolls-Royce's own TotalCare page explains the USD per flying-hour mechanism.",
+  "course_use": "B2B outcome-based pricing discussion together with Michelin; check origin and teaching note on The Case Centre. Paid; WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "The Genie Is Out of the Bottle - Dynamic Pricing at Disney",
+  "author_source": "Jose Mendoza; distributed by The Case Centre, product id 203568, 2024, case",
+  "link": "https://www.thecasecentre.org/products/view?id=203568",
+  "note": "Examines Disney's theme-park dynamic pricing and the paid Genie+ queue-skip service, and critiques ethical and socio-economic consequences such as perceived inequity and customer dissatisfaction. Illustrates price discrimination, unbundling of experience elements and fairness.",
+  "course_use": "Discussion on dynamic pricing ethics; contrasts with Wendy's (failed announcement) and Ticketmaster (regulatory response). Paid via The Case Centre; WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Spotify - Price Discrimination",
+  "author_source": "The Case Centre listing, product id 170463, case",
+  "link": "https://www.thecasecentre.org/products/view?id=170463",
+  "note": "Case on Spotify's freemium model and discounted Family/Student plans as price discrimination across segments. Useful for versioning, segment fences (student verification, household) and freemium conversion; update with 2023-2025 Spotify price increases from the examples list.",
+  "course_use": "Short case discussion on price discrimination and fences; verify publisher and teaching note on The Case Centre. Paid; WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Pricing and content - Netflix's dilemma in India",
+  "author_source": "Emerald Emerging Markets Case Studies (EEMCS), DOI 10.1108/EEMCS-12-2021-0411, case with teaching note",
+  "link": "https://www.emerald.com/eemcs/article-abstract/doi/10.1108/EEMCS-12-2021-0411/461522/Pricing-and-content-Netflix-s-dilemma-in-India?redirectedFrom=PDF",
+  "note": "Netflix in India must choose between its profitable high-price strategy and its target of 100 million Indian subscribers. Illustrates international price differentiation, low-income-market pricing (mobile-only plan), and price vs. penetration trade-offs. EEMCS cases include teaching notes.",
+  "course_use": "International pricing session; contrast with Netflix's US price increases. Access via Emerald (WU-Lizenz prüfen, Emerald case collections are often licensed by libraries)",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "cases",
+  "title": "VidMorph: Pricing Strategy for a SaaS Product",
+  "author_source": "Sage Business Cases, 2026, case",
+  "link": "https://sk.sagepub.com/cases/vidmorph-pricing-strategy-for-a-saas-product",
+  "note": "SaaS start-up must choose subscription vs. usage-based model, free trial vs. freemium, and a price point using the Van Westendorp price sensitivity meter. Directly combines SaaS pricing models with a WTP method.",
+  "course_use": "Group exercise: run a Van Westendorp analysis and recommend a plan structure. Access: Sage Business Cases (institutional licence; WU-Lizenz prüfen)",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "cases",
+  "title": "Disney+: Pricing and Strategy",
+  "author_source": "Sage Business Cases, 2022, case",
+  "link": "https://sk.sagepub.com/cases/download/disney-plus-pricing-and-strategy",
+  "note": "Pricing strategy behind Disney+ including tiers and premium options; helps students understand strategies for pricing new subscription offerings. Combine with the December 2022 ad-tier launch and later increases (examples list).",
+  "course_use": "Case discussion on streaming tiers. Access: Sage Business Cases (WU-Lizenz prüfen)",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "cases",
+  "title": "Implications of Pricing Decisions in the Luxury Sector: The Mulberry Case",
+  "author_source": "Sage Business Cases, 2019, case",
+  "link": "https://sk.sagepub.com/cases/implications-of-pricing-decisions-luxury-sector-the-mulberry-case",
+  "note": "British luxury brand Mulberry raised prices to target wealthier overseas shoppers and alienated its middle-class British customer base. Illustrates prestige pricing, brand positioning and the risks of repositioning via price.",
+  "course_use": "Luxury/premium pricing discussion (relevant for Red Bull or Apple premium discussions). Access: Sage Business Cases (WU-Lizenz prüfen)",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "cases",
+  "title": "Sovaldi: Pricing of New Products and Consequences",
+  "author_source": "Sage Business Cases, 2019, case",
+  "link": "https://sk.sagepub.com/cases/sovaldi-pricing-of-new-products-and-consequences",
+  "note": "Gilead launched its hepatitis C drug Sovaldi at USD 1,000 per pill (about USD 84,000 per treatment course) and faced fairness and transparency criticism. Illustrates value-based pricing in pharma, payer WTP vs. patient WTP, and public backlash.",
+  "course_use": "Ethics-of-value-pricing discussion; pair with Sage 'Pricing a New Drug' (2019). Access: Sage Business Cases (WU-Lizenz prüfen)",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "cases",
+  "title": "Decoding Dynamic Pricing Strategy",
+  "author_source": "Sage Business Cases, 2021, case",
+  "link": "https://sk.sagepub.com/cases/decoding-dynamic-pricing-strategy",
+  "note": "Overview of dynamic pricing from company and customer perspectives using Uber, Orbitz and Target, including ethical and legal issues (e.g. device- or location-based price differences).",
+  "course_use": "Undergraduate-friendly dynamic pricing case. Access: Sage Business Cases (WU-Lizenz prüfen)",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "cases",
+  "title": "Ryanair Holdings plc / Dogfight over Europe: Ryanair",
+  "author_source": "Harvard Business School; 'Ryanair Holdings plc' product 106003; 'Dogfight over Europe: Ryanair (B)' product 700116; also 'Ryanair: Can a Leopard Change Its Spots?' TB0537",
+  "link": "https://store.hbr.org/product/ryanair-holdings-plc/106003",
+  "note": "Ryanair as low-fare airline with a stated goal of cutting average fares every year, funded by ancillary revenues and drip pricing. TB0537 covers the later move from pure low-cost to more value-added positioning. Illustrates cost-based low pricing, ancillary/partitioned pricing and unbundling. For Southwest see 'Southwest Airlines (A)' 575060.",
+  "course_use": "Case discussion on low-cost pricing models and partitioned pricing; European context relevant for Austrian students. paid: HBP Educator academic price approx. USD 5-6 per student (store.hbr.org list USD 11.95); teaching note: check HBP Educator (free for registered educators); WU-Lizenz prüfen",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "cases",
+  "title": "Conjoint analysis teaching curricula and Discover-CBC (Sawtooth Software Academic Program)",
+  "author_source": "Sawtooth Software, academic teaching resources: 1-day and 5-day curricula, Discover-CBC software free for teaching",
+  "link": "https://sawtoothsoftware.com/academics/teaching-resources/one-day-curriculum",
+  "note": "Ready-made teaching curricula for conjoint analysis, including a short in-class exercise and a graduate-level 5-day curriculum where students design and run a choice-based conjoint with Discover-CBC and a market simulator, which Sawtooth offers free for learning purposes. Lets students derive WTP from part-worths and simulate price changes.",
+  "course_use": "Classroom WTP/conjoint exercise with student-collected data; free academic access (registration/login required)",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "login"
+ },
+ {
+  "category": "cases",
+  "title": "Markstrat (Digital Markstrat) marketing strategy simulation",
+  "author_source": "StratX Simulations (distributed also via HBP), multi-period team simulation",
+  "link": "https://www.stratxsimulations.com/",
+  "note": "Teams manage competing firms in a durable-goods electronics market over about 8 periods, deciding pricing alongside production, targeting and product design; performance tracked via a stock price index combining share, profit and brand value. Pricing trade-offs (price cuts for share vs. margins, competitor reactions) emerge naturally. Not pricing-only, but widely used for integrated marketing courses.",
+  "course_use": "Semester-long team simulation where pricing is one lever; check WU licences (many European schools license it). Paid per student",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "examples",
+  "title": "Uber consumer surplus from surge pricing data (Cohen, Hahn, Hall, Levitt, Metcalfe)",
+  "author_source": "Peter Cohen, Robert Hahn, Jonathan Hall, Steven Levitt, Robert Metcalfe; NBER Working Paper 22627, September 2016, research paper",
+  "link": "https://www.nber.org/papers/w22627",
+  "note": "Uses almost 50 million UberX sessions and the discontinuities created by surge pricing (regression discontinuity) to estimate demand curves. Consumer surplus in 2015 in four US cities about USD 2.9 billion; about USD 1.60 surplus per dollar spent; back-of-the-envelope US total about USD 6.8 billion. Shows how dynamic pricing data reveal willingness to pay. Caveat: two authors worked for Uber.",
+  "course_use": "Lecture example on measuring WTP from revealed preference; exam question on consumer surplus. Free working paper (NBER may require free login for PDF)",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Oasis reunion tour tickets: Ticketmaster dynamic/tiered pricing and CMA undertakings",
+  "author_source": "UK Competition and Markets Authority (CMA), case page 'Ticketmaster consumer protection case', 2024-2025, regulator",
+  "link": "https://www.gov.uk/cma-cases/ticketmaster-consumer-protection-case",
+  "note": "In the August 2024 Oasis on-sale, standing-ticket prices rose sharply while fans waited in queues (media reported about GBP 148 rising to about GBP 355; figure not on CMA page). CMA opened an investigation on 5 Sep 2024; Ticketmaster signed undertakings on 15 Sep 2025: 24 hours' notice if tiered pricing is used, more price information in queues, no misleading ticket labels, reporting to CMA for two years. Illustrates dynamic pricing, price transparency and consumer law limits.",
+  "course_use": "Warm-up and ethics discussion: is tiered release pricing 'dynamic pricing'? Free",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Bruce Springsteen ticket prices and '7 Lessons on Dynamic Pricing'",
+  "author_source": "Harvard Business Review / HBP, product H078XM, 2022, article",
+  "link": "https://hbsp.harvard.edu/product/H078XM-PDF-ENG",
+  "note": "Fans were outraged when Ticketmaster's demand-based 'platinum' pricing pushed some Springsteen seats above USD 5,000 in 2022. The article draws lessons on dynamic pricing (communication, fairness, who captures surplus vs. resale market). Precursor to the Oasis case.",
+  "course_use": "Short reading for a dynamic pricing session. Paid HBR article (short, approx. USD 9 list); WU library may have HBR access via EBSCO",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "examples",
+  "title": "Wendy's dynamic pricing backlash (2024)",
+  "author_source": "Wendy's CEO Kirk Tanner, earnings call February 2024; documented in Ivey case W37154 and HBS case 525010",
+  "link": "https://store.hbr.org/product/wendy-s-a-frosty-reception-for-dynamic-pricing/W37154",
+  "note": "Tanner announced USD 20m investment in digital menu boards and tests of 'dynamic pricing' from 2025; media framed it as surge pricing for burgers. Wendy's clarified it only meant lower prices in slow periods and ran a USD 1 burger promotion. Classic example of framing: discounts in off-peak periods are accepted, surcharges at peak are not (cf. Kahneman, Knetsch, Thaler 1986).",
+  "course_use": "5-minute warm-up: show headlines, ask students to rewrite the announcement. Free news coverage; cases paid",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Netflix paid sharing / password-sharing crackdown",
+  "author_source": "Netflix; NPR coverage 'Netflix to put a price on password sharing', March 2022, news article",
+  "link": "https://www.kosu.org/2022-03-18/netflix-to-put-a-price-on-password-sharing",
+  "note": "After its first subscriber losses in a decade, Netflix tested and then (2023) rolled out paid sharing: an extra-member fee for users outside the household. Netflix estimated more than 100 million households were using shared accounts; analysts estimated up to USD 1.6bn extra revenue per year. Subscriber growth accelerated after the 2023 rollout despite initial outrage. Illustrates monetising free-riding, fences and fairness perceptions.",
+  "course_use": "Discussion: when does closing a loophole raise WTP-based revenue without churn? Free",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Netflix ad-supported tier and US price increases (2022-2025)",
+  "author_source": "Netflix Help Center 'Plans and pricing'; Netflix shareholder letters, company information",
+  "link": "https://help.netflix.com/en/node/24926",
+  "note": "Netflix launched 'Basic with Ads' in November 2022 at USD 6.99 in the US; in January 2025 US prices rose to USD 7.99 (with ads), USD 17.99 (Standard) and USD 24.99 (Premium). Ad tier lowers the entry price for price-sensitive segments while ads monetise their attention; classic good-better-best versioning. Check current prices before class.",
+  "course_use": "Exercise: build a three-tier price ladder and estimate which segments self-select. Free",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Disney+ ad tier launch and ad-free price increase (December 2022)",
+  "author_source": "The Walt Disney Company press release / Disney+, December 2022, company information",
+  "link": "https://thewaltdisneycompany.com/disney-to-launch-ad-supported-tier/",
+  "note": "Disney+ introduced 'Disney+ Basic' with ads at USD 7.99 (the former ad-free price) and raised ad-free Disney+ Premium to USD 10.99 on 8 December 2022. The move effectively re-priced the existing product upward while keeping the old price point as a with-ads anchor. Later increases followed in 2023-2025. Illustrates anchoring and versioning.",
+  "course_use": "Compare with Netflix's ad tier; class discussion on 'who pays for ads'. Free (verify press-release URL)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Spotify Premium price increases (2023-2025)",
+  "author_source": "Spotify Newsroom, company announcements",
+  "link": "https://newsroom.spotify.com/",
+  "note": "Spotify raised US Premium Individual from USD 9.99 to 10.99 in July 2023, its first US increase since launch in 2011, and to USD 11.99 in 2024, with further increases in many European markets in 2025. Churn stayed low, suggesting WTP had been under-monetised; Family, Duo and Student plans act as price discrimination fences.",
+  "course_use": "Warm-up: why could Spotify keep the price constant for 12 years and then raise it? Free (verify exact figures on newsroom)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Amazon Prime fee increases and elasticity",
+  "author_source": "Amazon company announcements; Amazon annual reports, company information",
+  "link": "https://www.aboutamazon.com/",
+  "note": "US Prime fee rose from USD 79 to 99 (2014), 119 (2018) and 139 (2022); in Germany from EUR 69 to 89.90 per year (2022). Membership kept growing, implying low price elasticity due to bundled value (shipping, video, music) and switching costs. Illustrates bundling, membership pricing and lock-in.",
+  "course_use": "Exercise: estimate implied elasticity with membership estimates; discuss bundle value. Free (verify exact dates)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Airbnb Smart Pricing and racial revenue gap (Zhang, Mehta, Singh, Srinivasan)",
+  "author_source": "Shunyuan Zhang, Nitin Mehta, Param Vir Singh, Kannan Srinivasan; Marketing Science 40(5), 2021, 'Frontiers: Can an Artificial Intelligence Algorithm Mitigate Racial Economic Inequality? An Analysis in the Context of Airbnb', research article",
+  "link": "https://doi.org/10.1287/mksc.2021.1295",
+  "note": "Airbnb's Smart Pricing algorithm suggests nightly prices to hosts. Hosts who adopted it increased revenue, and among adopters the revenue gap between white and Black hosts shrank substantially, but Black hosts were less likely to adopt, so the overall gap could widen. Shows algorithmic pricing benefits and distributional effects. Technical background: Ye et al. (KDD 2018) 'Customized Regression Model for Airbnb Dynamic Pricing'.",
+  "course_use": "Discussion on algorithmic pricing and fairness; paid journal (WU-Lizenz via INFORMS likely)",
+  "status": "neu; Link ungeprüft",
+  "access": "wu_licence"
+ },
+ {
+  "category": "examples",
+  "title": "The Economist subscription decoy (Ariely)",
+  "author_source": "Dan Ariely, 'Predictably Irrational', HarperCollins 2008, chapter 1, book example (MIT student experiment)",
+  "link": "https://danariely.com/books/predictably-irrational/",
+  "note": "Offer: web-only USD 59, print-only USD 125, print+web USD 125. With the dominated print-only decoy, 84% of 100 MIT students chose print+web and 16% web-only; without the decoy, 68% chose web-only and 32% print+web. Illustrates the decoy/asymmetric dominance effect in price architecture. Caveat: small classroom sample; replications show weaker effects.",
+  "course_use": "Run the same choice live in class with two groups (online poll) before revealing the results. Book (paid); free summaries exist",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "J.C. Penney 'Fair and Square' pricing failure (2012-2013)",
+  "author_source": "J.C. Penney annual report 2012; documented in HBS case 513036 (Ofek, Avery)",
+  "link": "https://store.hbr.org/product/j-c-penney-s-fair-and-square-pricing-strategy/513036",
+  "note": "Replacing hundreds of promotions per year with everyday prices and three tiers led to roughly a 25% decline in 2012 sales (about USD 4bn) and CEO Ron Johnson's dismissal in April 2013; coupons and 'sales' returned. Shows that consumers value the transaction utility of deals, not just low final prices (Thaler).",
+  "course_use": "Warm-up: show old and new price tags and ask which shoppers prefer. Free news coverage; case paid",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Coca-Cola temperature-sensitive vending machines (1999) and Spain's Minute Maid machine (2012-2013)",
+  "author_source": "Tampa Bay Times archive, 'Coke tests vending machine that alters price', 28 October 1999, news article",
+  "link": "https://www.tampabay.com/archive/1999/10/28/coke-tests-vending-machine-that-alters-price",
+  "note": "CEO Douglas Ivester said it was 'fair' that a cold drink should cost more on hot days; public backlash followed and Coca-Cola said the technology was not deployed. In contrast, a 2012-2013 Minute Maid campaign in Spain used machines that lowered prices as temperature rose (approx. USD 1.20 above 86F vs. USD 2.40 at cooler temperatures). Same mechanism, opposite framing.",
+  "course_use": "Classic framing/fairness example for a dynamic pricing lecture. Free",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Apple iPhone launch price cut and USD 100 credit (2007)",
+  "author_source": "Apple; documented in Darden case UV1228; Wikipedia overview",
+  "link": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
+  "note": "The 8GB iPhone launched at USD 599 in June 2007; about two months later Apple cut it to USD 399. After early-adopter anger, Steve Jobs offered a USD 100 Apple Store credit. Illustrates price skimming, intertemporal price discrimination and reference-price fairness.",
+  "course_use": "Warm-up on skimming; discuss whether the credit was necessary. Free",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Tesla price cuts (2023) and margin effects",
+  "author_source": "Tesla Investor Relations, quarterly updates 2023, company information",
+  "link": "https://ir.tesla.com/",
+  "note": "From January 2023 Tesla cut prices repeatedly (e.g. Model Y in the US by up to about 20%), boosting volume and squeezing rivals but reducing automotive gross margin, and angering recent buyers in China who protested at showrooms. Illustrates price as a competitive weapon, cost-down pass-through and price-protection expectations.",
+  "course_use": "Discussion: when is a price war rational for a cost leader? Free (verify figures in Q4 2022/Q1 2023 updates)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Costco hot dog and soda combo at USD 1.50 since 1985",
+  "author_source": "Costco Wholesale; statements by CFO in earnings calls (2024), news coverage",
+  "link": "https://www.costco.com/",
+  "note": "Costco has kept its hot dog and soda combo at USD 1.50 since 1985 despite inflation; co-founder Jim Sinegal reportedly told the CEO 'if you raise the price of the hot dog, I will kill you'. Loss-leader / price image tool supporting the membership model (fees raised in 2024 to USD 65). Illustrates price image and signalling.",
+  "course_use": "Warm-up on price image and loss leaders. Free (anecdote; verify quotes)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Starbucks price increases and traffic decline (2024)",
+  "author_source": "Starbucks Corporation, Q4 FY2024 earnings release, company information",
+  "link": "https://investor.starbucks.com/",
+  "note": "After several years of price increases, Starbucks reported falling US comparable transactions in 2024 (Q4 FY2024 US comparable store sales down about 6% with transactions down about 10%); the new CEO Brian Niccol's 'Back to Starbucks' plan paused further price increases and simplified the menu. Illustrates the limits of price-led revenue growth when perceived value falls.",
+  "course_use": "Discussion: price elasticity in premium FMCG/food service. Free (verify figures in earnings release)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Carrefour shrinkflation labels (France, 2023) and French labelling decree (2024)",
+  "author_source": "Carrefour France, September 2023; French government decree on shrinkflation information, in force July 2024, news/regulation",
+  "link": "https://www.carrefour.com/",
+  "note": "In September 2023 Carrefour put shelf labels on a few dozen branded products whose pack sizes shrank while prices stayed or rose, to pressure suppliers in negotiations. France then required retailers to inform consumers about shrinkflation from July 2024. Illustrates hidden price increases, unit pricing and retailer-supplier power.",
+  "course_use": "Warm-up: bring two packs; compute unit price change. Free (verify exact count of labelled products)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Austrian food sector inquiry (BWB Branchenuntersuchung Lebensmittel)",
+  "author_source": "Bundeswettbewerbsbehörde (BWB), Austria, sector inquiry food retail, 2023 reports, regulator",
+  "link": "https://www.bwb.gv.at/",
+  "note": "During the 2022-2023 inflation peak the Austrian competition authority examined price formation along the food supply chain, high retail concentration (Rewe/Billa, Spar, Hofer and Lidl together hold roughly 90% of grocery retail), shrinkflation and price differences vs. Germany. Recommended more price transparency (price-comparison databases). Local example for pricing power and retail margins.",
+  "course_use": "Local case for discussion on price fairness and concentration (German-language sources). Free; locate the exact report on bwb.gv.at",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "'Österreich-Aufschlag': territorial supply constraints and higher prices in Austria",
+  "author_source": "Austrian government, Arbeiterkammer and EU Commission debate on territorial supply constraints, 2024-2025, policy/news",
+  "link": "https://www.arbeiterkammer.at/",
+  "note": "Identical branded products often cost more in Austria than in Germany; manufacturers use territorial supply constraints to prevent Austrian retailers from buying cheaper in Germany. Austria pushed the EU Commission to act. Illustrates international price discrimination, arbitrage prevention and fences.",
+  "course_use": "Discussion on cross-border price discrimination in the EU single market. Free (German-language sources; verify current status)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "OEBB Sparschiene contingent-based train pricing",
+  "author_source": "Austrian Federal Railways (OEBB), company information",
+  "link": "https://www.oebb.at/",
+  "note": "OEBB sells limited contingents of discounted 'Sparschiene' tickets (domestic and to neighbouring countries) from low entry prices, train-specific and non-refundable; prices step up as contingents sell out, while flexible standard fares remain. A local example of airline-style revenue management with fences (train binding, no refunds). Contrast with KlimaTicket flat-rate pricing.",
+  "course_use": "Exercise: students compare Sparschiene prices for the same route at different booking horizons. Free (verify current entry prices)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "KlimaTicket Oesterreich flat-rate pricing and price increases",
+  "author_source": "KlimaTicket Oe (One Mobility GmbH / Austrian Ministry), official website",
+  "link": "https://www.klimaticket.at/",
+  "note": "Austria-wide annual public transport ticket launched October 2021 (Classic EUR 1,095). Prices: Classic EUR 1,300 from 1 Aug 2025 and EUR 1,400 from 1 Jan 2026; Jugend/Senior/Spezial EUR 1,050 from 2026; earlier 7.7% increase on 1 Jan 2025; family option EUR 140 per year. Illustrates flat-rate pricing, segment discounts and political/indexation-based price adjustments.",
+  "course_use": "Local exercise: break-even number of trips vs. single tickets; discussion of flat-rate bias. Free",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Wiener Linien Jahreskarte: from EUR 365 to EUR 467",
+  "author_source": "Wiener Linien, official Jahreskarte page",
+  "link": "https://www.wienerlinien.at/jahreskarte",
+  "note": "Vienna's annual pass cost EUR 365 ('one euro a day') from 2012 to 2025, a famous anchor and policy symbol; the current price is EUR 467 one-off (EUR 461 digital) or EUR 506.40 via monthly direct debit, reduced fares EUR 294-300. Shows a long-held psychological price point, its political value and the shock when it is abandoned; also instalment surcharges.",
+  "course_use": "Local warm-up: was 'EUR 1 per day' worth defending? Free",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Deutschlandticket price path (EUR 49 to 58 to 63)",
+  "author_source": "German federal and state transport ministers, Deutschlandticket decisions, policy/news",
+  "link": "https://www.bundesregierung.de/",
+  "note": "Germany's nationwide public transport subscription launched in May 2023 at EUR 49 per month, rose to EUR 58 in January 2025 and EUR 63 in January 2026 after political negotiation over subsidies. Useful comparison with KlimaTicket on price elasticity of transit demand and subscription churn after increases.",
+  "course_use": "Comparative example DACH region. Free (verify 2026 price)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Austrian telecom price indexation and 'Servicepauschale' rulings (A1, Magenta, Drei)",
+  "author_source": "Austrian Supreme Court (OGH) rulings and Arbeiterkammer/VKI actions on telecom fees and index clauses, 2023-2024, legal/news",
+  "link": "https://www.konsument.at/",
+  "note": "Austrian mobile operators used annual CPI-linked price increases and annual 'Servicepauschale' fees; courts and consumer groups challenged these clauses, and operators adjusted contracts. Illustrates drip pricing, partitioned pricing and legal limits on unilateral price changes.",
+  "course_use": "Discussion on partitioned pricing and price transparency in contracts. Free (German-language; verify specific rulings)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Red Bull premium pricing",
+  "author_source": "Red Bull GmbH; trade press and brand-strategy literature",
+  "link": "https://www.redbull.com/",
+  "note": "Red Bull has kept a price premium over Coca-Cola and private-label energy drinks since its 1987 Austrian launch, with a single 250 ml can price point and no promotional discounting, supporting a premium brand image built on events and media rather than price. Illustrates prestige pricing and price as a positioning signal (Austrian example).",
+  "course_use": "Discussion: what fences protect a premium price against cheap imitators (e.g. Hofer/Lidl private labels)? Free (anecdotal; collect current shelf prices)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Slack Fair Billing Policy",
+  "author_source": "Slack Technologies (Salesforce), Help Center article, company information",
+  "link": "https://slack.com/help/articles/218915077-Slacks-Fair-Billing-Policy",
+  "note": "Slack bills only for active paid members: a member counts as inactive after 28 days of no use and Slack automatically credits the unused part of the billing period; reactivations are prorated. A seat-based SaaS price metric adjusted towards usage to increase perceived fairness and reduce purchase risk.",
+  "course_use": "SaaS price-metric discussion (seat vs. active user vs. usage). Free",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Zoom freemium 40-minute limit",
+  "author_source": "Zoom Video Communications, pricing page, company information",
+  "link": "https://zoom.us/pricing",
+  "note": "Zoom's free plan limits group meetings to 40 minutes; paid plans remove the limit. The time limit is a fence that lets free users experience value while creating a natural upgrade trigger for regular group meetings. Illustrates freemium fence design.",
+  "course_use": "Warm-up on freemium fences; compare with Dropbox storage caps. Free",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "OpenAI ChatGPT Plus and Pro pricing",
+  "author_source": "OpenAI, ChatGPT pricing page and announcements (Plus Feb 2023, Pro Dec 2024), company information",
+  "link": "https://openai.com/chatgpt/pricing/",
+  "note": "ChatGPT Plus launched at USD 20 per month (February 2023) and Pro at USD 200 per month (December 2024); Sam Altman said in January 2025 that Pro was losing money because usage was higher than expected. Lower-priced plans (e.g. ChatGPT Go, launched first in India) followed. Illustrates good-better-best tiers, unlimited-usage risk with variable costs, and regional pricing.",
+  "course_use": "Discussion on pricing products with high variable (compute) costs; link to IESE OpenAI case I00343. Free (page blocked automated fetch; verify current plans)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "GitHub Copilot plans and AI-credit metering",
+  "author_source": "GitHub, Copilot plans page, company information",
+  "link": "https://github.com/features/copilot/plans",
+  "note": "Individual plans: Free, Pro USD 10, Pro+ USD 39, Max USD 100 per month, each including a dollar-denominated allowance of GitHub AI Credits (1 credit = USD 0.01) plus a flex allotment; code completions are unlimited and do not use credits; paid plans can buy additional usage. Shows the shift from flat subscriptions to hybrid subscription-plus-usage pricing for AI.",
+  "course_use": "Exercise: which plan is optimal for three developer personas? Free",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Salesforce Agentforce pricing: per conversation, per action, per user",
+  "author_source": "Salesforce, Agentforce pricing page, company information",
+  "link": "https://www.salesforce.com/agentforce/pricing/",
+  "note": "Three coexisting models: USD 2 per customer-facing conversation; Flex Credits at USD 500 per 100,000 credits (a standard action = 20 credits, about USD 0.10); per-user add-ons at USD 125 per user per month (Industries USD 150; Agentforce User Licence USD 5 plus credits). Illustrates choice of price metric (outcome proxy vs. usage vs. seats) for AI agents.",
+  "course_use": "Compare with Intercom Fin; ask which metric best tracks customer value. Free",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Intercom Fin outcome-based pricing (USD 0.99 per outcome)",
+  "author_source": "Intercom, pricing page, company information",
+  "link": "https://www.intercom.com/pricing",
+  "note": "Fin AI agent costs USD 0.99 per outcome, counted when a customer confirms resolution, stops asking for help after Fin's answer, or Fin completes a workflow; helpdesk seats cost USD 29 / 85 / 132 per month. A prominent example of outcome-based pricing aligning price with customer value, but with measurement and incentive questions.",
+  "course_use": "Discussion: what counts as an 'outcome' and who bears the risk? Links to Michelin and Rolls-Royce B2B cases. Free",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Microsoft 365 price increase with Copilot bundled (2025)",
+  "author_source": "Microsoft, consumer announcements January 2025, company information",
+  "link": "https://www.microsoft.com/en-us/microsoft-365/blog/",
+  "note": "In January 2025 Microsoft added Copilot AI to Microsoft 365 Personal and Family and raised prices (US by USD 3 per month), while offering 'Classic' plans without Copilot at the old price for existing subscribers. Illustrates forced bundling, opt-out defaults and status quo bias in subscription price increases.",
+  "course_use": "Warm-up: would you switch to Classic? Discuss defaults. Free (verify exact figures and EU prices)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Radiohead 'In Rainbows' pay-what-you-want release (2007)",
+  "author_source": "Radiohead; comScore estimates reported in news, October-November 2007",
+  "link": "https://en.wikipedia.org/wiki/In_Rainbows",
+  "note": "Radiohead let fans download 'In Rainbows' at any price they chose. comScore estimated that about 38% of downloaders paid, with an average of about USD 6 per paying download (more in the US); the band later released a physical CD and box set at fixed prices. Illustrates pay-what-you-want, voluntary payments and versioning.",
+  "course_use": "Warm-up on PWYW; follow with a quick in-class PWYW experiment. Free (estimates disputed by the band)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Humble Bundle pay-what-you-want with charity split",
+  "author_source": "Humble Bundle (now IGN), company information",
+  "link": "https://www.humblebundle.com/",
+  "note": "Game and e-book bundles sold at pay-what-you-want prices, with buyers choosing how to split payment between developers, charity and Humble; paying above the average unlocks extra items, turning the average price into a public reference point and a threshold. Illustrates PWYW with anchors and social preferences.",
+  "course_use": "Discussion: how do the 'beat the average' tier and charity split raise payments? Free",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Pay-what-you-want field experiment with charity (Gneezy et al., Science 2010)",
+  "author_source": "Ayelet Gneezy, Uri Gneezy, Leif D. Nelson, Amber Brown; Science 329(5989), 2010, 'Shared Social Responsibility: A Field Experiment in Pay-What-You-Want Pricing and Charitable Giving', research article",
+  "link": "https://doi.org/10.1126/science.1186744",
+  "note": "Field experiment with about 113,000 amusement-park ride photos: pay-what-you-want combined with a 50% charity donation increased uptake and profits compared with fixed prices or PWYW alone. Shows that social preferences shape WTP under voluntary pricing.",
+  "course_use": "Evidence slide after the Radiohead/Humble examples; exam question on PWYW design. Paid journal (WU-Lizenz via Science likely)",
+  "status": "neu; Link ungeprüft",
+  "access": "wu_licence"
+ },
+ {
+  "category": "examples",
+  "title": "Dollar Shave Club vs. Gillette pricing (USD 1 razor subscription)",
+  "author_source": "Paddle / ProfitWell pricing teardown 'Dollar Shave Club and Gillette pricing', company blog",
+  "link": "https://paddle.com/blog/dollar-shave-club-gillette-pricing",
+  "note": "Dollar Shave Club's viral 2012 launch video and USD 1 per month entry offer undercut Gillette's premium blade pricing; Unilever bought DSC for about USD 1bn in 2016 and Gillette cut prices in 2017. The teardown, based on a survey of 6,441 current, former or prospective customers, argues that heavy shavers were willing to pay much more than either company charged. Illustrates penetration pricing, subscriptions and the razor-blade model.",
+  "course_use": "Discussion on disruption via price and the risk of leaving money on the table. Free (vendor blog; interpret survey with care)",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Booking.com large-scale experimentation culture",
+  "author_source": "Stefan Thomke, 'Building a Culture of Experimentation', Harvard Business Review, March-April 2020, article; Booking.com tech blog",
+  "link": "https://hbr.org/2020/03/building-a-culture-of-experimentation",
+  "note": "Booking.com runs more than 1,000 concurrent online experiments and lets any employee launch tests; the article describes how A/B testing (including messaging, prices and display) is governed at scale. Context for using randomised experiments to measure price response, and the ethical guardrails needed for price tests.",
+  "course_use": "Reading for a session on price experimentation vs. survey-based WTP. HBR article (paywall; WU library access via EBSCO likely)",
+  "status": "neu; Link ungeprüft",
+  "access": "wu_licence"
+ },
+ {
+  "category": "examples",
+  "title": "Uber Engineering: building an intelligent experimentation platform",
+  "author_source": "Zhenyu Zhao, Eva Feng; Uber Engineering Blog, 4 May 2017, company blog",
+  "link": "https://www.uber.com/blog/experimentation-platform/",
+  "note": "Describes Uber's experimentation platform: staged rollouts, sequential testing (SLRT with jackknife variance cut false positives to about 5% vs. over 30% with a naive test) and flexible metric analysis. Not pricing-specific, but shows the infrastructure firms like Uber use to test price and feature changes and why naive A/B tests mislead with correlated user data.",
+  "course_use": "Advanced/analytics students: discuss pitfalls of price A/B tests (peeking, correlated sessions). Free",
+  "status": "neu; Link geprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Amazon/Apple e-book pricing: USD 9.99 vs. agency model (2010-2013)",
+  "author_source": "US v. Apple Inc., US District Court SDNY, 2013 ruling; background in HBS cases 709486 and 710444",
+  "link": "https://www.justice.gov/atr/case/us-v-apple-inc-et-al",
+  "note": "Amazon sold many Kindle e-books at USD 9.99, often below wholesale cost; with the 2010 iPad launch, five publishers and Apple moved to the agency model where publishers set retail prices (often USD 12.99-14.99). The DOJ sued in 2012 and the court found Apple liable for price-fixing in 2013. Illustrates channel pricing power, resale price control and antitrust limits.",
+  "course_use": "Discussion on who should set the price in a channel; exam question on wholesale vs. agency. Free (verify DOJ page URL)",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "examples",
+  "title": "Disney theme parks dynamic date-based ticket pricing and Genie+/Lightning Lane",
+  "author_source": "Walt Disney World / Disneyland; documented in Case Centre case 'The Genie Is Out of the Bottle' (2024)",
+  "link": "https://www.thecasecentre.org/products/view?id=203568",
+  "note": "Disney moved from flat park tickets to date-based dynamic pricing (2016 onward) and later monetised queue-skipping (Genie+ in 2021, replaced by Lightning Lane Multi Pass in 2024). Peak-day prices smooth demand; paid line-skipping raises fairness concerns. Illustrates peak-load pricing and unbundling of experience quality.",
+  "course_use": "Discussion on peak pricing and perceived fairness; compare with Oasis. Free news coverage; case paid",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ }
+]

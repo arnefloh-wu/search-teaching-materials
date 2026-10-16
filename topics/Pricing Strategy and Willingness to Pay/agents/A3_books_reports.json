@@ -1,0 +1,612 @@
+[
+ {
+  "category": "books",
+  "title": "The Strategy and Tactics of Pricing: A Guide to Growing More Profitably",
+  "author_source": "Thomas T. Nagle, Georg Müller, Evert Gruyaert; Routledge; 7th edition; 2023 (copyright 2023, some catalogues list 2024); book (textbook)",
+  "link": "https://www.routledge.com/The-Strategy-and-Tactics-of-Pricing-A-Guide-to-Growing-More-Profitably/Nagle-Mller-Gruyaert/p/book/9781032016825",
+  "note": "Core value-based pricing textbook. 12 chapters: 1 Strategic Pricing (strategic pricing pyramid), 2 Economic Value (economic value estimation, value cascade), 3 Price and Value Communication, 4 Price Structure (segmentation, price metrics, fences), 5 Pricing Policy, 6 Price Competition, 7 Price Level, 8 Measurement of Price Sensitivity (WTP methods: surveys, conjoint, experiments), 9 Financial Analysis (break-even sales changes), 10 Specialized Strategies, 11 Creating a Strategic Pricing Capability, 12 Ethics and the Law. 7th ed. adds behavioural economics. Instructor slides, manual and mini-cases available from the publisher.",
+  "course_use": "Core reading for the whole unit (ch. 1, 2, 4, 8, 9); ch. 9 break-even exercise. Paid (approx. EUR 60-70 paperback); check WU library / Routledge eBook licence.",
+  "status": "neu; Link geprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Price Management: Strategy, Analysis, Decision, Implementation",
+  "author_source": "Hermann Simon, Martin Fassnacht; Springer; 2019; book (textbook), DOI 10.1007/978-3-319-99456-7",
+  "link": "https://doi.org/10.1007/978-3-319-99456-7",
+  "note": "English version of the German standard textbook. Covers price-response functions and elasticities, methods for measuring WTP (expert judgement, direct and indirect surveys, conjoint, price experiments, market data), behavioural pricing, price differentiation, nonlinear pricing, bundling, pricing over the life cycle, B2B/retail/services pricing and implementation (organisation, incentives, controlling).",
+  "course_use": "Main textbook alternative to Nagle with a stronger analytical / Simon-Kucher perspective; chapters on WTP measurement and price differentiation as assigned reading. WU-Lizenz prüfen (SpringerLink, usually licensed).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Preismanagement: Strategie – Analyse – Entscheidung – Umsetzung",
+  "author_source": "Hermann Simon, Martin Fassnacht, Anna-Karina Schmitz; Springer Gabler; 5th edition; 2025 (released Dec 2024); book (textbook, German), DOI 10.1007/978-3-658-45056-4",
+  "link": "https://doi.org/10.1007/978-3-658-45056-4",
+  "note": "German standard work on pricing, fully revised. New in the 5th ed.: AI in pricing, behavioural pricing, sustainability and pricing, pricing in the platform economy. Keeps the classic sections on price-response functions, measuring Zahlungsbereitschaft (direct/indirect surveys, conjoint), Preisdifferenzierung, nonlinear pricing, bundling and implementation. 4th ed. (2016, DOI 10.1007/978-3-658-11871-6) as fallback.",
+  "course_use": "German core reading for German-speaking students; chapters on Zahlungsbereitschaft and Preisdifferenzierung. WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Confessions of the Pricing Man: How Price Affects Everything",
+  "author_source": "Hermann Simon; Springer (Copernicus); 2015; book (practitioner), DOI 10.1007/978-3-319-20400-0",
+  "link": "https://doi.org/10.1007/978-3-319-20400-0",
+  "note": "Accessible narrative by the Simon-Kucher founder: price psychology (prestige effects, threshold prices, anchoring), price and profit (why 1% of price matters more than 1% of volume), price differentiation, new price metrics (pay-per-use, freemium, flat rates), luxury pricing, price wars, inflation and deflation. Many short company anecdotes that work as discussion starters.",
+  "course_use": "Background / pre-reading; anecdotes for lecture openers. WU-Lizenz prüfen (SpringerLink); paperback approx. EUR 25.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Preisheiten: Alles, was Sie über Preise wissen müssen",
+  "author_source": "Hermann Simon; Campus Verlag; 2013; book (practitioner, German)",
+  "link": "https://www.campus.de/",
+  "note": "German original of Confessions of the Pricing Man, same content (Preispsychologie, Preis und Gewinn, Preisdifferenzierung, new price models, luxury prices, price wars) for German-language reading.",
+  "course_use": "Background reading in German. Paid (approx. EUR 25-30); edition and year not re-verified.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "True Profit! No Company Ever Went Broke Turning a Profit",
+  "author_source": "Hermann Simon; Springer; 2021; book (practitioner), ISBN 978-3-030-76701-3; English version of 'Am Gewinn ist noch keine Firma kaputtgegangen' (Campus, 2020)",
+  "link": "https://www.springer.com/gp/book/9783030767013",
+  "note": "International comparison of company and industry profitability; price, volume and cost as profit drivers, with price as the strongest lever. Useful for the profit-sensitivity argument (price vs. volume vs. cost). Caveat: the title 'Am Gewinn ganz vorne' could not be verified; the German original appears as 'Am Gewinn ist noch keine Firma kaputtgegangen' (Campus 2020).",
+  "course_use": "Background for the 'why pricing matters for profit' session. WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Monetizing Innovation: How Smart Companies Design the Product Around the Price",
+  "author_source": "Madhavan Ramanujam, Georg Tacke; Wiley; 2016; book (practitioner)",
+  "link": "https://www.wiley.com/",
+  "note": "Simon-Kucher framework for designing products around WTP: talk about WTP early, segment by WTP and value, configure bundles (leaders, fillers, killers), choose the price model (subscription, dynamic, freemium, pay-as-you-go), behavioural tactics, and the four failure types (feature shocks, minivations, hidden gems, undeads). Includes simple WTP interview questions (acceptable, expensive, prohibitively expensive price).",
+  "course_use": "Reading for the WTP-in-innovation session; the leaders/fillers/killers tool and the WTP questions work well as a group exercise. Paid (approx. EUR 25).",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "The Pricing Roadmap: How to Design B2B SaaS Pricing Models That Your Customers Will Love",
+  "author_source": "Ulrik Lehrskov-Schmidt; Houndstooth Press; 2023; book (practitioner); not a Simon-Kucher or Tacke title",
+  "link": "https://scribemedia.com/ht-books/the-pricing-roadmap",
+  "note": "B2B SaaS guide: packaging, choosing pricing metrics that drive demand and expansion, capturing the full customer budget, validating new pricing before launch. Practitioner tone, no academic grounding. Caveat: 'Tacke et al., The Pricing Roadmap (Simon-Kucher, 2024)' could not be found; this is the book with that title.",
+  "course_use": "Optional background for the SaaS / value-metric session. Paid (approx. EUR 20-30; audiobook available).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Pricing Strategy: Setting Price Levels, Managing Price Discounts and Establishing Price Structures",
+  "author_source": "Tim J. Smith; South-Western Cengage Learning; 2012; book (textbook)",
+  "link": "https://www.cengage.com/",
+  "note": "Concise, analytically clear textbook: economic value, price elasticity and contribution margin calculations, price variation and segmentation, discounts, price structures (bundling, versioning, two-part tariffs), behavioural pricing and pricing research methods (conjoint, Van Westendorp, purchase intent). Good worked numerical examples.",
+  "course_use": "Exercise source for break-even and elasticity calculations. Paid / used copies; edition not re-verified.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Pricing with Confidence: 10 Ways to Stop Leaving Money on the Table",
+  "author_source": "Reed K. Holden, Mark R. Burton; Wiley; 2008; book (practitioner)",
+  "link": "https://www.wiley.com/",
+  "note": "B2B practitioner book on pricing power and negotiation: value-based selling, resisting 'price buyers' and procurement tactics, discount discipline, the role of sales in price realisation. Built around 10 rules.",
+  "course_use": "Background for the B2B pricing / sales negotiation session. Paid (approx. EUR 30).",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Priceless: The Myth of Fair Value (and How to Take Advantage of It)",
+  "author_source": "William Poundstone; Hill and Wang; 2010; book (popular science)",
+  "link": "https://us.macmillan.com/",
+  "note": "Narrative history of research on price perception: psychophysics, Tversky/Kahneman anchoring experiments, arbitrary coherence, preference reversals, menu design and decoy pricing, ultimatum-game fairness. Good source for in-class anchoring experiments.",
+  "course_use": "Background / student reading for the behavioural WTP session; anchoring demo in class. Paid (approx. EUR 15).",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "The Art of Pricing: How to Find the Hidden Profits to Grow Your Business",
+  "author_source": "Rafi Mohammed; Crown Business; 2005; book (practitioner)",
+  "link": "https://www.penguinrandomhouse.com/",
+  "note": "Practitioner introduction to value-based pricing and price discrimination with 'hidden profit' examples: versioning, good-better-best tiers, segment-based prices, bundling. Easy entry point for students without an economics background.",
+  "course_use": "Optional background reading. Paid (approx. EUR 15-20); edition not re-verified.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Power Pricing: How Managing Price Transforms the Bottom Line",
+  "author_source": "Robert J. Dolan, Hermann Simon; Free Press; 1996; book (practitioner/textbook)",
+  "link": "https://www.simonandschuster.com/",
+  "note": "Classic on estimating price response and customising prices: price-response functions, nonlinear pricing, bundling, price customisation across segments, international pricing and price corridors, pricing over the product life cycle. Still a strong conceptual source despite its age.",
+  "course_use": "Background; classic chapters on nonlinear pricing and bundling. Paid / used copies.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Smart Pricing: How Google, Priceline, and Leading Businesses Use Pricing Innovation for Profitability",
+  "author_source": "Jagmohan Raju, Z. John Zhang; Wharton School Publishing (Pearson); 2010; book (practitioner)",
+  "link": "https://www.pearson.com/",
+  "note": "Cases of pricing innovation: name-your-own-price (Priceline), auctions (Google ad auctions), pay-what-you-want (Radiohead), subscriptions, two-part tariffs, price matching. Good case material for discussing price models.",
+  "course_use": "Background / case ideas for the price-model session. Paid / used copies.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Pricing and Revenue Optimization",
+  "author_source": "Robert L. Phillips; Stanford Business Books (Stanford University Press); 2nd edition; 2021; book (textbook), ISBN 978-1-5036-1000-2",
+  "link": "https://sup.org/books/title/?id=31628",
+  "note": "Quantitative pricing textbook: price-response functions and their estimation, price optimisation, price differentiation, revenue management (capacity allocation, overbooking), markdown and dynamic pricing, customised B2B pricing (bid response). New in the 2nd ed.: machine-learning price-response estimation and cases on Amazon, Uber, Disney.",
+  "course_use": "Advanced / background reading for dynamic pricing and revenue management; suits analytics-oriented MBA students. Paid (approx. EUR 70-90).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "The Price Advantage",
+  "author_source": "Walter L. Baker, Michael V. Marn, Craig C. Zawada; Wiley; 2nd edition; 2010; book (practitioner), ISBN 978-0-470-48177-6 (1st ed. 2004 by Marn, Roegner, Zawada)",
+  "link": "https://www.wiley-vch.de/en/areas-interest/finance-economics-law/business-management-13ba/management-13ba1/the-price-advantage-978-0-470-48177-6",
+  "note": "McKinsey pricing framework in book form: three levels of pricing (industry, product/market, transaction), the pocket price waterfall and pocket price band, value maps (price-benefit positioning), price wars, pricing infrastructure. Source of the '1% price = approx. 11% operating profit' argument.",
+  "course_use": "Reading for the price realisation / waterfall session; waterfall exercise with made-up invoice data. Paid (approx. EUR 50).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Pricing: Prinzipien und Prozesse der betrieblichen Preispolitik",
+  "author_source": "Hermann Diller, Markus Beinert, Björn Ivens, Steffen Müller; Kohlhammer (Edition Marketing); 5th revised edition; 2021 (retailers list Nov 2020); book (textbook, German), ISBN 978-3-17-034892-9",
+  "link": "https://fis.uni-bamberg.de/handle/uniba/54401",
+  "note": "Successor to Diller's 'Preispolitik' (earlier editions). 572 pages; management view of price setting and terms (Konditionenpolitik), price-setting procedures, behavioural price perception (Preiswahrnehmung, Preisfairness), separate parts on B2B (Investitionsgüter), retail and services pricing, and price controlling.",
+  "course_use": "German core/background textbook; strong on Konditionenpolitik and Preisfairness. Paid (approx. EUR 44-49).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Marketingmanagement: Strategie – Instrumente – Umsetzung – Unternehmensführung",
+  "author_source": "Christian Homburg; Springer Gabler; 7th edition; 2020; book (textbook, German), ISBN 978-3-658-29635-3, DOI 10.1007/978-3-658-29636-0",
+  "link": "https://doi.org/10.1007/978-3-658-29636-0",
+  "note": "Leading German marketing textbook. The Preispolitik chapter in the 'Instrumente' part covers price-response functions, elasticities, WTP measurement (direct/indirect surveys, conjoint), cost-, competition- and demand-oriented pricing, price differentiation, nonlinear pricing, Preisbündelung and theories of price behaviour. No 8th edition found as of 2026.",
+  "course_use": "Background / standard reading for German-speaking students; the Übungsbuch Marketingmanagement has matching exercises. WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Marketing Management",
+  "author_source": "Philip Kotler, Kevin Lane Keller, Alexander Chernev; Pearson; 16th edition; 2022; book (textbook)",
+  "link": "https://www.pearson.com/",
+  "note": "Standard MBA textbook. The pricing chapter ('Managing Pricing and Sales Promotions'; chapter number differs between US and global editions) covers consumer price psychology (reference prices, price-quality inferences, price endings), the six-step price-setting process (objective, demand, costs, competitors, method, final price), price adaptation (geographic, discounts, promotional and differentiated pricing) and price changes.",
+  "course_use": "Introductory reading for students with little pricing background. Paid (approx. EUR 70-80); check WU library copies.",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Digital Pricing Strategy: Discovering Opportunities and Strategies for Value Capture",
+  "author_source": "Stephan M. Liozu, Andreas Hinterhuber (eds.); Routledge; 2023; book (edited volume), DOI 10.4324/9781003226192",
+  "link": "https://doi.org/10.4324/9781003226192",
+  "note": "Edited volume on pricing digital offerings: subscription and outcome-based models, pricing IoT and data-based services, AI in pricing, digital pricing capabilities and organisational change. Mix of academic and practitioner authors.",
+  "course_use": "Background for the digital/subscription pricing session; pick 1-2 chapters. Paid (approx. EUR 45 paperback); Routledge eBook licence prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Pricing Strategy Implementation: Translating Pricing Strategy into Results",
+  "author_source": "Andreas Hinterhuber, Stephan M. Liozu (eds.); Routledge; 2019; book (edited volume), DOI 10.4324/9780429446849",
+  "link": "https://doi.org/10.4324/9780429446849",
+  "note": "Edited chapters on the implementation gap: pricing capabilities, change management, the sales force's role, value quantification and communication in B2B, price realisation.",
+  "course_use": "Background for the 'from strategy to price realisation' session. Paid; Routledge eBook licence prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Value First then Price: Quantifying Value in Business to Business Markets from the Perspective of Both Buyers and Sellers",
+  "author_source": "Andreas Hinterhuber, Todd C. Snelgrove (eds.); Routledge; 2016; book (edited volume), DOI 10.4324/9781315656816",
+  "link": "https://doi.org/10.4324/9781315656816",
+  "note": "B2B value quantification: customer value models, value-based selling, total cost of ownership, the procurement view of value. Supports economic value estimation exercises.",
+  "course_use": "Background for B2B value-based pricing; value-quantification exercise. Paid; Routledge eBook licence prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Getting Started with Conjoint Analysis: Strategies for Product Design and Pricing Research",
+  "author_source": "Bryan K. Orme; Research Publishers LLC; 4th edition; 2019 (edition not re-verified); book (methods)",
+  "link": "https://sawtoothsoftware.com/",
+  "note": "Short, very readable introduction to conjoint for pricing: history, types (CBC, ACBC, MaxDiff), designing attributes and price levels, sample size, interpreting utilities, market simulators and pitfalls in estimating WTP. Written by a Sawtooth Software author, so it pairs well with the Sawtooth student licence.",
+  "course_use": "Methods reading before a CBC/WTP exercise. Paid (approx. USD 50-70).",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Applied Conjoint Analysis",
+  "author_source": "Vithala R. Rao; Springer; 2014 (1st ed., DOI 10.1007/978-3-540-87753-0); 2nd edition 2026 (DOI 10.1007/978-3-032-00894-7); book (methods)",
+  "link": "https://doi.org/10.1007/978-3-540-87753-0",
+  "note": "Comprehensive academic treatment: experimental design, estimation (hierarchical Bayes, latent class), choice-based conjoint, WTP and market simulation, applications to pricing and product design. A 2nd ed. (2026) appears in Springer metadata; check what changed.",
+  "course_use": "Advanced methods reference for instructors and thesis students. WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Conjointanalyse: Methoden – Anwendungen – Praxisbeispiele",
+  "author_source": "Daniel Baier, Michael Brusch (eds.); Springer Gabler; 2nd revised edition; 2021; book (methods, German), DOI 10.1007/978-3-662-63364-9",
+  "link": "https://doi.org/10.1007/978-3-662-63364-9",
+  "note": "German edited handbook (505 pages): overview chapter (Baier/Brusch), attribute selection, preference models (Bichler/Trommsdorff), survey design, stimulus presentation, estimation, simulation and optimisation; many industry applications, including price/WTP studies.",
+  "course_use": "German methods reference for the conjoint/WTP exercise. WU-Lizenz prüfen (SpringerLink); eBook list price approx. EUR 67.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Conjoint Measurement: Methods and Applications",
+  "author_source": "Anders Gustafsson, Andreas Herrmann, Frank Huber (eds.); Springer; 4th edition; 2007; book (edited methods volume), DOI 10.1007/978-3-540-71404-0",
+  "link": "https://doi.org/10.1007/978-3-540-71404-0",
+  "note": "Classic edited volume: conjoint as a market research tool (ch. 1), choice-based conjoint, adaptive designs, optimisation and machine-learning estimation (Toubia, Evgeniou, Hauser, ch. 12), pricing applications.",
+  "course_use": "Background methods reading. WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Aktives Preismanagement / Active Price Management",
+  "author_source": "Sven Reinecke, Laura Johanna Noll; Springer Gabler (German, 2023, DOI 10.1007/978-3-658-42288-2) and Springer (English, 2023, DOI 10.1007/978-3-031-42049-8); book (textbook)",
+  "link": "https://doi.org/10.1007/978-3-658-42288-2",
+  "note": "Compact St. Gallen textbook in German and English: goals of price management (ch. 3), price analysis and WTP, price strategy and positioning, price differentiation, implementation and controlling. Shorter than Simon/Fassnacht; a good bilingual option.",
+  "course_use": "Short course reading available in both languages. WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Digitales Pricing / Digital Pricing",
+  "author_source": "Frank Frohmann; Springer Gabler (German, 3rd ed. 2022, DOI 10.1007/978-3-658-37941-4) and Springer (English, 2023, DOI 10.1007/978-3-031-24591-6); book (practitioner)",
+  "link": "https://doi.org/10.1007/978-3-031-24591-6",
+  "note": "Pricing in digital business models: freemium, subscription, pay-per-use, dynamic and personalised pricing, platform pricing, data-based price optimisation and digital pricing processes; the author is a Simon-Kucher alumnus. Many short company examples.",
+  "course_use": "Background for the digital price-model session. WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Preispolitik",
+  "author_source": "Rainer Olbrich, Dirk Battenfeld; Springer Gabler; 2nd edition; 2014; book (textbook, German), DOI 10.1007/978-3-642-37947-5",
+  "link": "https://doi.org/10.1007/978-3-642-37947-5",
+  "note": "Compact German textbook (Springer-Lehrbuch) on the economics of pricing: price-response functions, calculating the optimal price, price differentiation, behavioural price perception, retail pricing (Handelspreispolitik); includes exercises with solutions.",
+  "course_use": "German exercise source for optimal-price calculations. WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "Preismanagement auf Business-to-Business-Märkten: Preisstrategie – Preisbestimmung – Preisdurchsetzung",
+  "author_source": "Christian Homburg, Dirk Totzek (eds.); Gabler; 2011; book (edited volume, German)",
+  "link": "https://www.bwl.uni-mannheim.de/homburg/forschung/buecher/herausgeberbaende/preismanagement-auf-business-to-business-maerkten",
+  "note": "Edited German volume on B2B pricing in three parts: price strategy, price determination (incl. value-based pricing and WTP in B2B) and price enforcement (Preisdurchsetzung, sales force, discounts).",
+  "course_use": "Background for the B2B pricing session (German). WU-Lizenz prüfen (SpringerLink).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "wu_licence"
+ },
+ {
+  "category": "books",
+  "title": "New Directions in Behavioral Pricing",
+  "author_source": "Chezy Ofir (ed.); World Scientific; 2024; book (edited research volume), DOI 10.1142/13814",
+  "link": "https://doi.org/10.1142/13814",
+  "note": "Recent research overview of behavioural pricing, including a chapter on behavioural pricing and price fairness (Bolton and Chen, ch. 3), reference prices, price presentation and the pain of paying.",
+  "course_use": "Instructor background / advanced reading on price fairness and perception. Paid; check library access.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Pricing Decisions in the Euro Area: How Firms Set Prices and Why",
+  "author_source": "Silvia Fabiani, Claire Loupias, Fernando Martins, Roberto Sabbatini (eds.); Oxford University Press; 2007; book (research)",
+  "link": "https://academic.oup.com/book/32639",
+  "note": "Synthesis of the Eurosystem Inflation Persistence Network surveys of more than 11,000 firms in nine euro countries (incl. Austria): markup pricing dominates, price discrimination is common, firms review prices on time- or state-dependent rules, and prices are sticky because of implicit/explicit contracts, coordination failure and cost-based pricing.",
+  "course_use": "Background for the 'how firms actually set prices' discussion; contrasts textbook value-based pricing with observed cost-plus practice. Paid; OUP Academic licence prüfen.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Thinking, Fast and Slow",
+  "author_source": "Daniel Kahneman; Farrar, Straus and Giroux; 2011; book (popular science)",
+  "link": "https://us.macmillan.com/books/9780374533557/thinkingfastandslow",
+  "note": "Chapters relevant to WTP: ch. 11 'Anchors' (anchoring and adjustment, the wheel-of-fortune and real-estate experiments), ch. 26 'Prospect Theory' (reference dependence, loss aversion), ch. 27 'The Endowment Effect' (gap between WTP and WTA), ch. 34 'Frames and Reality'.",
+  "course_use": "Assign ch. 11 and 27 for the behavioural WTP session; in-class anchoring experiment (e.g. last two digits of student ID before a WTP question). Paid (approx. EUR 15).",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Misbehaving: The Making of Behavioral Economics",
+  "author_source": "Richard H. Thaler; W. W. Norton; 2015; book (popular science)",
+  "link": "https://wwnorton.com/",
+  "note": "Ch. 7 'Bargains and Rip-Offs' introduces transaction utility (the beer-on-the-beach WTP example); ch. 14 'What Seems Fair?' covers fairness limits on pricing (the snow-shovel price rise, surge pricing); also mental accounting.",
+  "course_use": "Short readings on reference prices and price fairness (surge pricing debate). Paid (approx. EUR 15).",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "books",
+  "title": "Predictably Irrational: The Hidden Forces That Shape Our Decisions",
+  "author_source": "Dan Ariely; HarperCollins; revised edition 2009 (1st ed. 2008); book (popular science)",
+  "link": "https://www.harpercollins.com/",
+  "note": "Ch. 1 'The Truth about Relativity' (decoy effect, The Economist subscription example), ch. 2 'The Fallacy of Supply and Demand' (arbitrary coherence: anchoring WTP with social security numbers), ch. 3 'The Cost of Zero Cost' (zero-price effect). Caveat: some of Ariely's other studies face replication and data-integrity questions; these chapters rest on widely replicated effects but should be presented critically.",
+  "course_use": "Student reading for decoy pricing and anchoring; replicate the Economist decoy as a class poll. Paid (approx. EUR 12).",
+  "status": "neu; Link ungeprüft",
+  "access": "paid"
+ },
+ {
+  "category": "reports",
+  "title": "Global Pricing Study 2025 / State of Pricing 2025",
+  "author_source": "Simon-Kucher; 2025; report (survey of more than 2,200 companies worldwide)",
+  "link": "https://www.simon-kucher.com/sites/default/files/media-document/2025-05/Simon-Kucher_State%20of%20Pricing%202025.pdf",
+  "note": "Flagship practitioner survey: only 68% of companies have real pricing power (they can raise prices faster than costs); 86% grew revenue in the prior year; price realisation rates stay weak despite inflation-era price increases. Self-reported consultancy data, not peer-reviewed; earlier editions allow trend comparisons.",
+  "course_use": "Data for the discussion on pricing power and price realisation; students compare their own industry. Free (PDF; full study on request).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "The power of pricing",
+  "author_source": "Michael V. Marn, Eric V. Roegner, Craig C. Zawada; McKinsey Quarterly; 2003; article/report",
+  "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-power-of-pricing",
+  "note": "Classic McKinsey piece: a 1% price increase gives approx. 11% more operating profit for an average S&P 1500 company, more than a 1% change in volume or cost; introduces the pocket price waterfall and pocket price band. The sample is old, which makes it a good prompt for asking whether the leverage logic still holds.",
+  "course_use": "Short reading for the opening session; redo the profit-lever calculation with a current income statement. Free (may need a free McKinsey login).",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "B2B pricing: Navigating the next phase of the AI revolution",
+  "author_source": "McKinsey & Company (Growth, Marketing & Sales); April 2026; report/article based on a Nov 2025 survey of 419 respondents",
+  "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/b2b-pricing-navigating-the-next-phase-of-the-ai-revolution",
+  "note": "Gen AI is used in about 10-30% of pricing activities today, expected to reach 40-50% in 1-3 years; agentic AI is under 10% today, expected 20-45%; biggest expected gains in market intelligence, cost tracking, list price setting and promotion pricing; contract compliance lags because it needs more safeguards.",
+  "course_use": "Current reading for the AI-in-pricing session; debate on human oversight of AI pricing. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "The AI advantage in B2B pricing (chart)",
+  "author_source": "McKinsey & Company; McKinsey Featured Insights 'Charts'; report (single chart)",
+  "link": "https://www.mckinsey.com/featured-insights/charts/the-ai-advantage-in-b2b-pricing",
+  "note": "One-chart summary of AI adoption and impact in B2B pricing; can be used directly as a lecture slide (with attribution).",
+  "course_use": "Slide material / quick discussion starter. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Inflation in Industrials: Challenges and strategies for B2B companies",
+  "author_source": "Simon-Kucher; January 2023; report (survey of more than 3,000 companies, two thirds B2B)",
+  "link": "https://www.simon-kucher.com/en/insights/inflation-industrials-challenges-and-strategies-b2b-companies",
+  "note": "Pricing during inflation: 30% of companies had neither implemented nor planned price increases; argues pricing is the most ignored lever; strategies for passing on cost increases (surcharges, indexation clauses, communication). Self-reported consultancy data.",
+  "course_use": "Case/discussion material for the 'pricing in inflation' session. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Executive Pricing Survey 2024",
+  "author_source": "Revenue Management Labs; 2024; report (survey of B2B executives in North America and Europe), via press coverage",
+  "link": "https://www.benefitsandpensionsmonitor.com/news/industry-news/survey-predicts-steep-price-hikes-in-2024/385101",
+  "note": "Large B2B firms projected average price increases of 6.33% (North America) and 8.10% (Europe), above projected inflation; mid-sized firms (USD 500m-1bn revenue) about 9.5%. Original report not located; figures come from a secondary source.",
+  "course_use": "Data point for the 'greedflation' vs. cost pass-through discussion. Free (press coverage); original via the vendor.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "The State of B2B Monetization in 2025 (and 2026 edition)",
+  "author_source": "Kyle Poyar, Growth Unhinged (newsletter); June 2025 (240 software/AI companies); 2026 edition May 2026 (230 companies); report",
+  "link": "https://www.growthunhinged.com/",
+  "note": "Benchmarks on SaaS and AI pricing: shift from seat-based to usage-, credit- and outcome-based pricing, hybrid models, AI monetisation, packaging and price-increase practice; 35-page report summarised in newsletter posts. Practitioner survey with a convenience sample.",
+  "course_use": "Data for the SaaS/AI price-model session; students classify real pricing pages by model. Free (newsletter; full report may need sign-up).",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "login"
+ },
+ {
+  "category": "reports",
+  "title": "State of Usage-Based Pricing (2021, 2023 editions)",
+  "author_source": "OpenView Venture Partners (Kyle Poyar, Sanjiv Kalevar); 2021-2023; report",
+  "link": "https://openviewpartners.com/",
+  "note": "Survey of about 600 SaaS companies: usage-based pricing adoption rose from 34% (2020) to 45% (2021); defines usage-based pricing as pricing tied to product consumption; hybrid models; advice on testing pricing before rollout. OpenView stopped new investing in 2024, so the reports may only survive in archives.",
+  "course_use": "Historical trend data for the value-metric discussion. Free (availability to check).",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "2025 State of SaaS Pricing Report",
+  "author_source": "SBI Growth (formerly the Price Intelligently / ProfitWell pricing practice); 2025; report (survey of 321 SaaS pricing leaders)",
+  "link": "https://index.sbigrowth.com/ga/2025-state-of-saas-pricing-report-part-1",
+  "note": "Practitioner benchmark on who owns pricing and how pricing is run in SaaS (e.g. share of firms with a dedicated pricing owner), price models and how often prices change. Gated and produced by a vendor.",
+  "course_use": "Background data for the pricing-organisation discussion. Free with registration.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "login"
+ },
+ {
+  "category": "reports",
+  "title": "Personalised Pricing in the Digital Era",
+  "author_source": "OECD Competition Committee and Committee on Consumer Policy; background note DAF/COMP(2018)13, Nov 2018; OECD Roundtables on Competition Policy Papers No. 222, DOI 10.1787/db4d9c9c-en",
+  "link": "https://www.oecd.org/en/publications/personalised-pricing-in-the-digital-era_db4d9c9c-en.html",
+  "note": "Defines personalised pricing as price discrimination based on individual WTP estimated from personal data; weighs efficiency gains (can expand output) against consumer harm, reviews evidence on how widespread it is, and discusses competition, consumer and data-protection tools. The executive summary (DAF/COMP/M(2018)2/ANN10/FINAL) is a short read.",
+  "course_use": "Reading for the ethics/regulation session on personalised pricing. Free / open access.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "reports",
+  "title": "Algorithms and Collusion: Competition Policy in the Digital Age",
+  "author_source": "OECD; 2017; report (background for the June 2017 roundtable)",
+  "link": "https://www.oecd.org/en/events/2017/06/algorithms-and-collusion.html",
+  "note": "How pricing algorithms may make tacit collusion easier (monitoring, parallel, signalling and self-learning algorithms); whether the concepts of 'agreement' and liability need rethinking. Member submissions (US DOJ, UK, EU) published alongside.",
+  "course_use": "Reading for the dynamic/algorithmic pricing debate. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Algorithms and Competition (joint study)",
+  "author_source": "Bundeskartellamt and Autorité de la concurrence; November 2019; report",
+  "link": "https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Berichte/Algorithms_and_Competition_Working-Paper.pdf",
+  "note": "Joint German-French study focused on pricing algorithms and collusion: typology of scenarios (algorithms supporting explicit collusion, hub-and-spoke via third-party vendors, autonomous self-learning collusion) and practical problems in investigating them.",
+  "course_use": "Reading on algorithmic pricing and competition law from a European angle. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Algorithmen und Wettbewerb (Schriftenreihe Wettbewerb und Verbraucherschutz in der digitalen Wirtschaft)",
+  "author_source": "Bundeskartellamt; January 2020; report (German)",
+  "link": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2020/16_01_2020_Algorhytmen%20und%20Wettbewerb.html",
+  "note": "German follow-up paper to the joint study; explains in accessible German whether and how algorithms, including pricing algorithms, can harm competition.",
+  "course_use": "German-language reading on algorithmic pricing. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Fitness Check of EU consumer law on digital fairness",
+  "author_source": "European Commission (DG JUST); October 2024; report (Staff Working Document)",
+  "link": "https://commission.europa.eu/law/law-topic/consumer-protection-law/review-eu-consumer-law_en",
+  "note": "Evaluates the UCPD, CRD and UCTD for online markets; flags drip pricing, misleading 'from' prices, prices changing dynamically during purchase, and personalised pricing that exploits vulnerabilities; estimates consumer detriment at no less than EUR 7.9bn per year; feeds into the planned Digital Fairness Act (consultation 2025).",
+  "course_use": "Reading/data for the regulation and ethics of pricing; links to the EU Digital Fairness Act debate. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Surveillance Pricing 6(b) study: research summaries (staff perspective and issue spotlight)",
+  "author_source": "US Federal Trade Commission staff; 17 January 2025; report (preliminary findings, with a dissent by Commissioners Ferguson and Holyoak)",
+  "link": "https://ftc.gov/system/files/ftc_gov/pdf/p246202_surveillancepricing6bstudy_researchsummaries_redacted.pdf",
+  "note": "Based on documents from intermediaries (Mastercard, Accenture, PROS, Bloomreach, Revionics, McKinsey): describes the data used for individualised pricing (location, demographics, browsing). Preliminary; no finding of illegal conduct; the dissent criticises the process.",
+  "course_use": "Case for the personalised pricing ethics debate (US vs. EU approach). Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Unit pricing: analysis and consumer research",
+  "author_source": "UK Competition and Markets Authority; 30 January 2024 (compliance review July 2023); report",
+  "link": "https://www.gov.uk/government/publications/unit-pricing-analysis-and-consumer-research",
+  "note": "Basket analysis of 26 everyday grocery items shows that common beliefs about which option is cheapest per unit are often wrong; qualitative study of 50 consumers: half use unit prices, fewer for quality-sensitive or fresh items; recommendations for Price Marking Order reform and online display.",
+  "course_use": "Data for an exercise on unit-price perception and shrinkflation; students audit unit pricing in Austrian supermarket apps. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Online Choice Architecture: How digital design can harm competition and consumers (discussion paper and evidence review)",
+  "author_source": "UK Competition and Markets Authority; April 2022; report",
+  "link": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1069423/OCA_Evidence_Review_Paper_14.4.22.pdf",
+  "note": "Taxonomy of 21 online choice architecture practices in three groups (choice structure, choice information, choice pressure), reviewing the behavioural evidence; price-related practices such as drip pricing, reference pricing and scarcity claims are covered (check exact treatment). The CMA has since enforced against drip pricing under the DMCC Act (2025 cases incl. StubHub, viagogo).",
+  "course_use": "Reading for drip pricing and dark patterns in how prices are presented. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Branchenuntersuchung Lebensmittel – Endbericht",
+  "author_source": "Bundeswettbewerbsbehörde (BWB, Austria); November 2023; report (German)",
+  "link": "https://www.bwb.gv.at/fileadmin/user_upload/BU-LM_final_Stand_20231102_final.pdf",
+  "note": "Sector inquiry into Austrian food retail prices 2021-2023 (700 trading firms, 1,500 suppliers, 34 product groups): retail margins largely unchanged, no evidence of hidden price increases by retailers, strong pressure on suppliers; recommends better consumer protection against shrinkflation and skimpflation.",
+  "course_use": "Austrian data for discussing inflation pass-through and shrinkflation. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "AK Preismonitor Lebensmittel (Wien)",
+  "author_source": "Arbeiterkammer Wien; recurring (e.g. March 2023-March 2024 edition); report (German)",
+  "link": "https://www.arbeiterkammer.at/",
+  "note": "Regular price comparison of a basket of 40 food and cleaning products across seven Vienna retailers (Hofer, Lidl, Penny, Spar, Billa, Billa Plus, Interspar); the cheapest basket rose about 43% since Sept 2021; separate AK study on whether a VAT cut was passed on (576 products). Advocacy organisation; method is transparent but the basket is small.",
+  "course_use": "Austrian data for an exercise on price levels and the price image of discounters vs. supermarkets. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Mogelpackungsliste",
+  "author_source": "Verbraucherzentrale Hamburg; ongoing (104 new entries in 2023, more than 1,000 products in total); report/database (German)",
+  "link": "https://www.vzhh.de/",
+  "note": "Running list of shrinkflation/skimpflation cases in Germany with old and new pack sizes and the implied price increase; useful raw material for calculating effective unit-price changes.",
+  "course_use": "Exercise data: compute the hidden price increase from a pack-size change. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Verbraucherpreisindex 2025 (Jahresinflation)",
+  "author_source": "Statistik Austria; press release 19 January 2026; report (German)",
+  "link": "https://www.statistik.at/fileadmin/announcement/2026/01/20260119VPIJahr2025.pdf",
+  "note": "Austrian annual inflation 2025: 3.6% (2024: 2.9%, 2023: 7.8%); main driver was electricity prices after the Strompreisbremse ended; monthly path 2.9% in May, 4.1% in August, 3.8% in December. Detailed CPI series on statistik.at.",
+  "course_use": "Macro context and data for the inflation/pricing session. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "The Price-Setting Behavior of Austrian Firms: Some Survey Evidence",
+  "author_source": "Claudia Kwapil, Josef Baumgartner, Johann Scharler; Oesterreichische Nationalbank, Working Paper 100; 2005 (journal version Empirica 34(5), 2007, 491-505); report",
+  "link": "https://ideas.repec.org/p/onb/oenbwp/100.html",
+  "note": "Survey of Austrian firms: customer relationships (implicit/explicit contracts) are a key driver of sticky prices; most firms review prices on a time-dependent basis but switch to state-dependent reviews after large shocks; prices respond asymmetrically to cost vs. demand shocks. Companion OeNB Monetary Policy & the Economy Q4/2005 analysis: https://www.oenb.at/dam/jcr:71188edf-a3de-4941-905a-00da0be6023c/mop_2005_q4_analysis_3_tcm16-38191.pdf",
+  "course_use": "Austrian evidence on how firms really set prices; discuss against value-based pricing. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "PRISMA (Price-setting Microdata Analysis Network): summary of key findings and Occasional Papers 319-324",
+  "author_source": "European Central Bank / ESCB; network 2018-2022; summary 18 July 2023; reports",
+  "link": "https://www.ecb.europa.eu/pub/research-networks/html/researcher_prisma.en.html",
+  "note": "Micro-price evidence for the euro area: how often and by how much prices change in HICP micro data up to 2019 (OP 319), e-commerce and price setting (OP 320), implications for inflation dynamics (OP 321), micro price heterogeneity (OP 322), price setting during COVID-19 (OP 324). Note: the brief's 'PRISMAT' appears to mean PRISMA.",
+  "course_use": "Instructor background / data for discussing how often prices change. Free / open access.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "reports",
+  "title": "The pricing behaviour of firms in the euro area: new survey evidence",
+  "author_source": "Silvia Fabiani et al.; ECB Working Paper No. 535; 2005; report",
+  "link": "https://ECB.eu/pub/pdf/scpwps/ecbwp535.pdf",
+  "note": "Synthesis of the Inflation Persistence Network firm surveys (nine countries, incl. Austria): prices mostly set by markup rules, price discrimination common; about one third of firms review prices on time-dependent rules, two thirds use some state-dependent elements.",
+  "course_use": "Background evidence on cost-plus vs. value pricing in practice. Free / open access.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "open_access"
+ },
+ {
+  "category": "reports",
+  "title": "Price-setting behaviour: insights from a survey of large firms (Economic Bulletin box)",
+  "author_source": "European Central Bank; Economic Bulletin Issue 7/2019; report (box)",
+  "link": "https://www.ecb.europa.eu/pub/economic-bulletin/focus/2019/html/ecb.ebbox201907_04~1d48c6bf77.de.html",
+  "note": "Survey of 58 leading non-financial companies operating across the euro area on how often they review prices and what drives price setting (competition, digitalisation, wages). Short read.",
+  "course_use": "Short reading on price-review practice in large firms. Free.",
+  "status": "neu; in Suchergebnis bestätigt",
+  "access": "free"
+ },
+ {
+  "category": "reports",
+  "title": "Algorithms: How they can reduce competition and harm consumers",
+  "author_source": "UK Competition and Markets Authority; January 2021; report",
+  "link": "https://www.gov.uk/government/publications/algorithms-how-they-can-reduce-competition-and-harm-consumers",
+  "note": "Reviews ways algorithms can harm consumers and competition, including personalised pricing, personalised rankings and discounts, dark patterns and algorithmic collusion; outlines detection techniques and the role of regulators.",
+  "course_use": "Reading for the ethics of personalised and dynamic pricing. Free.",
+  "status": "neu; Link ungeprüft",
+  "access": "free"
+ }
+]
