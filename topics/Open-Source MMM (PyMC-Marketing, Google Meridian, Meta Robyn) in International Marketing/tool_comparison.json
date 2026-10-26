@@ -1,0 +1,451 @@
+{
+  "tools": [
+    "PyMC-Marketing",
+    "Google Meridian",
+    "Meta Robyn"
+  ],
+  "checked": "2026-10-26",
+  "rows": [
+    {
+      "dimension": "Maintainer / owner",
+      "group": "Basics",
+      "pymc": "PyMC Labs (company behind PyMC); community contributors; PyPI owner PyMC Labs.",
+      "meridian": "Google (Marketing/ads measurement team); open source under google GitHub org.",
+      "robyn": "Meta Marketing Science (facebookexperimental org); R maintainer Bernardo Lares; authors incl. Gufeng Zhou, Igor Skokan, Leonel Sentana.",
+      "international_relevance": "Vendor neutrality matters for multinational advertisers: Meridian and Robyn are built by the two largest ad platforms (potential perceived bias towards their channels); PyMC-Marketing is platform-independent. Discuss governance in class.",
+      "sources": "https://pypi.org/project/pymc-marketing/ | https://github.com/google/meridian | https://cran.r-project.org/package=Robyn"
+    },
+    {
+      "dimension": "First release / history",
+      "group": "Basics",
+      "pymc": "First PyPI release 0.0.2 on 9 Feb 2023; 1.0.0 on 7 Aug 2026 ('Multidimensional MMM is now the MMM').",
+      "meridian": "Successor to Google's LightweightMMM. Changelog lists 0.x releases from mid-2024 (public preview), GA version 1.0.0 on 24 Jan 2025; 2.0.0 on 2 Sep 2026 (JAX default).",
+      "robyn": "R package open-sourced by Meta around 2021 (exact first date not verified here); v3.x line since then; Python port robynpy first released 8 May 2024.",
+      "international_relevance": "All three are young; teaching material older than 2025 may describe outdated APIs (e.g. PyMC-Marketing's old DelayedSaturatedMMM / MMM class removed in 1.0, Meridian's TensorFlow backend deprecated).",
+      "sources": "https://pypi.org/project/pymc-marketing/ | https://github.com/pymc-labs/pymc-marketing/releases | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://pypi.org/project/robynpy/ | https://github.com/facebookexperimental/Robyn/releases"
+    },
+    {
+      "dimension": "Current version + date (checked 26 Oct 2026)",
+      "group": "Basics",
+      "pymc": "1.3.0 (22 Oct 2026, PyPI).",
+      "meridian": "2.1.0 (PyPI 25 Sep 2026; changelog entry dated 17 Sep 2026).",
+      "robyn": "CRAN 3.12.1 (2 Jul 2025); GitHub tag v3.12.0 marked latest; robynpy 0.3.6 (3 Apr 2025, beta). Release cadence has slowed markedly since mid-2025.",
+      "international_relevance": "Version pinning is essential for reproducible student labs across semesters.",
+      "sources": "https://pypi.org/project/pymc-marketing/ | https://pypi.org/project/google-meridian/ | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://cran.r-project.org/package=Robyn | https://pypi.org/project/robynpy/"
+    },
+    {
+      "dimension": "Licence",
+      "group": "Basics",
+      "pymc": "Apache-2.0.",
+      "meridian": "Apache-2.0 (GitHub repo licence).",
+      "robyn": "MIT.",
+      "international_relevance": "All permissive, commercial use allowed; no licence barrier for subsidiaries in different countries.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing | https://github.com/google/meridian | https://cran.r-project.org/package=Robyn"
+    },
+    {
+      "dimension": "Language",
+      "group": "Basics",
+      "pymc": "Python (>= 3.12).",
+      "meridian": "Python (3.11-3.13 per install docs).",
+      "robyn": "R (>= 4.0.0); Python beta port 'robynpy' (rewrite of R 3.11.1, Python >= 3.8) and an R-plumber based Python API (beta).",
+      "international_relevance": "Course choice R vs Python determines which tool students can run; WU marketing programmes often teach R.",
+      "sources": "https://pypi.org/project/pymc-marketing/ | https://pypi.org/project/google-meridian/ | https://github.com/facebookexperimental/Robyn/blob/main/R/DESCRIPTION | https://pypi.org/project/robynpy/ | https://github.com/facebookexperimental/Robyn"
+    },
+    {
+      "dimension": "Computational backend",
+      "group": "Basics",
+      "pymc": "PyMC 6 / PyTensor 3 / ArviZ 1.2; samplers: PyMC NUTS, NumPyro, BlackJAX, Nutpie.",
+      "meridian": "JAX default since 2.0.0 (float64 default; MERIDIAN_ENABLE_JAX_X64 to switch); TensorFlow Probability backend deprecated; NUTS MCMC.",
+      "robyn": "glmnet (ridge regression) + Nevergrad (Python, via reticulate) for hyperparameter search + prophet for decomposition + nloptr for the budget allocator.",
+      "international_relevance": "Bayesian backends (PyMC, JAX) scale to many countries x channels via hierarchical models; Robyn fits each market separately so compute grows linearly with markets.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing | https://developers.google.com/meridian/docs/advanced-modeling/using-jax | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://github.com/facebookexperimental/Robyn/blob/main/R/DESCRIPTION | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Installation",
+      "group": "Basics",
+      "pymc": "pip install pymc-marketing (or conda/mamba conda-forge recommended for compiled PyMC dependencies).",
+      "meridian": "pip install google-meridian; extras: [and-cuda] (GPU), [colab], [mlflow], [jax], [schema], [scenarioplanner], [geox].",
+      "robyn": "install.packages('Robyn') from CRAN, plus Python Nevergrad via reticulate (reticulate::py_install('nevergrad')); or pip install robynpy.",
+      "international_relevance": "Robyn's mixed R+Python dependency is the most common installation failure in student labs; budget a setup session or use cloud notebooks.",
+      "sources": "https://pypi.org/project/pymc-marketing/ | https://pypi.org/project/google-meridian/ | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R | https://pypi.org/project/robynpy/"
+    },
+    {
+      "dimension": "Hardware / GPU",
+      "group": "Basics",
+      "pymc": "CPU fine for small models; GPU acceleration through JAX-based samplers (NumPyro/BlackJAX).",
+      "meridian": "GPU recommended for geo models ([and-cuda] extra; Colab GPU notebooks provided); CPU possible for national models.",
+      "robyn": "CPU only; parallel cores via doParallel (cores argument). No GPU.",
+      "international_relevance": "Hierarchical models with 10-30 countries x 100+ weeks can take long on laptops; Colab GPUs help for Meridian.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing | https://pypi.org/project/google-meridian/ | https://github.com/google/meridian | https://github.com/facebookexperimental/Robyn/blob/main/R/DESCRIPTION"
+    },
+    {
+      "dimension": "Paradigm",
+      "group": "Statistical approach",
+      "pymc": "Fully Bayesian (priors on all parameters, posterior distributions).",
+      "meridian": "Fully Bayesian hierarchical (geo-level) model.",
+      "robyn": "Frequentist ridge regression (L2-penalised OLS) with hyperparameters (adstock, saturation, lambda, train size) tuned by multi-objective evolutionary search; not Bayesian.",
+      "international_relevance": "Bayesian priors offer a principled way to transfer knowledge from large to small countries; Robyn has no formal mechanism for cross-market borrowing.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://developers.google.com/meridian/docs/basics/model-spec | https://facebookexperimental.github.io/Robyn/docs/features | https://arxiv.org/abs/2403.14674"
+    },
+    {
+      "dimension": "Estimation method",
+      "group": "Statistical approach",
+      "pymc": "MCMC (NUTS) by default; variational/other samplers via PyMC options.",
+      "meridian": "MCMC NUTS (sample_posterior), prior sampling (sample_prior).",
+      "robyn": "Nevergrad TwoPointsDE (default algorithm) proposes hyperparameters; glmnet fits ridge for each candidate; iterations x trials (demo: 2000 iterations, 5 trials).",
+      "international_relevance": "MCMC diagnostics (R-hat, divergences) need teaching time; Robyn runtime driven by iterations x trials x markets.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://facebookexperimental.github.io/Robyn/docs/features | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "Objective / model selection",
+      "group": "Statistical approach",
+      "pymc": "Single posterior; model comparison via LOO/WAIC (ArviZ), posterior predictive checks; no Pareto front.",
+      "meridian": "Single posterior; model quality checks (Model Health Summary Card, ModelReviewer, R-hat, prior-posterior shift); AKS uses AIC for knots.",
+      "robyn": "Multi-objective: NRMSE (fit), DECOMP.RSSD (distance between spend share and effect share), MAPE.LIFT (calibration error); Pareto-optimal models, then k-means clustering to shortlist; analyst picks a final model (objective_weights since 3.10.5).",
+      "international_relevance": "Robyn's DECOMP.RSSD encodes a business-plausibility prior (effects near spend shares) that may not hold across markets with different media maturity; analyst choice among Pareto models adds subjectivity per country.",
+      "sources": "https://facebookexperimental.github.io/Robyn/docs/features | https://github.com/facebookexperimental/Robyn/releases | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://developers.google.com/meridian/docs/advanced-modeling/roi-priors-and-calibration"
+    },
+    {
+      "dimension": "Causal framing",
+      "group": "Statistical approach",
+      "pymc": "Explicit: dag, treatment_nodes, outcome_node arguments for causal identification from a DAG; pm.do interventions.",
+      "meridian": "Documented distinction of confounders (controls) vs treatments (paid/organic media, non-media treatments); no DAG API.",
+      "robyn": "No explicit causal API; relies on calibration with experiments for causal grounding.",
+      "international_relevance": "Confounders differ by country (e.g. macro shocks, competitor entry); DAG thinking helps decide which controls to include per market.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://github.com/pymc-labs/pymc-marketing | https://developers.google.com/meridian/docs/basics/input-data | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Adstock types",
+      "group": "Media transforms",
+      "pymc": "GeometricAdstock, DelayedAdstock, WeibullCDFAdstock, WeibullPDFAdstock, BinomialAdstock, NoAdstock (half-life parameterisation available since 1.1.0); l_max lag window.",
+      "meridian": "Weighted lag with max_lag; adstock_decay_spec: geometric (default) or binomial (since 1.2.0), per-channel decay possible.",
+      "robyn": "adstock = 'geometric' (theta), 'weibull_cdf' or 'weibull_pdf' (shape, scale; allows delayed peak).",
+      "international_relevance": "Carryover can differ by country (e.g. TV culture, media inflation); allow country-specific or partially pooled decay.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.components.adstock.html | https://github.com/pymc-labs/pymc-marketing/releases | https://developers.google.com/meridian/docs/basics/model-spec | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://facebookexperimental.github.io/Robyn/docs/features | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "Saturation functions",
+      "group": "Media transforms",
+      "pymc": "LogisticSaturation, HillSaturation, HillSaturationSigmoid, MichaelisMentenSaturation, TanhSaturation, TanhSaturationBaselined, LogSaturation, RootSaturation, InverseScaledLogisticSaturation, NoSaturation.",
+      "meridian": "Hill(ec, slope) only.",
+      "robyn": "Hill (alpha = shape, gamma = inflection).",
+      "international_relevance": "Saturation points depend on market size: population scaling (Meridian) or per-geo scaling (PyMC-Marketing) makes curves comparable across countries.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.components.saturation.html | https://developers.google.com/meridian/docs/basics/model-spec | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Order of transforms",
+      "group": "Media transforms",
+      "pymc": "adstock_first=True default (adstock then saturation); configurable.",
+      "meridian": "hill_before_adstock=False default (adstock then Hill); configurable. For R&F: Hill on frequency, times reach, then adstock.",
+      "robyn": "Adstock then saturation (fixed).",
+      "international_relevance": "Order changes response-curve interpretation; keep identical across countries for comparability.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://developers.google.com/meridian/docs/basics/model-spec | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Baseline / trend / seasonality",
+      "group": "Trend & seasonality",
+      "pymc": "yearly_seasonality (Fourier modes), events module, intercept, optional linear trend components; controls.",
+      "meridian": "Time-varying intercept via knots (piecewise-linear interpolation; knots argument; automatic knot selection enable_aks); no built-in Fourier seasonality (seasonality via knots or controls).",
+      "robyn": "Prophet decomposition (prophet_vars: trend, season, monthly, weekday, holiday) added as regressors.",
+      "international_relevance": "Seasonality differs across hemispheres and cultures (e.g. Ramadan, Singles' Day, Christmas); per-country seasonal terms are needed.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://developers.google.com/meridian/docs/advanced-modeling/setting-knots | https://developers.google.com/meridian/docs/basics/model-spec | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Time-varying effects",
+      "group": "Trend & seasonality",
+      "pymc": "time_varying_intercept and time_varying_media accept bool or HSGP config (Hilbert-space Gaussian process); HSGP composable as terms (1.3.0).",
+      "meridian": "Time-varying intercept only (knots); media coefficients constant over time (not documented as time-varying).",
+      "robyn": "Not supported (coefficients static within the window; refresh re-estimates).",
+      "international_relevance": "Media effectiveness drifts differently in markets after shocks (e.g. COVID, inflation); TV-coefficient models capture this.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://github.com/pymc-labs/pymc-marketing/releases | https://developers.google.com/meridian/docs/basics/model-spec | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Holidays / events",
+      "group": "Trend & seasonality",
+      "pymc": "events module (event transformations, user-supplied event calendars); no bundled country holiday table.",
+      "meridian": "Not bundled; holidays as control variables or via time knots.",
+      "robyn": "Bundled dt_prophet_holidays (demo.R: '123 countries included'); select one country via prophet_country; custom holidays can be added.",
+      "international_relevance": "Robyn makes country holiday effects easy (e.g. prophet_country='AT'); only one country per model, so multi-country panels need separate models.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://developers.google.com/meridian/docs/basics/input-data | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Granularity",
+      "group": "Hierarchy & geo",
+      "pymc": "National or panel: dims=('geo',) (or brand, product, country) since 1.0 multidimensional MMM; data must be rectangular across dims.",
+      "meridian": "Geo-level recommended; national model = single-geo special case.",
+      "robyn": "National (one time series per model); geo/market modelling = separate models per market.",
+      "international_relevance": "Country = natural 'geo' in international marketing; panels across EU markets make the hierarchical tools attractive.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://developers.google.com/meridian/docs/basics/model-spec | https://developers.google.com/meridian/docs/pre-modeling/geo-selection-national-data | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Hierarchical pooling across geos/countries",
+      "group": "Hierarchy & geo",
+      "pymc": "Flexible per-parameter: complete pooling (no geo dim), no pooling (dims incl. geo), or partial pooling (Prior with dims=('channel','geo'), centered=False, hyperpriors shared over geo).",
+      "meridian": "Built-in hierarchy: geo media coefficients drawn around a national mean (media_effects_dist LOG_NORMAL or NORMAL) with spread eta_m; controls with xi_c; geo baselines tau_g; adstock/Hill shared across geos.",
+      "robyn": "Not supported.",
+      "international_relevance": "Partial pooling lets small markets (e.g. Austria, Slovenia) borrow strength from large ones (Germany) while keeping country-specific effects.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://developers.google.com/meridian/docs/basics/model-spec | https://developers.google.com/meridian/docs/pre-modeling/amount-data-needed | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Scaling / population",
+      "group": "Hierarchy & geo",
+      "pymc": "scaling argument (default max-abs scaling of target and channels; per-geo scaling with dims=()); population not a required input.",
+      "meridian": "Population per geo is a required input; KPI and media are population-scaled (per-capita) internally; control_population_scaling_id for controls; ModelSpec population-scaling vocabulary in 2.1.0.",
+      "robyn": "No population scaling (single series).",
+      "international_relevance": "Per-capita scaling puts small and large countries on a comparable scale; for countries also consider purchasing power.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://developers.google.com/meridian/docs/basics/input-data | https://github.com/google/meridian/blob/main/CHANGELOG.md"
+    },
+    {
+      "dimension": "Multi-market rollout pattern",
+      "group": "Hierarchy & geo",
+      "pymc": "One pooled model across countries, or separate models with priors informed by a reference market.",
+      "meridian": "One geo model per country (regions within a country) or countries as geos (if KPI/media comparable); docs guidance for US DMAs (top 50-100 by population).",
+      "robyn": "One model per market; repeat pipeline; compare via one-pagers.",
+      "international_relevance": "Choice of 'countries as geos' requires common currency and comparable KPI definitions.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://developers.google.com/meridian/docs/pre-modeling/geo-selection-national-data | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Custom priors",
+      "group": "Priors & calibration",
+      "pymc": "All priors configurable via model_config / Prior objects (pymc_extras), including dims-aware hierarchical priors.",
+      "meridian": "PriorDistribution object; treatment prior types via media_prior_type / *_prior_type: 'roi', 'mroi', 'contribution', 'coefficient' (since 1.1.0).",
+      "robyn": "No priors; hyperparameter bounds (e.g. theta ranges: TV 0.3-0.8, OOH/print/radio 0.1-0.4, digital 0-0.3) act as constraints.",
+      "international_relevance": "Priors are the vehicle for cross-country knowledge transfer; bounds in Robyn can be set per market.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://developers.google.com/meridian/docs/advanced-modeling/roi-priors-and-calibration | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "ROI / mROI priors",
+      "group": "Priors & calibration",
+      "pymc": "ROAS calibration via add_cost_per_target_calibration (1.0.0; link-aware for log link in 1.3.0); direct ROI reparameterisation not default.",
+      "meridian": "Core feature: ROI prior per channel (roi_m, roi_rf; LogNormal default type; helpers lognormal_dist_from_mean_std, lognormal_dist_from_range); mROI priors; roi_calibration_period to restrict window.",
+      "robyn": "Not supported (no priors).",
+      "international_relevance": "ROI priors in local currency must be converted consistently if countries are pooled.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing/releases | https://developers.google.com/meridian/docs/advanced-modeling/roi-priors-and-calibration | https://developers.google.com/meridian/docs/advanced-modeling/set-custom-priors-past-experiments | https://github.com/google/meridian/blob/main/CHANGELOG.md"
+    },
+    {
+      "dimension": "Lift-test / experiment calibration",
+      "group": "Priors & calibration",
+      "pymc": "add_lift_test_measurements(df) with columns channel, x, delta_x, delta_y, sigma (+ dims such as geo): tests treated as noisy observations of the saturation curve (signed Normal likelihood in 1.3.0).",
+      "meridian": "Experiments translated into ROI priors; CalibrationBuilder adjusts for recency, duration, spend, granularity; GeoX results via with_meridian_geox_experiment_result (2.0.0, [geox] extra).",
+      "robyn": "calibration_input data frame (channel, liftStartDate, liftEndDate, liftAbs, spend, confidence, metric, calibration_scope); MAPE.LIFT added as third objective.",
+      "international_relevance": "Experiments are often run only in large markets; calibrated hierarchical models can propagate that information to untested countries (PyMC-Marketing/Meridian), Robyn only calibrates the market where the test ran.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_lift_test.html | https://developers.google.com/meridian/docs/advanced-modeling/set-custom-priors-past-experiments | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://facebookexperimental.github.io/Robyn/docs/features | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "Impressions vs spend",
+      "group": "Media data",
+      "pymc": "Channel columns in any unit; cost_per_unit argument to map to spend for ROAS/optimisation; PowerPriceResponse for spend-dependent costs (1.3.0).",
+      "meridian": "media (impressions etc.) plus media_spend required for ROI; spend preferred when unit is not spend.",
+      "robyn": "paid_media_spends plus optional paid_media_vars (exposure); since 3.12.0 exposure fitting prioritised over spend.",
+      "international_relevance": "Media prices (CPMs) vary strongly by country; modelling exposure and converting with local CPM avoids conflating price and effectiveness.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://github.com/pymc-labs/pymc-marketing/releases | https://developers.google.com/meridian/docs/basics/input-data | https://github.com/facebookexperimental/Robyn/releases"
+    },
+    {
+      "dimension": "Reach & frequency",
+      "group": "Media data",
+      "pymc": "Not natively supported (can enter as custom regressors / MuEffects).",
+      "meridian": "Native: reach and frequency inputs for paid and organic channels; effect = reach x Hill(frequency), adstocked; optimal_freq() for frequency recommendations.",
+      "robyn": "Curve calibrator (robyn_calibrate, beta) using R&F data; R&F allocator prototype, not production.",
+      "international_relevance": "R&F data availability differs by country and platform (e.g. YouTube/Meta yes, local TV panels vary).",
+      "sources": "https://developers.google.com/meridian/docs/basics/model-spec | https://developers.google.com/meridian/docs/basics/input-data | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://facebookexperimental.github.io/Robyn/docs/features | https://github.com/facebookexperimental/Robyn/releases"
+    },
+    {
+      "dimension": "Organic / non-media / controls",
+      "group": "Media data",
+      "pymc": "control_columns (not auto-scaled), events, custom MuEffects (funnel/mediator effects).",
+      "meridian": "organic_media (adstock+Hill), organic R&F, non_media_treatments (linear, no transform), controls (confounders).",
+      "robyn": "organic_vars (adstock+saturation), context_vars (controls), factor_vars.",
+      "international_relevance": "Price, promotions, distribution and macro controls must be harmonised (definitions, units) across countries.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://developers.google.com/meridian/docs/basics/model-spec | https://developers.google.com/meridian/docs/basics/input-data | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "Core metrics",
+      "group": "Outputs",
+      "pymc": "Channel contributions, ROAS / cost per target, response curves, decomposition (get_contributions, period aggregation since 1.2.0).",
+      "meridian": "ROI, mROI, CPIK (cost per incremental KPI), incremental outcome, effectiveness, response curves, optimal frequency; HTML summary report; Model Health card.",
+      "robyn": "ROAS or CPA, mROAS, response curves (robyn_response), waterfall decomposition, one-pager per model.",
+      "international_relevance": "CPIK/CPA in local currency enables comparisons when KPIs are non-revenue (e.g. app installs in multiple countries).",
+      "sources": "https://github.com/pymc-labs/pymc-marketing/releases | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://developers.google.com/meridian/docs/basics/model-spec | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Uncertainty quantification",
+      "group": "Outputs",
+      "pymc": "Full posterior credible intervals for all quantities.",
+      "meridian": "Full posterior credible intervals for ROI/mROI/CPIK etc.",
+      "robyn": "Bootstrapped confidence intervals on ROAS within model clusters (robyn_clusters); point estimates per selected model.",
+      "international_relevance": "Small markets yield wide intervals; communicating them avoids over-allocation to noisy countries.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://developers.google.com/meridian/docs/basics/model-spec | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Optimizer",
+      "group": "Budget optimisation",
+      "pymc": "BudgetOptimizerWrapper.optimize_budget / BudgetOptimizer.allocate_budget; scipy SLSQP; custom utility (default mean response; risk-aware notebook); custom Constraint objects; evaluate_plan.",
+      "meridian": "BudgetOptimizer.optimize; fixed_budget True (budget, pct_of_spend) or flexible (target_roi / target_mroi); grid-based search over spend; WeeklyOptimizationGrid (2.0.0).",
+      "robyn": "robyn_allocator scenarios 'max_response' and 'target_efficiency' (ROAS/CPA target); nloptr gradient-based optimisation; demo warns results 'require further validation'.",
+      "international_relevance": "Budget optimisation should account for posterior uncertainty especially in small markets.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_budget_allocation_example.html | https://github.com/pymc-labs/pymc-marketing/releases | https://developers.google.com/meridian/docs/user-guide/budget-optimization-scenarios | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Constraints",
+      "group": "Budget optimisation",
+      "pymc": "budget_bounds per channel x geo (lower/upper), budget_distribution_over_period over dates.",
+      "meridian": "spend_constraint_lower / spend_constraint_upper per channel (default 0.3 for fixed budget, i.e. keep >=70% of spend).",
+      "robyn": "channel_constr_low / channel_constr_up per paid channel (order of paid_media_selected).",
+      "international_relevance": "Country-level minimum spends (brand presence, contracts) must enter as constraints.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_budget_allocation_example.html | https://developers.google.com/meridian/docs/user-guide/budget-optimization-scenarios | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "Multi-market allocation",
+      "group": "Budget optimisation",
+      "pymc": "Yes: decision variables over channel x geo in one optimisation (allocation across countries possible if countries are a dim).",
+      "meridian": "Channel-level allocation of a total budget; explicit geo-level allocation not documented.",
+      "robyn": "Not supported (per-market allocator; cross-market allocation must be done manually).",
+      "international_relevance": "Key differentiator for international budget setting (how much to Germany vs Austria vs CEE).",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_budget_allocation_example.html | https://developers.google.com/meridian/docs/user-guide/budget-optimization-scenarios | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Scenario planning",
+      "group": "Budget optimisation",
+      "pymc": "Optimise for future windows with planned control values (1.3.0); what-if via sample_posterior_predictive on new data.",
+      "meridian": "Scenario Planner modules ([scenarioplanner] extra, 1.4.0) with interactive dashboards (Colab / Data Studio); optimisation with forecasted data.",
+      "robyn": "Allocator scenarios on historical windows; robyn_response for what-if spend.",
+      "international_relevance": "Scenario tools help country managers explore local plans with the HQ model.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing/releases | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://github.com/google/meridian | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Out-of-sample / holdout",
+      "group": "Validation",
+      "pymc": "Out-of-sample prediction on new data; time-slice cross-validation notebooks (not re-verified for 1.3.0).",
+      "meridian": "holdout_id in ModelSpec for holdout fit; 2.1.0 declarative holdouts in ModelSpec.",
+      "robyn": "ts_validation: train/validation/test split with train size as hyperparameter; NRMSE on test.",
+      "international_relevance": "Hold out a country or period to test transferability of pooled estimates.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Diagnostics / posterior predictive checks",
+      "group": "Validation",
+      "pymc": "sample_posterior_predictive, ArviZ diagnostics (R-hat, ESS, divergences), prior predictive checks.",
+      "meridian": "R-hat summary, prior vs posterior plots, EDAEngine / MeridianEDA (VIF, cost-per-unit checks), Bayesian PPP check, ModelReviewer.",
+      "robyn": "Fit plots, Pareto plots, convergence plots of Nevergrad, one-pagers; no PPC (not Bayesian).",
+      "international_relevance": "Data quality checks per country (missing channels, outliers) should precede pooling.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Refresh / re-training",
+      "group": "Validation",
+      "pymc": "Refit on new data; MLflow autolog and load_mmm for model registry (Zarr format 1.3.0).",
+      "meridian": "Refit; model serialization (serde, ModelSpec saved with model in 2.1.0); MLflow autologging.",
+      "robyn": "robyn_refresh() updates an exported model with new data (rule of thumb <= 50% new data; feature 'not yet thoroughly tested').",
+      "international_relevance": "Rolling refresh per country with consistent spec ensures comparability over time.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing/releases | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://facebookexperimental.github.io/Robyn/docs/features | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "GitHub community (Oct 2026)",
+      "group": "Ecosystem",
+      "pymc": "~1.3k stars, 431 forks; frequent releases (1.0.0 Aug, 1.1.0 Aug, 1.2.0 Sep, 1.3.0 Oct 2026).",
+      "meridian": "~1.6k stars, 308 forks; frequent releases (2.0.0 Sep, 2.1.0 Sep 2026).",
+      "robyn": "~1.5k stars, 437 forks, ~100 open issues; last CRAN release Jul 2025; repo labelled 'experimental'.",
+      "international_relevance": "Active maintenance matters for multi-year deployments across markets.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing | https://github.com/pymc-labs/pymc-marketing/releases | https://github.com/google/meridian | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://github.com/facebookexperimental/Robyn | https://cran.r-project.org/package=Robyn"
+    },
+    {
+      "dimension": "Documentation & tutorials",
+      "group": "Ecosystem",
+      "pymc": "Extensive example notebooks (multidimensional, lift test, budget allocation, case studies), API reference.",
+      "meridian": "developers.google.com/meridian: user guide, advanced modelling, Colab demos, API reference (many translated pages).",
+      "robyn": "Website with features page, demo.R walkthrough, one-pager outputs; arXiv paper (Runge et al. 2024).",
+      "international_relevance": "Translated Meridian docs (incl. German) ease use in DACH teams.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://developers.google.com/meridian/docs/basics/about-the-project | https://facebookexperimental.github.io/Robyn/docs/features | https://arxiv.org/abs/2403.14674"
+    },
+    {
+      "dimension": "Commercial support",
+      "group": "Ecosystem",
+      "pymc": "PyMC Labs consulting; third-party agencies.",
+      "meridian": "Google Meridian partner network (Partners page in docs) and Google Ads account teams.",
+      "robyn": "Meta Marketing Science partners and agencies; community Facebook group.",
+      "international_relevance": "Local partner availability (e.g. Austrian/German agencies) affects adoption in smaller markets.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing | https://developers.google.com/meridian/docs/basics/about-the-project | https://github.com/facebookexperimental/Robyn"
+    },
+    {
+      "dimension": "Data volume needed",
+      "group": "Practical",
+      "pymc": "No official minimum; Bayesian priors help with short series; pooling across dims increases effective data.",
+      "meridian": "Rough guidance: data points = geos x time; national 2 years weekly with 26 parameters is 'too low'; example 105 geos x 156 weeks; use fewer channels/knots or tighter hierarchical priors (HalfNormal(0.1) on eta_m, xi_c) when data are scarce.",
+      "robyn": "Rule-of-thumb in community: ~ 2-3 years weekly and observations/variables ratio ~10:1 (not re-verified in current docs).",
+      "international_relevance": "Small countries with few regions (Austria: 9 Bundeslaender) give limited geo variation; consider countries as geos in a pooled model.",
+      "sources": "https://developers.google.com/meridian/docs/pre-modeling/amount-data-needed | https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Run time",
+      "group": "Practical",
+      "pymc": "Minutes for small national models; longer for many geos (faster with Nutpie/NumPyro).",
+      "meridian": "Minutes on GPU, longer on CPU for geo models.",
+      "robyn": "Typically 10-60+ minutes per market depending on iterations x trials (not benchmarked here).",
+      "international_relevance": "Lab sessions should use small datasets or pre-fitted models.",
+      "sources": "https://github.com/pymc-labs/pymc-marketing | https://github.com/google/meridian | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "Learning curve for business students",
+      "group": "Practical",
+      "pymc": "Steep: Python + Bayesian concepts + PyMC idioms; best for analytics-track students.",
+      "meridian": "Medium-steep: Python, Bayesian, but opinionated defaults and Colab demos; good guided-lab option.",
+      "robyn": "Moderate: R script workflow (demo.R) with automated outputs; but hyperparameters and Pareto choice need explanation.",
+      "international_relevance": "Mixed-background international cohorts benefit from Colab-based labs without local installs.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://developers.google.com/meridian/docs/basics/about-the-project | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "Currencies / exchange rates / PPP",
+      "group": "International-specific",
+      "pymc": "Not built-in; user must convert spend/revenue to a common currency (and optionally PPP) before pooling.",
+      "meridian": "Currency support for reporting (1.3.0) and currency_code (2.0.0) — labels outputs; conversion across geos not documented (user pre-processing).",
+      "robyn": "Not built-in; each market model can stay in local currency.",
+      "international_relevance": "Pooling countries requires common currency; exchange-rate swings can create spurious spend variation; PPP-adjust for comparing efficiency.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://github.com/google/meridian/blob/main/CHANGELOG.md | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Country holidays",
+      "group": "International-specific",
+      "pymc": "User-supplied events.",
+      "meridian": "User-supplied controls.",
+      "robyn": "Bundled holidays for 123 countries via prophet_country.",
+      "international_relevance": "Austria-specific holidays (e.g. 8 Dec, Pentecost Monday) differ from Germany; ignoring them biases media effects.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://developers.google.com/meridian/docs/basics/input-data | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    },
+    {
+      "dimension": "Different channel mixes / missing data per country",
+      "group": "International-specific",
+      "pymc": "Rectangular data across dims required; channels absent in a country must be zero-filled (and priors interpreted carefully).",
+      "meridian": "Geo data must share channels; national-only channels can be imputed but reduce accuracy (Sun et al. 2017); zero spend allowed.",
+      "robyn": "Each market model can have its own channel set.",
+      "international_relevance": "Robyn's flexibility vs. hierarchical models' coherence: classic trade-off in international MMM.",
+      "sources": "https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mmm.mmm.MMM.html | https://developers.google.com/meridian/docs/basics/model-spec | https://research.google/pubs/pub46000/ | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Privacy / GDPR",
+      "group": "International-specific",
+      "pymc": "Aggregated time-series data only; no user-level data; runs on-premise.",
+      "meridian": "Aggregated data only; runs locally/Colab; no data sent to Google by the library (not explicitly documented).",
+      "robyn": "Aggregated data; motivated by privacy changes (Runge et al. 2024).",
+      "international_relevance": "MMM is privacy-durable under GDPR/ePrivacy and post-cookie; EU teams favour on-premise open source.",
+      "sources": "https://arxiv.org/abs/2403.14674 | https://developers.google.com/meridian/docs/basics/input-data | https://github.com/pymc-labs/pymc-marketing"
+    },
+    {
+      "dimension": "Cross-country priors / partial pooling",
+      "group": "International-specific",
+      "pymc": "Yes, flexible hierarchical priors over country dim.",
+      "meridian": "Yes, built-in geo hierarchy (countries as geos) or informative ROI priors from reference market.",
+      "robyn": "No; only manual hyperparameter bounds transfer.",
+      "international_relevance": "Central for sparse small markets.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://developers.google.com/meridian/docs/basics/model-spec | https://facebookexperimental.github.io/Robyn/docs/features"
+    },
+    {
+      "dimension": "Sparse data in small markets (e.g. Austria)",
+      "group": "International-specific",
+      "pymc": "Partial pooling, informative priors, lift-test calibration mitigate.",
+      "meridian": "National model for AT feasible only with few channels/knots; better: pool AT as a geo with DACH countries.",
+      "robyn": "Separate AT model risks overfitting; reduce variables, tighten bounds, calibrate.",
+      "international_relevance": "Practical lab case: DACH panel with AT as small geo.",
+      "sources": "https://www.pymc-marketing.io/en/latest/notebooks/mmm/mmm_multidimensional_example.html | https://developers.google.com/meridian/docs/pre-modeling/amount-data-needed | https://github.com/facebookexperimental/Robyn/blob/main/demo/demo.R"
+    }
+  ]
+}
