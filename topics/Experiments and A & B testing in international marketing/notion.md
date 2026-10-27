@@ -1,5 +1,5 @@
 ## Quellen zu Experiments and A/B testing in international marketing (Agentensuche, 27. Oktober 2026)
-Six parallel research agents (A: books, articles, reports; B: websites, blogs, tutorials; C: teaching cases and real-world examples; D: software, data, methods; E: people and communities; F: multi-market design checklist), searching in English and German on 27 October 2026. 314 new entries on the international side of experimentation: cross-country field and online experiments, heterogeneity of effects across countries and cultures, external validity and transportability, cross-cultural replication (Many Labs, PSA), geo experiments and conversion lift by country, localisation and pricing tests, test markets and soft launches, and the effect of GDPR, consent banners and cookie deprecation on testing. It builds on the general guide 'AB-Testing & Experiments in (Digital) Marketing & Retail' (6 Oct 2026, 323 rows), which is not repeated here. Links were checked by script: 232 of 314 answered. 'Link geprüft' = page fetched; 'in Suchergebnis bestätigt' = seen only in search results (article DOIs checked against Crossref, publishers often block scripts); 'Link ungeprüft' = check before use. The shared web-search budget ran out late in the run, so DACH company examples, Airbnb/Bolt/Delivery Hero city tests and German-language blogs are thin. HBP and INSEAD cases need per-course licences. The full guide is also in a Google Sheet with a design checklist tab.
+Six parallel research agents (A: books, articles, reports; B: websites, blogs, tutorials; C: teaching cases and real-world examples; D: software, data, methods; E: people and communities; F: multi-market design checklist), searching in English and German on 27 October 2026. 314 entries on the international side of experimentation: cross-country field and online experiments, heterogeneity of effects across countries and cultures, external validity and transportability, cross-cultural replication (Many Labs, PSA), geo experiments and conversion lift by country, localisation and pricing tests, test markets and soft launches, and the effect of GDPR, consent banners and cookie deprecation on testing. It builds on the general guide 'AB-Testing & Experiments in (Digital) Marketing & Retail' (6 Oct 2026, 323 rows), which is not repeated here. Links were checked by script: 232 of 314 answered. 'Link geprüft' = page fetched; 'in Suchergebnis bestätigt' = seen only in search results (article DOIs checked against Crossref, publishers often block scripts); 'Link ungeprüft' = check before use. The shared web-search budget ran out late in the run, so DACH company examples, Airbnb/Bolt/Delivery Hero city tests and German-language blogs are thin. HBP and INSEAD cases need per-course licences. The full guide is also in a Google Sheet with a design checklist tab. A second pass on the same day added 78 DACH entries (company tests and pilots, Austrian and German practitioners, German-language blogs, podcasts and meetups), marked 'neu (DACH-Durchlauf)'; 392 entries in total.
 ### Bücher (12)
 <table fit-page-width="true" header-row="true">
 <tr>
@@ -813,7 +813,7 @@ Six parallel research agents (A: books, articles, reports; B: websites, blogs, t
 <td>neu; Link geprüft</td>
 </tr>
 </table>
-### Blogs (26)
+### Blogs (35)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -1058,8 +1058,89 @@ Six parallel research agents (A: books, articles, reports; B: websites, blogs, t
 <td>Tool overview (DE); free</td>
 <td>neu; Link geprüft</td>
 </tr>
+<tr>
+<td>Blogs</td>
+<td>Der ultimative Guide: So findest du das richtige A/B-Testing-Tool für dein Business</td>
+<td>e-dialog (Wien), 13 Jul 2026, German</td>
+<td>[https://e-dialog.group/blog/der-ultimative-guide-so-findest-du-das-richtige-a-b-testing-tool-fuer-dein-business/](https://e-dialog.group/blog/der-ultimative-guide-so-findest-du-das-richtige-a-b-testing-tool-fuer-dein-business/)</td>
+<td>Client- vs server-side testing, Optimizely/VWO/AB Tasty, criteria incl. GDPR, server location and data residency, typical selection errors, 5-step process.</td>
+<td>Reading for a session on tool choice under EU privacy rules; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>A/B-Testing: 7 häufige Fehler - so vermeidest du sie</td>
+<td>Michael Witzenleiter (Kameleoon DE) in t3n, 23 Oct 2019, German</td>
+<td>[https://t3n.de/news/ab-testing-7-haeufige-fehler-1094066/](https://t3n.de/news/ab-testing-7-haeufige-fehler-1094066/)</td>
+<td>Seven common mistakes: overly complex first tests, no hypothesis, no roadmap, no prioritisation, wrong KPIs (micro vs macro), ignoring small wins, not testing continuously.</td>
+<td>Short German pre-reading; free (t3n PRO prompts).</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>6 A/B-Testing Tipps für mehr Erfolg beim Experimentieren</td>
+<td>Christoph Böcker (growganic) in OMR Reviews, 29 Sep 2023, German</td>
+<td>[https://omr.com/de/reviews/contenthub/tipps-ab-testing](https://omr.com/de/reviews/contenthub/tipps-ab-testing)</td>
+<td>Prioritisation, one change at a time, statistical setup, segmentation, external factors (holidays, seasons), documentation.</td>
+<td>German checklist reading; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Warum A/B-Testing im E-Commerce so wichtig ist</td>
+<td>Marven Hennecker (abscale) in OMR Reviews, 14 Apr 2023, English URL (German original on OMR)</td>
+<td>[https://omr.com/en/reviews/contenthub/ecommerce-ab-test](https://omr.com/en/reviews/contenthub/ecommerce-ab-test)</td>
+<td>Five-step process (ideas, If-Then-Because hypotheses, PIE prioritisation, design, evaluation); CR, AOV and ARPU as metrics; caution on checkout tests.</td>
+<td>Reading on hypothesis writing and metric choice; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Building trust from hello: A/B testing your consent banner for maximum impact</td>
+<td>Usercentrics (Munich), undated, English</td>
+<td>[https://usercentrics.com/resources/ab-testing-cookie-banner/](https://usercentrics.com/resources/ab-testing-cookie-banner/)</td>
+<td>Testing consent banner placement, CTA wording and design to raise opt-in rates while staying GDPR compliant; vendor content, light on method.</td>
+<td>Case for ethics/legal limits of testing consent UX (link to dark-pattern readings); free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>CRO Bites (Conversion Stash newsletter), e.g. #12: 50+ YouTube Channels for Experimenters</td>
+<td>Niklas Bräutigam and Nils Koppelmann, Conversion Stash, 23 Feb 2026, English</td>
+<td>[https://conversionstash.substack.com/p/cro-bites-12-50-youtube-channels](https://conversionstash.substack.com/p/cro-bites-12-50-youtube-channels)</td>
+<td>Monthly curated CRO/experimentation resources from a German duo; links to directories of channels, courses, tools.</td>
+<td>Resource hub for students' own projects; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>CRO Agentur Vergleich 2026: Das sind die besten 43 Anbieter</td>
+<td>Markus Seyfferth and Michael Dobler, Dr. Web, 10 Sep 2026 (upd. 5 Oct 2026), German</td>
+<td>[https://www.drweb.de/cro-agentur-vergleich/](https://www.drweb.de/cro-agentur-vergleich/)</td>
+<td>Comparison of 43 CRO agencies with DACH focus; helps locate agencies and potential guest speakers.</td>
+<td>Scouting list for guest speakers/agencies; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>Wie berechnet man die Stichprobengröße?</td>
+<td>Optimizely, German</td>
+<td>[https://www.optimizely.com/de/field-notes/articles/how-to-calculate-sample-size/](https://www.optimizely.com/de/field-notes/articles/how-to-calculate-sample-size/)</td>
+<td>German explanation of sample size, test duration and traffic needs.</td>
+<td>German supplement for the power-analysis session; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Blogs</td>
+<td>A/B testing stratégique: tester les bonnes hypothèses au bon moment</td>
+<td>EWM (Swiss agency), English/French</td>
+<td>[https://ewm.swiss/en/blog/a-b-testing-strategique-tester-les-bonnes-hypotheses-au-bon-moment](https://ewm.swiss/en/blog/a-b-testing-strategique-tester-les-bonnes-hypotheses-au-bon-moment)</td>
+<td>Notes that Swiss preferences differ by language region and recommends adapting tests to linguistic and local expectations.</td>
+<td>Example for within-country cultural heterogeneity (CH); free.</td>
+<td>neu (DACH-Durchlauf); in Suchergebnis bestätigt</td>
+</tr>
 </table>
-### (Video-) Tutorials (22)
+### (Video-) Tutorials (30)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -1268,8 +1349,80 @@ Six parallel research agents (A: books, articles, reports; B: websites, blogs, t
 <td>Lab demo; free</td>
 <td>neu; Link geprüft</td>
 </tr>
+<tr>
+<td>(Video-) Tutorials</td>
+<td>Varify webinars (German recordings on YouTube)</td>
+<td>Varify.io, 2025-2026, German/English</td>
+<td>[https://varify.io/de/webinars/](https://varify.io/de/webinars/)</td>
+<td>Recorded webinars incl. German sessions 'Abgründe von Experimentation', 'Der Schlüssel zu Gewinner-A/B-Tests', 'BigQuery for Experiment Analysis', 'The perfect PDP: Learnings from 3.000 A/B-Tests'.</td>
+<td>German-language viewing assignments; free on YouTube.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>(Video-) Tutorials</td>
+<td>Experimentieren & Skalieren: Aufbau eines High-Impact Conversion Teams bei Marc O'Polo</td>
+<td>VWO/Wingify webinar, Lea Koch and Nicolas Schwenger (Marc O'Polo), 27 Jul 2023, German, 45 min</td>
+<td>[https://wingify.com/de/webinars/experimentieren-skalieren-aufbau-eines-high-impact-conversion-teams-bei-marc-opolo/](https://wingify.com/de/webinars/experimentieren-skalieren-aufbau-eines-high-impact-conversion-teams-bei-marc-opolo/)</td>
+<td>How a German fashion brand built a CRO team, test roadmap and multi-page tests.</td>
+<td>German case video for organisation of experimentation; registration may be needed.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>(Video-) Tutorials</td>
+<td>Conversion Optimierung mit Leidenschaft (Podcast)</td>
+<td>Stefan Haab, German, ca. 2020</td>
+<td>[https://www.podcast.de/podcast/2965702/conversion-optimierung-mit-leidenschaft](https://www.podcast.de/podcast/2965702/conversion-optimierung-mit-leidenschaft)</td>
+<td>German podcast from a CRO agency founder: basics, test culture, analysis, hypotheses, building A/B tests.</td>
+<td>Easy German listening for beginners; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>(Video-) Tutorials</td>
+<td>Digitale Wachstumsstrategien (Interview with André Morys)</td>
+<td>PR und Kommunikation podcast, host Wolfgang Eck, ca. 2024, German, 30 min</td>
+<td>[https://www.podcast.de/episode/642105541/digitale-wachstumsstrategien](https://www.podcast.de/episode/642105541/digitale-wachstumsstrategien)</td>
+<td>konversionsKRAFT founder on ten success factors for online growth, role of conversion and testing.</td>
+<td>German listening on strategic role of experimentation; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>(Video-) Tutorials</td>
+<td>E-Commerce Decoded (Podcast)</td>
+<td>abscale (Marven Hennecker, Moritz Westerdorf), German, 128 episodes</td>
+<td>[https://rephonic.com/podcasts/e-commerce-decoded-von-abscale](https://rephonic.com/podcasts/e-commerce-decoded-von-abscale)</td>
+<td>German e-commerce podcast by a CRO/A/B testing agency; includes an episode with Emre Girkin on data-driven CRO and A/B testing strategies.</td>
+<td>Selective listening; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>(Video-) Tutorials</td>
+<td>Decentralized Experimentation at Delivery Hero (EXO Field Notes)</td>
+<td>Brian Poe with Javier García Latorre, 27 Oct 2024, English</td>
+<td>[https://brianpoe.substack.com/p/decentralized-experimentation-at](https://brianpoe.substack.com/p/decentralized-experimentation-at)</td>
+<td>How a Berlin multinational scales decentralised experimentation across regions with local champions and automation.</td>
+<td>Listening on multi-country experimentation governance; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>(Video-) Tutorials</td>
+<td>Going the distance: Growth lessons from adidas Running (remerge podcast ep. 208)</td>
+<td>remerge, guest Luca Stefanutti, 14 May 2025, English</td>
+<td>[https://www.remerge.io/findings/podcast/going-the-distance-growth-lessons-from-adidas-running](https://www.remerge.io/findings/podcast/going-the-distance-growth-lessons-from-adidas-running)</td>
+<td>Growth metrics and a surprising experiment at the former Runtastic app.</td>
+<td>Listening on app experimentation with Austrian roots; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>(Video-) Tutorials</td>
+<td>1000 Experiments Club: André Morys</td>
+<td>AB Tasty podcast, Jun 2022, English</td>
+<td>[https://www.abtasty.com/resources/1000-experiments-club-andre-morys/](https://www.abtasty.com/resources/1000-experiments-club-andre-morys/)</td>
+<td>Morys on experimentation combined with behavioural economics and consumer psychology, agile growth processes.</td>
+<td>Listening on experimentation culture from a DACH pioneer; free.</td>
+<td>neu (DACH-Durchlauf); in Suchergebnis bestätigt</td>
+</tr>
 </table>
-### Cases for Teaching (20)
+### Cases for Teaching (26)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -1460,8 +1613,62 @@ Six parallel research agents (A: books, articles, reports; B: websites, blogs, t
 <td>Case discussion plus test-market design exercise; WU-internal case, check availability via WU or The Case Centre.</td>
 <td>neu; Link geprüft</td>
 </tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>KONE: The MonoSpace Launch in Germany</td>
+<td>Das Narayandas and Gordon Swartz (authorship per secondary sources), Harvard Business School, 2001, teaching case</td>
+<td>[https://hbsp.harvard.edu/product/593096-PDF-ENG](https://hbsp.harvard.edu/product/593096-PDF-ENG)</td>
+<td>Finnish elevator maker KONE test-marketed its new MonoSpace elevator in three European countries with mixed results, and its German subsidiary must now write the launch plan for Europe's largest market. MonoSpace had first launched as 'GreenStar' in the Netherlands. Directly about using test-market evidence from other countries to plan a German launch, including pricing and segmentation. B2B.</td>
+<td>Case discussion on transferring test-market learning across countries; HBP paid (about USD 9-10 academic), WU-Lizenz prüfen. Product number taken from an HBP casemap, so verify the link.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Swatch</td>
+<td>Christian Pinson and Helen Chase Kimball, INSEAD, 1990, teaching case (ref. 1853, 48 pp.)</td>
+<td>[https://publishing.insead.edu/case/swatch](https://publishing.insead.edu/case/swatch)</td>
+<td>Classic, award-winning case on the development and international launch of Swatch and its later line extensions. Use with the Europa Star item on the 1982 Texas test launch to discuss a Swiss firm testing abroad before its home launch. Experimentation is background, not the focus. The core is repositioning, the marketing mix and global vs. local advertising.</td>
+<td>Case discussion, with test marketing as a side theme; INSEAD/Case Centre about EUR 7, WU-Lizenz prüfen.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Lidl (Lidl US entry)</td>
+<td>Jaan Elias and Ravi Dhar, Yale School of Management, 2025, teaching case (Yale Case 25-017)</td>
+<td>[https://cases.som.yale.edu/lidl](https://cases.som.yale.edu/lidl)</td>
+<td>Why Lidl has not repeated its European success in the US: it targeted 1,000 stores after its 2017 entry but had fewer than 200 and under 1% share by 2024. Decision point for the fourth US president on locations, assortment, CRM and value communication. Experimentation is not central. Use it for market-by-market learning, and ask what a staged test entry, such as smaller pilot stores, could have revealed earlier.</td>
+<td>Case discussion on international market entry and learning; Yale online case, USD 9.50 per person.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Innovation and renovation: The Nespresso story (Revised)</td>
+<td>Kamran Kashani and Joyce Miller, IMD, 2000, teaching case (IMD-5-0543, 24 pp.)</td>
+<td>[https://www.imd.org/research-knowledge/marketing/case-studies/innovation-and-renovation-the-nespresso-story-revised/](https://www.imd.org/research-knowledge/marketing/case-studies/innovation-and-renovation-the-nespresso-story-revised/)</td>
+<td>Nestlé ran Nespresso as a separate Swiss affiliate and grew it as a new niche, with the goal of going from CHF 150 million to CHF 1 billion. Other sources describe the background of the 1986 office-market launch in Switzerland, Italy and Japan, its underperformance and the pivot to households and the Club. The IMD page itself does not mention pilots, so experimentation is background only.</td>
+<td>Case on learning from early market launches and pivots; IMD/Case Centre/HBP paid, WU-Lizenz prüfen.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Foodora and Flash (A): Copycats Made in Germany</td>
+<td>Michaël Bikard, INSEAD, 2025, teaching case</td>
+<td>[https://publishing.insead.edu/case/foodora-and-flash](https://publishing.insead.edu/case/foodora-and-flash)</td>
+<td>A Foodora co-founder (food delivery, modelled on Deliveroo, Rocket Internet orbit) decides whether to join 'flash', a micro-mobility venture modelled on Lime. The focus is imitation and competition, that is, transferring proven models across markets. Experimentation and testing are not central. Use it only to discuss what copying a proven model from one country to another does and does not de-risk compared with local testing.</td>
+<td>Optional DACH start-up case; INSEAD about EUR 7, WU-Lizenz prüfen.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Cases for Teaching</td>
+<td>Rocket Internet: The Start-up Factory</td>
+<td>ICMR (IBS Case Research Center), c. 2016, teaching case (LDEN113)</td>
+<td>[https://icmrindia.org/Casestudies/catalogue/Leadership%20and%20Entrepreneurship/LDEN113.htm](https://icmrindia.org/Casestudies/catalogue/Leadership%20and%20Entrepreneurship/LDEN113.htm)</td>
+<td>The Berlin incubator replicated proven internet models (Zalando, Delivery Hero, HelloFresh and others) market by market around the world. The case covers its 2016 challenges after criticism of the model and falling valuations. Market-by-market roll-out is central. Formal experimentation is not. Use it to contrast 'copy and scale fast' with 'test and learn per market'.</td>
+<td>Case discussion; ICMR paid, WU-Lizenz prüfen; our fetch returned 404, so check availability.</td>
+<td>neu (DACH-Durchlauf); in Suchergebnis bestätigt</td>
+</tr>
 </table>
-### Praxisbeispiele (40)
+### Praxisbeispiele (65)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -1831,6 +2038,231 @@ Six parallel research agents (A: books, articles, reports; B: websites, blogs, t
 <td>Vendor case describing a six-month test in which a retailer entered 13 international markets in parallel to compare which offered the biggest opportunity. Example of using parallel market tests for market selection; vendor source, results not independently verified.</td>
 <td>Example for discussing parallel market tests in market selection. Free.</td>
 <td>neu; Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Scaling Reliable Experimentation in a Two-Sided AdTech Marketplace: ZMS Budget Split (Zalando)</td>
+<td>Stefano Restelli and Carlos Garcia Alvarado, Zalando Engineering Blog, 2026, company tech blog post</td>
+<td>[https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html](https://engineering.zalando.com/posts/2026/09/scaling-reliable-experimentation-in-two-sided-adtech-marketplace.html)</td>
+<td>How Zalando Marketing Services (retail media) tests advertiser-side changes when user-level randomisation breaks down because treatments share campaign budgets (interference). Budget Split gives each variant its own budget pool, and Orthogonal Concurrency lets several experiments run at once. Experiment volume rose from 8 (2023) to more than 60 (2025). No country-level results. Teaching question: why does a standard A/B test give biased results in a two-sided ad marketplace, and what is the unit of randomisation?</td>
+<td>Example for a session on experiment design and interference (marketplaces, retail media); free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Improving Efficiency in Offline Campaigns (Zalando gift-card campaigns tested across regions)</td>
+<td>Martin Lawrence, Roman Romanchuk and Marc Bury, Zalando Engineering Blog, 2018, company tech blog post</td>
+<td>[https://engineering.zalando.com/posts/2018/04/improving-efficiency-offline-campaigns.html](https://engineering.zalando.com/posts/2018/04/improving-efficiency-offline-campaigns.html)</td>
+<td>Zalando gift cards sold through brick-and-mortar retailers and corporate benefit programmes. Store-level sales data let Zalando run offline campaigns as A/B tests across two comparable geographies, track their impact daily and steer them by ROI. No figures are reported. Shows how a geo split works for an offline channel.</td>
+<td>Short example for geo-split testing of offline or partner channels; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Zalando Plus loyalty programme: live in Germany, piloted in Switzerland, then France and Italy</td>
+<td>ChannelX (trade press), 3 May 2019, news article</td>
+<td>[https://channelx.world/2019/05/zalando-plus-loyalty-expand-europe/](https://channelx.world/2019/05/zalando-plus-loyalty-expand-europe/)</td>
+<td>Zalando Plus was available in Germany and was being piloted in Switzerland before planned roll-outs to France and Italy within twelve months. A later FashionUnited report (2023) puts it at more than two million members in six countries (DE, AT, FR, IT, NL, CH) before the Belgium launch. Teaching question: why use Switzerland, a smaller, higher-income, non-EU and multilingual market, as the pilot for a paid loyalty scheme, and what can it tell you about France or Italy?</td>
+<td>Example of choosing a pilot country inside a multi-country roll-out; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Swarovski examined the relevance of generic search campaigns through geo experiments</td>
+<td>Think with Google CEE (Google), case study (undated, c. 2019-2021)</td>
+<td>[https://www.thinkwithgoogle.com/intl/en-cee/marketing-strategies/data-and-measurement/swarovski-examined-the-relevance-of-generic-search-campaigns-through-geo-experiments](https://www.thinkwithgoogle.com/intl/en-cee/marketing-strategies/data-and-measurement/swarovski-examined-the-relevance-of-generic-search-campaigns-through-geo-experiments)</td>
+<td>Austrian brand Swarovski ran geo experiments in four key markets to measure the incremental value of generic (non-brand) search campaigns. It reports 2-3 euros of incremental revenue per euro spent, well above what last-click attribution had shown, plus more new customers. Published by the vendor, and the markets are not named in the snippet. Teaching question: why do generic keywords look worse under last-click attribution, and how does a geo experiment fix that?</td>
+<td>Example for incrementality and geo experiments in a multi-country DACH brand; free, but the old URL now redirects to business.google.com/think, so check for an archived copy before class.</td>
+<td>neu (DACH-Durchlauf); in Suchergebnis bestätigt</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Swisscom: testing and personalisation with Adobe Target</td>
+<td>Adobe, customer success story (vendor case study), English and other language versions</td>
+<td>[https://business.adobe.com/uk/customer-success-stories/swisscom-case-study.html](https://business.adobe.com/uk/customer-success-stories/swisscom-case-study.html)</td>
+<td>Swisscom's first tests (banner colours, CTA placement) produced an average uplift of 40% and won internal support for testing. It then moved to an Auto-Allocate (bandit-style) test of the default device shown on mobile product pages, and ran learning sessions to break down silos. Vendor-reported, with no baseline or sample sizes, so use it to discuss claims critically.</td>
+<td>Example for building a testing programme at a Swiss telco and for scrutinising vendor uplift claims; free.</td>
+<td>neu (DACH-Durchlauf); in Suchergebnis bestätigt</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>AutoScout24 increased form conversion by 21.6% through experimentation</td>
+<td>Optimizely, customer story (vendor case study)</td>
+<td>[https://www.optimizely.com/insights/autoscout24](https://www.optimizely.com/insights/autoscout24)</td>
+<td>AutoScout24 (Munich-based pan-European car marketplace) found in user research that buyers abandoned the dealer contact form because they did not know what to write. A test of a changed contact form raised form conversion by 21.6%. The company runs A/B tests on nearly every page. Example of research-driven hypotheses on a multi-country marketplace.</td>
+<td>Short example linking qualitative research to an A/B test hypothesis; free. Our fetch returned 404, so check the URL before class.</td>
+<td>neu (DACH-Durchlauf); in Suchergebnis bestätigt</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>HelloFresh scales to about 1,000 experiments per year with Statsig Warehouse Native</td>
+<td>Statsig, customer story (vendor case study), c. 2025</td>
+<td>[https://statsig.com/customers/hellofresh](https://statsig.com/customers/hellofresh)</td>
+<td>HelloFresh's eight-person experimentation team moved from a slow in-house platform to a warehouse-native tool because most business metrics live in its data warehouse. Reported results: about 1,000 experiments a year, 25% less time to decision, and 55% more experiments reaching a decision. Vendor claims. Pairs with the HelloFresh experimentation-culture post already in the guide.</td>
+<td>Example for experimentation scale and build-vs-buy decisions; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Democratizing Experimentation: How GetYourGuide Built a Flexible and Scalable A/B Testing Platform</td>
+<td>Konrad Richter (GetYourGuide), PyData Berlin 2025, conference talk</td>
+<td>[https://cfp.pydata.org/berlin2025/speaker/PP8Y9C/](https://cfp.pydata.org/berlin2025/speaker/PP8Y9C/)</td>
+<td>The Zurich/Berlin travel marketplace moved from a centralised, closed experimentation system to a self-service platform where analysts and product teams define their own metrics and dimensions. Covers a Python Analyzer toolkit and open-source sequential testing code. Complements the GetYourGuide sequential-testing post already in the guide.</td>
+<td>Example on democratising experimentation across many markets and teams; free (check for a recording).</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>N26 starts test phase in Brazil</td>
+<td>The Paypers, 9 November 2021, news article</td>
+<td>[https://thepaypers.com/online-mobile-banking/n26-starts-test-phase-in-brazil--1252653](https://thepaypers.com/online-mobile-banking/n26-starts-test-phase-in-brazil--1252653)</td>
+<td>The Berlin neobank moved its Brazilian unit into beta, admitting about 2,000 of roughly 200,000 waitlisted applicants before the planned 2022 launch. Later reports describe gradual admission from a waitlist of more than 500,000. Teaching question: what can a small invited beta cohort tell a bank about product-market fit in a new country, and what can it not?</td>
+<td>Example of a soft launch or beta in a new market (fintech); free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Tencent-backed German fintech N26 launches in the UK (early adopters from waiting list)</td>
+<td>CNBC, 4 October 2018, news article</td>
+<td>[https://www.cnbc.com/2018/10/04/tencent-backed-german-fintech-bank-n26-launches-in-the-uk.html](https://www.cnbc.com/2018/10/04/tencent-backed-german-fintech-bank-n26-launches-in-the-uk.html)</td>
+<td>N26 opened its UK app first to selected early adopters from a waitlist of more than 50,000, and held back features beyond the basic account until later. Pair with the Brazil beta and the 2015-2016 eurozone expansion to discuss staged market entry as a learning process.</td>
+<td>Example for staged roll-outs and waitlist-based soft launches; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>George, Erste's digital platform, in the final stretch in Romania (80/20 core vs. local features)</td>
+<td>Wall-Street.ro, 28 February 2018, news article (Romanian)</td>
+<td>[https://www.wall-street.ro/articol/Finante-Banci/218550/george-platforma-digitala-a-erste-pe-ultima-suta-de-metri-si-in-romania.html](https://www.wall-street.ro/articol/Finante-Banci/218550/george-platforma-digitala-a-erste-pe-ultima-suta-de-metri-si-in-romania.html)</td>
+<td>Erste Group launched its George banking platform in Austria first, then in the Czech Republic and Slovakia at the same time, with Romania next. About 80% of the core is shared and 20% of features are local, partly because onboarding rules differ by country. In Austria the old and new systems ran in parallel for two years, while Slovakia migrated customers automatically. No formal tests are reported. Teaching question: how should a CEE bank sequence and localise a digital roll-out, and what should Austria teach it about later markets?</td>
+<td>Example of a lead-market roll-out across CEE (Austria first); free. In Romanian, so use a browser translation.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Lidl accelerates roll-out of payment app (Lidl Pay pilot in Spain, then Denmark, Austria, Germany)</td>
+<td>RetailDetail EU, 14 October 2019, news article</td>
+<td>[https://www.retaildetail.eu/en/news/food/lidl-accelerates-roll-out-payment-app](https://www.retaildetail.eu/en/news/food/lidl-accelerates-roll-out-payment-app)</td>
+<td>Lidl piloted Lidl Pay (QR-code payment inside Lidl Plus) in Spain from July 2019 and reported 70,000 app payments. Denmark and Austria were the next markets, followed by Germany. Example of a German retailer using a non-home market as the pilot for a digital service.</td>
+<td>Example of pilot-country selection in retail; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Lidl Plus: digital loyalty card starts in pilot regions (Berlin and Brandenburg)</td>
+<td>mobiflip.de, 12 June 2019, news article (German)</td>
+<td>[https://www.mobiflip.de/?p=376607](https://www.mobiflip.de/?p=376607)</td>
+<td>The Lidl Plus app was already live in other countries (Austria, Denmark, Poland, Spain according to other reports) when Germany got a regional pilot in about 250 Berlin and Brandenburg stores, initially Android-only, before the nationwide roll-out. Shows the regional pilot inside the home market as a variant of test marketing.</td>
+<td>Pair with the Lidl Pay item for a discussion of international vs. regional pilots; free; in German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Lidl startet neues Filialkonzept in Österreich (Metropolfiliale)</td>
+<td>Leadersnet.at, 20 July 2017, news article (German)</td>
+<td>[https://www.leadersnet.at/news/27320,lidl-startet-neues-filialkonzept-in-oesterreich.html](https://www.leadersnet.at/news/27320,lidl-startet-neues-filialkonzept-in-oesterreich.html)</td>
+<td>Austria was one of the first Lidl countries to build the two-storey city-centre 'Metropolfiliale' (parking below, about half the usual floor space, full range). A Lebensmittel Zeitung report notes Lidl Switzerland was already rolling out a new store design while Germany was still testing it. Teaching question: why would a German retailer trial store formats in Austria or Switzerland?</td>
+<td>Example of Austria/Switzerland as lead markets for store formats; free; in German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Online-Geschäft: dm testet in Österreich taggleiche Lieferung</td>
+<td>Manuela Ohs, Lebensmittel Zeitung, 2 May 2018, trade press article (German)</td>
+<td>[https://www.lebensmittelzeitung.net/handel/Online-Geschaeft-dm-testet-in-oesterreich-taggleiche-Lieferung-135330](https://www.lebensmittelzeitung.net/handel/Online-Geschaeft-dm-testet-in-oesterreich-taggleiche-Lieferung-135330)</td>
+<td>dm drogerie markt piloted same-day or chosen-date delivery in Vienna, with orders picked from store shelves, to learn how customers respond to flexible delivery. dm Austria had earlier run a test webshop (2013), and dm plans to launch online OTC medicines in Germany first and then Austria. Example of a German retailer using Vienna as a pilot city.</td>
+<td>Example; paywalled (LZ subscription, WU-Lizenz prüfen); only the teaser is free; in German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>go2market expandiert nach Deutschland (market-research test supermarket from Vienna to Cologne)</td>
+<td>Leadersnet.at, 1 March 2021, news article (German)</td>
+<td>[https://www.leadersnet.at/news/48946,go2market-expandiert-nach-deutschland.html](https://www.leadersnet.at/news/48946,go2market-expandiert-nach-deutschland.html)</td>
+<td>go2market opened in Vienna in autumn 2020: up to 1,500 members, matched to the Austrian population average, pay a monthly flat fee for EUR 55 shopping credit, and manufacturers get purchase data and survey feedback on new products. A first German store opened in Cologne in 2021. The Vienna shop later closed (vienna.at, 2022) because of supply problems and inflation, while Cologne continued. A modern, small-scale successor to the GfK Hassloch test market.</td>
+<td>Example for test-market methods and their economics; free; in German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Switzerland seen as top test market for Europe</td>
+<td>swissinfo.ch, 30 December 2002, news article</td>
+<td>[https://swissinfo.ch/eng/switzerland-seen-as-top-test-market-for-europe/3039956](https://swissinfo.ch/eng/switzerland-seen-as-top-test-market-for-europe/3039956)</td>
+<td>Starbucks opened its first European store in Zurich (2001), and McDonald's tested its first Golden Arch hotels in Switzerland, with results deciding further expansion. The reasons given are an affluent, educated, multilingual population in a central location, and the US Commerce Department calls Switzerland an excellent test market for Europe. Teaching question: is Switzerland representative of Europe, and what external-validity problems follow?</td>
+<td>Short reading for test-market selection and external validity; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>From the archives: our first look at the Swatch (Texas test launch, 1982)</td>
+<td>Europa Star, archive article (based on 1982 trade bulletin)</td>
+<td>[https://www.europastar.com/the-watch-files/archives-heritage/1004094117-from-the-archives-our-first-look-at-the-swatch.html](https://www.europastar.com/the-watch-files/archives-heritage/1004094117-from-the-archives-our-first-look-at-the-swatch.html)</td>
+<td>Before the March 1983 Swiss launch, ETA/Ebauches SA test-launched the Swatch in Texas in autumn 1982, with ads stressing style variety and ruggedness. Early buyers bought second and third watches in other colours, which led marketing to add new colours and styles regularly. No sales figures. A Swiss brand using a foreign test market. Pair with the INSEAD Swatch case.</td>
+<td>Historical example of a cross-border test market; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Rund um die Uhr geöffnet: Migros startet Pilotprojekt mit einer Filiale in Herisau</td>
+<td>SRF News, 3 July 2026, news article (German)</td>
+<td>[https://www.srf.ch/news/schweiz/rund-um-die-uhr-geoeffnet-migros-startet-pilotprojekt-mit-einer-filiale-in-herisau](https://www.srf.ch/news/schweiz/rund-um-die-uhr-geoeffnet-migros-startet-pilotprojekt-mit-einer-filiale-in-herisau)</td>
+<td>Migros Ostschweiz is piloting Switzerland's first 24-hour supermarket (300 m2, about 7,000 items): staffed until 19:00, then unstaffed with smartphone access and self-checkout. It builds on the unstaffed Teo stores (2022) and was delayed a year by an objection. Coop says 24-hour stores are not a topic for it. No evaluation criteria are published. Teaching question: what would a credible evaluation design for a single-store pilot look like?</td>
+<td>Example for designing pilot evaluations (single site, no control); free; in German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Migros tests small format Mio on SBB station sites</td>
+<td>Immobilienbusiness.ch, 16 January 2026, trade press article</td>
+<td>[https://www.immobilienbusiness.ch/en/?p=66912](https://www.immobilienbusiness.ch/en/?p=66912)</td>
+<td>A temporary test of the 80 m2 'Mio' format at train stations (Baden, Zurich HB, with Bern, Birmensdorf and Islikon planned), after dozens of petrol-station sites, to see how commuters respond. Pairs with the Herisau 24-hour pilot to discuss staged multi-site format tests.</td>
+<td>Example of a multi-site format pilot; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>More leads and transactions: how VERBUND increases its conversion rate through A/B testing</td>
+<td>e-dialog (Vienna agency), success story, 27 May 2026</td>
+<td>[https://e-dialog.group/en/success-story/more-leads-transactions-how-verbund-increases-its-conversion-rate-through-a-b-testing/](https://e-dialog.group/en/success-story/more-leads-transactions-how-verbund-increases-its-conversion-rate-through-a-b-testing/)</td>
+<td>Austrian energy company VERBUND ran 16 A/B tests over nine months on product detail pages, contact forms and homepage navigation. Transaction conversion rose by up to 15.8% and lead-inquiry conversion by up to 14.5%. Agency-reported, with 'up to' figures from the best variants. A rare documented Austrian corporate testing programme.</td>
+<td>Example of a structured testing roadmap in Austria; free; good for discussing 'up to' uplift reporting.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>How solving our biggest customer complaint at Blinkist led to a 23% increase in conversion</td>
+<td>Blinkist (Berlin), UX Planet (Medium), c. 2018, practitioner article</td>
+<td>[https://uxplanet.org/how-solving-our-biggest-customer-complaint-at-blinkist-led-to-a-23-increase-in-conversion-b60ad514134b](https://uxplanet.org/how-solving-our-biggest-customer-complaint-at-blinkist-led-to-a-23-increase-in-conversion-b60ad514134b)</td>
+<td>Blinkist tested a transparent free-trial timeline plus a reminder before the trial ends, aimed at users who forgot to cancel. It reports 23% more trial conversions. Secondary write-ups add 55% fewer complaints and higher notification opt-in, but those figures are not confirmed in the original. A replication at another company (Clearful) found more trial starts but worse retention. Teaching question: ethical design, and choosing a primary metric when trial starts and retention diverge.</td>
+<td>Example for paywall and ethics discussions; free (Medium; our fetch was blocked with 403).</td>
+<td>neu (DACH-Durchlauf); in Suchergebnis bestätigt</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Trivago test could prove big payoff for suppliers (auction slot test in select small markets)</td>
+<td>Koddi, blog post (undated, c. 2019)</td>
+<td>[https://koddi.com/blog/trivago-test-could-prove-big-payoff-for-suppliers/](https://koddi.com/blog/trivago-test-could-prove-big-payoff-for-suppliers/)</td>
+<td>Trivago (Düsseldorf) tested fixed rules for its top four ad slots (direct hotel links, Express Booking, best rate with competitive CPC) only in select small markets before any site-wide change. No results reported. Example of using small countries as the testbed for marketplace mechanism changes, which also affects advertisers' CPC, CTR and CVR.</td>
+<td>Short example of a market-level test of a marketplace mechanism; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Flixbus: how they boosted mobile app install rates across the globe</td>
+<td>UserTesting / UserZoom, customer story, 19 July 2023</td>
+<td>[https://usertesting.com/resources/customers/flixbus](https://usertesting.com/resources/customers/flixbus)</td>
+<td>Flix (Munich) tested a redesigned app icon with surveys and click tests across countries it could not reach before, then confirmed the winner with A/B tests in Google Play store listings using larger samples. Shows a pipeline from qualitative research to an app-store experiment. No install-rate figures are given.</td>
+<td>Short example of app-store A/B testing in international markets; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Praxisbeispiele</td>
+<td>Why German e-commerce is optimizing in the dark (LEAP x SISTRIX analysis)</td>
+<td>Tim Niemann, LEAP Digital Marketing, 10 August 2026, agency article (English and German)</td>
+<td>[https://leap.de/en/wissen/fachartikel/ab-testing-e-commerce-markt](https://leap.de/en/wissen/fachartikel/ab-testing-e-commerce-markt)</td>
+<td>Based on a LEAP x SISTRIX analysis (autumn 2025), around 73% of Germany's top online shops do not use an A/B testing tool. The article cites an average win rate of about 12% (Optimizely, more than 127,000 experiments) and 22-30% for mature programmes. Useful as a DACH baseline on testing adoption. The sample size is not stated and the source is an agency.</td>
+<td>Context statistic for an opening discussion of testing maturity in DACH; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
 </tr>
 </table>
 ### Software (35)
@@ -2598,7 +3030,7 @@ Six parallel research agents (A: books, articles, reports; B: websites, blogs, t
 <td>neu; Link geprüft</td>
 </tr>
 </table>
-### Communities & Events (12)
+### Communities & Events (18)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -2717,8 +3149,62 @@ Six parallel research agents (A: books, articles, reports; B: websites, blogs, t
 <td>Use it to source DACH and European practitioner guest speakers; free to browse.</td>
 <td>neu; Link geprüft</td>
 </tr>
+<tr>
+<td>Communities & Events</td>
+<td>Analytics Pioneers Wien (Meetup)</td>
+<td>mohrstade-run meetup, Vienna, German, about 512 members</td>
+<td>[https://www.meetup.com/de-DE/Analytics-Pioneers-Wien](https://www.meetup.com/de-DE/Analytics-Pioneers-Wien)</td>
+<td>Vienna digital analytics group (295+ events, mostly free online sessions in German on GTM, server-side tagging, dbt, Google Ads API); part of a DACH-wide Analytics Pioneers network.</td>
+<td>Point students to free sessions on measurement plumbing; source of local speakers; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Communities & Events</td>
+<td>Piwik PRO Meetup Vienna (with Wien Energie)</td>
+<td>Piwik PRO, 12 Nov 2025, Orbi Tower Wien</td>
+<td>[https://piwik.pro/?p=63939](https://piwik.pro/?p=63939)</td>
+<td>Evening meetup with Wien Energie digital insights team and mohrstade on privacy-friendly analytics.</td>
+<td>Example of local consent/measurement community; watch for repeat editions; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Communities & Events</td>
+<td>MeasureCamp Berlin</td>
+<td>MeasureCamp, Berlin, unconference</td>
+<td>[https://berlin.measurecamp.org/](https://berlin.measurecamp.org/)</td>
+<td>Free analytics unconference; next 10 Oct 2026 (SumUp office); sessions often cover testing and measurement.</td>
+<td>Students can attend; speaker scouting; free (tickets limited).</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Communities & Events</td>
+<td>MeasureCamp Zurich</td>
+<td>MeasureCamp, Zurich, unconference</td>
+<td>[https://zurich.measurecamp.org/](https://zurich.measurecamp.org/)</td>
+<td>Third Swiss MeasureCamp, 21 Nov 2026 at Migros Gen.-Bund Zürich; free unconference on analytics and testing.</td>
+<td>Swiss counterpart for scouting; free (tickets limited).</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Communities & Events</td>
+<td>Analytics Summit (Hamburg)</td>
+<td>TRKKN (Trakken), 4-5 Nov 2026, Hamburg</td>
+<td>[https://www.analytics-summit.com/](https://www.analytics-summit.com/)</td>
+<td>Large Google-stack analytics conference with seminars; themes include advanced measurement and effectiveness and digital experience optimisation.</td>
+<td>Industry event for measurement trends; paid.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>Communities & Events</td>
+<td>Analytics Pioneers Summit (Munich)</td>
+<td>Analytics Pioneers / mohrstade, 17 Sep 2026, Allianz Arena München</td>
+<td>[https://stape.io/news/stape-munich-agency-leaders-brunch-analytics-pioneers](https://stape.io/news/stape-munich-agency-leaders-brunch-analytics-pioneers)</td>
+<td>Free barcamp-style unconference for digital analytics and MarTech in DACH.</td>
+<td>Networking/scouting event; free.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
 </table>
-### People (28)
+### People (52)
 <table fit-page-width="true" header-row="true">
 <tr>
 <td>Kategorie</td>
@@ -2980,5 +3466,221 @@ Six parallel research agents (A: books, articles, reports; B: websites, blogs, t
 <td>With Garrett Johnson and Scott Shriver: GDPR reduced recorded EU page views and web revenue by about 12 percent across 1,084 firms (AEJ: Economic Policy 2024), separating real effects from data-recording loss. Key for understanding biased measurement in EU experiments. EN. Rolle prüfen (link is the paper, not a profile).</td>
 <td>Reading plus possible remote talk on how consent gaps bias A/B test and analytics data in Europe (EN).</td>
 <td>neu; Link ungeprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Marta Mijatov</td>
+<td>A1 Telekom Austria AG, Digital Experimentation Lead; Wien; practitioner (Rolle prüfen)</td>
+<td>[https://www.kameleoon.com/whoswho/marta-mijatov](https://www.kameleoon.com/whoswho/marta-mijatov)</td>
+<td>Leads digital experimentation at A1, which won a 2024 Experimentation Culture Award; 20+ years in marketing incl. products, pricing and marketing plans across eight markets (multi-country angle). Named in Kameleoon's 2025 Who's Who in Experimentation; keynote at Kameleoon Unite Vienna 2026 on consumer psychology in experimentation.</td>
+<td>Top Vienna guest-speaker fit: how a telco runs a test programme across markets; lecture or panel on site in Vienna; German/English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Stephan Mühlbacher</td>
+<td>A1 Telekom Austria, Digital Experimentation Scientist; Wien; practitioner (Rolle prüfen)</td>
+<td>[https://www.kameleoon.com/event/unite-vienna-2026](https://www.kameleoon.com/event/unite-vienna-2026)</td>
+<td>Co-presented the keynote 'Consumer Psychology: Hidden Driver for Customer and Business Success' with Marta Mijatov at Kameleoon Unite Vienna (22 Apr 2026). Data-science side of A1's experimentation programme.</td>
+<td>Pair with Mijatov for a joint session (business plus statistics view); on site Vienna; German/English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Jessica Volna</td>
+<td>waterdrop (Vienna D2C brand), Senior CRO & Experimentation Manager; Wien; practitioner (Rolle prüfen)</td>
+<td>[https://www.kameleoon.com/event/unite-vienna-2026](https://www.kameleoon.com/event/unite-vienna-2026)</td>
+<td>Keynote 'Because We Think Isn't a Strategy' at Kameleoon Unite Vienna 2026 with Luke van Ravensberg. waterdrop sells in many European markets, so CRO across country shops is a natural topic.</td>
+<td>Guest lecture on running CRO/experimentation in an international D2C e-commerce firm from Vienna; on site; German/English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Luke van Ravensberg</td>
+<td>waterdrop, E-commerce Manager; Wien; practitioner (Rolle prüfen)</td>
+<td>[https://www.kameleoon.com/event/unite-vienna-2026](https://www.kameleoon.com/event/unite-vienna-2026)</td>
+<td>Co-speaker with Jessica Volna at Kameleoon Unite Vienna 2026 on replacing opinion-driven decisions with tests in e-commerce.</td>
+<td>Panel option alongside Volna; English likely.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Ekaterina Gamsriegler</td>
+<td>MyGroove (a Red Bull company), Head of Marketing and Growth; Österreich (Ort prüfen); practitioner</td>
+<td>[https://www.kameleoon.com/whoswho/ekaterina-gamsriegler](https://www.kameleoon.com/whoswho/ekaterina-gamsriegler)</td>
+<td>Growth and pricing-research practitioner (ex IG, adidas Training, Mimo); 2025 Who's Who in Experimentation selectee; keynote on product and marketing growth at Kameleoon Unite Vienna 2026; teaches a Maven cohort course on app growth; pricing-research workshop at App Promotion Summit.</td>
+<td>Guest session on app growth experiments and pricing tests; remote or on site; English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Sanda Zoechbauer</td>
+<td>Tractive (Pasching, Upper Austria), CRM & Lifecycle Manager; Österreich; practitioner (Rolle prüfen)</td>
+<td>[https://iterable.com/?p=1197](https://iterable.com/?p=1197)</td>
+<td>Activate Summit 2025 talk 'Building a Business Case: Iterating Fast with Experimentation': email/CRM A/B tests at Tractive (cancellation-reason personalisation +125% click rate, +30% reactivations; customer vs. ambassador testimonials; breed personalisation). Tractive sells GPS trackers in many countries.</td>
+<td>Concrete CRM-experimentation case for a lecture; remote or on site; German/English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Christopher Helf</td>
+<td>pagent.ai, Founder & CTO; Wien (LinkedIn), company in Bonn; practitioner/start-up</td>
+<td>[https://at.linkedin.com/in/christopher-helf](https://at.linkedin.com/in/christopher-helf)</td>
+<td>Builds an AI system that generates and evaluates A/B tests (Bayesian or frequentist); has posted about a 'du' vs. 'Sie' address test on a German customer site, a useful language/culture localisation example.</td>
+<td>Start-up perspective on AI-automated experimentation and localisation tests; remote or Vienna; German/English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Martin Frotzler</td>
+<td>mohrstade, Head of Customer Experience and Director Digital Analytics; head of Vienna office; Wien; practitioner (WU alumnus)</td>
+<td>[https://piwik.pro/?p=63939](https://piwik.pro/?p=63939)</td>
+<td>Leads mohrstade Austria (MarTech/analytics consultancy, Munich/Potsdam/Vienna); speaker at the Piwik PRO Meetup Vienna (12 Nov 2025, with Wien Energie). Relevant for consent-compliant measurement that experiments depend on.</td>
+<td>Guest talk on measurement and consent infrastructure behind tests in Austria; on site Vienna; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Kristina Niederer-Nierlich</td>
+<td>e-dialog, Director Digital Analytics; Wien; practitioner (Rolle prüfen)</td>
+<td>[https://e-dialog.group/creatives/conversion-optimierung/](https://e-dialog.group/creatives/conversion-optimierung/)</td>
+<td>Listed as Director Digital Analytics at e-dialog (Vienna, offices also in Berlin, Munich, Zurich), the agency behind A/B testing programmes for VERBUND and Magenta; promoted to director in Feb 2024.</td>
+<td>Agency view on running test programmes for Austrian brands; on site Vienna; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Tobias Kellner</td>
+<td>e-dialog, Director Cloud & Data Science; Wien; practitioner (Rolle prüfen)</td>
+<td>[https://e-dialog.group/creatives/conversion-optimierung/](https://e-dialog.group/creatives/conversion-optimierung/)</td>
+<td>Heads cloud and data science at e-dialog, which runs A/B testing, personalisation and analytics for DACH clients.</td>
+<td>Data-science/statistics side of agency experimentation; on site Vienna; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Daniel Ruzsa</td>
+<td>VERBUND AG, Digital Marketing Manager; Wien; practitioner, client side (Rolle prüfen)</td>
+<td>[https://e-dialog.group/en/?p=16602](https://e-dialog.group/en/?p=16602)</td>
+<td>Client lead in VERBUND's 9-month programme of 16 experiments with e-dialog (up to +15.8% transaction CR, +14.5% lead CR); quoted saying the firm now relies on data instead of gut feeling.</td>
+<td>Client-side view of an Austrian energy company's test programme; good for a panel with the agency; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Emile Schenk</td>
+<td>Donauweb IT Solutions, keynote speaker on conversion optimisation and sales psychology; Wien; practitioner/communicator</td>
+<td>[https://donauweb.at/keynote_speaker](https://donauweb.at/keynote_speaker)</td>
+<td>Vienna speaker on conversion optimisation (E-Commerce Initiative Österreich 2023, WKW forum EPU/KMU); gives live website feedback in talks. SME focus.</td>
+<td>Accessible SME-oriented talk; less statistical; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Luca Stefanutti</td>
+<td>adidas Running (formerly Runtastic), Director of Growth; DACH (Ort prüfen, Austrian offices closing mid-2025)</td>
+<td>[https://www.remerge.io/findings/podcast/going-the-distance-growth-lessons-from-adidas-running](https://www.remerge.io/findings/podcast/going-the-distance-growth-lessons-from-adidas-running)</td>
+<td>Discussed growth metrics and an experiment with surprising results in remerge podcast ep. 208 (May 2025). adidas Running is a global app with Austrian roots.</td>
+<td>Remote guest talk on app growth experimentation; English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Michael Witzenleiter</td>
+<td>Kameleoon Deutschland, Managing Director; DACH; practitioner/author</td>
+<td>[https://link.springer.com/book/10.1007/978-3-658-34649-2](https://link.springer.com/book/10.1007/978-3-658-34649-2)</td>
+<td>Author of the Springer Gabler 'Quick Guide A/B Testing' (incl. chapter on building a testing culture); t3n guest author on A/B testing mistakes; guest lecturer at universities.</td>
+<td>Guest lecture in German on test culture and tool choice; remote or on site.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Nils Koppelmann</td>
+<td>3tech (e-commerce experimentation agency), CEO and founder; Germany; practitioner/communicator</td>
+<td>[https://www.kameleoon.com/whoswho/nils-koppelmann](https://www.kameleoon.com/whoswho/nils-koppelmann)</td>
+<td>Writes the weekly 'Experimentation Tuesday' newsletter, free course on building a CRO programme, co-founder of Conversion Stash (resource directory, honourable mention Experimentation Culture Awards 2025).</td>
+<td>Practical agency view; remote session; German/English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Niklas Bräutigam</td>
+<td>Conversion Stash, co-founder; Germany; communicator</td>
+<td>[https://conversionstash.substack.com/p/cro-bites-12-50-youtube-channels](https://conversionstash.substack.com/p/cro-bites-12-50-youtube-channels)</td>
+<td>Co-runs Conversion Stash and the monthly 'CRO Bites' newsletter curating experimentation resources (e.g. directory of 50+ YouTube channels for experimenters); listed in Kameleoon's 2025 Who's Who.</td>
+<td>Source of curated resources for students; possible remote Q&A.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Steffen Schulz</td>
+<td>Varify.io, co-founder and CPO; near Munich; practitioner</td>
+<td>[https://varify.io/en/author/steffen-schulz/](https://varify.io/en/author/steffen-schulz/)</td>
+<td>Co-founded German A/B testing platform Varify (2019); former CRO consultant at konversionsKRAFT; led a Carglass test case.</td>
+<td>Tool-builder perspective, European testing tool; remote; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Julia Engelmann</td>
+<td>konversionsKRAFT, Head of Data Analytics (Rolle prüfen); Germany; practitioner</td>
+<td>[https://cxl.com/blog/author/juliafreese/](https://cxl.com/blog/author/juliafreese/)</td>
+<td>Economist (PhD) who worked in data intelligence and conversion optimisation at Zalando before heading data analytics at konversionsKRAFT (web analytics, personalisation). CXL author bio may be dated.</td>
+<td>Statistics of A/B tests from a data-analytics lead; remote; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Julian Kleinknecht</td>
+<td>ConversionBoosting (Ludwigshafen), founder; Germany; practitioner/trainer</td>
+<td>[https://conversionboosting.com/webinare/ab-testing-auf-landingpages/](https://conversionboosting.com/webinare/ab-testing-auf-landingpages/)</td>
+<td>Co-founder of ConversionBoosting, which offers A/B testing services, e-learning and team training; gave webinar 'A/B-Testing auf Landingpages' (slides online, 2015).</td>
+<td>Trainer profile for a German-language workshop; remote.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Marven Hennecker</td>
+<td>abscale GmbH, co-founder and managing director; Germany; practitioner/podcaster</td>
+<td>[https://omr.com/en/reviews/contenthub/ecommerce-ab-test](https://omr.com/en/reviews/contenthub/ecommerce-ab-test)</td>
+<td>Author of OMR Reviews guide on A/B testing in e-commerce (2023; ARPU as key metric, PIE prioritisation); co-host of German podcast 'E-Commerce Decoded'.</td>
+<td>German e-commerce CRO practitioner; remote guest.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Lea Koch</td>
+<td>Marc O'Polo, Group Manager CRO; Germany; practitioner (Rolle prüfen)</td>
+<td>[https://wingify.com/de/webinars/experimentieren-skalieren-aufbau-eines-high-impact-conversion-teams-bei-marc-opolo/](https://wingify.com/de/webinars/experimentieren-skalieren-aufbau-eines-high-impact-conversion-teams-bei-marc-opolo/)</td>
+<td>Presented (German, 2023) how Marc O'Polo built a CRO team and A/B testing process: stakeholder integration, backlog and roadmap, multi-page testing. Marc O'Polo sells internationally.</td>
+<td>Fashion retail case of building an in-house test team; remote; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Konrad Richter</td>
+<td>GetYourGuide (Berlin/Zurich), experimentation platform (Rolle prüfen); DACH; practitioner</td>
+<td>[https://cfp.pydata.org/berlin2025/speaker/PP8Y9C/](https://cfp.pydata.org/berlin2025/speaker/PP8Y9C/)</td>
+<td>PyData Berlin 2025 talk on how GetYourGuide moved to a self-service A/B testing platform (Python Analyzer toolkit, open-source sequential testing).</td>
+<td>Technical guest session for data-savvy students; remote; English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Javier García Latorre</td>
+<td>Delivery Hero (Berlin), Senior Product Manager, experimentation; DACH; practitioner (Rolle prüfen)</td>
+<td>[https://brianpoe.substack.com/p/decentralized-experimentation-at](https://brianpoe.substack.com/p/decentralized-experimentation-at)</td>
+<td>EXO Field Notes episode (Oct 2024) on decentralised experimentation across Delivery Hero's regions (APAC, South America): local champions, automation, AI.</td>
+<td>Multi-country experimentation governance; remote; English.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
+</tr>
+<tr>
+<td>People</td>
+<td>Tim Niemann</td>
+<td>LEAP Digital Marketing GmbH; Germany; practitioner (Rolle prüfen)</td>
+<td>[https://leap.de/en/wissen/fachartikel/ab-testing-e-commerce-markt](https://leap.de/en/wissen/fachartikel/ab-testing-e-commerce-markt)</td>
+<td>Author of LEAP x SISTRIX analysis that about 73% of top German online shops use no A/B testing tool; LEAP cites 4,000+ A/B tests run.</td>
+<td>Market-adoption view for DACH; remote; German.</td>
+<td>neu (DACH-Durchlauf); Link geprüft</td>
 </tr>
 </table>
