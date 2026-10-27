@@ -1,0 +1,283 @@
+{
+ "columns": [
+  "Phase",
+  "Issue",
+  "Why it matters internationally",
+  "What to do",
+  "Example / evidence",
+  "Source link",
+  "Status"
+ ],
+ "rows": [
+  [
+   "1 Question & market selection",
+   "Pick lead / test markets deliberately",
+   "Countries differ in how fast and why they adopt innovations, so a test market chosen for convenience (e.g. the home market) may systematically over- or understate effects elsewhere.",
+   "Choose test countries using explicit lead-market criteria (demand, price, export, transfer, market-structure advantages) and include at least one 'typical' follower market, not only the most innovative one.",
+   "Beise (2004) lead-market framework, tested on mobile telephony; Tellis, Stremersch & Yin (2003, Marketing Science, doi:10.1287/mksc.22.2.188.16041) find time-to-takeoff of new products of roughly 3.3 years in Denmark vs. 9.3 years in Portugal.",
+   "https://doi.org/10.1016/j.respol.2004.03.003",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "1 Question & market selection",
+   "Decide upfront: one global decision or per-market decisions?",
+   "Whether a result should be standardised across markets or adapted depends on how homogeneous demand is across countries, so the decision scope shapes the whole design (which markets, how much power per market).",
+   "Write down before launch whether the experiment informs a global standard, a regional cluster or individual countries; assess demand homogeneity, scale economies and adaptation costs to justify the choice.",
+   "Schmid & Kotulla (2011, International Business Review) review 50 years of standardisation/adaptation research and argue standardisation pays when demand is homogeneous, scale economies are high and modification is costly.",
+   "https://ideas.repec.org/a/eee/iburev/v20y2011i5p491-507.html",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "2 Design",
+   "Randomise markets/geos when users cannot be targeted individually",
+   "TV, outdoor, retail promotions and many national campaigns cannot be switched on per user, and user-level tests in one country cannot capture market-level effects such as competitor reactions.",
+   "Use randomised geo experiments (regions/cities/countries as units); pair similar geos before randomising and use robust estimators when there are few, heterogeneous geos.",
+   "Vaver & Koehler (2011, Google) randomly split non-overlapping regions into treatment and control for ad measurement; Chen, Longfils & Remy (2021, arXiv:2105.07060) propose Trimmed Match Design for the typical case of few geos with heavy-tailed revenue.",
+   "https://research.google/pubs/pub38355/",
+   "Link geprüft"
+  ],
+  [
+   "2 Design",
+   "Synthetic control when only one or a few markets can be treated",
+   "International launches are often a single country (e.g. a pilot in Austria), so there is no randomised control country of the same size and structure.",
+   "Build a synthetic control from a weighted combination of untreated countries/regions with similar pre-period trends; check pre-period fit and run placebo tests; use tools such as Meta's open-source GeoLift for market selection and power.",
+   "Abadie, Diamond & Hainmueller (2010, JASA) estimate California's Proposition 99 effect via synthetic control; GeoLift (Meta open source) implements augmented synthetic control with market selection and power analysis.",
+   "https://doi.org/10.1198/jasa.2009.ap08746",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "2 Design",
+   "Switchback designs by region and time",
+   "In marketplaces (ride-hailing, delivery, travel) treating some users changes conditions for others in the same city, so user-level randomisation is biased; switching whole regions over time avoids this.",
+   "Randomise treatment over time blocks within each region/country (switchback); choose block length longer than the carryover effect and analyse with carryover-aware estimators.",
+   "Bojinov, Simchi-Levi & Zhao (2023, Management Science, doi:10.1287/mnsc.2022.4583) derive optimal switchback designs and a data-driven procedure for the carryover order.",
+   "https://arxiv.org/abs/2009.00148",
+   "Link geprüft"
+  ],
+  [
+   "2 Design",
+   "Stratify (block) randomisation by country",
+   "Country mix differs strongly in size, baseline conversion and seasonality; unstratified randomisation can leave small markets imbalanced and inflates variance of pooled estimates.",
+   "Stratify randomisation by country (and device/channel); alternatively use post-stratification or CUPED with pre-period data per country; report the country mix of each arm.",
+   "Deng, Xu, Kohavi & Walker (2013, WSDM) show CUPED using pre-experiment data roughly halved variance on Bing and is equivalent to stratification on the same covariate.",
+   "https://doi.org/10.1145/2433396.2433413",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "3 Power & sample size",
+   "Power per market, not just pooled",
+   "A test powered on the pooled global sample can be hopelessly underpowered for small markets (e.g. Slovenia vs. Germany), so 'no significant effect in country X' is usually uninformative.",
+   "Compute minimum detectable effects separately for each market you intend to decide on; if MDE is unrealistic, either pool by region/cluster, extend duration, use variance reduction or treat small markets as a hierarchical group.",
+   "Kohavi, Tang & Xu (2020), Trustworthy Online Controlled Experiments (Cambridge UP), standard reference on power, MDE and variance reduction in online experiments.",
+   "https://doi.org/10.1017/9781108653985",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "3 Power & sample size",
+   "Borrow strength across many small markets",
+   "With dozens of countries, raw per-country estimates are noisy and extreme ones are often noise; shrinkage gives better predictions of what will happen at rollout.",
+   "Plan from the start to use shrinkage (empirical Bayes/hierarchical models) for per-country effects and size the study for the overall mean and between-country variance.",
+   "Coey & Cunningham (2019, WWW, doi:10.1145/3308558.3313452): on 226 Facebook experiments, a shrinkage estimator built on experiment splitting had 44% lower predictive error than unshrunk estimates.",
+   "https://ai.meta.com/research/publications/improving-treatment-effect-estimators-through-experiment-splitting/",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "4 Localisation",
+   "Translation equivalence of variants",
+   "A treatment that is 'the same' in English may differ in length, tone, formality (du/Sie, tu/vous) or meaning after translation, so the manipulation itself is not equivalent across countries.",
+   "Use professional translation plus back-translation or committee review for treatment copy and survey items; pre-test variants with native speakers; document per-language versions.",
+   "Brislin (1970, Journal of Cross-Cultural Psychology 1(3): 185-216) introduced back-translation with equivalence criteria, tested with bilinguals across ten languages.",
+   "https://doi.org/10.1177/135910457000100301",
+   "Link ungeprüft"
+  ],
+  [
+   "4 Localisation",
+   "Measurement invariance and response styles for survey outcomes",
+   "If outcomes are survey scales (satisfaction, brand attitude, NPS), cross-country differences can reflect scale use (acquiescence, extreme responding) rather than treatment effects.",
+   "Test configural, metric and scalar invariance (multigroup CFA) before comparing country means; check response styles; compare within-country treatment effects rather than raw levels.",
+   "Steenkamp & Baumgartner (1998, Journal of Consumer Research 25(1)) give a sequential invariance-testing procedure; Baumgartner & Steenkamp (2001, JMR 38(2)) document response styles across 11 EU countries.",
+   "https://doi.org/10.1086/209528",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "4 Localisation",
+   "Cultural meaning of colours and imagery",
+   "The same colour or image can carry different meanings in different countries, so a colour/creative test that wins in one market may encode a different message elsewhere.",
+   "Treat creative elements as market-specific hypotheses; pre-test meanings locally; avoid generalising colour/imagery winners across cultural clusters without replication.",
+   "Madden, Hewett & Roth (2000, Journal of International Marketing 8(4)) compare colour meanings and preferences across countries incl. Austria, Brazil, China and the US (e.g. black read as 'formal' in Taiwan and Brazil).",
+   "https://www.jstor.org/stable/25048831",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "4 Localisation",
+   "Currency, price display and price endings",
+   "Price-ending conventions and their meanings differ (9-endings in the US vs. 'lucky 8' in Chinese-speaking markets), so a price test is confounded with local price semantics and currency formatting.",
+   "Localise currency, formatting (decimal separators, VAT-inclusive display) and endings per market; test endings as a local factor rather than copying a global winner.",
+   "Roschk, Westjohn & Magnusson (AAU Klagenfurt / Univ. of Alabama): about 32% of analysed price ads in Singapore end in 8, and 8-endings are associated more with local than international brands.",
+   "https://www.aau.at/en/blog/lucky-8-what-effect-do-price-endings-have-in-asia/",
+   "Link geprüft"
+  ],
+  [
+   "5 Calendar & timing",
+   "Ramadan shifts daily and weekly patterns",
+   "During Ramadan, shopping moves to night hours and peaks in specific weeks, so a test running across Ramadan in MENA/Southeast Asia is confounded with timing and can have different effects than outside it.",
+   "Avoid starting/ending tests mid-Ramadan, or block on the period; analyse by local hour; compare same-period controls only within the same markets.",
+   "Criteo data (vendor, via Campaign Middle East) report e-commerce transactions shifting to after iftar and the strongest online-retail uplift in the third week of Ramadan.",
+   "https://campaignme.com/5-consumer-habits-that-change-in-ramadan/",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "5 Calendar & timing",
+   "Local shopping festivals (Singles' Day 11.11 etc.)",
+   "Mega-events change traffic composition, price sensitivity and intent for weeks (pre-sale, cart-saving), so experiments overlapping them are not comparable to normal periods or other countries.",
+   "Maintain a per-country event calendar (11.11, 618, Black Friday, Diwali, Hari Raya); freeze or block experiments around events; never compare a festival period in one market with a normal period in another.",
+   "iPrice analysis of Singles' Day 2018 (via Borneo Post): 47% more online traffic on 11 Nov vs. a similar period, and deal searching starting 9 pm on 10 Nov.",
+   "https://www.theborneopost.com/2018/11/25/huge-increase-in-online-traffic-on-singles-day/",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "5 Calendar & timing",
+   "Time zones, weekends, paydays and hemisphere seasons",
+   "Weekend days, income timing, local time zones and seasons (inverted in Australia, Brazil, South Africa) differ by country, so 'run for one full week from 09:00 CET' is not the same experiment everywhere.",
+   "Start, stop and define experiment days in local time; run each market for whole local weeks (ideally two or more); check payday/benefit timing for price and promotion tests; analyse northern- and southern-hemisphere markets separately for seasonal products.",
+   "UAE moved from a Friday-Saturday to a Saturday-Sunday weekend (4.5-day week) from 1 Jan 2022 (Al Jazeera); Stephens (2003, AER 93(1), NBER w9135) shows spending spikes after Social Security cheques arrive.",
+   "https://www.aljazeera.com/economy/2021/12/7/uae-announces-changes-to-workweek-for-employees-of-govt-sector",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "6 Legal & ethics",
+   "Consent banners: design and legal requirements vary by country",
+   "GDPR plus national ePrivacy implementations govern whether tracking needed for an experiment is allowed; banner design itself strongly changes how many users consent, and national regulators interpret rules differently.",
+   "Check each country's ePrivacy/cookie guidance; do not A/B-test consent banners in ways that nudge unlawfully; keep strictly necessary experimentation separate from consent-based tracking.",
+   "Utz, Degeling, Fahl, Schaub & Holz (2019, ACM CCS): field experiments with 80,000+ users on a German site show position, choice type and nudging strongly change consent.",
+   "https://doi.org/10.1145/3319535.3354212",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "6 Legal & ethics",
+   "Non-EU privacy regimes (China PIPL, Brazil LGPD)",
+   "Running a global experiment platform means personal data from China or Brazil may be processed abroad; PIPL restricts cross-border transfers and LGPD requires a legal basis such as consent.",
+   "Map legal bases per country; for China, check PIPL Art. 38 transfer mechanisms (CAC security assessment, certification or standard contract) and separate consent; for Brazil, document the LGPD Art. 7 basis; consider local data storage/analysis.",
+   "LGPD (Lei 13.709/2018) Art. 7 lists consent among the legal bases; PIPL Art. 38 transfer mechanisms summarised by IAPP (https://iapp.org/news/a/top-5-operational-impacts-of-the-pipl-part-5-international-data-transfers).",
+   "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+   "Link geprüft"
+  ],
+  [
+   "6 Legal & ethics",
+   "Price tests across borders: geo-blocking and personalised pricing rules",
+   "Showing different prices by country or user is common in price experiments, but EU law limits discrimination by nationality/residence and requires disclosure of personalised prices.",
+   "Get legal review before randomising prices; in the EU avoid blocking or rerouting customers from other Member States; disclose algorithmically personalised prices; prefer testing within one country.",
+   "Geo-blocking Regulation (EU) 2018/302 (applicable since 3 Dec 2018); the Omnibus Directive (EU) 2019/2161 adds a duty to inform consumers when prices are personalised by automated decision-making.",
+   "https://eur-lex.europa.eu/eli/reg/2018/302/oj",
+   "Link ungeprüft"
+  ],
+  [
+   "6 Legal & ethics",
+   "Ethics review differs across countries and institutions",
+   "What counts as 'research' needing ethics approval, and what users expect, differs; academic partners may need IRB approval even if the company does not.",
+   "Clarify early which ethics board (university, company, local) applies; avoid manipulating well-being-related outcomes without review; inform participants where required.",
+   "PNAS Editorial Expression of Concern (2014) on the Facebook emotional-contagion experiment raised informed-consent and opt-out concerns.",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC4115552",
+   "Link geprüft"
+  ],
+  [
+   "7 Data & measurement",
+   "Consent-related sample loss and bias by country",
+   "Consent rates differ widely by country, so the measurable sample in consent-based analytics is a different, self-selected subset in each market; this biases cross-country comparisons.",
+   "Report consent rates per country and arm; prefer server-side/first-party outcome measures that do not depend on consent; check that treatment does not change consent rates.",
+   "Advance Metrics cookie study: Germany and France most likely to reject all cookies, USA highest acceptance; only 25.4% accept all at the first banner level. Johnson, Shriver & Goldberg (2023, Management Science, doi:10.1287/mnsc.2023.4709): web vendor use for EU residents fell ~15% after GDPR.",
+   "https://www.advance-metrics.com/en/blog/cookie-behaviour-study/",
+   "Link geprüft"
+  ],
+  [
+   "7 Data & measurement",
+   "Tracking and identity differ by country (ATT, cross-device)",
+   "iOS opt-in for tracking, device mix and multi-device use differ by market, so cookie/device-based randomisation and measurement lose different shares of users in each country.",
+   "Randomise on logged-in user IDs where possible; check iOS/Android shares and ATT opt-in per country; quantify cookie/cross-device contamination.",
+   "AppsFlyer (via PocketGamer.biz, Apr 2022): ATT opt-in for games 41% US, 42% UK, 49% Brazil, 58% France. Cookie and cross-device contamination described as highly prevalent in arXiv:1705.00634.",
+   "https://www.pocketgamer.biz/news/78688/appsflyer-att-opt-in/",
+   "Link geprüft"
+  ],
+  [
+   "8 Analysis",
+   "Per-country vs. pooled: use hierarchical (partial) pooling",
+   "Pure per-country estimates are noisy; pure pooling hides real differences; partial pooling estimates both the average effect and how much it varies between countries.",
+   "Fit a hierarchical model with country-level random effects; report the global effect, between-country variance and shrunken country estimates.",
+   "Meager (2019, AEJ Applied, doi:10.1257/app.20170299) pools seven microcredit RCTs across countries with Bayesian hierarchical models and finds about 60% of observed cross-site variation is sampling noise.",
+   "https://www.aeaweb.org/doi/10.1257/app.20170299",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "8 Analysis",
+   "Multiple testing across markets",
+   "Testing 20 countries separately at 5% will 'find' about one significant country by chance; teams tend to roll out or localise based on such false positives.",
+   "Pre-register which countries are confirmatory; use hierarchical models (which handle multiplicity via shrinkage) or FDR control for exploratory country cuts.",
+   "Gelman, Hill & Yajima (2012, Journal of Research on Educational Effectiveness, doi:10.1080/19345747.2011.618213) argue multilevel models with partial pooling address multiple comparisons.",
+   "https://arxiv.org/abs/0907.2478",
+   "Link geprüft"
+  ],
+  [
+   "8 Analysis",
+   "Heterogeneity by culture: distinguish country from culture",
+   "Hofstede/GLOBE dimensions are tempting moderators, but countries differ in many ways (income, infrastructure, regulation); attributing effect differences to 'culture' is often confounded.",
+   "Treat cultural dimensions as pre-specified moderators with theory; control for economic and regulatory country variables; be cautious with few countries (country-level n is the effective sample).",
+   "Beugelsdijk, Kostova & Roth (2017, JIBS) note the key recommendation to distinguish country effects from cultural effects and to show how much culture matters.",
+   "https://doi.org/10.1057/s41267-016-0038-8",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "8 Analysis",
+   "Interference and spillovers across markets",
+   "Treated and control users or markets interact (shared supply, cross-border shopping, social networks, media overlap), violating no-interference assumptions and biasing estimates.",
+   "Choose units large enough to contain spillovers (countries, clusters of cities), add buffer zones, or use cluster/graph randomisation; check spillover in border regions.",
+   "Holtz & Aral (2020, arXiv:2004.12162) simulate on Airbnb data and find graph cluster randomisation reduced interference bias by up to 62%, with higher variance.",
+   "https://arxiv.org/abs/2004.12162",
+   "Link geprüft"
+  ],
+  [
+   "8 Analysis",
+   "Sample ratio mismatch (SRM) per market",
+   "A globally balanced split can hide an SRM in one country caused by local bots, CDN, app versions or consent flows; such SRMs invalidate that market's result.",
+   "Run SRM checks per country, platform and language segment, not only globally; investigate segment-localised SRMs before reading results.",
+   "Microsoft ExP (Fabijan et al., 2020) on diagnosing SRM: root causes are often localised to a particular segment, so segment-level analysis is recommended.",
+   "https://www.microsoft.com/en-us/research/articles/diagnosing-sample-ratio-mismatch-in-a-b-testing/",
+   "Link geprüft"
+  ],
+  [
+   "9 Rollout & generalisation",
+   "Transportability of results to non-tested markets",
+   "A result from Germany is not automatically valid for Brazil; transfer requires that the factors producing the effect are similar or measured.",
+   "State which differences between test and target markets could change the effect; measure them; use transport formulas/reweighting or replicate in a dissimilar market before global rollout.",
+   "Pearl & Bareinboim (2014, Statistical Science, doi:10.1214/14-STS486) formalise transportability via selection diagrams.",
+   "https://arxiv.org/abs/1503.01603",
+   "Link geprüft"
+  ],
+  [
+   "9 Rollout & generalisation",
+   "Staggered country rollouts: evaluate with modern DiD / causal impact",
+   "Rolling out country by country creates a natural staggered design, but naive two-way fixed-effects DiD is biased when effects vary across rollout waves.",
+   "Randomise rollout order where possible; analyse with group-time DiD estimators (e.g. R package did) or Bayesian structural time series per market (CausalImpact).",
+   "Callaway & Sant'Anna (2021, Journal of Econometrics 225(2)) on DiD with multiple periods; Brodersen et al. (2015, Annals of Applied Statistics, doi:10.1214/14-AOAS788) on CausalImpact.",
+   "https://doi.org/10.1016/j.jeconom.2020.12.001",
+   "Link ungeprüft"
+  ],
+  [
+   "9 Rollout & generalisation",
+   "Localise vs. standardise the winning variant",
+   "Even with a global winner, adapting some elements per market may outperform; evidence suggests adaptation and standardisation both relate to performance, with price adaptation most strongly.",
+   "Use the between-country variance from the analysis: standardise when heterogeneity is small, localise elements (especially price) where it is large and stable across replications.",
+   "Brei, D'Avila, Camargo & Engels (2011, Brazilian Administration Review) meta-analysis of 23 studies: adaptation slightly stronger than standardisation; price has the largest effect size (.209).",
+   "https://bar.anpad.org.br/index.php/bar/article/view/154",
+   "in Suchergebnis bestätigt"
+  ],
+  [
+   "9 Rollout & generalisation",
+   "Global experiment repository",
+   "Without a shared record, country teams rerun the same tests, and learnings about which effects travel across markets are lost.",
+   "Log every experiment with markets, dates, local calendar events, hypotheses, per-country effects and decisions in a searchable repository; review cross-market patterns periodically.",
+   "Kaufman, Pitchforth & Vermeer (2017, arXiv:1710.08217) describe Booking.com's central store of past experiment outcomes as part of democratised experimentation.",
+   "https://arxiv.org/abs/1710.08217",
+   "Link geprüft"
+  ]
+ ]
+}
